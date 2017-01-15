@@ -9,6 +9,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -23,6 +24,28 @@ public class JsonConverter {
     private List<Object> root = new ArrayList<>();
     private int idCount;
     private String prefix;
+
+    void readFiles(String fileName) {
+        String name;
+        try (
+                InputStream fis = JsonConverter.class.getResourceAsStream(fileName);
+                InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
+                BufferedReader br = new BufferedReader(isr)
+        ) {
+            while ((name = br.readLine()) != null) {
+                String primarySeparator = br.readLine();
+                String secondarySeparator = br.readLine();
+                if (primarySeparator == null || secondarySeparator == null) {
+                    System.out.println("Malformed file specification!");
+                    break;
+                }
+                readFile(name, primarySeparator, secondarySeparator);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
 
     void readFile(String fileName, String primarySeparator, String secondarySeparator) {
         String line;
@@ -73,7 +96,7 @@ public class JsonConverter {
 
     private void processLine(String line, String primary, String secondary, Map<String, Object> nugget) {
         String[] items = line.split(Pattern.quote(primary));
-        if (items.length != propsCount) {
+        if (items.length != propsCount && !(items.length == propsCount - 1 && line.endsWith(primary))) {
             errCount++;
             System.out.println("Error on line: " + line + " : " + items.length);
             return;
@@ -85,10 +108,13 @@ public class JsonConverter {
                     break;
                 case "state":
                 case "jnlp":
-                    handleNuggetProp(props[i], items[i]);
+                    nugget.put(props[i], items[i]);
                     break;
                 default:
-                    handleFact(props[i], items[i]);
+                    if (!items[i].equals("")) {
+                        ArrayList<String> value = handleFact(items[i], secondary);
+                        nugget.put(props[i], value);
+                    }
                     break;
             }
         }
@@ -99,11 +125,9 @@ public class JsonConverter {
         System.out.println(line + " : " + items.length);
     }
 
-    private void handleFact(String key, String value) {
-
-    }
-
-    private void handleNuggetProp(String key, String value) {
+    private ArrayList<String> handleFact(String value, String separator) {
+        String[] values = value.split(Pattern.quote(separator));
+        return new ArrayList<>(Arrays.asList(values));
 
     }
 

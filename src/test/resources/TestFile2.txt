@@ -1,0 +1,4 @@
+state|jnlp|type|writing|reading|english|swedish
+|n5|verb|会う||meet|
+hidden|n5|adjective|青,青い|あお,あおい|blue|blå
+hidden|n5|adjective|赤|あか|red,purple|röd,purpur

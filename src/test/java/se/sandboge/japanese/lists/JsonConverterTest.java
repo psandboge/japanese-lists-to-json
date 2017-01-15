@@ -12,4 +12,18 @@ public class JsonConverterTest {
         j.readFile("/TestFile1.txt",",",";");
     }
 
+    @Test
+    public void readPipeFile() throws Exception {
+        JsonConverter j = new JsonConverter();
+
+        j.readFile("/TestFile2.txt","|",",");
+    }
+
+    @Test
+    public void readFiles() throws Exception {
+        JsonConverter j = new JsonConverter();
+
+        j.readFiles("/TestFiles.txt");
+    }
+
 }
