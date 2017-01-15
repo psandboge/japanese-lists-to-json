@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -25,6 +26,13 @@ public class JsonConverter {
     private int idCount;
     private String prefix;
 
+    public static void main(String[] args) throws IOException {
+        JsonConverter jc = new JsonConverter();
+        jc.readFiles("/files.txt");
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.writeValue(new File("result.json"), jc.root);
+    }
+
     void readFiles(String fileName) {
         String name;
         try (
@@ -44,7 +52,6 @@ public class JsonConverter {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     void readFile(String fileName, String primarySeparator, String secondarySeparator) {
