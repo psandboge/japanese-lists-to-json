@@ -256,65 +256,65 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,,n5,verb,来る,くる,to come,komma
 ,hidden,n5,other,車,くるま,vehicle,fordon
 ,,n5,other,車,くるま,car,bil
-,,n5,other,黒,くろ,black
-,,n5,other,黒い,くろい,black
-,,n5,other,警官,けいかん,policeman
-,,n5,other,今朝,けさ,this morning
-,,n5,verb,消す,けす,to turn off power
-,,n5,verb,消す,けす,to erase
-,,n5,other,結構,けっこう,enough
-,,n5,other,結構,けっこう,splendid
-,,n5,other,結婚,けっこん,marriage
-,,n5,other,月曜日,げつようび,Monday
-,,n5,other,玄関,げんかん,entry hall
-,,n5,other,元気,げんき,vitality
-,,n5,other,元気,げんき,health
-,,n5,other,五,ご,five
-,,n5,other,公園,こうえん,park
-,,n5,other,交差点,こうさてん,intersection
-,,n5,other,紅茶,こうちゃ,black tea
-,,n5,other,交番,こうばん,police box
-,,n5,other,声,こえ,voice
-,,n5,other,コート,コート,tennis court
-,,n5,other,コート,コート,coat
-,,n5,other,コーヒー,コーヒー,coffee
-,,n5,other,ここ,ここ,here
-,,n5,other,午後,ごご,afternoon
-,,n5,other,九日,ここのか,ninth day
-,,n5,other,九日,ここのか,nine days
-,,n5,other,九つ,ここのつ,nine
-,,n5,other,午前,ごぜん,morning
-,,n5,verb,答える,こたえる,to answer
-,,n5,other,こちら,こちら,this person or way
-,,n5,other,こっち,こっち,this person or way
-,,n5,other,コップ,コップ,a glass
-,,n5,other,今年,ことし,this year
+,,n5,other,黒,くろ,black,svart
+,,n5,other,黒い,くろい,black,svart
+,,n5,other,警官,けいかん,policeman,polisman
+,,n5,other,今朝,けさ,this morning,i morse
+,,n5,verb,消す,けす,to turn off power,stänga av
+,,n5,verb,消す,けす,to erase,radera
+,,n5,other,結構,けっこう,enough,tillräckligt
+,,n5,other,結構,けっこう,splendid,utmärkt
+,,n5,other,結婚,けっこん,marriage,giftermål
+,,n5,other,月曜日,げつようび,Monday,måndag
+,,n5,other,玄関,げんかん,entry hall,farstu
+,,n5,other,元気,げんき,vitality,vitalitet
+,,n5,other,元気,げんき,health,hälsa
+,,n5,other,五,ご,five,fem
+,,n5,other,公園,こうえん,park,park
+,,n5,other,交差点,こうさてん,intersection,korsning
+13,,n5,noun,紅茶,こうちゃ,black tea,svart te
+,,n5,other,交番,こうばん,police box,poliskiosk
+,,n5,other,声,こえ,voice,röst
+,,n5,other,コート,コート,tennis court,tennisbana
+,,n5,other,コート,コート,coat,rock
+,,n5,other,コーヒー,コーヒー,coffee,kaffe
+,,n5,other,ここ,ここ,here,här
+,,n5,other,午後,ごご,afternoon,eftermiddag
+,,n5,other,九日,ここのか,ninth day,nionde (i månad)
+,,n5,other,九日,ここのか,nine days,nio dagar
+,,n5,other,九つ,ここのつ,nine,nio
+,,n5,other,午前,ごぜん,morning,morgon
+,,n5,verb,答える,こたえる,to answer,svara
+,,n5,other,こちら,こちら,this person;this way,den här personen;den här vägen
+,,n5,other,こっち,こっち,this person;this way,den här personen;den här vägen
+,,n5,other,コップ,コップ,a glass,glas
+,,n5,other,今年,ことし,this year,detta året
 13,,n5,other,言葉,ことば,language,språk
 ,hidden,n5,other,言葉,ことば,word,ord
-,,n5,other,子供,こども,child
-,,n5,other,この,この,this
-,,n5,other,御飯,ごはん,meal
-,,n5,other,御飯,ごはん,cooked rice
-,,n5,verb,コピーする,コピーする,to copy
-,,n5,verb,困る,こまる,to be worried
-,,n5,other,これ,これ,this
-,,n5,other,今月,こんげつ,this month
-,,n5,other,今週,こんしゅう,this week
-,,n5,other,こんな,こんな,such
-,,n5,other,今晩,こんばん,this evening
-,,n5,other,さあ,さあ,well…
-,,n5,other,財布,さいふ,wallet
-,,n5,other,魚,さかな,fish
-,,n5,other,先,さき,previous
-,,n5,other,先,さき,the future
-,,n5,verb,咲く,さく,to bloom
-,,n5,other,作文,さくぶん,writing
-,,n5,other,作文,さくぶん,composition
-,,n5,verb,差す,さす,to raise an umbrella
-,,n5,verb,差す,さす,to stretch out hands
-,,n5,other,雑誌,ざっし,magazine
-,,n5,other,砂糖,さとう,sugar
-,,n5,other,寒い,さむい,cold
+,,n5,other,子供,こども,child,barn
+,,n5,other,この,この,this,den här
+,,n5,other,御飯,ごはん,meal,måltid
+,,n5,other,御飯,ごはん,cooked rice,ris (tillagat)
+,,n5,verb,コピーする,コピーする,to copy,kopiera
+,,n5,verb,困る,こまる,to be worried,vara orolig
+,,n5,other,これ,これ,this,denna
+,,n5,other,今月,こんげつ,this month,denna månaden
+,,n5,other,今週,こんしゅう,this week,denna veckan
+,,n5,other,こんな,こんな,such,sådan
+,,n5,other,今晩,こんばん,this evening,ikväll
+,,n5,other,さあ,さあ,well…,tja...
+,,n5,other,財布,さいふ,wallet,plånbok
+,,n5,other,魚,さかな,fish,fisk
+,,n5,other,先,さき,previous,föregående
+,,n5,other,先,さき,the future,framtiden
+,,n5,verb,咲く,さく,to bloom,blomma
+,,n5,other,作文,さくぶん,writing,skrift
+,,n5,other,作文,さくぶん,composition,komposition
+,,n5,verb,差す,さす,to raise an umbrella,fälla upp (paraply)
+,,n5,verb,差す,さす,to stretch out hands,räcka ut händerna
+,,n5,other,雑誌,ざっし,magazine,tidskrift
+,,n5,other,砂糖,さとう,sugar,socker
+,,n5,other,寒い,さむい,cold,kall
 ,,n5,other,さ来年,さらいねん,year after next
 ,,n5,other,三,さん,three
 ,,n5,verb,散歩,さんぽする,to stroll
