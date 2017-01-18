@@ -1,4 +1,4 @@
-genki|state|jnlp|type|writing|reading|english|swedish
+genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|愛|あい|love
 |hidden|n3|other|愛情|あいじょう|love, affection
 |hidden|n3|other|合図|あいず|sign, signal
@@ -148,7 +148,7 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|梅|うめ|plum, plum-tree, lowest (of a three-tier ranking system)
 |hidden|n3|other|裏切る|うらぎる|to betray, to turn traitor to, to double-cross
 |hidden|n3|other|得る|うる|to get, to gain, to win
-|hidden|n3|other|嬉しい|うれしい|happy, glad, pleasant
+13||n3|adjective|嬉しい|うれしい|happy, glad, pleasant|glad,lycklig
 |hidden|n3|other|売れる|うれる|to be sold
 |hidden|n3|other|噂|うわさ|rumour, report, gossip, common talk
 |hidden|n3|other|運|うん|fortune, luck
@@ -253,8 +253,8 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|罹る|かかる|to suffer from
 |hidden|n3|other|鍵|かぎ|key
 |hidden|n3|other|限る|かぎる|to restrict,to limit,to confine
-|hidden|n3|other|描く|かく|to draw,to paint,to sketch,to depict,to describe
-|hidden|n3|other|家具|かぐ|furniture
+15||n3|verb|描く|かく|to draw,to paint,to sketch,to depict,to describe|rita,måla,skissa
+15||n3|noun|家具|かぐ|furniture,möbler
 |hidden|n3|other|学|がく|learning,scholarship,erudition,knowledge
 |hidden|n3|other|額|がく|picture frame
 |hidden|n3|other|覚悟|かくご|resolution, resignation, readiness, preparedness
@@ -474,7 +474,8 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|経営|けいえい|management,administration
 |hidden|n3|other|計画|けいかく・する|plan,project,schedule,scheme,program,to plan
 |hidden|n3|other|景気|けいき|business climate, condition,state
-|hidden|n3|other|経験|けいけん・する|experience, to experience
+15||n3|noun|経験|けいけん|experience|erfarenhet
+|hidden|n3|verb|経験する|けいけんする|to experience,uppleva
 |hidden|n3|other|傾向|けいこう|tendency,trend,inclination
 |hidden|n3|other|警告|けいこく|warning,advice
 |hidden|n3|other|計算|けいさん|calculation,reckoning
@@ -483,7 +484,8 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|芸術|げいじゅつ|(fine) art,the arts
 |hidden|n3|other|契約|けいやく|contract,compact,agreement
 |hidden|n3|other|経由|けいゆ|go by the way,via
-|hidden|n3|other|怪我|けが・する|injury (to animate object),hurt, to injure
+|hidden|n3|other|怪我|けが|injury (to animate object),hurt
+|hidden|n3|other|怪我する|けがする|to injure
 |hidden|n3|other|劇|げき|drama,play
 |hidden|n3|other|劇場|げきじょう|theatre,playhouse
 |hidden|n3|other|化粧|けしょう|make-up (cosmetic)
@@ -620,7 +622,7 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|支える|ささえる|to support, to hold, maintain
 |hidden|n3|other|指す|さす|to point,to put up umbrella,to play
 |hidden|n3|other|座席|ざせき|seat
-|hidden|n3|other|誘う|さそう|(1) to invite,to ask,(2) to tempt,to lure,to induce
+15||n3|verb|誘う|さそう|(1) to invite,to ask,(2) to tempt,to lure,to induce|bjuda in;locka
 |hidden|n3|other|札|さつ|(1) token,label,(2) ticket,(3) charm
 |hidden|n3|other|作家|さっか|author,writer,novelist,artist
 |hidden|n3|other|作曲|さっきょく|composition,setting (of music)
@@ -711,7 +713,7 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|下|しも|under,below,beneath
 |hidden|n3|other|霜|しも|frost
 |hidden|n3|other|借金|しゃっきん|debt,loan,liabilities
-|hidden|n3|other||しゃべる|to talk,to chat,to chatter
+15||n3|verb||しゃべる|to talk,to chat,to chatter|småprata
 |hidden|n3|other|邪魔|じゃま|hindrance,intrusion
 |hidden|n3|other|週|しゅう|week
 |hidden|n3|other|州|しゅう|a state, province, county
@@ -1332,7 +1334,7 @@ genki|state|jnlp|type|writing|reading|english|swedish
 |hidden|n3|other|発達|はったつ|development,growth
 |hidden|n3|other||ばったり|with a clash (thud),with a bang,plump,flop
 |hidden|n3|other|発展|はってん|development,growth
-|hidden|n3|other|発表|はっぴょう|announcement,publication
+15||n3|noun|発表|はっぴょう|announcement,publication|kommuniké
 |hidden|n3|other|発明|はつめい|invention
 |hidden|n3|other|話し合う|はなしあう|to discuss,to talk together
 |hidden|n3|other|離す|はなす|to part,divide,separate

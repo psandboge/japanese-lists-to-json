@@ -1,242 +1,354 @@
-state,jnlp,type,writing,reading,english,swedish
-,n5,verb,会う,あう,to meet,möta
-hidden,n5,adjective,青,あお,blue,blå
-,n5,adjective,青い,あおい,blue,blå
-hidden,n5,other,赤,あか,red,röd
-,n5,adjective,赤い,あかい,red,röd
-,n5,adjective,明い,あかるい,bright,ljus
-,n5,noun,秋,あき,autumn,höst
-,n5,verb,開く,あく,to become open,öppna sig
-hidden,n5,verb,開く,あく,to open,öppna
-,n5,verb,開ける,あける,to open,öppna
-,n5,verb,上げる,あげる,to give,ge
-,n5,noun,朝,あさ,morning,morgon
-,n5,noun,朝御飯,あさごはん,breakfast,frukost
-,n5,temporal,あさって,あさって,day after tomorrow,övermorgon
-hidden,n5,noun,足,あし,leg,ben
-,n5,noun,足,あし,foot,fot
-,n5,temporal,明日,あした,tomorrow,imorgon
-,n5,pronoun,あそこ,あそこ,over there,där borta
-hidden,n5,verb,遊ぶ,あそぶ,to make a visit,hälsa på
-,n5,verb,遊ぶ,あそぶ,to play,leka
-,n5,adjective,暖かい,あたたかい,warm,varm
-,n5,noun,頭,あたま,head,huvud
-,n5,adjective,新しい,あたらしい,new,ny
-,n5,pronoun,あちら,あちら,there,där
-,n5,adjective,暑い,あつい,hot,het
-hidden,n5,adjective,熱い,あつい,hot to the touch,brännhet
-hidden,n5,adjective,厚い,あつい,thick,tjock
-hidden,n5,adjective,厚い,あつい,deep,djup
-,n5,adjective,厚い,あつい,kind,snäll
-,n5,pronoun,あっち,あっち,over there,där borta
-,n5,temporal,後,あと,afterwards,efteråt
-,n5,pronoun,あなた,あなた,you,du
-,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
-,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
-,n5,pronoun,あの,あの,that over there,där borta
-,n5,interjection,あの,あの,um...,hm...
-,n5,noun,アパート,アパート,apartment,lägenhet
-hidden,n5,verb,あびる,あびる,shower,duscha
-,n5,verb,あびる,あびる,bathe,bada
-,n5,adjective,危ない,あぶない,dangerous,farlig
-,n5,adjective,甘い,あまい,sweet,söt
-,n5,adverb,あまり,あまり,not very,inte mycket
-,n5,noun,雨,あめ,rain,regn
-,n5,noun,飴,あめ,candy,godis
-,n5,verb,洗う,あらう,wash,tvätta
-,n5,verb,ある,ある,be (used for inanimate objects),vara (saker)
-hidden,n5,verb,ある,ある,have (used for inanimate objects),ha
-hidden,n5,verb,歩く,あるく,walk,gå
-,n5,pronoun,あれ,あれ,that,det
-,n5,adjective,いい,いい,good,bra
-hidden,n5,adjective,よい,よい,good,bra
-,n5,interjection,いいえ,いいえ,no,nej
-,n5,verb,言う,いう,say,säga
-,n5,noun,家,いえ,house,hus
-,n5,adverb,いかが,いかが,how,hur
-,n5,verb,行く,いく,go,gå
-hidden,n5,adverb,いくつ,いくつ,how old?,hur gammal?
-,n5,adverb,いくつ,いくつ,how many?,hur många?
-,n5,adverb,いくら,いくら,how much?,hyr mycket?
-,n5,noun,池,いけ,pond,damm
-,n5,noun,医者,いしゃ,medical doctor,läkare
-,n5,noun,いす,いす,chair,stol
-hidden,n5,adjective,忙しい,いそがしい,irritated,irriterad
-,n5,adjective,忙しい,いそがしい,busy,upptagen
-,n5,adjective,痛い,いたい,painful,smärtsam
-,n5,numeric,一,いち,one,ett
-hidden,n5,noun,一日,いちにち,first of month,första i månad
-,n5,noun,一日,いちにち,one day,en dag
-hidden,n5,adverb,いちばん,いちばん,first,först
-,n5,adverb,いちばん,いちばん,best,bäst
-,n5,pronoun,いつ,いつ,when,när
-hidden,n5,noun,五日,いつか,fifth day,femte i månad
-,n5,noun,五日,いつか,five days,fem dagar
-,n5,adverb,一緒,いっしょ,together,tillsammans
-,n5,numeric,五つ,いつつ,five,fem
-,n5,adverb,いつも,いつも,always,alltid
-,n5,noun,犬,いぬ,dog,hund
-,n5,adverb,今,いま,now,nu
-,n5,noun,意味,いみ,meaning,betydelse
-,n5,noun,妹,いもうと,(humble) younger sister,yngre syster (ödmjuk)
-,n5,adjective,嫌,いや,unpleasant,otrevlig
-,n5,noun,入口,いりぐち,entrance,entré
-hidden,n5,verb,居る,いる,have (used for people and animals),ha
-,n5,verb,居る,いる,to be (used for people and animals),vara (varelser)
-hidden,n5,verb,要る,いる,need,behöva
-,n5,verb,入れる,いれる,put in,stoppa in
-,n5,noun,色,いろ,colour,färg
-,n5,adjective,いろいろ,いろいろ,various,blandade
-,n5,adverb,上,うえ,on top of,ovanför
-,n5,adverb,後ろ,うしろ,behind,bakom
-,n5,adjective,薄い,うすい,weak,svag
-hidden,n5,adjective,薄い,うすい,thin,tunn
-,n5,noun,歌,うた,song,sång
-,n5,verb,歌う,うたう,sing,sjunga
-,n5,verb,生まれる,うまれる,be born,födas
-,n5,noun,海,うみ,sea,hav
-,n5,verb,売る,うる,sell,sälja
-hidden,n5,adjective,煩い,うるさい,annoying,irriterande
-,n5,adjective,煩い,うるさい,noisy,väsnande
-,n5,noun,上着,うわぎ,jacket,jacka
-,n5,noun,絵,え,picture,bild
-,n5,noun,映画,えいが,movie,film
-,n5,noun,映画館,えいがかん,cinema,biograf
-,n5,noun,英語,えいご,English language,engelska
-,n5,interjection,ええ,ええ,yes,ja
-,n5,noun,駅,えき,station,station
-,n5,noun,エレベーター,エレベーター,elevator,hiss
-,n5,noun,鉛筆,えんぴつ,pencil,blyertspenna
-,n5,adjective,おいしい,おいしい,delicious,delikat
-,n5,adjective,多い,おおい,many,många
-,n5,adjective,大きい,おおきい,big,stor
-hidden,n5,adjective,大きな,おおきな,big,stor
-,n5,adjective,大勢,おおぜい,great number of people,folkrik
-,n5,noun,お母さん,おかあさん,(honorable) mother,mor (artig)
-,n5,noun,お菓子,おかし,candy;sweets,godis
-,n5,noun,お金,おかね,money,pengar
-,n5,verb,起きる,おきる,to get up,stiga upp
-,n5,verb,置く,おく,to put,lägga
-,n5,noun,奥さん,おくさん,(honorable) wife,fru (artig)
-,n5,noun,お酒,おさけ,rice wine,risvin
-hidden,n5,noun,お酒,おさけ,alcohol,alkohol
-,n5,noun,お皿,おさら,dish;plate,tallrik
-hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
-hidden,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
-hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
-,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
-,n5,verb,教える,おしえる,tell,berätta
-,n5,verb,教える,おしえる,teach,lära ut
-hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
-hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
-hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
-,n5,noun,伯父,おじさん,uncle,farbror;morbror
-hidden,n5,verb,押す,おす,stamp,stämpla
-,n5,verb,押す,おす,push,putta
-hidden,n5,other,遅い,おそい,slow,långsam
-,n5,adjective,遅い,おそい,late,sen
-,n5,noun,お茶,おちゃ,green tea,grönt te
-,n5,noun,お手洗い,おてあらい,bathroom,badrum
-,n5,noun,お父さん,おとうさん,(honorable) father,far (artig)
-,n5,noun,弟,おとうと,younger brother,yngre bror
-,n5,noun,男,おとこ,man,man
-,n5,noun,男の子,おとこのこ,boy,pojke
-,n5,temporal,一昨日,おととい,day before yesterday,iförrgår
-,n5,temporal,一昨年,おととし,year before last,förrförra året
-,n5,noun,大人,おとな,adult,vuxen
-,n5,noun,おなか,おなか,stomach,mage
-,n5,adjective,同じ,おなじ,same,samma
-,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
-,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
-hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
-,n5,noun,おばあさん,おばあさん,grandmother,farmor;mormor
-hidden,n5,noun,伯母さん,おばさん,aunt,moster;faster
-,n5,noun,叔母さん,おばさん,aunt,moster;faster
-,n5,noun,お風呂,おふろ,bath,bad
-,n5,noun,お弁当,おべんとう,boxed lunch,bento
-,n5,verb,覚える,おぼえる,remember,komma ihåg
-,n5,noun,おまわりさん,おまわりさん,friendly term for policeman,polisman (familjär)
-,n5,adjective,重い,おもい,heavy,tung
-,n5,adjective,おもしろい,おもしろい,interesting,intressant
-,n5,verb,泳ぐ,およぐ,to swim,simma
-,n5,verb,降りる,おりる,to descend,nedstiga
-hidden,n5,verb,降りる,おりる,to get off,kliva av
-,n5,verb,終る,おわる,to finish,avsluta
-,n5,noun,音楽,おんがく,music,musik
-,n5,other,女,おんな,woman,kvinna
-,n5,noun,女の子,おんなのこ,girl,flicka
-,n5,noun,外国,がいこく,foreign country,främmande land
-,n5,noun,外国人,がいこくじん,foreigner,utlänning
-,n5,noun,会社,かいしゃ,company,företag
-,n5,noun,階段,かいだん,stairs,trappa
-,n5,noun,買い物,かいもの,shopping,shopping
-,n5,verb,買う,かう,buy,köpa
-,n5,verb,返す,かえす,return something,returnera
-,n5,verb,帰る,かえる,go back,återvända
-,n5,verb,かかる,かかる,to take time or money,ta tid eller pengar
-,n5,noun,かぎ,かぎ,key,nyckel
-,n5,verb,書く,かく,write,skriva
-,n5,noun,学生,がくせい,student,student
-,n5,verb,かける,かける,to call by phone,ringa
-,n5,noun,傘,かさ,umbrella,paraply
-,n5,verb,貸す,かす,lend,låna ut
-,n5,noun,風,かぜ,wind,vind
-,n5,noun,風邪,かぜ,a cold,förkylning
-,n5,noun,家族,かぞく,family,familj
-,n5,noun,方,かた,way of doing,sätt att göra
-,n5,noun,方,かた,person,person
-,n5,noun,学校,がっこう,school,skola
-,n5,noun,カップ,カップ,cup,kopp
-,n5,noun,家庭,かてい,household,hushåll
-,n5,noun,角,かど,a corner,hörn
-,n5,noun,かばん,かばん,basket,korg
-,n5,noun,かばん,かばん,bag,väska
-,n5,noun,花瓶,かびん,a vase,vas
-,n5,noun,紙,かみ,paper,papper
-,n5,noun,カメラ,カメラ,camera,kamera
-,n5,temporal,火曜日,かようび,Tuesday,tisdag
-,n5,adjective,辛い,からい,spicy,kryddstark
-,n5,noun,体,からだ,body,kropp
-,n5,verb,借りる,かりる,borrow,låna
-,n5,adjective,軽い,かるい,light,lätt
-,n5,noun,カレー,カレー,curry,curry
-,n5,noun,カレンダー,カレンダー,calendar,kalender
-hidden,n5,noun,河,かわ,river,flod
-,n5,noun,川,かわ,river,flod
-,n5,adjective,かわいい,かわいい,cute,söt
-,n5,noun,漢字,かんじ,Chinese character,kinesiskt tecken
-hidden,n5,noun,木,き,wood,trä
-,n5,noun,木,き,tree,träd
-hidden,n5,adjective,黄色,きいろ,yellow,gul
-,n5,adjective,黄色い,きいろい,yellow,gul
-,n5,verb,消える,きえる,disappear,försvinna
-hidden,n5,verb,聞く,きく,ask,fråga
-hidden,n5,verb,聞く,きく,listen to,lyssna på
-,n5,verb,聞く,きく,hear,höra
-,n5,noun,北,きた,north,norr
-,n5,noun,ギター,ギター,guitar,gitarr
-,n5,adjective,汚い,きたない,dirty,smutsig
-,n5,noun,喫茶店,きっさてん,coffee lounge,kafé
-,n5,noun,切手,きって,postage stamp,frimärke
-,n5,noun,切符,きっぷ,ticket,biljett
-,n5,temporal,昨日,きのう,yesterday,igår
-hidden,n5,numeric,九,く,nine,nio
-,n5,numeric,九,きゅう,nine,nio
-,n5,noun,牛肉,ぎゅうにく,beef,nötkött
-,n5,noun,牛乳,ぎゅうにゅう,milk,mjölk
-,n5,temporal,今日,きょう,today,idag
-,n5,noun,教室,きょうしつ,classroom,klassrum
-,n5,noun,兄弟,きょうだい,(humble) siblings,syskon (ödmjuk)
-,n5,temporal,去年,きょねん,last year,förra året
-,n5,adjective,嫌い,きらい,hate,hat
-,n5,verb,切る,きる,cut,skära
-,n5,verb,着る,きる,to put on from the shoulders down,ta på sig (överkropp)
-,n5,adjective,きれい,きれい,clean,ren
-hidden,n5,adjective,きれい,きれい,pretty,söt
-,n5,noun,キログラム,キログラム,kilogram,kilogram
-,n5,noun,キロメートル,キロメートル,kilometre,kilometer
-,n5,noun,キロ,キロ,kilogram,kilo
-hidden,n5,noun,キロ,キロ,kilometre,km
-,n5,noun,銀行,ぎんこう,bank,bank
-,n5,temporal,金曜日,きんようび,Friday,fredag
-,n5,noun,薬,くすり,medicine,medicin
+genki,state,jlpt,type,writing,reading,english,swedish
+4,,n5,verb,会う,あう,to meet,möta
+,hidden,n5,adjective,青,あお,blue,blå
+9,,n5,adjective,青い,あおい,blue,blå
+,hidden,n5,other,赤,あか,red,röd
+9,,n5,adjective,赤い,あかい,red,röd
+,,n5,adjective,明い,あかるい,bright,ljus
+,,n5,noun,秋,あき,autumn,höst
+,,n5,verb,開く,あく,to become open,öppna sig
+,hidden,n5,verb,開く,あく,to open,öppna
+,,n5,verb,開ける,あける,to open,öppna
+,,n5,verb,上げる,あげる,to give,ge
+,,n5,noun,朝,あさ,morning,morgon
+,,n5,noun,朝御飯,あさごはん,breakfast,frukost
+,,n5,temporal,あさって,あさって,day after tomorrow,övermorgon
+,hidden,n5,noun,足,あし,leg,ben
+,,n5,noun,足,あし,foot,fot
+,,n5,temporal,明日,あした,tomorrow,imorgon
+,,n5,pronoun,あそこ,あそこ,over there,där borta
+,hidden,n5,verb,遊ぶ,あそぶ,to make a visit,hälsa på
+,,n5,verb,遊ぶ,あそぶ,to play,leka
+,,n5,adjective,暖かい,あたたかい,warm,varm
+,,n5,noun,頭,あたま,head,huvud
+,,n5,adjective,新しい,あたらしい,new,ny
+,,n5,pronoun,あちら,あちら,there,där
+,,n5,adjective,暑い,あつい,hot,het
+,hidden,n5,adjective,熱い,あつい,hot to the touch,brännhet
+,hidden,n5,adjective,厚い,あつい,thick,tjock
+,hidden,n5,adjective,厚い,あつい,deep,djup
+,,n5,adjective,厚い,あつい,kind,snäll
+,,n5,pronoun,あっち,あっち,over there,där borta
+,,n5,temporal,後,あと,afterwards,efteråt
+,,n5,pronoun,あなた,あなた,you,du
+,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
+,,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
+,,n5,pronoun,あの,あの,that over there,där borta
+1,,n5,interjection,あの,あの,um...,hm...
+,,n5,noun,アパート,アパート,apartment,lägenhet
+,hidden,n5,verb,あびる,あびる,shower,duscha
+,,n5,verb,あびる,あびる,bathe,bada
+,,n5,adjective,危ない,あぶない,dangerous,farlig
+,,n5,adjective,甘い,あまい,sweet,söt
+,,n5,adverb,あまり,あまり,not very,inte mycket
+,,n5,noun,雨,あめ,rain,regn
+,,n5,noun,飴,あめ,candy,godis
+,,n5,verb,洗う,あらう,wash,tvätta
+,,n5,verb,ある,ある,be (used for inanimate objects),vara (saker)
+,hidden,n5,verb,ある,ある,have (used for inanimate objects),ha
+,hidden,n5,verb,歩く,あるく,walk,gå
+,,n5,pronoun,あれ,あれ,that,det
+,,n5,adjective,いい,いい,good,bra
+,hidden,n5,adjective,よい,よい,good,bra
+,,n5,interjection,いいえ,いいえ,no,nej
+,,n5,verb,言う,いう,say,säga
+,,n5,noun,家,いえ,house,hus
+,,n5,adverb,いかが,いかが,how,hur
+,,n5,verb,行く,いく,go,gå
+,hidden,n5,adverb,いくつ,いくつ,how old?,hur gammal?
+,,n5,adverb,いくつ,いくつ,how many?,hur många?
+,,n5,adverb,いくら,いくら,how much?,hyr mycket?
+,,n5,noun,池,いけ,pond,damm
+,,n5,noun,医者,いしゃ,medical doctor,läkare
+,,n5,noun,いす,いす,chair,stol
+,hidden,n5,adjective,忙しい,いそがしい,irritated,irriterad
+,,n5,adjective,忙しい,いそがしい,busy,upptagen
+,,n5,adjective,痛い,いたい,painful,smärtsam
+,,n5,numeric,一,いち,one,ett
+,hidden,n5,noun,一日,いちにち,first of month,första i månad
+,,n5,noun,一日,いちにち,one day,en dag
+,hidden,n5,adverb,いちばん,いちばん,first,först
+,,n5,adverb,いちばん,いちばん,best,bäst
+,,n5,pronoun,いつ,いつ,when,när
+,hidden,n5,noun,五日,いつか,fifth day,femte i månad
+,,n5,noun,五日,いつか,five days,fem dagar
+,,n5,adverb,一緒,いっしょ,together,tillsammans
+,,n5,numeric,五つ,いつつ,five,fem
+,,n5,adverb,いつも,いつも,always,alltid
+,,n5,noun,犬,いぬ,dog,hund
+1,,n5,adverb,今,いま,now,nu
+,,n5,noun,意味,いみ,meaning,betydelse
+,,n5,noun,妹,いもうと,(humble) younger sister,yngre syster (ödmjuk)
+,,n5,adjective,嫌,いや,unpleasant,otrevlig
+,,n5,noun,入口,いりぐち,entrance,entré
+,hidden,n5,verb,居る,いる,have (used for people and animals),ha
+,,n5,verb,居る,いる,to be (used for people and animals),vara (varelser)
+,hidden,n5,verb,要る,いる,need,behöva
+,,n5,verb,入れる,いれる,put in,stoppa in
+,,n5,noun,色,いろ,colour,färg
+,,n5,adjective,いろいろ,いろいろ,various,blandade
+,,n5,adverb,上,うえ,on top of,ovanför
+,,n5,adverb,後ろ,うしろ,behind,bakom
+,,n5,adjective,薄い,うすい,weak,svag
+,hidden,n5,adjective,薄い,うすい,thin,tunn
+,,n5,noun,歌,うた,song,sång
+,,n5,verb,歌う,うたう,sing,sjunga
+,,n5,verb,生まれる,うまれる,be born,födas
+,,n5,noun,海,うみ,sea,hav
+,,n5,verb,売る,うる,sell,sälja
+,hidden,n5,adjective,煩い,うるさい,annoying,irriterande
+,,n5,adjective,煩い,うるさい,noisy,väsnande
+,,n5,noun,上着,うわぎ,jacket,jacka
+15,,n5,noun,絵,え,picture,bild
+,,n5,noun,映画,えいが,movie,film
+15,,n5,noun,映画館,えいがかん,cinema,biograf
+1,,n5,noun,英語,えいご,English language,engelska
+,,n5,interjection,ええ,ええ,yes,ja
+,,n5,noun,駅,えき,station,station
+,,n5,noun,エレベーター,エレベーター,elevator,hiss
+,,n5,noun,鉛筆,えんぴつ,pencil,blyertspenna
+,,n5,adjective,おいしい,おいしい,delicious,delikat
+,,n5,adjective,多い,おおい,many,många
+,,n5,adjective,大きい,おおきい,big,stor
+,hidden,n5,adjective,大きな,おおきな,big,stor
+,,n5,adjective,大勢,おおぜい,great number of people,folkrik
+,,n5,noun,お母さん,おかあさん,(honorable) mother,mor (artig)
+,,n5,noun,お菓子,おかし,candy;sweets,godis
+,,n5,noun,お金,おかね,money,pengar
+,,n5,verb,起きる,おきる,to get up,stiga upp
+,,n5,verb,置く,おく,to put,lägga
+,,n5,noun,奥さん,おくさん,(honorable) wife,fru (artig)
+,,n5,noun,お酒,おさけ,rice wine,risvin
+,hidden,n5,noun,お酒,おさけ,alcohol,alkohol
+,,n5,noun,お皿,おさら,dish;plate,tallrik
+,hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
+,hidden,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
+,hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
+,,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
+,,n5,verb,教える,おしえる,tell,berätta
+,,n5,verb,教える,おしえる,teach,lära ut
+,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+,hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
+,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+,,n5,noun,伯父,おじさん,uncle,farbror;morbror
+,hidden,n5,verb,押す,おす,stamp,stämpla
+,,n5,verb,押す,おす,push,putta
+,hidden,n5,other,遅い,おそい,slow,långsam
+,,n5,adjective,遅い,おそい,late,sen
+,,n5,noun,お茶,おちゃ,green tea,grönt te
+,,n5,noun,お手洗い,おてあらい,bathroom,badrum
+,,n5,noun,お父さん,おとうさん,(honorable) father,far (artig)
+,,n5,noun,弟,おとうと,younger brother,yngre bror
+,,n5,noun,男,おとこ,man,man
+,,n5,noun,男の子,おとこのこ,boy,pojke
+,,n5,temporal,一昨日,おととい,day before yesterday,iförrgår
+,,n5,temporal,一昨年,おととし,year before last,förrförra året
+13,,n5,noun,大人,おとな,adult,vuxen
+,,n5,noun,おなか,おなか,stomach,mage
+,,n5,adjective,同じ,おなじ,same,samma
+,,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
+,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
+,hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
+,,n5,noun,おばあさん,おばあさん,grandmother,farmor;mormor
+,hidden,n5,noun,伯母さん,おばさん,aunt,moster;faster
+,,n5,noun,叔母さん,おばさん,aunt,moster;faster
+,,n5,noun,お風呂,おふろ,bath,bad
+,,n5,noun,お弁当,おべんとう,boxed lunch,bento
+,,n5,verb,覚える,おぼえる,remember,komma ihåg
+,,n5,noun,おまわりさん,おまわりさん,friendly term for policeman,polisman (familjär)
+,,n5,adjective,重い,おもい,heavy,tung
+,,n5,adjective,おもしろい,おもしろい,interesting,intressant
+,,n5,verb,泳ぐ,およぐ,to swim,simma
+,,n5,verb,降りる,おりる,to descend,nedstiga
+,hidden,n5,verb,降りる,おりる,to get off,kliva av
+,,n5,verb,終る,おわる,to finish,avsluta
+,,n5,noun,音楽,おんがく,music,musik
+,,n5,other,女,おんな,woman,kvinna
+,,n5,noun,女の子,おんなのこ,girl,flicka
+,,n5,noun,外国,がいこく,foreign country,främmande land
+15,,n5,noun,外国人,がいこくじん,foreigner,utlänning
+,,n5,noun,会社,かいしゃ,company,företag
+,,n5,noun,階段,かいだん,stairs,trappa
+,,n5,noun,買い物,かいもの,shopping,shopping
+,,n5,verb,買う,かう,buy,köpa
+,,n5,verb,返す,かえす,return something,returnera
+,,n5,verb,帰る,かえる,go back,återvända
+,,n5,verb,かかる,かかる,to take time or money,ta tid eller pengar
+,,n5,noun,かぎ,かぎ,key,nyckel
+,,n5,verb,書く,かく,write,skriva
+1,,n5,noun,学生,がくせい,student,student
+,,n5,verb,かける,かける,to call by phone,ringa
+,,n5,noun,傘,かさ,umbrella,paraply
+,,n5,verb,貸す,かす,lend,låna ut
+,,n5,noun,風,かぜ,wind,vind
+,,n5,noun,風邪,かぜ,a cold,förkylning
+,,n5,noun,家族,かぞく,family,familj
+,,n5,noun,方,かた,way of doing,sätt att göra
+,,n5,noun,方,かた,person,person
+,,n5,noun,学校,がっこう,school,skola
+,,n5,noun,カップ,カップ,cup,kopp
+,,n5,noun,家庭,かてい,household,hushåll
+,,n5,noun,角,かど,a corner,hörn
+,,n5,noun,かばん,かばん,basket,korg
+,,n5,noun,かばん,かばん,bag,väska
+,,n5,noun,花瓶,かびん,a vase,vas
+,,n5,noun,紙,かみ,paper,papper
+,,n5,noun,カメラ,カメラ,camera,kamera
+,,n5,temporal,火曜日,かようび,Tuesday,tisdag
+,,n5,adjective,辛い,からい,spicy,kryddstark
+,,n5,noun,体,からだ,body,kropp
+,,n5,verb,借りる,かりる,borrow,låna
+,,n5,adjective,軽い,かるい,light,lätt
+13,,n5,noun,カレー,カレー,curry,curry
+,,n5,noun,カレンダー,カレンダー,calendar,kalender
+,hidden,n5,noun,河,かわ,river,flod
+,,n5,noun,川,かわ,river,flod
+,,n5,adjective,かわいい,かわいい,cute,söt
+,,n5,noun,漢字,かんじ,Chinese character,kinesiskt tecken
+,hidden,n5,noun,木,き,wood,trä
+,,n5,noun,木,き,tree,träd
+,hidden,n5,adjective,黄色,きいろ,yellow,gul
+,,n5,adjective,黄色い,きいろい,yellow,gul
+,,n5,verb,消える,きえる,disappear,försvinna
+,hidden,n5,verb,聞く,きく,ask,fråga
+,hidden,n5,verb,聞く,きく,listen to,lyssna på
+,,n5,verb,聞く,きく,hear,höra
+,,n5,noun,北,きた,north,norr
+,,n5,noun,ギター,ギター,guitar,gitarr
+,,n5,adjective,汚い,きたない,dirty,smutsig
+,,n5,noun,喫茶店,きっさてん,coffee lounge,kafé
+,,n5,noun,切手,きって,postage stamp,frimärke
+,,n5,noun,切符,きっぷ,ticket,biljett
+,,n5,temporal,昨日,きのう,yesterday,igår
+,hidden,n5,numeric,九,く,nine,nio
+,,n5,numeric,九,きゅう,nine,nio
+,,n5,noun,牛肉,ぎゅうにく,beef,nötkött
+,,n5,noun,牛乳,ぎゅうにゅう,milk,mjölk
+,,n5,temporal,今日,きょう,today,idag
+,,n5,noun,教室,きょうしつ,classroom,klassrum
+,,n5,noun,兄弟,きょうだい,(humble) siblings,syskon (ödmjuk)
+,,n5,temporal,去年,きょねん,last year,förra året
+,,n5,adjective,嫌い,きらい,hate,hat
+,,n5,verb,切る,きる,cut,skära
+,,n5,verb,着る,きる,to put on from the shoulders down,ta på sig (överkropp)
+,,n5,adjective,きれい,きれい,clean,ren
+,hidden,n5,adjective,きれい,きれい,pretty,söt
+,,n5,noun,キログラム,キログラム,kilogram,kilogram
+,,n5,noun,キロメートル,キロメートル,kilometre,kilometer
+,,n5,noun,キロ,キロ,kilogram,kilo
+,hidden,n5,noun,キロ,キロ,kilometre,km
+,,n5,noun,銀行,ぎんこう,bank,bank
+,,n5,temporal,金曜日,きんようび,Friday,fredag
+,,n5,noun,薬,くすり,medicine,medicin
+,,n5,other,ください,ください,please,(ge mig...) tack
+,,n5,other,果物,くだもの,fruit,frukt
+,hidden,n5,other,口,くち,opening,öppning
+,,n5,other,口,くち,mouth,mun
+,,n5,other,靴,くつ,shoes,skor
+,,n5,other,靴下,くつした,socks,strumpor
+,,n5,other,国,くに,country,nation
+,,n5,other,曇り,くもり,cloudy weather,molnigt
+,hidden,n5,verb,曇る,くもる,to become dim,mörkna
+,,n5,verb,曇る,くもる,to become cloudy,bli molnigt
+,,n5,other,暗い,くらい,gloomy,dystert
+,,n5,other,クラス,クラス,class,klass
+,,n5,other,グラム,グラム,gram,gramm
+,,n5,verb,来る,くる,to come,komma
+,hidden,n5,other,車,くるま,vehicle,fordon
+,,n5,other,車,くるま,car,bil
+,,n5,other,黒,くろ,black,svart
+,,n5,other,黒い,くろい,black,svart
+,,n5,other,警官,けいかん,policeman,polisman
+,,n5,other,今朝,けさ,this morning,i morse
+,,n5,verb,消す,けす,to turn off power,stänga av
+,,n5,verb,消す,けす,to erase,radera
+,,n5,other,結構,けっこう,enough,tillräckligt
+,,n5,other,結構,けっこう,splendid,utmärkt
+,,n5,other,結婚,けっこん,marriage,giftermål
+,,n5,other,月曜日,げつようび,Monday,måndag
+,,n5,other,玄関,げんかん,entry hall,farstu
+,,n5,other,元気,げんき,vitality,vitalitet
+,,n5,other,元気,げんき,health,hälsa
+,,n5,other,五,ご,five,fem
+,,n5,other,公園,こうえん,park,park
+,,n5,other,交差点,こうさてん,intersection,korsning
+13,,n5,noun,紅茶,こうちゃ,black tea,svart te
+,,n5,other,交番,こうばん,police box,poliskiosk
+,,n5,other,声,こえ,voice,röst
+,,n5,other,コート,コート,tennis court,tennisbana
+,,n5,other,コート,コート,coat,rock
+,,n5,other,コーヒー,コーヒー,coffee,kaffe
+,,n5,other,ここ,ここ,here,här
+,,n5,other,午後,ごご,afternoon,eftermiddag
+,,n5,other,九日,ここのか,ninth day,nionde (i månad)
+,,n5,other,九日,ここのか,nine days,nio dagar
+,,n5,other,九つ,ここのつ,nine,nio
+,,n5,other,午前,ごぜん,morning,morgon
+,,n5,verb,答える,こたえる,to answer,svara
+,,n5,other,こちら,こちら,this person;this way,den här personen;den här vägen
+,,n5,other,こっち,こっち,this person;this way,den här personen;den här vägen
+,,n5,other,コップ,コップ,a glass,glas
+,,n5,other,今年,ことし,this year,detta året
+13,,n5,other,言葉,ことば,language,språk
+,hidden,n5,other,言葉,ことば,word,ord
+,,n5,other,子供,こども,child,barn
+,,n5,other,この,この,this,den här
+,,n5,other,御飯,ごはん,meal,måltid
+,,n5,other,御飯,ごはん,cooked rice,ris (tillagat)
+,,n5,verb,コピーする,コピーする,to copy,kopiera
+,,n5,verb,困る,こまる,to be worried,vara orolig
+,,n5,other,これ,これ,this,denna
+,,n5,other,今月,こんげつ,this month,denna månaden
+,,n5,other,今週,こんしゅう,this week,denna veckan
+,,n5,other,こんな,こんな,such,sådan
+,,n5,other,今晩,こんばん,this evening,ikväll
+,,n5,other,さあ,さあ,well…,tja...
+,,n5,other,財布,さいふ,wallet,plånbok
+,,n5,other,魚,さかな,fish,fisk
+,,n5,other,先,さき,previous,föregående
+,,n5,other,先,さき,the future,framtiden
+,,n5,verb,咲く,さく,to bloom,blomma
+,,n5,other,作文,さくぶん,writing,skrift
+,,n5,other,作文,さくぶん,composition,komposition
+,,n5,verb,差す,さす,to raise an umbrella,fälla upp (paraply)
+,,n5,verb,差す,さす,to stretch out hands,räcka ut händerna
+,,n5,other,雑誌,ざっし,magazine,tidskrift
+,,n5,other,砂糖,さとう,sugar,socker
+,,n5,other,寒い,さむい,cold,kall
+,,n5,other,さ来年,さらいねん,year after next,nästnästa år
+,,n5,other,三,さん,three,tre
+,,n5,verb,散歩,さんぽする,to stroll,flanera
+,,n5,other,四,よん,four,fyra
+,hidden,n5,other,四,し,four,fyra
+,,n5,other,塩,しお,salt,salt
+,,n5,other,しかし,しかし,however,dock
+,,n5,other,時間,じかん,time,tid
+,,n5,other,仕事,しごと,job,jobb
+,,n5,other,辞書,じしょ,dictionary,lexikon
+,,n5,other,静か,しずか,quiet,tyst
+,,n5,other,下,した,below,under
+,hidden,n5,other,七,しち,seven,sju
+,,n5,other,七,なな,seven,sju
+,,n5,other,質問,しつもん,question,fråga
+,,n5,other,自転車,じてんしゃ,bicycle,cykel
+,,n5,other,自動車,じどうしゃ,automobile,bil
+,,n5,verb,死ぬ,しぬ,to die,dö
+,hidden,n5,other,字引,じびき,dictionary,lexikon
+,,n5,other,自分,じぶん,oneself,sig själv
+,hidden,n5,verb,閉まる,しまる,to be closed,vara stängd
+,,n5,verb,閉まる,しまる,to close,stängas
+,,n5,verb,閉める,しめる,to close something,stänga
+,hidden,n5,verb,締める,しめる,to tie,knyta
+,,n5,other,じゃあ,じゃあ,well then…,då så...
+,,n5,other,じゃ,じゃ,well then…,ja...
+,,n5,other,写真,しゃしん,photograph,foto
+,,n5,other,シャツ,シャツ,shirt,skjorta
+,,n5,other,シャワー,シャワー,shower,dusch
+,,n5,other,十,じゅう;とお,ten,tio
+,hidden,n5,other,授業,じゅぎょう,class work
+,,n5,other,授業,じゅぎょう,lesson,lektion
+,,n5,other,宿題,しゅくだい,homework,läxa
+,,n5,other,上手,じょうず,skillful,skicklig
+13,,n5,noun,セーター,セーター,sweater,tröja
+1,,n5,other,はい,はい,yes,ja
+13,,n5,noun,店,みせ,shop,affär

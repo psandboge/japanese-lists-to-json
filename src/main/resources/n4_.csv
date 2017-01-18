@@ -1,7 +1,10 @@
-state,jnlp,type,writing,reading,english,swedish
-,n4,interjection,あ,あ,Ah,Ah
-,n4,interjection,ああ,ああ,like that,Aha...
-,n4,proposition,間,あいだ,a space,mellan
-,n4,noun,あかちゃん,あかちゃん,baby,baby
-,n4,noun,お宅,おたく,(polite) your house,ditt hus (artig)
-,n4,noun,着物,きもの,kimono,kimono
+genki,state,jlpt,type,writing,reading,english,swedish
+,,n4,interjection,,あ,Ah,Ah
+,,n4,interjection,,ああ,like that,Aha...
+,,n4,adverb,間,あいだ,a space,mellan
+13,,n4,noun,お宅,おたく,(polite) your house,ditt hus (artigt)
+13,,n4,adjective,悲しい,かなしい,sad,ledsen
+13,,n4,noun,着物,きもの,kimono,kimono
+13,,n4,noun,文法,ぶんぽう,grammar,grammatik
+13,,n4,noun,約束,やくそく,promise,löfte
+13,,n4,noun,レポート,レポート,report,rapport

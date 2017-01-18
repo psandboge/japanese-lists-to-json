@@ -1,4 +1,4 @@
-genki,state,jnlp,type,writing,reading,english,swedish
+genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,interjection,,あ,Ah,Ah
 ,,n4,interjection,,ああ,like that,Aha...
 ,,n4,adverb,間,あいだ,a space,mellan
@@ -110,7 +110,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,課長,かちょう,section manager
 ,hidden,n4,other,勝つ,かつ,to win
 ,hidden,n4,other,家内,かない,housewife
-,hidden,n4,other,悲しい,かなしい,sad
+13,,n4,adjective,悲しい,かなしい,sad,ledsen
 ,hidden,n4,other,必ず,かならず,certainly;necessarily
 ,hidden,n4,other,お・金持ち,かねもち/おかねもち,rich man
 ,hidden,n4,other,彼女,かのじょ,she;girlfriend
@@ -142,7 +142,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,君,きみ,(informal) You
 ,hidden,n4,other,決める,きめる,to decide
 ,hidden,n4,other,気持ち,きもち,feeling;mood
-,,n4,noun,着物,きもの,kimono,kimono
+13,,n4,noun,着物,きもの,kimono,kimono
 ,hidden,n4,other,客,きゃく,guest;customer
 ,hidden,n4,other,急,きゅう,urgent; steep
 ,hidden,n4,other,急行,きゅうこう,speedy; express
@@ -211,7 +211,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,最後,さいご,last;end
 ,hidden,n4,other,最初,さいしょ,beginning;first
 ,hidden,n4,other,坂,さか,slope;hill
-,hidden,n4,other,探す,さがす,to look for
+15,,n4,verb,探す,さがす,to look for,titta efter
 ,hidden,n4,other,下る,さがる,to get down;to descend
 ,hidden,n4,other,盛ん,さかん,popularity;prosperous
 ,hidden,n4,other,下げる,さげる,to hang;to lower;to move back
@@ -230,7 +230,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,仕方,しかた,method
 ,hidden,n4,other,試験,しけん,examination
 ,hidden,n4,other,事故,じこ,accident
-,hidden,n4,other,地震,じしん,earthquake
+15,,n4,other,地震,じしん,earthquake,jordbävning
 ,hidden,n4,other,時代,じだい,era
 ,hidden,n4,other,下着,したぎ,underwear
 ,hidden,n4,other,,しっかり,firmly;steadily
@@ -244,7 +244,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,社会,しゃかい,society;public
 ,hidden,n4,other,社長,しゃちょう,company president
 ,hidden,n4,other,自由,じゆう,freedom
-,hidden,n4,other,習慣,しゅうかん,custom;manners
+15,,n4,other,習慣,しゅうかん,custom;manners,vana;sed
 ,hidden,n4,other,住所,じゅうしょ,an address;a residence
 ,hidden,n4,other,柔道,じゅうどう,judo
 ,hidden,n4,other,十分,じゅうぶん,enough
@@ -419,7 +419,7 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,花見,はなみ,cherry-blossom viewing
 ,hidden,n4,other,林,はやし,woods;forester
 ,hidden,n4,other,払う,はらう,to pay
-,hidden,n4,other,番組,ばんぐみ,television or radio program
+15,,n4,noun,番組,ばんぐみ,television　program;radio program,program
 ,hidden,n4,other,反対,はんたい,opposition
 ,hidden,n4,other,日,ひ,day; sun
 ,hidden,n4,other,火,ひ,fire
@@ -518,14 +518,14 @@ genki,state,jnlp,type,writing,reading,english,swedish
 ,hidden,n4,other,用事,ようじ,things to do
 ,hidden,n4,other,汚れる,よごれる,to get dirty
 ,hidden,n4,other,予習,よしゅう,preparation for a lesson
-,hidden,n4,other,予定,よてい,arrangement
+15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
 ,hidden,n4,other,予約,よやく,reservation
 ,hidden,n4,other,寄る,よる,to visit
 ,hidden,n4,other,喜ぶ,よろこぶ,to be delighted
 ,hidden,n4,other,理由,りゆう,reason
 ,hidden,n4,other,利用,りよう,utilization
 ,hidden,n4,other,両方,りょうほう,both sides
-,hidden,n4,other,旅館,りょかん,Japanese hotel
+15,,n4,noun,旅館,りょかん,Japanese hotel,japanskt hotell
 ,hidden,n4,other,留守,るす,absence
 ,hidden,n4,other,冷房,れいぼう,air conditioning
 ,hidden,n4,other,歴史,れきし,history
