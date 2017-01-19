@@ -372,7 +372,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,ズボン,ズボン,trousers,byxor
 ,,n5,verb,住む,すむ,to live in,bo
 ,,n5,other,スリッパ,スリッパ,slippers,tofflor
-,,n5,verb,する,する,to do,göra
+,,n5,verb,する,する,to do;decide (on item),göra;besluta (om föremål)
 ,,n5,verb,座る,すわる,to sit,sitta
 ,,n5,other,背,せ,stature,hållning
 ,,n5,other,背,せ,height,höjd
@@ -408,61 +408,61 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,大学,だいがく,university,universitet
 ,,n5,other,大使館,たいしかん,embassy,ambassad
 ,,n5,other,大丈夫,だいじょうぶ,all right,ok
-,,n5,verb,大好き,だいすき,to be very likeable
-,,n5,other,大切,たいせつ,important
-,,n5,other,台所,だいどころ,kitchen
-,,n5,other,たいへん,たいへん,very
-,,n5,other,たいへん,たいへん,difficult situation
-,,n5,other,高い,たかい,expensive
-,,n5,other,高い,たかい,tall
-,,n5,other,たくさん,たくさん,many
-,,n5,other,タクシー,タクシー,taxi
-,,n5,verb,出す,だす,to put out
-,,n5,verb,立つ,たつ,to stand
-,,n5,other,たて,たて,height
-,,n5,other,たて,たて,length
-,,n5,other,建物,たてもの,building
-,,n5,other,楽しい,たのしい,enjoyable
-,,n5,verb,頼む,たのむ,to ask
-,,n5,other,たばこ,たばこ,cigarettes
-,,n5,other,たばこ,たばこ,tobacco
-,,n5,other,たぶん,たぶん,probably
-,,n5,other,食べ物,たべもの,food
-,,n5,verb,食べる,たべる,to eat
-,,n5,other,卵,たまご,egg
-,,n5,other,誰,だれ,who
-,,n5,other,誰,だれか,somebody
-,,n5,other,誕生日,たんじょうび,birthday
-,,n5,other,だんだん,だんだん,gradually
-,,n5,other,小さい,ちいさい,little
-,,n5,other,小さな,ちいさな,little
-,,n5,other,近い,ちかい,near
-,,n5,verb,違う,ちがう,to differ
-,,n5,other,近く,ちかく,near
-,,n5,other,地下鉄,ちかてつ,underground train
+,,n5,verb,大好き,だいすき,to be very likeable,mycket älskad
+,,n5,other,大切,たいせつ,important,viktig
+,,n5,other,台所,だいどころ,kitchen,kök
+,,n5,other,たいへん,たいへん,very,mycket
+,,n5,other,たいへん,たいへん,difficult situation,svårt läge
+,,n5,other,高い,たかい,expensive,dyr
+,hidden,n5,other,高い,たかい,tall,lång
+,,n5,other,たくさん,たくさん,many,många
+,,n5,other,タクシー,タクシー,taxi,taxi
+,,n5,verb,出す,だす,to put out,ställa ut
+,,n5,verb,立つ,たつ,to stand,stå
+,hidden,n5,other,たて,たて,height,höjd
+,,n5,other,たて,たて,length,längd
+,,n5,other,建物,たてもの,building,byggnad
+,,n5,other,楽しい,たのしい,enjoyable,trevlig
+,,n5,verb,頼む,たのむ,to ask,fråga
+,,n5,other,たばこ,たばこ,cigarettes,cigarett
+,,n5,other,たばこ,たばこ,tobacco,tobak
+,,n5,other,たぶん,たぶん,probably,troligen
+,,n5,other,食べ物,たべもの,food,mat
+,,n5,verb,食べる,たべる,to eat,äta
+,,n5,other,卵,たまご,egg,ägg
+,,n5,other,誰,だれ,who,vem
+,,n5,other,誰,だれか,somebody,någon
+,,n5,other,誕生日,たんじょうび,birthday,födelsedag
+,,n5,other,だんだん,だんだん,gradually,gradvis
+,,n5,other,小さい,ちいさい,little,lite
+,,n5,other,小さな,ちいさな,little,lite
+,,n5,other,近い,ちかい,near,nära
+,,n5,verb,違う,ちがう,to differ,skilja sig
+,,n5,other,近く,ちかく,near,nära
+,,n5,other,地下鉄,ちかてつ,underground train,tunnelbana
 15,,n5,other,地図,ちず,map,karta
-,,n5,other,茶色,ちゃいろ,brown
-,,n5,other,ちゃわん,ちゃわん,rice bowl
-,,n5,other,ちょうど,ちょうど,exactly
-,,n5,other,ちょっと,ちょっと,somewhat
-,,n5,other,一日,ついたち,first of month
-,,n5,verb,使う,つかう,to use
-,,n5,verb,疲れる,つかれる,to get tired
-,,n5,other,次,つぎ,next
-,,n5,verb,着く,つく,to arrive at
-,,n5,other,机,つくえ,desk
-,,n5,verb,作る,つくる,to make
-,,n5,verb,つける,つける,to turn on
-,,n5,verb,勤める,つとめる,to work for someone
-,,n5,other,つまらない,つまらない,boring
-,,n5,verb,冷たい,つめたい,cold to the touch
-,,n5,other,強い,つよい,powerful
-,,n5,other,手,て,hand
-,,n5,other,テープ,テープ,tape
-,,n5,other,テーブル,テーブル,table
-,,n5,other,テープレコーダー,テープレコーダー,tape recorder
-,,n5,verb,出かける,でかける,to go out
-,,n5,other,手紙,てがみ,letter
+,,n5,other,茶色,ちゃいろ,brown,brun
+,,n5,other,ちゃわん,ちゃわん,rice bowl,risskål
+,,n5,other,ちょうど,ちょうど,exactly,exakt
+,,n5,other,ちょっと,ちょっと,somewhat,något
+,,n5,other,一日,ついたち,first of month,1:a (i månad)
+,,n5,verb,使う,つかう,to use,använda
+,,n5,verb,疲れる,つかれる,to get tired,tröttna
+,,n5,other,次,つぎ,next,nästa
+15,,n5,verb,着く,つく,to arrive at,anlända
+,,n5,other,机,つくえ,desk,skrivbord
+,,n5,verb,作る,つくる,to make,tillverka
+,,n5,verb,つける,つける,to turn on,slå på
+,,n5,verb,勤める,つとめる,to work for someone,arbeta för
+,,n5,other,つまらない,つまらない,boring,tråkig
+,,n5,verb,冷たい,つめたい,cold to the touch,kall (beröring)
+,,n5,other,強い,つよい,powerful,kraftfull
+,,n5,other,手,て,hand,hand
+,,n5,other,テープ,テープ,tape,tejp;band
+,,n5,other,テーブル,テーブル,table,bord
+,,n5,other,テープレコーダー,テープレコーダー,tape recorder,bandspelare
+,,n5,verb,出かける,でかける,to go out,gå ut
+,,n5,other,手紙,てがみ,letter,brev
 ,,n5,verb,できる,できる,to be able to
 ,,n5,other,出口,でぐち,exit
 ,,n5,other,テスト,テスト,test
@@ -716,7 +716,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,メートル,メートル,metre
 ,,n5,other,眼鏡,めがね,glasses
 ,,n5,other,もう,もう,already
-,,n5,other,もう一度,もういちど,again
+15,,n5,adverbial,もう一度,もういちど,again,igen
 ,,n5,other,木曜日,もくようび,Thursday
 ,,n5,verb,持つ,もつ,to hold
 ,,n5,other,もっと,もっと,more

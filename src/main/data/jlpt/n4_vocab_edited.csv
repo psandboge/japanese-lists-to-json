@@ -207,8 +207,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,壊れる,こわれる,to be broken
 ,hidden,n4,other,今度,こんど,now;next time
 ,hidden,n4,other,今夜,こんや,tonight
-,hidden,n4,other,最近,さいきん,latest;nowadays
-,hidden,n4,other,最後,さいご,last;end
+15,,n4,verb,最近,さいきん,latest;nowadays,nyligen;nuförtiden
+,,n4,noun,最後,さいご,last;end,sista;slutet
 ,hidden,n4,other,最初,さいしょ,beginning;first
 ,hidden,n4,other,坂,さか,slope;hill
 15,,n4,verb,探す,さがす,to look for,titta efter
@@ -256,7 +256,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,食料品,しょくりょうひん,groceries
 ,hidden,n4,other,女性,じょせい,woman
 ,hidden,n4,other,知らせる,しらせる,to notify
-,hidden,n4,other,調べる,しらべる,to investigate
+15,,n4,verb,調べる,しらべる,to investigate,undersöka
 ,hidden,n4,other,人口,じんこう,population
 ,hidden,n4,other,神社,じんじゃ,Shinto shrine
 ,hidden,n4,other,親切,しんせつ,kindness
@@ -475,7 +475,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,回る,まわる,to go around
 ,hidden,n4,other,漫画,まんが,comic
 ,hidden,n4,other,真中,まんなか,middle
-,hidden,n4,other,見える,みえる,to be in sight
+15,,n4,verb,見える,みえる,to be in sight,synas
 ,hidden,n4,other,湖,みずうみ,lake
 ,hidden,n4,other,味噌,みそ,miso; soybean paste
 ,hidden,n4,other,見つかる,みつかる,to be discovered

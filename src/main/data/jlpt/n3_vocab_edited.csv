@@ -1,6 +1,6 @@
 genki|state|jlpt|type|writing|reading|english|swedish
-|hidden|n3|other|愛|あい|love
-|hidden|n3|other|愛情|あいじょう|love, affection
+||n3|other|愛|あい|love|kärlek
+||n3|other|愛情|あいじょう|love, affection|kärlek,ömhet
 |hidden|n3|other|合図|あいず|sign, signal
 |hidden|n3|other|愛する|あいする|to love
 |hidden|n3|other|相手|あいて|companion, partner, company
@@ -1349,7 +1349,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|原|はら|field,plain,prairie,tundra,moor,wilderness
 |hidden|n3|other|針|はり|needle,hand (e.g. clock)
 |hidden|n3|other|張る|はる|to stick,to paste
-|hidden|n3|other|番|ばん|counter for a number
+15||n3|noun|番|ばん|counter for a number,nummer (räknare)
 |hidden|n3|other|範囲|はんい|extent,scope,sphere,range
 |hidden|n3|other|反抗|はんこう|opposition,resistance
 |hidden|n3|other|犯罪|はんざい|crime
