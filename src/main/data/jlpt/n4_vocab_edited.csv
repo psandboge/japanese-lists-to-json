@@ -2,11 +2,11 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,interjection,,あ,Ah,Ah
 ,,n4,interjection,,ああ,like that,Aha...
 ,,n4,adverb,間,あいだ,a space,mellan
-,hidden,n4,other,合う,あう,to match
-,hidden,n4,other,,あかちゃん,baby
-,hidden,n4,other,上る,あがる,to rise
-,hidden,n4,other,赤ん坊,あかんぼう,baby
-,hidden,n4,other,空く,あく,to open; to become empty
+,,n4,verb,合う,あう,to match,matcha
+,,n4,noun,赤ちゃん,あかちゃん,baby,baby
+,,n4,verb,上る,あがる,to rise,stiga
+,hidden,n4,noun,赤ん坊,あかんぼう,baby,baby
+,,n4,verb,空く,あく,to open; to become empty,öppna;tömmas
 ,hidden,n4,other,,あげる,to give
 ,hidden,n4,other,浅い,あさい,shallow; superficial
 ,hidden,n4,other,味,あじ,flavour
@@ -136,12 +136,12 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,規則,きそく,regulations
 ,hidden,n4,other,,きっと,surely
 ,hidden,n4,other,絹,きぬ,silk
-,hidden,n4,other,厳しい,きびしい,strict
-,hidden,n4,other,気分,きぶん,mood
-,hidden,n4,other,決る,きまる,to be decided
-,hidden,n4,other,君,きみ,(informal) You
-,hidden,n4,other,決める,きめる,to decide
-,hidden,n4,other,気持ち,きもち,feeling;mood
+13,,n4,adjective,厳しい,きびしい,strict,sträng
+,,n4,noun,気分,きぶん,mood,känsla
+,,n4,verb,決る,きまる,to be decided,bli beslutat
+,,n4,pronoun,君,きみ,(informal) You, Du (vardaglig)
+,,n4,verb,決める,きめる,to decide,besluta
+,,n4,noun,気持ち,きもち,feeling;mood,känsla
 13,,n4,noun,着物,きもの,kimono,kimono
 ,hidden,n4,other,客,きゃく,guest;customer
 ,hidden,n4,other,急,きゅう,urgent; steep
@@ -209,8 +209,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,今夜,こんや,tonight
 15,,n4,verb,最近,さいきん,latest;nowadays,nyligen;nuförtiden
 ,,n4,noun,最後,さいご,last;end,sista;slutet
-,hidden,n4,other,最初,さいしょ,beginning;first
-,hidden,n4,other,坂,さか,slope;hill
+,,n4,temporal,最初,さいしょ,beginning;first,början;först
+,,n4,noun,坂,さか,slope;hill,sluttning;kulle
 15,,n4,verb,探す,さがす,to look for,titta efter
 ,hidden,n4,other,下る,さがる,to get down;to descend
 ,hidden,n4,other,盛ん,さかん,popularity;prosperous
@@ -257,15 +257,15 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,女性,じょせい,woman
 ,hidden,n4,other,知らせる,しらせる,to notify
 15,,n4,verb,調べる,しらべる,to investigate,undersöka
-,hidden,n4,other,人口,じんこう,population
-,hidden,n4,other,神社,じんじゃ,Shinto shrine
-,hidden,n4,other,親切,しんせつ,kindness
-,hidden,n4,other,新聞社,しんぶんしゃ,newspaper company
-,hidden,n4,other,水泳,すいえい,swimming
-,hidden,n4,other,水道,すいどう,water supply
-,hidden,n4,other,数学,すうがく,mathematics;arithmetic
-,hidden,n4,other,過ぎる,すぎる,to exceed
-,hidden,n4,other,凄い,すごい,terrific
+,,n4,noun,人口,じんこう,population,befolkning
+,,n4,noun,神社,じんじゃ,Shinto shrine,Shintohelgedom
+,,n4,noun,親切,しんせつ,kindness,vänlighet
+,,n4,noun,新聞社,しんぶんしゃ,newspaper company,tidningsföretag
+,,n4,noun,水泳,すいえい,swimming,simning
+,,n4,noun,水道,すいどう,water supply,vattenförsörjning
+,,n4,noun,数学,すうがく,mathematics;arithmetic,matematik
+,,n4,verb,過ぎる,すぎる,to exceed,överträffa
+13,,n4,adjective,凄い,すごい,terrific,fantastisk
 ,hidden,n4,other,進む,すすむ,to make progress
 ,hidden,n4,other,,すっかり,completely
 ,hidden,n4,other,,すっと,straight;all of a sudden
@@ -376,7 +376,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,直す,なおす,to fix;to repair
 ,hidden,n4,other,直る,なおる,to be fixed;to be repaired
 ,hidden,n4,other,治る,なおる,to be cured;to heal
-,hidden,n4,other,泣く,なく,to weep
+13,,n4,verb,泣く,なく,to weep,gråta
 ,hidden,n4,other,無くなる,なくなる,to disappear;to get lost
 ,hidden,n4,other,亡くなる,なくなる,to die
 ,hidden,n4,other,投げる,なげる,to throw or cast away
@@ -519,12 +519,12 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,汚れる,よごれる,to get dirty
 ,hidden,n4,other,予習,よしゅう,preparation for a lesson
 15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
-,hidden,n4,other,予約,よやく,reservation
-,hidden,n4,other,寄る,よる,to visit
-,hidden,n4,other,喜ぶ,よろこぶ,to be delighted
-,hidden,n4,other,理由,りゆう,reason
-,hidden,n4,other,利用,りよう,utilization
-,hidden,n4,other,両方,りょうほう,both sides
+,,n4,noun,予約,よやく,reservation,reservation
+,,n4,verb,寄る,よる,to visit,besöka
+,,n4,verb,喜ぶ,よろこぶ,to be delighted,vara nöjd
+,,n4,noun,理由,りゆう,reason,anledning
+,,n4,verb,利用,りよう,utilization,utnyttjande
+,,n4,noun,両方,りょうほう,both sides,båda sidor
 15,,n4,noun,旅館,りょかん,Japanese hotel,japanskt hotell
 ,hidden,n4,other,留守,るす,absence
 ,hidden,n4,other,冷房,れいぼう,air conditioning
@@ -580,4 +580,4 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,,ベル,bell
 ,hidden,n4,other,,レジ,register
 13,,n4,noun,レポート,レポート,report,rapport
-,hidden,n4,other,,ワープロ,word processor
+,,n4,noun,ワープロ,ワープロ,word processor,ordbehandlare

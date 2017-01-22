@@ -86,7 +86,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,verb,要る,いる,need,behöva
 ,,n5,verb,入れる,いれる,put in,stoppa in
 ,,n5,noun,色,いろ,colour,färg
-,,n5,adjective,いろいろ,いろいろ,various,blandade
+13,,n5,adjective,いろいろ,いろいろ,various,blandade
 ,,n5,adverb,上,うえ,on top of,ovanför
 ,,n5,adverb,後ろ,うしろ,behind,bakom
 ,,n5,adjective,薄い,うすい,weak,svag
@@ -179,7 +179,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 1,,n5,noun,学生,がくせい,student,student
 ,,n5,verb,かける,かける,to call by phone,ringa
 ,,n5,noun,傘,かさ,umbrella,paraply
-,,n5,verb,貸す,かす,lend,låna ut
+13,,n5,verb,貸す,かす,lend,låna ut
 ,,n5,noun,風,かぜ,wind,vind
 ,,n5,noun,風邪,かぜ,a cold,förkylning
 ,,n5,noun,家族,かぞく,family,familj
@@ -195,7 +195,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,紙,かみ,paper,papper
 ,,n5,noun,カメラ,カメラ,camera,kamera
 ,,n5,temporal,火曜日,かようび,Tuesday,tisdag
-,,n5,adjective,辛い,からい,spicy,kryddstark
+13,,n5,adjective,辛い,からい,spicy,kryddstark
 ,,n5,noun,体,からだ,body,kropp
 ,,n5,verb,借りる,かりる,borrow,låna
 ,,n5,adjective,軽い,かるい,light,lätt
@@ -389,7 +389,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,other,先生,せんせい,doctor,doktor
 ,,n5,other,先生,せんせい,teacher,lärare
 ,,n5,other,洗濯,せんたく,washing,tvätt
-,,n5,other,全部,ぜんぶ,all,allt
+13,,n5,adverbial,全部,ぜんぶ,all,allt
 ,hidden,n5,verb,掃除,そうじする,to sweep,sopa
 ,,n5,verb,掃除,そうじする,to clean,städa
 ,hidden,n5,other,そして,そして,and,och
@@ -436,7 +436,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,だんだん,だんだん,gradually,gradvis
 ,,n5,other,小さい,ちいさい,little,lite
 ,,n5,other,小さな,ちいさな,little,lite
-,,n5,other,近い,ちかい,near,nära
+13,,n5,other,近い,ちかい,near,nära
 ,,n5,verb,違う,ちがう,to differ,skilja sig
 ,,n5,other,近く,ちかく,near,nära
 ,,n5,other,地下鉄,ちかてつ,underground train,tunnelbana
@@ -463,84 +463,84 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,テープレコーダー,テープレコーダー,tape recorder,bandspelare
 ,,n5,verb,出かける,でかける,to go out,gå ut
 ,,n5,other,手紙,てがみ,letter,brev
-,,n5,verb,できる,できる,to be able to
-,,n5,other,出口,でぐち,exit
-,,n5,other,テスト,テスト,test
-,,n5,other,では,では,with that...
-,,n5,other,デパート,デパート,department store
-,,n5,other,でも,でも,but
-,,n5,verb,出る,でる,to leave
-,,n5,verb,出る,でる,to appear
-,,n5,other,テレビ,テレビ,television
-,,n5,other,天気,てんき,weather
-,,n5,other,電気,でんき,electric light
-,,n5,other,電気,でんき,electricity
-,,n5,other,電車,でんしゃ,electric train
-,,n5,other,電話,でんわ,telephone
-,,n5,other,戸,と,Japanese style door
-,,n5,other,ドア,ドア,Western style door
-,,n5,other,トイレ,トイレ,toilet
-,,n5,other,どう,どう,in what way
-,,n5,other,どう,どう,how
-,,n5,other,どうして,どうして,for what reason
-,,n5,other,どうぞ,どうぞ,please
-,,n5,other,動物,どうぶつ,animal
-,,n5,other,どうも,どうも,thanks
-,,n5,other,遠い,とおい,far
-,,n5,other,十日,とおか,the tenth day
-,,n5,other,十日,とおか,ten days
-,,n5,other,時々,ときどき,sometimes
-,,n5,other,時計,とけい,clock
-,,n5,other,時計,とけい,watch
-,,n5,other,どこ,どこ,where
-,,n5,other,所,ところ,place
-,,n5,other,年,とし,year
-,,n5,other,図書館,としょかん,library
-,,n5,other,どちら,どちら,which of two
-,,n5,other,どっち,どっち,which
-,,n5,other,とても,とても,very
-,,n5,other,どなた,どなた,who
-,,n5,other,隣,となり,next door to
-,,n5,other,どの,どの,which
-,,n5,verb,飛ぶ,とぶ,to hop
-,,n5,verb,飛ぶ,とぶ,to fly
-,,n5,verb,止まる,とまる,to come to a halt
-,,n5,other,友達,ともだち,friend
-,,n5,other,土曜日,どようび,Saturday
-,,n5,other,鳥,とり,bird
-,,n5,other,とり肉,とりにく,chicken meat
-,,n5,verb,取る,とる,to take something
-,,n5,verb,撮る,とる,to take a photo or record a film
-,,n5,other,どれ,どれ,which (of three or more)
-,,n5,other,ナイフ,ナイフ,knife
-,,n5,other,中,なか,middle
-,,n5,other,長い,ながい,long
-,,n5,verb,鳴く,なく,animal noise. to chirp roar or croak etc.
-,,n5,verb,無くす,なくす,to lose something
-,,n5,other,なぜ,なぜ,why
-,,n5,other,夏,なつ,summer
-,,n5,other,夏休み,なつやすみ,summer holiday
-,,n5,other,など,など,et cetera
-,,n5,other,七つ,ななつ,seven
-,,n5,other,七日,なのか,the seventh day
-,,n5,other,七日,なのか,seven days
-,,n5,other,名前,なまえ,name
-,,n5,verb,習う,ならう,to learn
-,,n5,verb,並ぶ,ならぶ,to stand in a line
-,,n5,verb,並ぶ,ならぶ,to line up
-,,n5,verb,並べる,ならべる,to set up
-,,n5,verb,並べる,ならべる,to line up
-,,n5,verb,なる,なる,to become
-,,n5,other,何,なに,what
-,,n5,other,何,なん,what
-,,n5,other,二,に,two
-,,n5,other,賑やか,にぎやか,busy
-,,n5,other,賑やか,にぎやか,bustling
-,,n5,other,肉,にく,meat
-,,n5,other,西,にし,west
-,,n5,other,日曜日,にちようび,Sunday
-,,n5,other,荷物,にもつ,luggage
-,,n5,other,ニュース,ニュース,news
+,,n5,verb,できる,できる,to be able to,kunna göra
+,,n5,other,出口,でぐち,exit,gå ut
+,,n5,other,テスト,テスト,test,prov
+,,n5,other,では,では,with that...,med den...
+,,n5,other,デパート,デパート,department store,varuhus
+,,n5,other,でも,でも,but,men
+,hidden,n5,verb,出る,でる,to leave,gå
+,,n5,verb,出る,でる,to appear,dyka upp
+,,n5,other,テレビ,テレビ,television,TV
+,,n5,other,天気,てんき,weather,väder
+,hidden,n5,other,電気,でんき,electric light,elljus
+,,n5,other,電気,でんき,electricity,elektricitet
+,,n5,other,電車,でんしゃ,electric train,tåg (el)
+,,n5,other,電話,でんわ,telephone,telefon
+,,n5,other,戸,と,Japanese style door,dörr (japansk)
+,,n5,other,ドア,ドア,Western style door,dörr
+,,n5,other,トイレ,トイレ,toilet,toalett
+,,n5,other,どう,どう,in what way,på vilket sätt
+,,n5,other,どう,どう,how,hur
+,,n5,other,どうして,どうして,for what reason,av vilken anledning
+,,n5,other,どうぞ,どうぞ,please,tack
+,,n5,other,動物,どうぶつ,animal,djur
+,,n5,other,どうも,どうも,thanks,tack
+,,n5,other,遠い,とおい,far,långt
+,,n5,other,十日,とおか,the tenth day,tionde dagen
+,,n5,other,十日,とおか,ten days,tio dagar
+,,n5,other,時々,ときどき,sometimes,ibland
+,,n5,other,時計,とけい,clock,klocka
+,hidden,n5,other,時計,とけい,watch,armbandsur
+,,n5,other,どこ,どこ,where,var
+,,n5,other,所,ところ,place,plats
+,,n5,other,年,とし,year,år
+,,n5,other,図書館,としょかん,library,bibliotek
+,,n5,other,どちら,どちら,which of two,vilken (av två)
+,,n5,other,どっち,どっち,which,vilken
+,,n5,other,とても,とても,very,mycket
+,,n5,other,どなた,どなた,who,vem
+,,n5,other,隣,となり,next door to,granne till
+,,n5,other,どの,どの,which,vilken
+,,n5,verb,飛ぶ,とぶ,to hop,skutta
+,,n5,verb,飛ぶ,とぶ,to fly,flyga
+,,n5,verb,止まる,とまる,to come to a halt,stoppa
+,,n5,other,友達,ともだち,friend,vän
+,,n5,other,土曜日,どようび,Saturday,lördag
+,,n5,other,鳥,とり,bird,fågel
+,,n5,other,とり肉,とりにく,chicken meat,kycklingkött
+,,n5,verb,取る,とる,to take something,ta (något)
+,,n5,verb,撮る,とる,to take a photo;record a film,fotografera;filma
+,,n5,other,どれ,どれ,which (of three or more),vilken (av 3+)
+,,n5,other,ナイフ,ナイフ,knife,kniv
+,,n5,other,中,なか,middle,mitten
+,,n5,other,長い,ながい,long,lång
+,,n5,verb,鳴く,なく,animal noise. to chirp roar or croak etc.,kvittra;ryta;kvacka
+,,n5,verb,無くす,なくす,to lose something,förlora något
+,,n5,other,なぜ,なぜ,why,varför
+,,n5,other,夏,なつ,summer,sommar
+,,n5,other,夏休み,なつやすみ,summer holiday,sommarlov
+,,n5,other,など,など,et cetera,med mera
+,,n5,other,七つ,ななつ,seven,sju
+,,n5,other,七日,なのか,the seventh day,sjunde dagen
+,,n5,other,七日,なのか,seven days,sju dagar
+,,n5,other,名前,なまえ,name,namn
+,,n5,verb,習う,ならう,to learn,lära sif
+,,n5,verb,並ぶ,ならぶ,to stand in a line,köa
+,hidden,n5,verb,並ぶ,ならぶ,to line up,ställa sig på led
+,,n5,verb,並べる,ならべる,to set up,sätta upp
+,hidden,n5,verb,並べる,ならべる,to line up,ställa upp
+,,n5,verb,なる,なる,to become,bli
+,,n5,other,何,なに,what,vad
+,hidden,n5,other,何,なん,what,vad
+,,n5,other,二,に,two,två
+,,n5,other,賑やか,にぎやか,busy,upptagen
+,,n5,other,賑やか,にぎやか,bustling,livlig
+,,n5,other,肉,にく,meat,kött
+,,n5,other,西,にし,west,väst
+,,n5,other,日曜日,にちようび,Sunday,söndag
+,,n5,other,荷物,にもつ,luggage,baggage
+,,n5,other,ニュース,ニュース,news,nyheter
 15,,n5,noun,庭,にわ,garden,trädgård
 ,,n5,verb,脱ぐ,ぬぐ,to take off clothes
 ,,n5,other,温い,ぬるい,luke warm
@@ -618,8 +618,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,昼,ひる,noon
 ,,n5,other,昼御飯,ひるごはん,midday meal
 15,,n5,adjective,広い,ひろい,wide;spacious,vid;rymlig
-,,n5,other,フィルム,フィルム,roll of film
-,,n5,other,封筒,ふうとう,envelope
+,,n5,noun,フィルム,フィルム,roll of film,filmrulle
+,,n5,noun,封筒,ふうとう,envelope,kuvert
 15,,n5,noun,プール,プール,swimming pool,pool
 ,,n5,other,フォーク,フォーク,fork
 ,,n5,verb,吹く,ふく,to blow
@@ -688,11 +688,11 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,円い,まるい,round
 ,,n5,other,万,まん,ten thousand
 ,,n5,other,万年筆,まんねんひつ,fountain pen
-,,n5,verb,磨く,みがく,to polish
-,,n5,verb,磨く,みがく,to brush teeth
-,,n5,other,右,みぎ,right side
-,,n5,other,短い,みじかい,short
-,,n5,other,水,みず,water
+13,hidden,n5,verb,磨く,みがく,to polish
+13,,n5,verb,磨く,みがく,to brush teeth
+,,n5,adjective,右,みぎ,right side,höger
+,,n5,adjective,短い,みじかい,short,kort
+,,n5,noun,水,みず,water,vatten
 13,,n5,noun,店,みせ,shop,affär
 ,,n5,verb,見せる,みせる,to show
 ,,n5,other,道,みち,street

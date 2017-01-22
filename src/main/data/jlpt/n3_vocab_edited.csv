@@ -225,7 +225,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|可|か|passable
 |hidden|n3|other|課|か|counter for chapters (of a book) section
 |hidden|n3|other|会|かい|meeting, assembly, party, association, club
-|hidden|n3|other|回|かい|counter for occurrences
+13||n3|counter|回|かい|counter for occurrences|gånger (räknare)
 |hidden|n3|other|害|がい|injury, harm, evil influence, damage
 |hidden|n3|other|会員|かいいん|member, the membership
 |hidden|n3|other|絵画|かいが|picture, paintings
@@ -296,7 +296,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|格好|かっこう|shape,form,posture,suitability,appearance
 |hidden|n3|other|活動|かつどう|action,activity
 |hidden|n3|other|活用|かつよう|conjugation,practical use
-|hidden|n3|other|悲しむ|かなしむ|to be sad,to mourn for,to regret
+13|hidden|n3|other|悲しむ|かなしむ|to be sad,to mourn for,to regret
 |hidden|n3|other|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely
 |hidden|n3|other||かなり|considerably,fairly,quite
 |hidden|n3|other|金|かね|(1) gold,(2) gold general (shogi) (abbr)
@@ -418,7 +418,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|霧|きり|fog,mist
 |hidden|n3|other|切れ|きれ|cloth,piece,cut,chop
 |hidden|n3|other|切れる|きれる|(1) to cut well,to be sharp,(2) to break (off)
-|hidden|n3|other||キロ|(abbr) kilo-,kilogram,kilometre,10^3
+13||n3|noun||キロ|kilo-,kilogram,kilometre,10^3|kilo,km,kg,10^3
 |hidden|n3|other|記録|きろく|record,minutes,document
 |hidden|n3|other|議論|ぎろん|argument,discussion,dispute
 |hidden|n3|other|金|きん|(1) gold,(2) gold general (shogi) (abbr)
@@ -649,7 +649,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|氏|し|family name,lineage,birth
 |hidden|n3|other|詩|し|poem,verse of poetry
 |hidden|n3|other|四|し/よん|four
-|hidden|n3|other|幸せ|しあわせ|happiness,good fortune,luck,blessing
+13||n3|adjective|幸せ|しあわせ|happiness,good fortune,luck,blessing|lycklig,välsignad
 |hidden|n3|other|ジェット機|ジェットき|jet aeroplane
 |hidden|n3|other|直に|じかに|immediately,readily,directly
 |hidden|n3|other||しかも|moreover,furthermore,nevertheless,and yet
@@ -689,7 +689,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|実施|じっし|enforcement,enact,put into practice,carry out,operation
 |hidden|n3|other||じっと|fixedly,firmly,patiently,quietly
 |hidden|n3|other|実に|じつに|indeed,truly,surely
-|hidden|n3|other|実は|じつは|as a matter of fact,by the way
+13||n3|adverb|実は|じつは|as a matter of fact,by the way|faktiskt
 |hidden|n3|other|失望|しつぼう|disappointment,despair
 |hidden|n3|other|支店|してん|branch store (office)
 |hidden|n3|other|指導|しどう|leadership,guidance,coaching
@@ -1031,7 +1031,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|偶々|たまたま|casually,unexpectedly,accidentally,by chance
 |hidden|n3|other||たまらない|intolerable, unbearable, unendurable
 |hidden|n3|other|黙る|だまる|to be silent
-|hidden|n3|other|駄目|だめ|useless,no good,hopeless
+13||n3|adjective|駄目|だめ|useless,no good,hopeless|värdelös,hopplös
 |hidden|n3|other|試し|ためし|trial,test
 |hidden|n3|other|試す|ためす|to attempt,to test
 |hidden|n3|other|便り|たより|news, tidings, information, correspondence, letter
@@ -1713,7 +1713,6 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other||カード|card,curd
 |hidden|n3|other||キャプテン|captain
 |hidden|n3|other||キャンプ|camp
-|hidden|n3|other||キロ|(abbr) kilo-, kilogram, kilometre,
 |hidden|n3|other||クラシック|classic(s)
 |hidden|n3|other||グラス|(1) glass,(2) grass
 |hidden|n3|other||グランド|gland,grand,(electrical) ground
