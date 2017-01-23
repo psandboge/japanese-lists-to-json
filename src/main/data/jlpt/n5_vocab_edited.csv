@@ -542,170 +542,168 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,荷物,にもつ,luggage,baggage
 ,,n5,other,ニュース,ニュース,news,nyheter
 15,,n5,noun,庭,にわ,garden,trädgård
-,,n5,verb,脱ぐ,ぬぐ,to take off clothes
-,,n5,other,温い,ぬるい,luke warm
-,,n5,other,ネクタイ,ネクタイ,necktie
-,,n5,other,ネクタイ,ネクタイ,tie
-,,n5,other,猫,ねこ,cat
-,,n5,verb,寝る,ねる,to sleep
-,,n5,verb,寝る,ねる,to go to bed
-,,n5,other,ノート,ノート,exercise book
-,,n5,other,ノート,ノート,notebook
-,,n5,verb,登る,のぼる,to climb
-,,n5,other,飲み物,のみもの,a drink
-,,n5,verb,飲む,のむ,to drink
-,,n5,verb,乗る,のる,to ride
-,,n5,verb,乗る,のる,to get on
-,,n5,other,歯,は,tooth
-,,n5,other,パーティー,パーティー,party
+,,n5,verb,脱ぐ,ぬぐ,to take off clothes,ta av sig
+,,n5,other,温い,ぬるい,luke warm,ljummet
+,,n5,other,ネクタイ,ネクタイ,necktie;tie,slips
+,,n5,other,猫,ねこ,cat,katt
+,,n5,verb,寝る,ねる,to sleep,sova
+,,n5,verb,寝る,ねる,to go to bed,lägga sig
+,,n5,other,ノート,ノート,exercise book,övningsbok
+,,n5,other,ノート,ノート,notebook,antecknigsbok
+,,n5,verb,登る,のぼる,to climb,klättra
+,,n5,other,飲み物,のみもの,a drink,drink
+,,n5,verb,飲む,のむ,to drinks,dricka
+,,n5,verb,乗る,のる,to ride,åka med
+,,n5,verb,乗る,のる,to get on,borda
+,,n5,other,歯,は,tooth,tand
+,,n5,other,パーティー,パーティー,party,fest
 1,,n5,other,はい,はい,yes,ja
-,,n5,other,灰皿,はいざら,ashtray
-,,n5,verb,入る,はいる,to contain
-,,n5,verb,入る,はいる,to enter
-,,n5,other,葉書,はがき,postcard
-,,n5,verb,はく,はく,to put on trousers
-,,n5,verb,はく,はく,to wear
-,,n5,other,箱,はこ,box
-,,n5,other,橋,はし,bridge
-,,n5,other,はし,はし,chopsticks
-,,n5,verb,始まる,はじまる,to begin
-,,n5,other,初め,はじめ,beginning
-,,n5,other,始め,はじめ,beginning
-,,n5,other,初めて,はじめて,for the first time
-,,n5,verb,走る,はしる,to run
-,,n5,other,バス,バス,bus
-,,n5,other,バター,バター,butter
-,,n5,other,二十歳,はたち,20th year
-,,n5,other,二十歳,はたち,20 years old
-,,n5,verb,働く,はたらく,to work
-,,n5,other,八,はち,eight
-,,n5,other,二十日,はつか,twentieth
-,,n5,other,二十日,はつか,twenty days
-,,n5,other,花,はな,flower
-,,n5,other,鼻,はな,nose
-,,n5,other,話,はなし,story
-,,n5,other,話,はなし,talk
-,,n5,verb,話す,はなす,to speak
-,,n5,other,早い,はやい,early
-,,n5,other,速い,はやい,quick
-,,n5,other,春,はる,spring
-,,n5,verb,貼る,はる,to stick
-,,n5,other,晴れ,はれ,clear weather
-,,n5,verb,晴れる,はれる,to be sunny
-,,n5,other,半,はん,half
-,,n5,other,晩,ばん,evening
-,,n5,other,パン,パン,bread
-,,n5,other,ハンカチ,ハンカチ,handkerchief
-,,n5,other,番号,ばんごう,number
-,,n5,other,晩御飯,ばんごはん,evening meal
-,,n5,other,半分,はんぶん,half minute
-,,n5,other,東,ひがし,east
-,,n5,verb,引く,ひく,to pull
-,,n5,verb,弾く,ひく,to play an instrument with strings including piano
-,,n5,other,低い,ひくい,low
-,,n5,other,低い,ひくい,short
-,,n5,other,飛行機,ひこうき,aeroplane
-,,n5,other,左,ひだり,left hand side
-,,n5,other,人,ひと,person
-,,n5,other,一つ,ひとつ,one
-,,n5,other,一月,ひとつき,one month
-,,n5,other,一人,ひとり,one person
-,,n5,other,暇,ひま,free time
-,,n5,other,百,ひゃく,hundred
-,,n5,other,病院,びょういん,hospital
-,,n5,other,病気,びょうき,illness
-,,n5,other,昼,ひる,daytime
-,,n5,other,昼,ひる,noon
-,,n5,other,昼御飯,ひるごはん,midday meal
+,,n5,other,灰皿,はいざら,ashtray,askkopp
+,,n5,verb,入る,はいる,to contain,innehålla
+,,n5,verb,入る,はいる,to enter,gå in
+,,n5,other,葉書,はがき,postcard,vykort
+,hidden,n5,verb,はく,はく,to put on trousers,ta på sig byxor
+,,n5,verb,はく,はく,to wear,ha på sig
+,,n5,other,箱,はこ,box,låda
+,,n5,other,橋,はし,bridge,bro
+,,n5,other,はし,はし,chopsticks,ätpinnar
+,,n5,verb,始まる,はじまる,to begin,börja
+,,n5,other,初め,はじめ,beginning,början
+,hidden,n5,other,始め,はじめ,beginning,början
+,,n5,other,初めて,はじめて,for the first time,första gången
+,,n5,verb,走る,はしる,to run,springa
+,,n5,other,バス,バス,bus,buss
+,,n5,other,バター,バター,butter,smör
+,,n5,other,二十歳,はたち,20th year,20:e året
+,,n5,other,二十歳,はたち,20 years old,20 år gammal
+,,n5,verb,働く,はたらく,to work,arbeta
+,,n5,other,八,はち,eight,åtta
+,,n5,other,二十日,はつか,twentieth,20:e (i månad)
+,,n5,other,二十日,はつか,twenty days,20 dagar
+,,n5,other,花,はな,flower,blomma
+,,n5,other,鼻,はな,nose,näsa
+,,n5,other,話,はなし,story;talk,berättelse;historia
+,,n5,verb,話す,はなす,to speak,prata
+,,n5,other,早い,はやい,early,tidig
+,,n5,other,速い,はやい,quick,snabb
+,,n5,other,春,はる,spring,springa
+,,n5,verb,貼る,はる,to stick,fästa
+,,n5,other,晴れ,はれ,clear weather,klart väder
+,,n5,verb,晴れる,はれる,to be sunny,vara soligt
+,,n5,other,半,はん,half,halv
+,,n5,other,晩,ばん,evening,kväll
+,,n5,other,パン,パン,bread,bröd
+,,n5,other,ハンカチ,ハンカチ,handkerchief,näsduk
+,,n5,other,番号,ばんごう,number,nummer
+,,n5,other,晩御飯,ばんごはん,evening meal,kvällsmål
+,,n5,other,半分,はんぶん,half minute,en halv minut
+,,n5,other,東,ひがし,east,öst
+,,n5,verb,引く,ひく,to pull,dra
+,,n5,verb,弾く,ひく,to play an instrument with strings including piano,spela (stränginstrument)
+,,n5,other,低い,ひくい,low,låg
+,,n5,other,低い,ひくい,short,kort
+,,n5,other,飛行機,ひこうき,aeroplane,flygplan
+,,n5,other,左,ひだり,left hand side,vänster
+,,n5,other,人,ひと,person,person
+,,n5,other,一つ,ひとつ,one,en
+,,n5,other,一月,ひとつき,one month,en månad
+,,n5,other,一人,ひとり,one person,en person
+,,n5,other,暇,ひま,free time,fritid
+,,n5,other,百,ひゃく,hundred,hundra
+,,n5,other,病院,びょういん,hospital,sjukhus
+,,n5,other,病気,びょうき,illness,sjukdom
+,,n5,other,昼,ひる,daytime,dagtid
+,,n5,other,昼,ひる,noon,middag (12)
+,,n5,other,昼御飯,ひるごはん,midday meal,lunch
 15,,n5,adjective,広い,ひろい,wide;spacious,vid;rymlig
 ,,n5,noun,フィルム,フィルム,roll of film,filmrulle
 ,,n5,noun,封筒,ふうとう,envelope,kuvert
 15,,n5,noun,プール,プール,swimming pool,pool
-,,n5,other,フォーク,フォーク,fork
-,,n5,verb,吹く,ふく,to blow
-,,n5,other,服,ふく,clothes
-,,n5,other,二つ,ふたつ,two
-,,n5,other,豚肉,ぶたにく,pork
-,,n5,other,二人,ふたり,two people
-,,n5,other,二日,ふつか,second day of the month
-,,n5,other,二日,ふつか,two days
-,,n5,other,太い,ふとい,fat
-,,n5,other,冬,ふゆ,winter
-,,n5,verb,降る,ふる,to fall e.g. rain or snow
-,,n5,other,古い,ふるい,old (not used for people)
-,,n5,other,ふろ,ふろ,bath
-,,n5,other,文章,ぶんしょう,text
-,,n5,other,文章,ぶんしょう,sentence
-,,n5,other,ページ,ページ,page
-,,n5,other,下手,へた,unskillful
-,,n5,other,ベッド,ベッド,bed
+,,n5,other,フォーク,フォーク,fork,gaffel
+,,n5,verb,吹く,ふく,to blow,blåsa
+,,n5,other,服,ふく,clothes,kläder
+,,n5,other,二つ,ふたつ,two,två
+,,n5,other,豚肉,ぶたにく,pork,fläskkött
+,,n5,other,二人,ふたり,two people,två personer
+,,n5,other,二日,ふつか,second day of the month,2:a (månad)
+,,n5,other,二日,ふつか,two days,två dagar
+,,n5,other,太い,ふとい,fat,fet
+,,n5,other,冬,ふゆ,winter,vinter
+,,n5,verb,降る,ふる,to fall e.g. rain or snow,falla (nederbörd)
+,,n5,other,古い,ふるい,old (not used for people),gammal
+,,n5,other,ふろ,ふろ,bath,bad
+,,n5,other,文章,ぶんしょう,text,text
+,,n5,other,文章,ぶんしょう,sentence,mening
+,,n5,other,ページ,ページ,page,sida
+,,n5,other,下手,へた,unskillful,oskicklig
+,,n5,other,ベッド,ベッド,bed,säng
 15,,n5,noun,ペット,ペット,pet,husdjur
-,,n5,other,部屋,へや,room
-,,n5,other,辺,へん,area
-,,n5,other,ペン,ペン,pen
-,,n5,verb,勉強,べんきょうする,to study
-,,n5,other,便利,べんり,convenient
-,,n5,other,便利,べんり,useful
-,,n5,other,帽子,ぼうし,hat
-,,n5,other,ボールペン,ボールペン,ball-point pen
-,,n5,other,ほか,ほか,the rest
-,,n5,other,ほか,ほか,other
-,,n5,other,ポケット,ポケット,pocket
-,,n5,other,欲しい,ほしい,want
-,,n5,other,ポスト,ポスト,post
-,,n5,other,細い,ほそい,thin
-,,n5,other,ボタン,ボタン,button
-,,n5,other,ホテル,ホテル,hotel
-,,n5,other,本,ほん,book
-,,n5,other,本棚,ほんだな,bookshelves
-,,n5,other,ほんとう,ほんとう,truth
-,,n5,other,毎朝,まいあさ,every morning
-,,n5,other,毎月,まいげつ,every month
-,,n5,other,毎月,まいつき,every month
-,,n5,other,毎週,まいしゅう,every week
-,,n5,other,毎日,まいにち,every day
-,,n5,other,毎年,まいとし,every year
-,,n5,other,毎年,まいねん,every year
-,,n5,other,毎晩,まいばん,every night
-,,n5,other,前,まえ,before
-,,n5,verb,曲る,まがる,to bend
-,,n5,verb,曲る,まがる,to turn
-,,n5,other,まずい,まずい,unpleasant
-,,n5,other,また,また,and
-,,n5,other,また,また,again
-,,n5,other,まだ,まだ,still
-,,n5,other,まだ,まだ,yet
-,,n5,other,町,まち,city
-,,n5,other,町,まち,town
-,,n5,verb,待つ,まつ,to wait
-,,n5,other,まっすぐ,まっすぐ,straight ahead
-,,n5,other,まっすぐ,まっすぐ,direct
-,,n5,other,マッチ,マッチ,match
-,,n5,other,窓,まど,window
-,,n5,other,丸い,まるい,circular
-,,n5,other,円い,まるい,round
-,,n5,other,丸い,まるい,circular
-,,n5,other,円い,まるい,round
-,,n5,other,万,まん,ten thousand
-,,n5,other,万年筆,まんねんひつ,fountain pen
-13,hidden,n5,verb,磨く,みがく,to polish
-13,,n5,verb,磨く,みがく,to brush teeth
+,,n5,other,部屋,へや,room,rum
+,,n5,other,辺,へん,area,område
+,,n5,other,ペン,ペン,pen,penna
+,,n5,verb,勉強,べんきょうする,to study,studera
+,,n5,other,便利,べんり,convenient,bekväm
+,hidden,n5,other,便利,べんり,useful,användbar
+,,n5,other,帽子,ぼうし,hat,hatt;mössa
+,,n5,other,ボールペン,ボールペン,ball-point pen,kulspetspenna
+,,n5,other,ほか,ほか,the rest,resten
+,hidden,n5,other,ほか,ほか,other,annan
+,,n5,other,ポケット,ポケット,pocket,ficka
+,,n5,other,欲しい,ほしい,want,önskad
+,,n5,other,ポスト,ポスト,post,post
+,,n5,other,細い,ほそい,thin,tunn
+,,n5,other,ボタン,ボタン,button,knapp
+,,n5,other,ホテル,ホテル,hotel,hotell
+,,n5,other,本,ほん,book,bok
+,,n5,other,本棚,ほんだな,bookshelves,bokhylla
+,,n5,other,ほんとう,ほんとう,truth,sanning
+,,n5,other,毎朝,まいあさ,every morning,varje morgon
+,,n5,other,毎月,まいげつ,every month,varje månad
+,,n5,other,毎月,まいつき,every month,varje månad
+,,n5,other,毎週,まいしゅう,every week,varje vecka
+,,n5,other,毎日,まいにち,every day,varje dag
+,,n5,other,毎年,まいとし,every year,varje år
+,,n5,other,毎年,まいねん,every year,varje år
+,,n5,other,毎晩,まいばん,every night,varje natt
+,,n5,other,前,まえ,before,innan
+,,n5,verb,曲る,まがる,to bend,böja
+,,n5,verb,曲る,まがる,to turn,vrida
+,,n5,other,まずい,まずい,unpleasant,obehaglig
+,,n5,other,また,また,and,och
+,,n5,other,また,また,again,igen
+,,n5,other,まだ,まだ,still,fortfarande
+,,n5,other,まだ,まだ,yet,ännu
+,,n5,other,町,まち,city,storstad
+,,n5,other,町,まち,town,stad
+,,n5,verb,待つ,まつ,to wait,vänta
+,,n5,other,まっすぐ,まっすぐ,straight ahead,rakt fram
+,,n5,other,まっすぐ,まっすぐ,direct,rak
+,,n5,other,マッチ,マッチ,match,match
+,,n5,other,窓,まど,window,fönster
+,hidden,n5,other,丸い,まるい,circular,cirkulär
+,hidden,n5,other,円い,まるい,round,rund
+,hidden,n5,other,円い,まるい,circular,cirkulär
+,,n5,other,丸い,まるい,round,rund
+,,n5,other,万,まん,ten thousand,tiotusen
+,,n5,other,万年筆,まんねんひつ,fountain pen,reservoirpenna
+13,hidden,n5,verb,磨く,みがく,to polish,polera
+13,,n5,verb,磨く,みがく,to brush teeth,borsta tänderna
 ,,n5,adjective,右,みぎ,right side,höger
 ,,n5,adjective,短い,みじかい,short,kort
 ,,n5,noun,水,みず,water,vatten
 13,,n5,noun,店,みせ,shop,affär
-,,n5,verb,見せる,みせる,to show
-,,n5,other,道,みち,street
-,,n5,other,三日,みっか,third day of the month
-,,n5,other,三日,みっか,three days
-,,n5,other,三つ,みっつ,three
-,,n5,other,緑,みどり,green
-,,n5,other,皆さん,みなさん,everyone
-,,n5,other,南,みなみ,south
-,,n5,other,耳,みみ,ear
-,,n5,verb,見る 観る,みる,to watch
-,,n5,verb,見る 観る,みる,to see
-,,n5,other,みんな,みんな,everyone
+,,n5,verb,見せる,みせる,to show,visa
+,,n5,other,道,みち,street,gata
+,hidden,n5,other,三日,みっか,third day of the month,3:e (månad)
+,,n5,other,三日,みっか,three days,tre dagar
+,,n5,other,三つ,みっつ,three,tre
+,,n5,other,緑,みどり,green,grön
+,,n5,other,皆さん,みなさん,everyone,alla
+,,n5,other,南,みなみ,south,syd
+,,n5,other,耳,みみ,ear,öra
+,hidden,n5,verb,見る 観る,みる,to watch,titta
+,,n5,verb,見る 観る,みる,to see,se
+,,n5,other,みんな,みんな,everyone,alla
 ,,n5,other,六日,むいか,sixth day of the month
 ,,n5,other,六日,むいか,six days
 ,,n5,other,向こう,むこう,over there
