@@ -7,14 +7,14 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,上る,あがる,to rise,stiga
 ,hidden,n4,noun,赤ん坊,あかんぼう,baby,baby
 ,,n4,verb,空く,あく,to open; to become empty,öppna;tömmas
-,hidden,n4,other,,あげる,to give
-,hidden,n4,other,浅い,あさい,shallow; superficial
-,hidden,n4,other,味,あじ,flavour
-,hidden,n4,other,明日,あす・あした,tomorrow
-,hidden,n4,other,遊び,あそび,play
-,hidden,n4,other,集る,あつまる,to gather
-,hidden,n4,other,集める,あつめる,to collect something
-,hidden,n4,other,謝る,あやまる,to apologize
+,,n4,verb,,あげる,to give,ge
+,,n4,adjective,浅い,あさい,shallow; superficial,grund;ytlig
+,,n4,noun,味,あじ,flavour,smak
+,,n4,temporal,明日,あす・あした,tomorrow,imorgon
+,,n4,verb,遊び,あそび,play,leka
+,,n4,verb,集る,あつまる,to gather,samla ihop
+,,n4,verb,集める,あつめる,to collect something,samla
+,,n4,verb,謝る,あやまる,to apologize,be om ursäkt
 ,hidden,n4,other,安心,あんしん,relief
 ,hidden,n4,other,安全,あんぜん,safety
 ,hidden,n4,other,,あんな,such
@@ -68,23 +68,23 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,押し入れ,おしいれ,closet
 ,hidden,n4,other,お嬢さん,おじょうさん,young lady
 13,,n4,noun,お宅,おたく,(polite) your house,ditt hus (artigt)
-,hidden,n4,other,落る,おちる,to fall or drop
-,hidden,n4,other,,おっしゃる,(respectful) to say
-,hidden,n4,other,夫,おっと,husband
-,hidden,n4,other,,おつり,change from purchase; balance
-,hidden,n4,other,音,おと,sound; note
-,hidden,n4,other,落す,おとす,to drop
-,hidden,n4,other,踊り,おどり,a dance
-,hidden,n4,other,踊る,おどる,to dance
-,hidden,n4,other,驚く,おどろく,to be surprised
-,hidden,n4,other,お祭り,おまつり,festival
-,hidden,n4,other,お見舞い,おみまい,calling on someone who is ill; enquiry
-,hidden,n4,other,お土産,おみやげ,souvenir
-,hidden,n4,other,思い出す,おもいだす,to remember
-,hidden,n4,other,思う,おもう,to think; to feel
-,hidden,n4,other,,おもちゃ,toy
-,hidden,n4,other,表,おもて,the front
-,hidden,n4,other,親,おや,parents
+,,n4,verb,落る,おちる,to fall or drop,falla
+,,n4,verb,,おっしゃる,(respectful) to say,säga (artig)
+,,n4,noun,夫,おっと,husband,man
+,,n4,noun,,おつり,change from purchase; balance,växel
+,,n4,noun,音,おと,sound; note,ljud;not
+,,n4,verb,落す,おとす,to drop,falla
+,,n4,noun,踊り,おどり,a dance,dans
+,,n4,verb,踊る,おどる,to dance,dansa
+,,n4,verb,驚く,おどろく,to be surprised,vara överaskad
+,,n4,noun,お祭り,おまつり,festival,festival
+,,n4,noun,お見舞い,おみまい,calling on someone who is ill; enquiry,sjukbesök
+,,n4,noun,お土産,おみやげ,souvenir,souvenir
+,,n4,verb,思い出す,おもいだす,to remember,komma ihåg
+,,n4,verb,思う,おもう,to think; to feel,tänka;tycka;tro
+,,n4,noun,,おもちゃ,toy,leksak
+,,n4,verb,表,おもて,the front,framsidan
+16,,n4,noun,親,おや,parents,förälder
 ,hidden,n4,other,泳ぎ方,およぎかた,way of swimming
 ,hidden,n4,other,下りる,おりる,to get off; to descend
 ,hidden,n4,other,折る,おる,to break or to fold
@@ -165,13 +165,13 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,経済,けいざい,finance;economy
 ,hidden,n4,other,警察,けいさつ,police
 ,hidden,n4,other,景色,けしき,scene;landscape
-,hidden,n4,other,消しゴム,けしゴム,eraser
-,hidden,n4,other,下宿,げしゅく,lodging
-,hidden,n4,other,決して,けっして,never
-,hidden,n4,other,,けれど/けれども,however
-,hidden,n4,other,原因,げんいん,cause;source
-,hidden,n4,other,,けんか・する,to quarrel
-,hidden,n4,other,研究,けんきゅう,research
+,,n4,noun,消しゴム,けしゴム,eraser,radergummi
+,,n4,noun,下宿,げしゅく,lodging,vandrarhem
+,hidden,n4,adverb,決して,けっして,never,aldrig
+,,n4,adverb,けれど;けれども,けれど;けれども,however,dock
+,,n4,noun,原因,げんいん,cause;source,anledning;källa
+,,n4,verb,けんかする,けんかする,to quarrel,gräla
+16,,n4,noun,研究,けんきゅう,research,forskning
 ,hidden,n4,other,研究室,けんきゅうしつ,study room;laboratory
 ,hidden,n4,other,見物,けんぶつ,sightseeing
 ,hidden,n4,other,子,こ,child

@@ -1,8 +1,8 @@
 genki|state|jlpt|type|writing|reading|english|swedish
-||n3|other|愛|あい|love|kärlek
-||n3|other|愛情|あいじょう|love, affection|kärlek,ömhet
-|hidden|n3|other|合図|あいず|sign, signal
-|hidden|n3|other|愛する|あいする|to love
+||n3|noun|愛|あい|love|kärlek
+||n3|noun|愛情|あいじょう|love, affection|kärlek,ömhet
+||n3|noun|合図|あいず|sign, signal|tecken,signal
+||n3|verb|愛する|あいする|to love|älska
 |hidden|n3|other|相手|あいて|companion, partner, company
 |hidden|n3|other||あいにく|unfortunately, Sorry, but....
 |hidden|n3|other|明かり|あかり|lamplight, light (in general),brightness
@@ -579,9 +579,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|断る|ことわる|to refuse,to decline,to dismiss
 |hidden|n3|other|粉|こな|flour,meal,powder
 |hidden|n3|other|この|この|this
-|hidden|n3|other|好み|このみ|liking,taste,choice
-|hidden|n3|other|好む|このむ|to like,to prefer
-|hidden|n3|other|塵|ごみ|dust,dirt　rubbish
+||n3|noun|好み|このみ|liking,taste,choice|gillande,smak,val
+||n3|verb|好む|このむ|to like,to prefer|gilla,föredra
+16||n3|noun|塵|ごみ|dust,dirt,rubbish|skräp
 |hidden|n3|other|小麦|こむぎ|wheat
 |hidden|n3|other||ごめんなさい|I beg your pardon,excuse me
 |hidden|n3|other|小屋|こや|hut,cabin,shed,(animal) pen

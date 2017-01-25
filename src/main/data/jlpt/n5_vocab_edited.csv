@@ -313,7 +313,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,verb,差す,さす,to raise an umbrella,fälla upp (paraply)
 ,,n5,verb,差す,さす,to stretch out hands,räcka ut händerna
 ,,n5,other,雑誌,ざっし,magazine,tidskrift
-,,n5,other,砂糖,さとう,sugar,socker
+16,,n5,noun,砂糖,さとう,sugar,socker
 ,,n5,other,寒い,さむい,cold,kall
 ,,n5,other,さ来年,さらいねん,year after next,nästnästa år
 ,,n5,other,三,さん,three,tre
@@ -704,84 +704,83 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,verb,見る 観る,みる,to watch,titta
 ,,n5,verb,見る 観る,みる,to see,se
 ,,n5,other,みんな,みんな,everyone,alla
-,,n5,other,六日,むいか,sixth day of the month
-,,n5,other,六日,むいか,six days
-,,n5,other,向こう,むこう,over there
-,,n5,other,難しい,むずかしい,difficult
-,,n5,other,六つ,むっつ,six
-,,n5,other,村,むら,village
-,,n5,other,目,め,eye
-,,n5,other,メートル,メートル,metre
-,,n5,other,眼鏡,めがね,glasses
-,,n5,other,もう,もう,already
+,,n5,other,六日,むいか,sixth day of the month,6:e (månad)
+,,n5,other,六日,むいか,six days,sex dagar
+,,n5,other,向こう,むこう,over there,där borta
+,,n5,other,難しい,むずかしい,difficult,svårt
+,,n5,other,六つ,むっつ,six,sex
+,,n5,other,村,むら,village,by
+,,n5,other,目,め,eye,öga
+,,n5,other,メートル,メートル,metre,meter
+,,n5,other,眼鏡,めがね,glasses,glasögon
+,,n5,other,もう,もう,already,redan
 15,,n5,adverbial,もう一度,もういちど,again,igen
-,,n5,other,木曜日,もくようび,Thursday
-,,n5,verb,持つ,もつ,to hold
-,,n5,other,もっと,もっと,more
-,,n5,other,物,もの,thing
-,,n5,other,門,もん,gate
-,,n5,other,問題,もんだい,problem
-,,n5,other,八百屋,やおや,greengrocer
-,,n5,other,野菜,やさい,vegetable
-,,n5,other,易しい,やさしい,simple
-,,n5,other,易しい,やさしい,easy
-,,n5,other,安い,やすい,cheap
-,,n5,other,休み,やすみ,holiday
-,,n5,other,休み,やすみ,rest
-,,n5,verb,休む,やすむ,to rest
-,,n5,other,八つ,やっつ,eight
-,,n5,other,山,やま,mountain
-,,n5,verb,やる,やる,to do
-,,n5,other,夕方,ゆうがた,evening
-,,n5,other,夕飯,ゆうはん,dinner
-,,n5,other,郵便局,ゆうびんきょく,post office
-,,n5,other,昨夜,ゆうべ,last night
-,,n5,other,有名,ゆうめい,famous
-,,n5,other,雪,ゆき,snow
-,,n5,verb,行く,ゆく,to go
-,,n5,other,ゆっくりと,ゆっくりと,slowly
-,,n5,other,八日,ようか,eighth day of the month
-,,n5,other,八日,ようか,eight days
-,,n5,other,洋服,ようふく,western-style clothes
-,,n5,other,よく,よく,well
-,,n5,other,よく,よく,often
-,,n5,other,横,よこ,width
-,,n5,other,横,よこ,side
-,,n5,other,横,よこ,beside
-,,n5,other,四日,よっか,fourth day of the month
-,,n5,other,四日,よっか,four days
-,,n5,other,四つ,よっつ,four
-,,n5,verb,呼ぶ,よぶ,to invite
-,,n5,verb,呼ぶ,よぶ,to call out
-,,n5,verb,読む,よむ,to read
-,,n5,other,夜,よる,night
-,,n5,other,夜,よる,evening
-,,n5,other,弱い,よわい,weak
-,,n5,other,来月,らいげつ,next month
-,,n5,other,来週,らいしゅう,next week
-,,n5,other,来年,らいねん,next year
-,,n5,other,ラジオ,ラジオ,radio
-,,n5,other,ラジカセ,ラジカセ,radio cassette player
-,,n5,other,ラジオカセット,ラジオカセット,radio cassette player
-,,n5,other,りっぱ,りっぱ,splendid
-,,n5,other,留学生,りゅうがくせい,overseas student
-,,n5,other,両親,りょうしん,both parents
-,,n5,other,料理,りょうり,cuisine
-,,n5,other,旅行,りょこう,travel
-,,n5,other,零,れい,zero
-,,n5,other,冷蔵庫,れいぞうこ,refrigerator
-,,n5,other,レコード,レコード,record
-,,n5,other,レストラン,レストラン,restaurant
-,,n5,verb,練習,れんしゅうする,to practice
-,,n5,other,廊下,ろうか,corridor
-,,n5,other,六,ろく,six
-,,n5,other,ワイシャツ,ワイシャツ,business shirt
-,,n5,other,若い,わかい,young
-,,n5,verb,分かる,わかる,to be understood
-,,n5,verb,忘れる,わすれる,to forget
-,,n5,other,私,わたくし,(humble) I
-,,n5,other,私,わたし,I
-,,n5,verb,渡す,わたす,to hand over
-,,n5,verb,渡る,わたる,to go across
-,,n5,other,悪い,わるい,bad
-,,n5,other,より、ほう,より、ほう,Used for comparison.
+,,n5,other,木曜日,もくようび,Thursday,torsdag
+,,n5,verb,持つ,もつ,to hold,hålla
+,,n5,other,もっと,もっと,more,mer
+,,n5,other,物,もの,thing,sak
+,,n5,other,門,もん,gate,port;grind
+,,n5,other,問題,もんだい,problem,problem
+,,n5,other,八百屋,やおや,greengrocer,grönsaksaffär
+,,n5,other,野菜,やさい,vegetable,grönsak
+,hidden,n5,other,易しい,やさしい,simple,enkel
+,,n5,other,易しい,やさしい,easy,lätt
+,,n5,other,安い,やすい,cheap,billig
+,hidden,n5,other,休み,やすみ,holiday,semester
+,,n5,other,休み,やすみ,rest,vila
+,,n5,verb,休む,やすむ,to rest,vila
+,,n5,other,八つ,やっつ,eight,åtta
+,,n5,other,山,やま,mountain,berg
+,,n5,verb,やる,やる,to do,göra
+,,n5,other,夕方,ゆうがた,evening,kväll
+,,n5,other,夕飯,ゆうはん,dinner,middag
+,,n5,other,郵便局,ゆうびんきょく,post office,postkontor
+,,n5,other,昨夜,ゆうべ,last night,igår kväll
+,,n5,other,有名,ゆうめい,famous,berömd
+,,n5,other,雪,ゆき,snow,snö
+,,n5,verb,行く,ゆく,to go,gå
+,,n5,other,ゆっくりと,ゆっくりと,slowly,långsamt
+,,n5,other,八日,ようか,eighth day of the month,8:e (månad)
+,,n5,other,八日,ようか,eight days,8 dagar
+,,n5,other,洋服,ようふく,western-style clothes,kläder (från väst)
+,hidden,n5,other,よく,よく,well,bra
+,,n5,other,よく,よく,often,ofta
+,hidden,n5,other,横,よこ,width,bredd
+,hidden,n5,other,横,よこ,side,sida
+,,n5,other,横,よこ,beside,vid sidan av
+,,n5,other,四日,よっか,fourth day of the month,4:e (månad)
+,,n5,other,四日,よっか,four days,fyra dagar
+,,n5,other,四つ,よっつ,four,fyra
+,,n5,verb,呼ぶ,よぶ,to invite,bjuda in
+,,n5,verb,呼ぶ,よぶ,to call out,ropa ut
+,,n5,verb,読む,よむ,to read,läsa
+,,n5,other,夜,よる,night;evening,natt;kväll
+,,n5,other,弱い,よわい,weak,svag
+,,n5,other,来月,らいげつ,next month,nästa månad
+,,n5,other,来週,らいしゅう,next week,nästs vecka
+,,n5,other,来年,らいねん,next year,nästa år
+,,n5,other,ラジオ,ラジオ,radio,radio
+,,n5,other,ラジカセ,ラジカセ,radio cassette player,bandspelare
+,,n5,other,ラジオカセット,ラジオカセット,radio cassette player,bandspelare
+,,n5,other,りっぱ,りっぱ,splendid,utmärkt
+,,n5,other,留学生,りゅうがくせい,overseas student,utlandsstudent
+,,n5,other,両親,りょうしん,both parents,båda föräldrar
+,,n5,other,料理,りょうり,cuisine,kök
+,,n5,other,旅行,りょこう,travel,resande
+,,n5,other,零,れい,zero,noll
+,,n5,other,冷蔵庫,れいぞうこ,refrigerator,kylskåp
+,,n5,other,レコード,レコード,record,skiva
+,,n5,other,レストラン,レストラン,restaurant,resturang
+,,n5,verb,練習,れんしゅうする,to practice,öva
+,,n5,other,廊下,ろうか,corridor,korridor
+,,n5,other,六,ろく,six,sex
+,,n5,other,ワイシャツ,ワイシャツ,business shirt,skjorta
+,,n5,other,若い,わかい,young,ung
+,,n5,verb,分かる,わかる,to be understood,bli förstådd
+,,n5,verb,忘れる,わすれる,to forget,glömma
+,,n5,other,私,わたくし,(humble) I,jag (ödmjuk)
+,,n5,other,私,わたし,I,jag
+,,n5,verb,渡す,わたす,to hand over,lämna över
+,,n5,verb,渡る,わたる,to go across,korsa
+,,n5,other,悪い,わるい,bad,dålig
+,,n5,other,より、ほう,より、ほう,Used for comparison.,än (jämförelse)
