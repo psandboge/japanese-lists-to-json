@@ -2,7 +2,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 4,,n5,verb,会う,あう,to meet,möta
 ,hidden,n5,adjective,青,あお,blue,blå
 9,,n5,adjective,青い,あおい,blue,blå
-,hidden,n5,other,赤,あか,red,röd
+,hidden,n5,adjective,赤,あか,red,röd
 9,,n5,adjective,赤い,あかい,red,röd
 ,,n5,adjective,明い,あかるい,bright,ljus
 ,,n5,noun,秋,あき,autumn,höst
@@ -133,7 +133,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,伯父,おじさん,uncle,farbror;morbror
 ,hidden,n5,verb,押す,おす,stamp,stämpla
 ,,n5,verb,押す,おす,push,putta
-,hidden,n5,other,遅い,おそい,slow,långsam
+,hidden,n5,adjective,遅い,おそい,slow,långsam
 ,,n5,adjective,遅い,おそい,late,sen
 ,,n5,noun,お茶,おちゃ,green tea,grönt te
 ,,n5,noun,お手洗い,おてあらい,bathroom,badrum
@@ -163,7 +163,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,verb,降りる,おりる,to get off,kliva av
 ,,n5,verb,終る,おわる,to finish,avsluta
 ,,n5,noun,音楽,おんがく,music,musik
-,,n5,other,女,おんな,woman,kvinna
+,,n5,noun,女,おんな,woman,kvinna
 ,,n5,noun,女の子,おんなのこ,girl,flicka
 ,,n5,noun,外国,がいこく,foreign country,främmande land
 15,,n5,noun,外国人,がいこくじん,foreigner,utlänning
@@ -215,7 +215,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,verb,聞く,きく,hear,höra
 ,,n5,noun,北,きた,north,norr
 ,,n5,noun,ギター,ギター,guitar,gitarr
-,,n5,adjective,汚い,きたない,dirty,smutsig
+16,,n5,adjective,汚い,きたない,dirty,smutsig
 ,,n5,noun,喫茶店,きっさてん,coffee lounge,kafé
 ,,n5,noun,切手,きって,postage stamp,frimärke
 ,,n5,noun,切符,きっぷ,ticket,biljett
@@ -240,50 +240,50 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,銀行,ぎんこう,bank,bank
 ,,n5,temporal,金曜日,きんようび,Friday,fredag
 ,,n5,noun,薬,くすり,medicine,medicin
-,,n5,other,ください,ください,please,(ge mig...) tack
-,,n5,other,果物,くだもの,fruit,frukt
-,hidden,n5,other,口,くち,opening,öppning
-,,n5,other,口,くち,mouth,mun
-,,n5,other,靴,くつ,shoes,skor
-,,n5,other,靴下,くつした,socks,strumpor
-,,n5,other,国,くに,country,nation
-,,n5,other,曇り,くもり,cloudy weather,molnigt
+,,n5,adverb,ください,ください,please,(ge mig...) tack
+,,n5,noun,果物,くだもの,fruit,frukt
+,hidden,n5,noun,口,くち,opening,öppning
+,,n5,noun,口,くち,mouth,mun
+,,n5,noun,靴,くつ,shoes,skor
+,,n5,noun,靴下,くつした,socks,strumpor
+,,n5,noun,国,くに,country,nation
+,,n5,noun,曇り,くもり,cloudy weather,molnigt
 ,hidden,n5,verb,曇る,くもる,to become dim,mörkna
 ,,n5,verb,曇る,くもる,to become cloudy,bli molnigt
-,,n5,other,暗い,くらい,gloomy,dystert
-,,n5,other,クラス,クラス,class,klass
-,,n5,other,グラム,グラム,gram,gramm
+,,n5,adjective,暗い,くらい,gloomy,dystert
+,,n5,noun,クラス,クラス,class,klass
+,,n5,noun,グラム,グラム,gram,gramm
 ,,n5,verb,来る,くる,to come,komma
-,hidden,n5,other,車,くるま,vehicle,fordon
-,,n5,other,車,くるま,car,bil
-,,n5,other,黒,くろ,black,svart
-,,n5,other,黒い,くろい,black,svart
-,,n5,other,警官,けいかん,policeman,polisman
+,hidden,n5,noun,車,くるま,vehicle,fordon
+,,n5,noun,車,くるま,car,bil
+,,n5,adjective,黒,くろ,black,svart
+,,n5,adjective,黒い,くろい,black,svart
+,,n5,noun,警官,けいかん,policeman,polisman
 ,,n5,other,今朝,けさ,this morning,i morse
 ,,n5,verb,消す,けす,to turn off power,stänga av
 ,,n5,verb,消す,けす,to erase,radera
 ,,n5,other,結構,けっこう,enough,tillräckligt
 ,,n5,other,結構,けっこう,splendid,utmärkt
-,,n5,other,結婚,けっこん,marriage,giftermål
+,,n5,noun,結婚,けっこん,marriage,giftermål
 ,,n5,other,月曜日,げつようび,Monday,måndag
-,,n5,other,玄関,げんかん,entry hall,farstu
+,,n5,noun,玄関,げんかん,entry hall,farstu
 ,,n5,other,元気,げんき,vitality,vitalitet
 ,,n5,other,元気,げんき,health,hälsa
 ,,n5,other,五,ご,five,fem
-,,n5,other,公園,こうえん,park,park
-,,n5,other,交差点,こうさてん,intersection,korsning
+,,n5,noun,公園,こうえん,park,park
+,,n5,noun,交差点,こうさてん,intersection,korsning
 13,,n5,noun,紅茶,こうちゃ,black tea,svart te
-,,n5,other,交番,こうばん,police box,poliskiosk
-,,n5,other,声,こえ,voice,röst
-,,n5,other,コート,コート,tennis court,tennisbana
-,,n5,other,コート,コート,coat,rock
-,,n5,other,コーヒー,コーヒー,coffee,kaffe
+,,n5,noun,交番,こうばん,police box,poliskiosk
+,,n5,noun,声,こえ,voice,röst
+,,n5,noun,コート,コート,tennis court,tennisbana
+,,n5,noun,コート,コート,coat,rock
+,,n5,noun,コーヒー,コーヒー,coffee,kaffe
 ,,n5,other,ここ,ここ,here,här
-,,n5,other,午後,ごご,afternoon,eftermiddag
+1,,n5,temporal,午後,ごご,afternoon,eftermiddag
 ,,n5,other,九日,ここのか,ninth day,nionde (i månad)
 ,,n5,other,九日,ここのか,nine days,nio dagar
 ,,n5,other,九つ,ここのつ,nine,nio
-,,n5,other,午前,ごぜん,morning,morgon
+1,,n5,temporal,午前,ごぜん,morning,morgon
 ,,n5,verb,答える,こたえる,to answer,svara
 ,,n5,other,こちら,こちら,this person;this way,den här personen;den här vägen
 ,,n5,other,こっち,こっち,this person;this way,den här personen;den här vägen
@@ -693,14 +693,14 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,水,みず,water,vatten
 13,,n5,noun,店,みせ,shop,affär
 ,,n5,verb,見せる,みせる,to show,visa
-,,n5,other,道,みち,street,gata
-,hidden,n5,other,三日,みっか,third day of the month,3:e (månad)
-,,n5,other,三日,みっか,three days,tre dagar
-,,n5,other,三つ,みっつ,three,tre
-,,n5,other,緑,みどり,green,grön
-,,n5,other,皆さん,みなさん,everyone,alla
-,,n5,other,南,みなみ,south,syd
-,,n5,other,耳,みみ,ear,öra
+16,,n5,noun,道,みち,street,gata
+,hidden,n5,noun,三日,みっか,third day of the month,3:e (månad)
+,,n5,noun,三日,みっか,three days,tre dagar
+,,n5,numeric,三つ,みっつ,three,tre
+,,n5,adjective,緑,みどり,green,grön
+,,n5,noun,皆さん,みなさん,everyone,alla
+,,n5,noun,南,みなみ,south,syd
+,,n5,noun,耳,みみ,ear,öra
 ,hidden,n5,verb,見る 観る,みる,to watch,titta
 ,,n5,verb,見る 観る,みる,to see,se
 ,,n5,other,みんな,みんな,everyone,alla
@@ -709,8 +709,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,向こう,むこう,over there,där borta
 ,,n5,other,難しい,むずかしい,difficult,svårt
 ,,n5,other,六つ,むっつ,six,sex
-,,n5,other,村,むら,village,by
-,,n5,other,目,め,eye,öga
+,,n5,noun,村,むら,village,by
+,,n5,noun,目,め,eye,öga
 ,,n5,other,メートル,メートル,metre,meter
 ,,n5,other,眼鏡,めがね,glasses,glasögon
 ,,n5,other,もう,もう,already,redan
@@ -763,16 +763,16 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,other,ラジカセ,ラジカセ,radio cassette player,bandspelare
 ,,n5,other,ラジオカセット,ラジオカセット,radio cassette player,bandspelare
 ,,n5,other,りっぱ,りっぱ,splendid,utmärkt
-,,n5,other,留学生,りゅうがくせい,overseas student,utlandsstudent
-,,n5,other,両親,りょうしん,both parents,båda föräldrar
-,,n5,other,料理,りょうり,cuisine,kök
+,,n5,noun,留学生,りゅうがくせい,overseas student,utlandsstudent
+,,n5,noun,両親,りょうしん,both parents,båda föräldrar
+,,n5,noun,料理,りょうり,cuisine,kök
 ,,n5,other,旅行,りょこう,travel,resande
 ,,n5,other,零,れい,zero,noll
 ,,n5,other,冷蔵庫,れいぞうこ,refrigerator,kylskåp
-,,n5,other,レコード,レコード,record,skiva
+,,n5,noun,レコード,レコード,record,skiva
 ,,n5,other,レストラン,レストラン,restaurant,resturang
 ,,n5,verb,練習,れんしゅうする,to practice,öva
-,,n5,other,廊下,ろうか,corridor,korridor
+,,n5,noun,廊下,ろうか,corridor,korridor
 ,,n5,other,六,ろく,six,sex
 ,,n5,other,ワイシャツ,ワイシャツ,business shirt,skjorta
 ,,n5,other,若い,わかい,young,ung

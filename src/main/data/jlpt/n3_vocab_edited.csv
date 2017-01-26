@@ -754,14 +754,15 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|瞬間|しゅんかん|moment,second,instant
 |hidden|n3|other|順調|じゅんちょう|favourable,doing well,O.K.,all right
 |hidden|n3|other|順番|じゅんばん|turn (in line),order of things
-|hidden|n3|other|準備|じゅんび・する|preparation,arrangements,provision,reserve, to prepare
-|hidden|n3|other|小|しょう|small
-|hidden|n3|other|章|しょう|(1) chapter,section,(2) medal
-|hidden|n3|other|賞|しょう|prize,award
-|hidden|n3|other|使用|しよう|use,application,employment,utilization
-|hidden|n3|other|上|じょう|(1) first volume,(2) superior quality,
-|hidden|n3|other|障害|しょうがい|obstacle,impediment (fault),damage
-|hidden|n3|other|奨学金|しょうがくきん|scholarship
+||n3|noun|準備|じゅんび|preparation,arrangements,provision,reserve|förberedelse,reserver
+||n3|verb|準備する|じゅんびする|to prepare|förbereda
+||n3|adjective|小|しょう|small|liten
+||n3|noun|章|しょう|(1) chapter,section,(2) medal|kapitel,medalj
+||n3|noun|賞|しょう|prize,award|pris,belöning
+||n3|noun|使用|しよう|use,application,employment,utilization|användning
+||n3|noun|上|じょう|(1) first volume,(2) superior quality|första delen,bästa kvalitet
+||n3|noun|障害|しょうがい|obstacle,impediment (fault),damage|hinder,skada
+16||n3|noun|奨学金|しょうがくきん|scholarship|stipendium
 |hidden|n3|other|乗客|じょうきゃく|passenger
 |hidden|n3|other|上京|じょうきょう|proceeding to the capital (Tokyo)
 |hidden|n3|other|状況|じょうきょう|state of affairs,situation,circumstances
@@ -820,11 +821,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|信号|しんごう|traffic lights,signal,semaphore
 |hidden|n3|other|人工|じんこう|artificial,manmade,human work,human skill,artificiality
 |hidden|n3|other|深刻|しんこく|serious
-|hidden|n3|other|診察|しんさつ|medical examination
-|hidden|n3|other|人種|じんしゅ|race (of people)
-|hidden|n3|other|信じる|しんじる|to believe,to place trust in
-|hidden|n3|other|人生|じんせい|(human) life (i.e. conception to death)
-|hidden|n3|other|親戚|しんせき|relative
+||n3|noun|診察|しんさつ|medical examination|läkarundersökning
+||n3|noun|人種|じんしゅ|race (of people)|människoras
+||n3|verb|信じる|しんじる|to believe,to place trust in|tro,lita på
+||n3|noun|人生|じんせい|(human) life (i.e. conception to death)|livstid
+16||n3|noun|親戚|しんせき|relative|släkting
 |hidden|n3|other|新鮮|しんせん|fresh
 |hidden|n3|other|心臓|しんぞう|heart (organ)
 |hidden|n3|other|身体|しんたい|the body

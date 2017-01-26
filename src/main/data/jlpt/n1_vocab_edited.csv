@@ -1168,10 +1168,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|佐|さ|help
 |hidden|n1|other|再|さい|re-, again, repeated
 |hidden|n1|other|差異|さい|difference, disparity
-|hidden|n1|other|歳|さい|#NAME?
-|hidden|n1|other|再会|さいかい|another meeting, meeting again, reunion
-|hidden|n1|other|災害|さいがい|calamity, disaster, misfortune
-|hidden|n1|other|細菌|さいきん|bacillus, bacterium, germ
+1||n1|counter|歳|さい|years old|år gammal
+||n1|noun|再会|さいかい|another meeting, meeting again, reunion|uppföljningsmöte,återträff
+||n1|noun|災害|さいがい|calamity, disaster, misfortune|olycka,katastrof
+||n1|noun|細菌|さいきん|bacillus, bacterium, germ|bakterie,bacill
 |hidden|n1|other|細工|さいく|work, craftsmanship, tactics, trick
 |hidden|n1|other|採掘|さいくつ|mining
 |hidden|n1|other|採決|さいけつ|vote, roll call
@@ -1241,10 +1241,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|拐う|さらう|to carry off, to run away with, to kidnap, to abduct
 |hidden|n1|other|爽やか|さわやか|fresh, refreshing, invigorating, clear, fluent, eloquent
 |hidden|n1|other|障る|さわる|to hinder, to interfere with, to affect, to do one harm, to be harmful to
-|hidden|n1|other|酸|さん|acid
-|hidden|n1|other||さん|Mr or Mrs
-|hidden|n1|other|酸化|さんか|oxidation
-|hidden|n1|other|山岳|さんがく|mountains
+||n1|noun|酸|さん|acid|syra
+1||n1|suffix|さん|さん|Mr;Mrs|herr;fru;fröken
+||n1|noun|酸化|さんか|oxidation|oxidering
+||n1|noun|山岳|さんがく|mountains|berg
 |hidden|n1|other|産休|さんきゅう|maternity leave
 |hidden|n1|other|桟橋|さんきょう|wharf, bridge, jetty, pier
 |hidden|n1|other|参議院|さんぎいん|House of Councillors
@@ -3415,9 +3415,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other||パンク|1. (abbr) puncture, bursting, 2. punk
 |hidden|n1|other||ヒント|hint
 |hidden|n1|other||ビールス|virus
-|hidden|n1|other||ビジネス|business
-|hidden|n1|other||ファイト|fight
-|hidden|n1|other||ファイル|file
+||n1|noun|ビジネス|ビジネス|business|affärer
+||n1|noun|ファイト|ファイト|fight|slagsmål
+16||n1|noun|ファイル|ファイル|file|mapp
 |hidden|n1|other||ファン|fan, fun
 |hidden|n1|other||フィルター|(camera) filter
 |hidden|n1|other||フェリー|ferry
