@@ -13,60 +13,60 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,temporal,明日,あす・あした,tomorrow,imorgon
 ,,n4,verb,遊び,あそび,play,leka
 ,,n4,verb,集る,あつまる,to gather,samla ihop
-,,n4,verb,集める,あつめる,to collect something,samla
+16,,n4,verb,集める,あつめる,to collect something,samla
 ,,n4,verb,謝る,あやまる,to apologize,be om ursäkt
 ,,n4,noun,安心,あんしん,relief,lindring
 ,,n4,noun,安全,あんぜん,safety,säkerhet
 ,,n4,adjective,あんな,あんな,such,sådan
 ,,n4,adverb,以下,いか,less than,mindre än
-,hidden,n4,other,以外,いがい,with the exception of
-,hidden,n4,other,医学,いがく,medical science
-,hidden,n4,other,生きる,いきる,to live
-,hidden,n4,other,意見,いけん,opinion
-,hidden,n4,other,石,いし,stone
-,hidden,n4,other,いじめる,いじめる,to tease
+,,n4,preposition,以外,いがい,with the exception of,förutom
+,,n4,noun,医学,いがく,medical science,medicin (vetenskap)
+,,n4,verb,生きる,いきる,to live,leva
+,,n4,noun,意見,いけん,opinion,åsikt
+,,n4,noun,石,いし,stone,sten
+,,n4,verb,いじめる,いじめる,to tease,retas
 ,hidden,n4,other,以上,いじょう,more than; this is all
-,hidden,n4,other,急ぐ,いそぐ,to hurry
-,hidden,n4,other,致す,いたす,(humble) to do
+,hidden,n4,verb,急ぐ,いそぐ,to hurry
+,hidden,n4,verb,致す,いたす,(humble) to do
 ,hidden,n4,other,一度,いちど,once
 ,hidden,n4,other,一生懸命,いっしょうけんめい,with utmost effort
 ,hidden,n4,other,いっぱい,いっぱい,full
 ,hidden,n4,other,糸,いと,thread
 ,hidden,n4,other,以内,いない,within
 ,hidden,n4,other,田舎,いなか,countryside
-,hidden,n4,other,祈る,いのる,to pray
-,hidden,n4,other,いらっしゃる,いらっしゃる,(respectful) to be; to come or to go
-,hidden,n4,other,植える,うえる,to plant; to grow
+,hidden,n4,verb,祈る,いのる,to pray
+,hidden,n4,verb,いらっしゃる,いらっしゃる,(respectful) to be; to come or to go
+,hidden,n4,verb,植える,うえる,to plant; to grow
 ,hidden,n4,other,受付,うけつけ,receipt
-,hidden,n4,other,受ける,うける,to take a lesson or test
-,hidden,n4,other,動く,うごく,to move
+,hidden,n4,verb,受ける,うける,to take a lesson or test
+,hidden,n4,verb,動く,うごく,to move
 ,hidden,n4,other,うち,うち,within
-,hidden,n4,other,打つ,うつ,to hit
+,hidden,n4,verb,打つ,うつ,to hit
 ,hidden,n4,other,美しい,うつくしい,beautiful
-,hidden,n4,other,写す,うつす,to copy or photograph
-,hidden,n4,other,移る,うつる,to move house or transfer
+,hidden,n4,verb,写す,うつす,to copy or photograph
+,hidden,n4,verb,移る,うつる,to move house or transfer
 ,hidden,n4,other,腕,うで,arm
 ,hidden,n4,other,裏,うら,reverse side
 ,hidden,n4,other,売り場,うりば,place where things are sold
 ,hidden,n4,other,うん,うん,(informal) yes
 ,hidden,n4,other,運転手,うんてんしゅ,driver
 ,hidden,n4,other,枝,えだ,branch; twig
-,hidden,n4,other,選ぶ,えらぶ,to choose
-,hidden,n4,other,遠慮,えんりょ・する,to be reserved; to be restrained
-,hidden,n4,other,おいでになる,おいでになる,(respectful) to be
+,hidden,n4,verb,選ぶ,えらぶ,to choose
+,hidden,n4,verb,遠慮,えんりょ・する,to be reserved; to be restrained
+,hidden,n4,verb,おいでになる,おいでになる,(respectful) to be
 ,hidden,n4,other,お祝い,おいわい,congratulation
 ,hidden,n4,other,おかげ,おかげ,owing to; thanks to
 ,hidden,n4,other,おかしい,おかしい,strange or funny
 ,hidden,n4,other,億,おく,one hundred million
 ,hidden,n4,other,屋上,おくじょう,rooftop
 ,hidden,n4,other,贈り物,おくりもの,gift
-,hidden,n4,other,送る,おくる,to send
-,hidden,n4,other,遅れる,おくれる,to be late
-,hidden,n4,other,起す,おこす,to wake
-,hidden,n4,other,行う,おこなう,to do
-,hidden,n4,other,怒る,おこる,to get angry; to be angry
-,hidden,n4,other,押し入れ,おしいれ,closet
-,hidden,n4,other,お嬢さん,おじょうさん,young lady
+14,,n4,verb,送る,おくる,to send,skicka
+,,n4,verb,遅れる,おくれる,to be late,vara sen
+16,,n4,verb,起す,おこす,to wake,väcka
+,,n4,verb,行う,おこなう,to do,göra
+,,n4,verb,怒る,おこる,to get angry; to be angry,bli arg;vara arg
+,,n4,noun,押し入れ,おしいれ,closet,skåp
+,,n4,noun,お嬢さん,おじょうさん,young lady,ung dam
 13,,n4,noun,お宅,おたく,(polite) your house,ditt hus (artigt)
 ,,n4,verb,落る,おちる,to fall or drop,falla
 ,,n4,verb,おっしゃる,おっしゃる,(respectful) to say,säga (artig)
@@ -86,10 +86,10 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,表,おもて,the front,framsidan
 16,,n4,noun,親,おや,parents,förälder
 ,hidden,n4,other,泳ぎ方,およぎかた,way of swimming
-,hidden,n4,other,下りる,おりる,to get off; to descend
-,hidden,n4,other,折る,おる,to break or to fold
+,hidden,n4,verb,下りる,おりる,to get off; to descend
+,hidden,n4,verb,折る,おる,to break or to fold
 ,hidden,n4,other,お礼,おれい,expression of gratitude
-,hidden,n4,other,折れる,おれる,to break or be folded
+,hidden,n4,verb,折れる,おれる,to break or be folded
 ,hidden,n4,other,終わり,おわり,the end
 ,hidden,n4,other,海岸,かいがん,coast
 ,hidden,n4,other,会議,かいぎ,meeting
@@ -97,18 +97,18 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,会場,かいじょう,assembly hall or meeting place
 ,hidden,n4,other,会話,かいわ,conversation
 ,hidden,n4,other,帰り,かえり,return
-,hidden,n4,other,変える,かえる,to change
+,hidden,n4,verb,変える,かえる,to change
 ,hidden,n4,other,科学,かがく,science
 ,hidden,n4,other,鏡,かがみ,mirror
-,hidden,n4,other,掛ける,かける,to hang something
-,hidden,n4,other,飾る,かざる,to decorate
+,hidden,n4,verb,掛ける,かける,to hang something
+,hidden,n4,verb,飾る,かざる,to decorate
 ,hidden,n4,other,火事,かじ,fire
 ,hidden,n4,other,ガス,ガス,gas
 ,hidden,n4,other,堅/硬/固い,かたい,hard
 ,hidden,n4,other,形,かたち,shape
-,hidden,n4,other,片付ける,かたづける,to tidy up
+,hidden,n4,verb,片付ける,かたづける,to tidy up
 ,hidden,n4,other,課長,かちょう,section manager
-,hidden,n4,other,勝つ,かつ,to win
+,hidden,n4,verb,勝つ,かつ,to win
 ,hidden,n4,other,家内,かない,housewife
 13,,n4,adjective,悲しい,かなしい,sad,ledsen
 ,hidden,n4,other,必ず,かならず,certainly;necessarily
@@ -116,20 +116,20 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,彼女,かのじょ,she;girlfriend
 ,hidden,n4,other,壁,かべ,wall
 ,hidden,n4,other,髪,かみ,hair
-,hidden,n4,other,噛む,かむ,to bite;to chew
-,hidden,n4,other,通う,かよう,to commute
+,hidden,n4,verb,噛む,かむ,to bite;to chew
+,hidden,n4,verb,通う,かよう,to commute
 ,hidden,n4,other,彼,かれ,he;boyfriend
-,hidden,n4,other,乾く,かわく,to get dry
+,hidden,n4,verb,乾く,かわく,to get dry
 ,hidden,n4,other,代わり,かわり,substitute;alternate
-,hidden,n4,other,変わる,かわる,to change
-,hidden,n4,other,考える,かんがえる,to consider
+,hidden,n4,verb,変わる,かわる,to change
+,hidden,n4,verb,考える,かんがえる,to consider
 ,hidden,n4,other,関係,かんけい,relationship
 ,hidden,n4,other,看護師,かんごし,nurse
 ,hidden,n4,other,簡単,かんたん,simple
 ,hidden,n4,other,気,き,spirit;mood
 ,hidden,n4,other,機会,きかい,opportunity
 ,hidden,n4,other,危険,きけん,danger
-,hidden,n4,other,聞こえる,きこえる,to be heard
+,hidden,n4,verb,聞こえる,きこえる,to be heard
 ,hidden,n4,other,汽車,きしゃ,steam train
 ,hidden,n4,other,技術,ぎじゅつ,art;technology;skill
 ,hidden,n4,other,季節,きせつ,season
@@ -157,9 +157,9 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,草,くさ,grass
 ,hidden,n4,other,首,くび,neck
 ,hidden,n4,other,雲,くも,cloud
-,hidden,n4,other,比べる,くらべる,to compare
-,hidden,n4,other,くれる,くれる,to give
-,hidden,n4,other,暮れる,くれる,to get dark;to come to an end
+,hidden,n4,verb,比べる,くらべる,to compare
+,hidden,n4,verb,くれる,くれる,to give
+,hidden,n4,verb,暮れる,くれる,to get dark;to come to an end
 ,hidden,n4,other,君,くん,suffix for familiar young male
 ,hidden,n4,other,毛,け,hair or fur
 ,hidden,n4,other,経済,けいざい,finance;economy
@@ -190,38 +190,38 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,国際,こくさい,international
 ,hidden,n4,other,心,こころ,heart; mind; core
 ,hidden,n4,other,御主人,ごしゅじん,(honorable) your husband
-,hidden,n4,other,故障,こしょう・する,to break-down
-,hidden,n4,other,ご存じ,ごぞんじ,(respect form ) to know
+,hidden,n4,verb,故障,こしょうする,to break-down
+,hidden,n4,verb,ご存じ,ごぞんじ,(respect form ) to know
 ,hidden,n4,other,答,こたえ,response
 ,hidden,n4,other,ごちそう,ごちそう,a feast
 ,hidden,n4,other,小鳥,ことり,small bird
 ,hidden,n4,other,このあいだ,このあいだ,the other day;recently
 ,hidden,n4,other,このごろ,このごろ,these days;nowadays
 ,hidden,n4,other,細かい,こまかい,small; fine
-,hidden,n4,other,込む,こむ,to include
-,hidden,n4,other,米,こめ,uncooked rice
-,hidden,n4,other,ごらんになる,ごらんになる,(respectful) to see
-,hidden,n4,other,これから,これから,after this
-,hidden,n4,other,怖い,こわい,frightening
-,hidden,n4,other,壊す,こわす,to break
-,hidden,n4,other,壊れる,こわれる,to be broken
-,hidden,n4,other,今度,こんど,now;next time
-,hidden,n4,other,今夜,こんや,tonight
+,,n4,verb,込む,こむ,to include,inkludera
+,,n4,noun,米,こめ,uncooked rice,ris (råvara)
+,,n4,verb,ごらんになる,ごらんになる,(respectful) to see,se (artigt)
+,,n4,adverb,これから,これから,after this,från och med nu
+,,n4,adjective,怖い,こわい,frightening,skrämmande
+,,n4,verb,壊す,こわす,to break,gå sönder
+,,n4,verb,壊れる,こわれる,to be broken,vara trasig
+,,n4,temporal,今度,こんど,now;next time,nu;nästa gång
+,,n4,temporal,今夜,こんや,tonight,i natt
 15,,n4,verb,最近,さいきん,latest;nowadays,nyligen;nuförtiden
 ,,n4,noun,最後,さいご,last;end,sista;slutet
 ,,n4,temporal,最初,さいしょ,beginning;first,början;först
 ,,n4,noun,坂,さか,slope;hill,sluttning;kulle
 15,,n4,verb,探す,さがす,to look for,titta efter
-,hidden,n4,other,下る,さがる,to get down;to descend
+,hidden,n4,verb,下る,さがる,to get down;to descend
 ,hidden,n4,other,盛ん,さかん,popularity;prosperous
-,hidden,n4,other,下げる,さげる,to hang;to lower;to move back
-,hidden,n4,other,差し上げる,さしあげる,(polite) to give
+,hidden,n4,verb,下げる,さげる,to hang;to lower;to move back
+,hidden,n4,verb,差し上げる,さしあげる,(polite) to give
 ,hidden,n4,other,,さっき,some time ago
 ,hidden,n4,other,寂しい,さびしい,lonely
 ,hidden,n4,other,さ来月,さらいげつ,the month after next
 ,hidden,n4,other,さ来週,さらいしゅう,the week after next
-,hidden,n4,other,騒ぐ,さわぐ,to make noise;to be excited
-,hidden,n4,other,触る,さわる,to touch
+,hidden,n4,verb,騒ぐ,さわぐ,to make noise;to be excited
+,hidden,n4,verb,触る,さわる,to touch
 ,hidden,n4,other,産業,さんぎょう,industry
 ,hidden,n4,other,残念,ざんねん,disappointment
 ,hidden,n4,other,市,し,city
@@ -255,7 +255,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,将来,しょうらい,future;prospects
 ,hidden,n4,other,食料品,しょくりょうひん,groceries
 ,hidden,n4,other,女性,じょせい,woman
-,hidden,n4,other,知らせる,しらせる,to notify
+,hidden,n4,verb,知らせる,しらせる,to notify
 15,,n4,verb,調べる,しらべる,to investigate,undersöka
 ,,n4,noun,人口,じんこう,population,befolkning
 ,,n4,noun,神社,じんじゃ,Shinto shrine,Shintohelgedom
@@ -266,35 +266,35 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,数学,すうがく,mathematics;arithmetic,matematik
 ,,n4,verb,過ぎる,すぎる,to exceed,överträffa
 13,,n4,adjective,凄い,すごい,terrific,fantastisk
-,hidden,n4,other,進む,すすむ,to make progress
+,hidden,n4,verb,進む,すすむ,to make progress
 ,hidden,n4,other,,すっかり,completely
 ,hidden,n4,other,,すっと,straight;all of a sudden
-,hidden,n4,other,捨てる,すてる,to throw away
+,hidden,n4,verb,捨てる,すてる,to throw away
 ,hidden,n4,other,砂,すな,sand
-,hidden,n4,other,滑る,すべる,to slide;to slip
+,hidden,n4,verb,滑る,すべる,to slide;to slip
 ,hidden,n4,other,隅,すみ,corner;nook
-,hidden,n4,other,済む,すむ,to finish
+,hidden,n4,verb,済む,すむ,to finish
 ,hidden,n4,other,,すり,pickpocket
 ,hidden,n4,other,,すると,then
-,hidden,n4,other,生活,せいかつ・する,to live
-,hidden,n4,other,生産,せいさん・する,to produce
-,hidden,n4,other,政治,せいじ,politics;government
-,hidden,n4,other,西洋,せいよう,western countries
-,hidden,n4,other,世界,せかい,the world
-,hidden,n4,other,席,せき,seat
-,hidden,n4,other,説明,せつめい,explanation
+,,n4,verb,生活する,せいかつする,to live,leva
+,,n4,verb,生産する,せいさんする,to produce,producera
+,,n4,noun,政治,せいじ,politics;government,politik
+,,n4,noun,西洋,せいよう,western countries,västvärlden
+,,n4,noun,世界,せかい,the world,världen
+,,n4,noun,席,せき,seat,sittplats
+16,,n4,noun,説明,せつめい,explanation,förklaring
 ,hidden,n4,other,背中,せなか,back of the body
 ,hidden,n4,other,線,せん,line
 ,hidden,n4,other,戦争,せんそう,war
 ,hidden,n4,other,先輩,せんぱい,senior
 ,hidden,n4,other,,そう,really
-,hidden,n4,other,育てる,そだてる,to rear;to bring up
+,hidden,n4,verb,育てる,そだてる,to rear;to bring up
 ,hidden,n4,other,卒業,そつぎょう,graduation
 ,hidden,n4,other,祖父,そふ,grandfather
 ,hidden,n4,other,祖母,そぼ,grandmother
 ,hidden,n4,other,,それで,because of that
 ,hidden,n4,other,,それに,moreover
-,hidden,n4,other,,それほど,to that extent
+,hidden,n4,verb,,それほど,to that extent
 ,hidden,n4,other,,そろそろ,gradually;soon
 ,hidden,n4,other,,そんな,that sort of
 ,hidden,n4,other,,そんなに,so much;like that
@@ -305,27 +305,27 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,adverb,たいてい,たいてい,usually,vanligtvis
 ,,n4,adverb,大分,だいぶ,greatly,storligen
 16,,n4,noun,台風,たいふう,typhoon,tyfon
-,hidden,n4,other,倒れる,たおれる,to break down
+,hidden,n4,verb,倒れる,たおれる,to break down
 ,hidden,n4,other,,だから,so;therefore
 ,hidden,n4,other,確か,たしか,definite
-,hidden,n4,other,足す,たす,to add a number
-,hidden,n4,other,訪ねる,たずねる,to visit
-,hidden,n4,other,尋ねる,たずねる,to ask
+,hidden,n4,verb,足す,たす,to add a number
+,hidden,n4,verb,訪ねる,たずねる,to visit
+,hidden,n4,verb,尋ねる,たずねる,to ask
 ,hidden,n4,other,正しい,ただしい,correct
 ,hidden,n4,other,畳,たたみ,Japanese straw mat
-,hidden,n4,other,立てる,たてる,to stand something up
-,hidden,n4,other,建てる,たてる,to build
+,hidden,n4,verb,立てる,たてる,to stand something up
+,hidden,n4,verb,建てる,たてる,to build
 ,hidden,n4,other,例えば,たとえば,for example
 ,hidden,n4,other,棚,たな,shelves
 ,hidden,n4,other,楽しみ,たのしみ,joy
-,hidden,n4,other,楽む,たのしむ,to enjoy oneself
+,hidden,n4,verb,楽む,たのしむ,to enjoy oneself
 ,hidden,n4,other,,たまに,occasionally
 ,hidden,n4,other,為,ため,in order to
-,hidden,n4,other,足りる,たりる,to be enough
+,hidden,n4,verb,足りる,たりる,to be enough
 ,hidden,n4,other,男性,だんせい,male
 ,hidden,n4,other,暖房,だんぼう,heating
 ,hidden,n4,other,血,ち,blood
-,hidden,n4,other,,チェック・する,to check
+,hidden,n4,verb,チェックする,チェックする,to check
 ,hidden,n4,other,力,ちから,strength;power
 ,hidden,n4,other,,ちっとも,not at all (used with a negative verb)
 ,hidden,n4,other,,ちゃん,suffix for familiar person
@@ -334,20 +334,20 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,注射,ちゅうしゃ,injection
 ,hidden,n4,other,駐車場,ちゅうしゃじょう,parking lot
 ,hidden,n4,other,地理,ちり,geography
-,hidden,n4,other,捕まえる,つかまえる,to seize
-,hidden,n4,other,付く,つく,to be attached
-,hidden,n4,other,漬ける,つける,to soak;to pickle
+,hidden,n4,verb,捕まえる,つかまえる,to seize
+,hidden,n4,verb,付く,つく,to be attached
+,hidden,n4,verb,漬ける,つける,to soak;to pickle
 ,hidden,n4,other,都合,つごう,circumstances;convenience
-,hidden,n4,other,伝える,つたえる,to report
-,hidden,n4,other,続く,つづく,to be continued
-,hidden,n4,other,続ける,つづける,to continue
-,hidden,n4,other,包む,つつむ,to wrap
+,hidden,n4,verb,伝える,つたえる,to report
+,hidden,n4,verb,続く,つづく,to be continued
+,hidden,n4,verb,続ける,つづける,to continue
+,hidden,n4,verb,包む,つつむ,to wrap
 ,hidden,n4,other,妻,つま,my wife
 ,hidden,n4,other,,つもり,intention
-,hidden,n4,other,釣る,つる,to fish
+,hidden,n4,verb,釣る,つる,to fish
 ,hidden,n4,other,丁寧,ていねい,polite
 ,hidden,n4,other,適当,てきとう,suitability
-,hidden,n4,other,手伝う,てつだう,to assist
+,hidden,n4,verb,手伝う,てつだう,to assist
 ,hidden,n4,other,手袋,てぶくろ,glove
 ,hidden,n4,other,寺,てら,temple
 ,hidden,n4,other,点,てん,point;dot
@@ -361,56 +361,56 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,,とうとう,finally; after all
 ,hidden,n4,other,動物園,どうぶつえん,zoo
 ,hidden,n4,other,遠く,とおく,distant
-,hidden,n4,other,通る,とおる,to go through
+,hidden,n4,verb,通る,とおる,to go through
 ,hidden,n4,other,特に,とくに,particularly;especially
 ,hidden,n4,other,特別,とくべつ,special
 ,hidden,n4,other,,とこや,barber
 ,hidden,n4,other,途中,とちゅう,on the way
 ,hidden,n4,other,特急,とっきゅう,limited express train (faster than an express train)
-,hidden,n4,other,届ける,とどける,to send; to deliver; to report
-,hidden,n4,other,泊まる,とまる,to lodge at
-,hidden,n4,other,止める,とめる,to stop something
-,hidden,n4,other,取り替える,とりかえる,to exchange
+,hidden,n4,verb,届ける,とどける,to send; to deliver; to report
+,hidden,n4,verb,泊まる,とまる,to lodge at
+,hidden,n4,verb,止める,とめる,to stop something
+,hidden,n4,verb,取り替える,とりかえる,to exchange
 ,hidden,n4,other,泥棒,どろぼう,thief
 ,hidden,n4,other,,どんどん,more and more
-,hidden,n4,other,直す,なおす,to fix;to repair
-,hidden,n4,other,直る,なおる,to be fixed;to be repaired
-,hidden,n4,other,治る,なおる,to be cured;to heal
+16,hidden,n4,verb,直す,なおす,to fix;to repair
+,,n4,verb,直る,なおる,to be fixed;to be repaired,fixas;repareras
+,,n4,verb,治る,なおる,to be cured;to heal,bli botad;helas
 13,,n4,verb,泣く,なく,to weep,gråta
-,hidden,n4,other,無くなる,なくなる,to disappear;to get lost
-,hidden,n4,other,亡くなる,なくなる,to die
-,hidden,n4,other,投げる,なげる,to throw or cast away
-,hidden,n4,other,,なさる,(respectful) to do
-,hidden,n4,other,鳴る,なる,to sound
+,,n4,verb,無くなる,なくなる,to disappear;to get lost,försvinna
+,,n4,verb,亡くなる,なくなる,to die,dö
+,,n4,verb,投げる,なげる,to throw or cast away,slänga;kasta
+,hidden,n4,verb,,なさる,(respectful) to do
+,hidden,n4,verb,鳴る,なる,to sound
 ,hidden,n4,other,,なるべく,as much as possible
 ,hidden,n4,other,,なるほど,now I understand
-,hidden,n4,other,慣れる,なれる,to grow accustomed to
+,hidden,n4,verb,慣れる,なれる,to grow accustomed to
 ,hidden,n4,other,苦い,にがい,bitter
 ,hidden,n4,other,二階建て,にかいだて,two storied
-,hidden,n4,other,逃げる,にげる,to escape
+,hidden,n4,verb,逃げる,にげる,to escape
 ,hidden,n4,other,日記,にっき,journal
-,hidden,n4,other,入院,にゅういん・する,to hospitalise; hospitalisation
-,hidden,n4,other,入学,にゅうがく・する,to enter school or university
-,hidden,n4,other,似る,にる,to be similar
+,hidden,n4,verb,入院する,にゅういんする,to hospitalise; hospitalisation
+,hidden,n4,verb,入学する,にゅうがくする,to enter school or university
+,hidden,n4,verb,似る,にる,to be similar
 ,hidden,n4,other,人形,にんぎょう,doll; figure
-,hidden,n4,other,盗む,ぬすむ,to steal
-,hidden,n4,other,塗る,ぬる,to paint; to colour; to plaster
-,hidden,n4,other,,ぬれる,to get wet
+,hidden,n4,verb,盗む,ぬすむ,to steal
+,hidden,n4,verb,塗る,ぬる,to paint; to colour; to plaster
+,hidden,n4,verb,,ぬれる,to get wet
 ,hidden,n4,other,,ねだん,price
 ,hidden,n4,other,熱,ねつ,fever
 ,hidden,n4,other,寝坊,ねぼう,sleeping in late
 ,hidden,n4,other,眠い,ねむい,sleepy
-,hidden,n4,other,眠る,ねむる,to sleep
-,hidden,n4,other,残る,のこる,to remain
-,hidden,n4,other,乗り換える,のりかえる,to change between buses or trains
+,hidden,n4,verb,眠る,ねむる,to sleep
+,hidden,n4,verb,残る,のこる,to remain
+,hidden,n4,verb,乗り換える,のりかえる,to change between buses or trains
 ,hidden,n4,other,乗り物,のりもの,vehicle
 ,hidden,n4,other,葉,は,leaf
 ,hidden,n4,other,場合,ばあい,situation
 ,hidden,n4,other,倍,ばい,double
-,hidden,n4,other,拝見,はいけん・する,(humble) to look at
+,hidden,n4,verb,拝見,はいけん・する,(humble) to look at
 ,hidden,n4,other,歯医者,はいしゃ,dentist
-,hidden,n4,other,運ぶ,はこぶ,to transport
-,hidden,n4,other,始める,はじめる,to begin
+,hidden,n4,verb,運ぶ,はこぶ,to transport
+,hidden,n4,verb,始める,はじめる,to begin
 ,hidden,n4,other,場所,ばしょ,location
 ,hidden,n4,other,,はず,it should be so
 ,hidden,n4,other,恥ずかしい,はずかしい,embarrassed
@@ -418,25 +418,25 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,,はっきり,clearly
 ,hidden,n4,other,花見,はなみ,cherry-blossom viewing
 ,hidden,n4,other,林,はやし,woods;forester
-,hidden,n4,other,払う,はらう,to pay
+,hidden,n4,verb,払う,はらう,to pay
 15,,n4,noun,番組,ばんぐみ,television　program;radio program,program
 ,,n4,noun,反対,はんたい,opposition,opposition;motstånd
 16,,n4,noun,日,ひ,day; sun,dag;sol
 ,,n4,noun,火,ひ,fire,eld
 ,,n4,verb,冷える,ひえる,to grow cold,kallna
 ,,n4,adjective,光,ひかり,light,ljus
-,hidden,n4,other,光る,ひかる,to shine;to glitter
+,hidden,n4,verb,光る,ひかる,to shine;to glitter
 ,hidden,n4,other,引き出し,ひきだし,drawer;drawing out
-,hidden,n4,other,,ひきだす,to withdraw
+,hidden,n4,verb,,ひきだす,to withdraw
 ,hidden,n4,other,,ひげ,beard
 ,hidden,n4,other,飛行場,ひこうじょう,airport
 ,hidden,n4,other,久しぶり,ひさしぶり,after a long time
 ,hidden,n4,other,美術館,びじゅつかん,art gallery
 ,hidden,n4,other,非常に,ひじょうに,extremely
-,hidden,n4,other,引っ越す,ひっこす,to move house
+,hidden,n4,verb,引っ越す,ひっこす,to move house
 ,hidden,n4,other,必要,ひつよう,necessary
 ,hidden,n4,other,,ひどい,awful
-,hidden,n4,other,開く,ひらく,to open an event
+,hidden,n4,verb,開く,ひらく,to open an event
 ,hidden,n4,other,昼間,ひるま,daytime;during the day
 ,hidden,n4,other,昼休み,ひるやすみ,noon break
 ,hidden,n4,other,拾う,ひろう,to pick up;to gather
@@ -447,12 +447,12 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,部長,ぶちょう,head of a section
 ,hidden,n4,other,普通,ふつう,usually; or a train that stops at every station
 ,hidden,n4,other,,ぶどう,grapes
-,hidden,n4,other,太る,ふとる,to become fat
+,hidden,n4,verb,太る,ふとる,to become fat
 ,hidden,n4,other,布団,ふとん,Japanese bedding; futon
 ,hidden,n4,other,舟,ふね,ship
 ,hidden,n4,other,不便,ふべん,inconvenience
-,hidden,n4,other,踏む,ふむ,to step on
-,hidden,n4,other,降り出す,ふりだす,to start to rain
+,hidden,n4,verb,踏む,ふむ,to step on
+,hidden,n4,verb,降り出す,ふりだす,to start to rain
 ,hidden,n4,other,文化,ぶんか,culture
 ,hidden,n4,other,文学,ぶんがく,literature
 13,,n4,noun,文法,ぶんぽう,grammar,grammatik
@@ -464,59 +464,59 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,僕,ぼく,I (used by males)
 ,hidden,n4,other,星,ほし,star
 ,hidden,n4,other,,ほとんど,mostly
-,hidden,n4,other,,ほめる,to praise
+,hidden,n4,verb,,ほめる,to praise
 ,hidden,n4,other,翻訳,ほんやく,translation
-,hidden,n4,other,参る,まいる,(humble) to go;to come
-,hidden,n4,other,負ける,まける,to lose
+,hidden,n4,verb,参る,まいる,(humble) to go;to come
+,hidden,n4,verb,負ける,まける,to lose
 ,hidden,n4,other,,または,or;otherwise
-,hidden,n4,other,間違える,まちがえる,to make a mistake
-,hidden,n4,other,間に合う,まにあう,to be in time for
+,hidden,n4,verb,間違える,まちがえる,to make a mistake
+,hidden,n4,verb,間に合う,まにあう,to be in time for
 ,hidden,n4,other,周り,まわり,surroundings
-,hidden,n4,other,回る,まわる,to go around
+,hidden,n4,verb,回る,まわる,to go around
 ,hidden,n4,other,漫画,まんが,comic
 ,hidden,n4,other,真中,まんなか,middle
 15,,n4,verb,見える,みえる,to be in sight,synas
-,hidden,n4,other,湖,みずうみ,lake
-,hidden,n4,other,味噌,みそ,miso; soybean paste
-,hidden,n4,other,見つかる,みつかる,to be discovered
-,hidden,n4,other,見つける,みつける,to discover
-,hidden,n4,other,皆,みな,everybody
-,hidden,n4,other,港,みなと,harbour
-,hidden,n4,other,向かう,むかう,to face
-,hidden,n4,other,迎える,むかえる,to go out to meet
-,hidden,n4,other,昔,むかし,old times; old days; long ago; formerly
-,hidden,n4,other,虫,むし,insect
-,hidden,n4,other,息子,むすこ,(humble) son
-,hidden,n4,other,娘,むすめ,(humble) daughter
-,hidden,n4,other,無理,むり,impossible
-,hidden,n4,other,召し上がる,めしあがる,(polite) to eat
+,,n4,noun,湖,みずうみ,lake,sjö
+,,n4,noun,味噌,みそ,miso; soybean paste,miso
+16,,n4,verb,見つかる,みつかる,to be discovered,upptäckas;hittas
+,,n4,verb,見つける,みつける,to discover,upptäcka
+,,n4,noun,皆,みな,everybody,alla
+,,n4,noun,港,みなと,harbour,hamn
+,,n4,verb,向かう,むかう,to face,vända sig mot
+,,n4,verb,迎える,むかえる,to go out to meet,välkomna
+,,n4,noun,昔,むかし,old times; old days; long ago; formerly,förr i världen
+,,n4,noun,虫,むし,insect,insekt
+,,n4,noun,息子,むすこ,(humble) son,son (ödmjuk)
+,,n4,noun,娘,むすめ,(humble) daughter,dotter (ödmjuk)
+,,n4,adjective,無理,むり,impossible,omöjlig
+,hidden,n4,verb,召し上がる,めしあがる,(polite) to eat
 ,hidden,n4,other,珍しい,めずらしい,rare
-,hidden,n4,other,申し上げる,もうしあげる,(humble) to say;to tell
-,hidden,n4,other,申す,もうす,(humble) to be called;to say
+,hidden,n4,verb,申し上げる,もうしあげる,(humble) to say;to tell
+,hidden,n4,verb,申す,もうす,(humble) to be called;to say
 ,hidden,n4,other,,もうすぐ,soon
 ,hidden,n4,other,,もし,if
-,hidden,n4,other,戻る,もどる,to turn back
+,hidden,n4,verb,戻る,もどる,to turn back
 ,hidden,n4,other,木綿,もめん,cotton
 ,hidden,n4,other,森,もり,forest
-,hidden,n4,other,焼く,やく,to bake;to grill
+,hidden,n4,verb,焼く,やく,to bake;to grill
 13,,n4,noun,約束,やくそく,promise,löfte
-,hidden,n4,other,役に立つ,やくにたつ,to be helpful
-,hidden,n4,other,焼ける,やける,to burn;to be roasted
+,hidden,n4,verb,役に立つ,やくにたつ,to be helpful
+,hidden,n4,verb,焼ける,やける,to burn;to be roasted
 ,hidden,n4,other,優しい,やさしい,kind
-,hidden,n4,other,痩せる,やせる,to become thin
+,hidden,n4,verb,痩せる,やせる,to become thin
 ,hidden,n4,other,,やっと,at last
-,hidden,n4,other,止む,やむ,to stop
-,hidden,n4,other,止める,やめる,to stop
+,hidden,n4,verb,止む,やむ,to stop
+,hidden,n4,verb,止める,やめる,to stop
 ,hidden,n4,other,柔らかい,やわらかい,soft
 ,hidden,n4,other,湯,ゆ,hot water
 ,hidden,n4,other,指,ゆび,finger
 ,hidden,n4,other,指輪,ゆびわ,a ring
 ,hidden,n4,other,夢,ゆめ,dream
-,hidden,n4,other,揺れる,ゆれる,to shake;to sway
+,hidden,n4,verb,揺れる,ゆれる,to shake;to sway
 ,hidden,n4,other,用,よう,use
 ,hidden,n4,other,用意,ようい,preparation
-,hidden,n4,other,用事,ようじ,things to do
-,hidden,n4,other,汚れる,よごれる,to get dirty
+,hidden,n4,verb,用事,ようじ,things to do
+,hidden,n4,verb,汚れる,よごれる,to get dirty
 ,hidden,n4,other,予習,よしゅう,preparation for a lesson
 15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
 ,,n4,noun,予約,よやく,reservation,reservation
@@ -526,18 +526,18 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,利用,りよう,utilization,utnyttjande
 ,,n4,noun,両方,りょうほう,both sides,båda sidor
 15,,n4,noun,旅館,りょかん,Japanese hotel,japanskt hotell
-,hidden,n4,other,留守,るす,absence
-,hidden,n4,other,冷房,れいぼう,air conditioning
-,hidden,n4,other,歴史,れきし,history
-,hidden,n4,other,連絡,れんらく,contact
-,hidden,n4,other,沸かす,わかす,to boil;to heat
-,hidden,n4,other,別れる,わかれる,to separate
-,hidden,n4,other,沸く,わく,to boil; to grow hot;to get excited
-,hidden,n4,other,訳,わけ,meaning;reason
-,hidden,n4,other,忘れ物,わすれもの,lost article
-,hidden,n4,other,笑う,わらう,to laugh;to smile
+,,n4,noun,留守,るす,absence,frånvaro
+,,n4,noun,冷房,れいぼう,air conditioning,luftkonditionering
+1,,n4,noun,歴史,れきし,history,historia
+,,n4,noun,連絡,れんらく,contact,kontakt
+,,n4,verb,沸かす,わかす,to boil;to heat,koka;värma upp
+,,n4,verb,別れる,わかれる,to separate,separera
+,,n4,verb,沸く,わく,to boil; to grow hot;to get excited,koka;bli varm;bli uppspelt
+,,n4,noun,訳,わけ,meaning;reason,mening;anledning
+,,n4,noun,忘れ物,わすれもの,lost article,borttappad sak
+16,,n4,verb,笑う,わらう,to laugh;to smile|skratta,le
 ,hidden,n4,other,割合,わりあい,rate;ratio;percentage
-,hidden,n4,other,割れる,われる,to break
+,hidden,n4,verb,割れる,われる,to break
 ,hidden,n4,other,,アクセサリー,accessory
 ,hidden,n4,other,,アジア,Asia
 ,hidden,n4,other,,アナウンサー,announcer
@@ -562,16 +562,16 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,,ジャム,jam
 ,hidden,n4,other,,スーツ,suit
 ,hidden,n4,other,,スーツケース,suitcase
-,hidden,n4,other,,スクリーン,screen
-,hidden,n4,other,,ステーキ,steak
-,hidden,n4,other,,ステレオ,stereo
-,hidden,n4,other,,ソフト,soft
-,hidden,n4,other,,タイプ,type;style
-,hidden,n4,other,,チェック・する,to check
-,hidden,n4,other,,テキスト,text;text book
-,hidden,n4,other,,テニス,tennis
-,hidden,n4,other,,パート,part time
-,hidden,n4,other,,パソコン,personal computer
+,hidden,n4,other,スクリーン,スクリーン,screen
+,hidden,n4,other,ステーキ,ステーキ,steak
+,hidden,n4,other,ステレオ,ステレオ,stereo
+,hidden,n4,other,ソフト,ソフト,soft
+,hidden,n4,other,タイプ,タイプ,type;style
+,hidden,n4,verb,チェックする,チェックする,to check
+,hidden,n4,other,テキスト,テキスト,text;text book
+,hidden,n4,other,テニス,テニス,tennis
+,hidden,n4,other,パート,パート,part time
+,hidden,n4,other,パソコン,パソコン,personal computer
 ,hidden,n4,other,ハンドバッグ,ハンドバッグ,handbag　
 ,hidden,n4,other,ピアノ,ピアノ,piano
 ,hidden,n4,other,ビル,ビル,building or bill

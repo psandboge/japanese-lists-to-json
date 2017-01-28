@@ -134,13 +134,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other||うろうろ|loiteringly,aimless wandering
 |hidden|n2|other|運河|うんが|canal,waterway
 |hidden|n2|other||うんと|a great deal,very much
-|hidden|n2|other|英文|えいぶん|sentence in English
-|hidden|n2|other|英和|えいわ|English-Japanese (e.g. dictionary)
-|hidden|n2|other||ええと|let me see,well,er....
-|hidden|n2|other|液体|えきたい|liquid,fluid
-|hidden|n2|other||エチケット|etiquette
-|hidden|n2|other|絵の具|えのぐ|colors,paints
-|hidden|n2|other||エプロン|apron
+||n2|noun|英文|えいぶん|sentence in English,mening på engelska
+||n2|adjective|英和|えいわ|English-Japanese (e.g. dictionary),engelsk-japansk
+16||n2|interjection||ええと|let me see,well,er....|hu
+||n2|noun|液体|えきたい|liquid,fluid|vätska
+||n2|noun|エチケット|エチケット|etiquette|etikett
+||n2|noun|絵の具|えのぐ|colors,paints|färger
+||n2|noun|エプロン|エプロン|apron|förkläde
 |hidden|n2|other|偉い|えらい|great,celebrated,eminent,terrible,awful,famous,remarkable,excellent
 |hidden|n2|other|宴会|えんかい|party,banquet
 |hidden|n2|other|園芸|えんげい|horticulture,gardening
@@ -573,14 +573,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other||こないだ|the other day,lately,recently
 |hidden|n2|other|御無沙汰|ごぶさた|not writing or contacting for a while
 |hidden|n2|other||こぼす|to spill
-|hidden|n2|other||こぼれる|to overflow,to spill
-|hidden|n2|other|塵芥|ごみ|trash,rubbish
-|hidden|n2|other||ゴム|gum,rubber,eraser
-|hidden|n2|other|御免|ごめん|your pardon,declining (something),dismissal,permission
-|hidden|n2|other||ごめんください|May I come in?
-|hidden|n2|other|小指|こゆび|little finger
-|hidden|n2|other||こらえる|to bear,to stand,to endure,to put up with
-|hidden|n2|other|娯楽|ごらく|pleasure,amusement
+||n2|verb||こぼれる|to overflow,to spill|spilla över
+||n2|noun|塵芥|ごみ|trash,rubbish|skräp
+||n2|noun||ゴム|gum,rubber,eraser|suddgummi
+16||n2|adjective|御免|ごめん|your pardon,declining (something),dismissal,permission
+||n2|other||ごめんください|May I come in?|kan jag komma in?
+||n2|noun|小指|こゆび|little finger|lillfinger
+||n2|verb||こらえる|to bear,to stand,to endure,to put up with|utstå,finna sig i,uthärda
+||n2|noun|娯楽|ごらく|pleasure,amusement|rekreation,underhållning
 |hidden|n2|other|御覧|ごらん|(hon) look,inspection,try
 |hidden|n2|other||コレクション|(1) collection,(2) correction
 |hidden|n2|other|転がす|ころがす|to roll
@@ -1718,11 +1718,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other||やかましい|(1) noisy,(2) strict,fussy
 |hidden|n2|other|夜間|やかん|at night,nighttime
 |hidden|n2|other|薬缶|やかん|kettle
-|hidden|n2|other|役者|やくしゃ|actor,actress
-|hidden|n2|other|役所|やくしょ|government office,public office
-|hidden|n2|other|訳す|やくす|to translate
-|hidden|n2|other|役人|やくにん|government official
-|hidden|n2|other|薬品|やくひん|medicine(s),chemical(s)
+||n2|noun|役者|やくしゃ|actor,actress|skådespelare
+||n2|noun|役所|やくしょ|government office,public office|ämbetsverk
+16||n2|verb|訳す|やくす|to translate|översätta
+||n2|noun|役人|やくにん|government official|regeringstjänsteman
+||n2|noun|薬品|やくひん|medicine(s),chemical(s)|medicin,kemikalie
 |hidden|n2|other|役目|やくめ|duty,business
 |hidden|n2|other|火傷|やけど|burn,scald
 |hidden|n2|other|夜行|やこう|walking around at night,night train,night travel

@@ -35,10 +35,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|顎|あご|chin
 |hidden|n1|other|麻|あさ|flax, linen, hemp
 |hidden|n1|other|明後日|あさって|day after tomorrow
-|hidden|n1|other|朝寝坊|あさねぼう|oversleeping, late riser
-|hidden|n1|other|浅ましい|あさましい|wretched, miserable, shameful, mean, despicable, abject
-|hidden|n1|other|字|あざ|section of village
-|hidden|n1|other|欺く|あざむく|to deceive
+16||n1|noun|朝寝坊|あさねぼう|oversleeping, late riser|försovning,sjusovare
+||n1|adjective|浅ましい|あさましい|wretched, miserable, shameful, mean, despicable, abject|usel,skamlig,elak,föraktlig
+||n1|noun|字|あざ|section of village|bystadsdel
+||n1|verb|欺く|あざむく|to deceive|förleda
 |hidden|n1|other|鮮やか|あざやか|vivid, clear, brilliant
 |hidden|n1|other|あざ笑う|あざわらう|to sneer at, to ridicule
 |hidden|n1|other|味わい|あじわい|flavour, meaning, significance
@@ -389,10 +389,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|恐れ入る|おそれいる|to be filled with awe, to feel small, to be amazed, to be surprised, to be disconcerted, to be sorry, to b
 |hidden|n1|other|お大事に|おだいじに|Take care of yourself
 |hidden|n1|other|煽てる|おだてる|to stir up, to instigate, to flatter
-|hidden|n1|other|落ち込む|おちこむ|to fall into, to feel down (sad)
-|hidden|n1|other|落ち着き|おちつき|calm, composure
-|hidden|n1|other|落ち葉|おちば|fallen leaves, leaf litter, defoliation, shedding leaves
-|hidden|n1|other|落ちる|おちる|to fail (e.g. exam), to fall down, to drop
+16||n1|verb|落ち込む|おちこむ|to fall into, to feel down (sad)|vara nedstämd
+||n1|noun|落ち着き|おちつき|calm, composure|lugn,fattning
+||n1|noun|落ち葉|おちば|fallen leaves, leaf litter, defoliation, shedding leaves|fallna löv,lövfällning
+||n1|verb|落ちる|おちる|to fail (e.g. exam), to fall down, to drop|misslyckas,trilla ner
 |hidden|n1|other||おっかない|frightening, huge
 |hidden|n1|other|仰っしゃる|おっしゃる|to say, to speak, to tell, to talk
 |hidden|n1|other|乙|おつ|1. strange, quaint, stylish, chic, spicy, queer, witty, tasty, romantic, 2. 2nd in rank, second sign of the
@@ -1112,11 +1112,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|孤独|こどく|isolation, loneliness, solitude
 |hidden|n1|other|粉々|こなごな|in very small pieces
 |hidden|n1|other|此の|この|this
-|hidden|n1|other|この間|このあいだ|the other day, lately, recently
-|hidden|n1|other|この頃|このごろ|recently
-|hidden|n1|other|好ましい|このましい|nice, likeable, desirable
-|hidden|n1|other|個別|こべつ|particular case
-|hidden|n1|other|零す|こぼす|to spill
+16||n1|temporal|この間|このあいだ|the other day, lately, recently,häromdagen
+||n1|adverb|この頃|このごろ|recently|nyligen
+||n1|adjective|好ましい|このましい|nice, likeable, desirable|önskvärd,sympatisk
+||n1|noun|個別|こべつ|particular case|särskilt fall
+||n1|verb|零す|こぼす|to spill|spilla
 |hidden|n1|other|零れる|こぼれる|to overflow, to spill
 |hidden|n1|other|細やか|こまやか|friendly
 |hidden|n1|other|混む|こむ|to be crowded
