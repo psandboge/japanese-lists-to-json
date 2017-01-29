@@ -246,17 +246,16 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|香り|かおり|aroma, fragrance, scent, smell
 |hidden|n3|other|画家|がか|painter, artist
 |hidden|n3|other|抱える|かかえる|to hold or carry under or in the arms
-|hidden|n3|other|価格|かかく|price, value, cost
-|hidden|n3|other|化学|かがく|chemistry
-|hidden|n3|other|輝く|かがやく|to shine, to glitter, to sparkle
-|hidden|n3|other|係|かかり|official, duty, person in charge
-|hidden|n3|other|掛かる|かかる|to take (e.g. time, money, etc),to hang
-|hidden|n3|other|罹る|かかる|to suffer from
-|hidden|n3|other|鍵|かぎ|key
-|hidden|n3|other|限る|かぎる|to restrict,to limit,to confine
+||n3|noun|価格|かかく|price, value, cost|pris,värde,kostnad
+1||n3|noun|化学|かがく|chemistry|kemi
+||n3|verb|輝く|かがやく|to shine, to glitter, to sparkle|skina,glittra
+||n3|noun|係|かかり|official, duty, person in charge|ansvarig person
+||n3|verb|掛かる|かかる|to take (e.g. time, money, etc),to hang|ta tid,kostar på
+||n3|verb|罹る|かかる|to suffer from|lida av
+||n3|verb|限る|かぎる|to restrict,to limit,to confine|begränsa
 15||n3|verb|描く|かく|to draw,to paint,to sketch,to depict,to describe|rita,måla,skissa
 15||n3|noun|家具|かぐ|furniture,möbler
-|hidden|n3|other|学|がく|learning,scholarship,erudition,knowledge
+||n3|noun|学|がく|learning,scholarship,erudition,knowledge|lärande,kunskap,utbildning
 |hidden|n3|other|額|がく|picture frame
 |hidden|n3|other|覚悟|かくご|resolution, resignation, readiness, preparedness
 |hidden|n3|other|確実|かくじつ|certainty, reliability, soundness
@@ -745,16 +744,16 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|出身|しゅっしん|graduate from,come from
 |hidden|n3|other|出席|しゅっせき・する|attendance,presence, to attend
 |hidden|n3|other|出発|しゅっぱつ・する|departure, to depart
-|hidden|n3|other|出版|しゅっぱん|publication
-|hidden|n3|other|首都|しゅと|capital city
-|hidden|n3|other|主婦|しゅふ|housewife,
-|hidden|n3|other|主要|しゅよう|chief,main,principal,major
-|hidden|n3|other|需要|じゅよう|demand,request
-|hidden|n3|other|種類|しゅるい|variety,kind,type
-|hidden|n3|other|順|じゅん|order,turn
-|hidden|n3|other|瞬間|しゅんかん|moment,second,instant
-|hidden|n3|other|順調|じゅんちょう|favourable,doing well,O.K.,all right
-|hidden|n3|other|順番|じゅんばん|turn (in line),order of things
+||n3|noun|出版|しゅっぱん|publication|publikation
+||n3|noun|首都|しゅと|capital city|huvudstad
+1||n3|noun|主婦|しゅふ|housewife|hemmafru
+||n3|noun|主要|しゅよう|chief,main,principal,major|huvudsaklig
+||n3|noun|需要|じゅよう|demand,request|begäran,förfrågan
+||n3|noun|種類|しゅるい|variety,kind,type|sort,typ
+||n3|noun|順|じゅん|order,turn|ordning,tur
+||n3|noun|瞬間|しゅんかん|moment,second,instant|ögonblick,sekund
+||n3|noun|順調|じゅんちょう|favourable,doing well,O.K.,all right|gynnsam
+||n3|noun|順番|じゅんばん|turn (in line),order of things|köplats,tingens ordning
 ||n3|noun|準備|じゅんび|preparation,arrangements,provision,reserve|förberedelse,reserver
 ||n3|verb|準備する|じゅんびする|to prepare|förbereda
 ||n3|adjective|小|しょう|small|liten
@@ -920,18 +919,18 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|世話|せわ・する|looking after,help,aid,assistance, to look after
 |hidden|n3|other|善|ぜん|good,goodness,right,virtue
 |hidden|n3|other|全員|ぜんいん|all members (unanimity),all hands,the whole crew
-|hidden|n3|other|専攻|せんこう|major subject,special study
-|hidden|n3|other|全国|ぜんこく|country-wide,nation-wide,whole country,national
-|hidden|n3|other|先日|せんじつ|the other day,a few days ago
-|hidden|n3|other|前者|ぜんしゃ|the former
-|hidden|n3|other|選手|せんしゅ|(1) player (in game),(2) team
-|hidden|n3|other|前進|ぜんしん|advance,drive,progress
-|hidden|n3|other|全然|ぜんぜん|(1) wholly,entirely,completely,(2) not at all (with neg. verb)
-|hidden|n3|other|全体|ぜんたい|whole,entirety,whatever (is the matter)
-|hidden|n3|other|選択|せんたく|selection,choice
-|hidden|n3|other|そう|そう|so
+1||n3|noun|専攻|せんこう|major subject,special study|huvudämne
+||n3|adjective|全国|ぜんこく|country-wide,nation-wide,whole country,national|nationell,landstäckande
+||n3|noun|先日|せんじつ|the other day,a few days ago|häromdagen
+||n3|noun|前者|ぜんしゃ|the former|före detta
+||n3|noun|選手|せんしゅ|(1) player (in game),(2) team|spelare,lag
+||n3|noun|前進|ぜんしん|advance,drive,progress|framsteg
+||n3|adverb|全然|ぜんぜん|(1) wholly,entirely,completely,(2) not at all (with neg. verb)|fullständigt,inte alls
+||n3|noun|全体|ぜんたい|whole,entirety,whatever (is the matter)|allt
+||n3|noun|選択|せんたく|selection,choice|urval
+||n3|adverb|そう|そう|so|så
 13||n3|other|象|ぞう|elephant|elefant
-|hidden|n3|other|騒音|そうおん|noise
+||n3|noun|騒音|そうおん|noise|brus,oväsen
 |hidden|n3|other|増加|ぞうか|increase,addition
 |hidden|n3|other|操作|そうさ|operation,management,processing
 |hidden|n3|other|掃除|そうじ/そうじする|cleaning,sweeping, to clean, to sweep
@@ -1175,11 +1174,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|通り|とおり|in accordance with ~,following ~,~ Street,~ Avenue
 |hidden|n3|other|通り過ぎる|とおりすぎる|to pass,to pass through
 |hidden|n3|other|都会|とかい|city
-|hidden|n3|other|時|とき|(1) time,hour,(2) occasion,moment
-|hidden|n3|other|解く|とく|to unfasten, to solve
-|hidden|n3|other|毒|どく|poison,toxicant
-|hidden|n3|other|得意|とくい|pride,triumph,prosperity
-|hidden|n3|other|読書|どくしょ|reading
+||n3|noun|時|とき|(1) time,hour,(2) occasion,moment|tid,timma,tillfälle
+|1|n3|suffix|時|じ|o'clock|klockan
+||n3|verb|解く|とく|to unfasten, to solve|lossa,lösa
+||n3|noun|毒|どく|poison,toxicant|gift
+||n3|noun|得意|とくい|pride,triumph,prosperity|stolthet,triumf,välstånd
+||n3|noun|読書|どくしょ|reading|läsning
 |hidden|n3|other|独身|どくしん|bachelorhood,single,unmarried,celibate
 |hidden|n3|other|特徴|とくちょう|distinctive feature,characteristic
 |hidden|n3|other|独特|どくとく|peculiarity,uniqueness,characteristic
@@ -1258,11 +1258,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|日光|にっこう|sunlight
 |hidden|n3|other||にっこり|smile sweetly,smile,grin
 |hidden|n3|other|日中|にっちゅう|daytime,broad daylight
-|hidden|n3|other|日本|にっぽん・にほん|Japan
-|hidden|n3|other|入学|にゅうがく|entry to school or university,matriculation
-|hidden|n3|other|入場|にゅうじょう|entrance,admission,entering
-|hidden|n3|other|人気|にんき|popularity
-|hidden|n3|other|人間|にんげん|human being,man,person
+1||n3|noun|日本|にっぽん・にほん|Japan|Japan
+||n3|noun|入学|にゅうがく|entry to school or university,matriculation|universitetsinträde
+||n3|noun|入場|にゅうじょう|entrance,admission,entering|inträde
+||n3|noun|人気|にんき|popularity|popularitet
+||n3|noun|人間|にんげん|human being,man,person|människa,man,person
 |hidden|n3|other|抜く|ぬく|to extract,to omit,to surpass,to draw out,to unplug
 |hidden|n3|other|抜ける|ぬける|to come out,to fall out,to be omitted
 |hidden|n3|other|布|ぬの|cloth

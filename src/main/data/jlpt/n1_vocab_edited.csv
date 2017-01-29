@@ -1595,11 +1595,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|助詞|じょし|particle, postposition
 |hidden|n1|other|助動詞|じょどうし|auxiliary verb
 |hidden|n1|other|自立|じりつ|independence, self-reliance
-|hidden|n1|other|人|じん|man, person, people
-|hidden|n1|other|人格|じんかく|personality, character, individuality
-|hidden|n1|other|人材|じんざい|man of talent
-|hidden|n1|other|迅速|じんそく|quick, fast, rapid, swift, prompt
-|hidden|n1|other|人体|じんたい|human body
+1||n1|suffix|人|じん|man, person, people
+||n1|noun|人格|じんかく|personality, character, individuality|personlighet,karaktär
+||n1|noun|人材|じんざい|man of talent|talangfull person
+||n1|adverb|迅速|じんそく|quick, fast, rapid, swift, prompt|snabbt,kvickt
+||n1|noun|人体|じんたい|human body|människokropp
 |hidden|n1|other|人民|じんみん|people, public
 |hidden|n1|other|人目|じんもく|glimpse, public gaze
 |hidden|n1|other|水気|すいき|1. moisture, dampness, vapor, 2. dropsy, edema
@@ -2439,12 +2439,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|年鑑|ねんかん|yearbook
 |hidden|n1|other|年号|ねんごう|name of an era, year number
 |hidden|n1|other|燃焼|ねんしょう|burning, combustion
-|hidden|n1|other|年生|ねんせい|pupil in .... year, student in .... year
-|hidden|n1|other|年長|ねんちょう|seniority
-|hidden|n1|other|燃料|ねんりょう|fuel
-|hidden|n1|other|年輪|ねんりん|annual tree ring
-|hidden|n1|other|脳|のう|brain, memory
-|hidden|n1|other|農耕|のうこう|farming, agriculture
+1||n1|counter|年生|ねんせい|pupil in .... year, student in .... year|...årsstudent
+||n1|noun|年長|ねんちょう|seniority|senioritet
+||n1|noun|燃料|ねんりょう|fuel|bränsle
+||n1|noun|年輪|ねんりん|annual tree ring|årsring
+||n1|noun|脳|のう|brain, memory|hjärna,minne
+||n1|noun|農耕|のうこう|farming, agriculture|jordbruk
 |hidden|n1|other|農場|のうじょう|farm (agriculture)
 |hidden|n1|other|農地|のうち|agricultural land
 |hidden|n1|other|納入|のうにゅう|payment, supply
@@ -3413,13 +3413,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other||パチンコ|pachinko (Japanese pinball)
 |hidden|n1|other||パトカー|patrol car
 |hidden|n1|other||パンク|1. (abbr) puncture, bursting, 2. punk
-|hidden|n1|other||ヒント|hint
-|hidden|n1|other||ビールス|virus
-||n1|noun|ビジネス|ビジネス|business|affärer
+||n1|noun||ヒント|hint|ledtråd
+||n1|noun||ビールス|virus|virus
+1||n1|noun|ビジネス|ビジネス|business|affärer
 ||n1|noun|ファイト|ファイト|fight|slagsmål
 16||n1|noun|ファイル|ファイル|file|mapp
-|hidden|n1|other||ファン|fan, fun
-|hidden|n1|other||フィルター|(camera) filter
+||n1|noun||ファン|fan, fun|fan,roligt
+||n1|noun||フィルター|(camera) filter|kamerafilter
 |hidden|n1|other||フェリー|ferry
 |hidden|n1|other||フォーム|foam, form
 |hidden|n1|other||フロント|front

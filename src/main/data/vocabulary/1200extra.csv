@@ -5,7 +5,7 @@ genki|state|type|writing|reading|english|swedish
 13||noun|空手|からて|karate|karate
 13||noun|ゴルフ|ゴルフ|golf|golf
 13||noun|バイク|バイク|motorcycle|motorcykel
-13||noun|弁護し|べんごし|lawyer|advokat
+13,1||noun|弁護し|べんごし|lawyer|advokat
 13||noun|募集|ぼしゅう|recruitment|rekrytering
 13||noun|やくざ|やくざ|yakuza|yakuza
 15||noun|インターネット|インターネット|Internet|Internet
@@ -49,9 +49,9 @@ genki|state|type|writing|reading|english|swedish
 16||adverb|このぐらい|このぐらい|this much|så här mycket
 16||expression|失礼します|しつれいします|Excuse me|Ursäkta mig
 16||expression|授業中に|じゅぎょうちゅうに|during class|under lektionen
-16|||他の|ほかの|other|annan
-|hidden|other||||
-|hidden|other||||
+16||adjective|他の|ほかの|other|annan
+17||noun|お客さん|おきゃくさん|guest,visitor|gäst,besökare
+17||noun|お湯|おゆ|hot water|varmvatten
 |hidden|other||||
 |hidden|other||||
 |hidden|other||||
