@@ -3319,12 +3319,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other||グレー|grey, gray
 |hidden|n1|other||ゲスト|guest
 |hidden|n1|other||コーナー|corner
-|hidden|n1|other||コマーシャル|a commercial
-|hidden|n1|other||コミュニケーション|communication
-|hidden|n1|other||コメント|comment
-|hidden|n1|other||コンタクト|contact, contact lens
-|hidden|n1|other||コンテスト|contest
-|hidden|n1|other||コントラスト|contrast
+||n1|noun|コマーシャル|コマーシャル|a commercial|annons
+||n1|noun|コミュニケーション|コミュニケーション|communication|kommunikation
+||n1|noun|コメント|コメント|comment|kommentar
+17||n1|noun|コンタクト|コンタクト|contact, contact lens|kontakt,kontaklins
+||n1|noun|コンテスト|コンテスト|contest|tävling
+||n1|noun|コントラスト|コントラスト|contrast|kontrast
 |hidden|n1|other||コントロール|control
 |hidden|n1|other||コンパス|compass
 |hidden|n1|other||サイクル|cycle
@@ -3418,15 +3418,15 @@ genki|state|jlpt|type|writing|reading|english|swedish
 1||n1|noun|ビジネス|ビジネス|business|affärer
 ||n1|noun|ファイト|ファイト|fight|slagsmål
 16||n1|noun|ファイル|ファイル|file|mapp
-||n1|noun||ファン|fan, fun|fan,roligt
-||n1|noun||フィルター|(camera) filter|kamerafilter
-|hidden|n1|other||フェリー|ferry
-|hidden|n1|other||フォーム|foam, form
-|hidden|n1|other||フロント|front
-|hidden|n1|other||ブーツ|boots
-|hidden|n1|other||ブーム|boom
-|hidden|n1|other||ブザー|buzzer
-|hidden|n1|other||ブルー|blue
+||n1|noun|ファン|ファン|fan, fun|fan,roligt
+||n1|noun|フィルター|フィルター|(camera) filter|kamerafilter
+||n1|noun|フェリー|フェリー|ferry|färja
+||n1|noun|フォーム|フォーム|foam, form|skum,form
+||n1|noun|フロント|フロント|front|front,framsida
+17||n1|noiun|ブーツ|ブーツ|boots|stövlar
+||n1|noun|ブーム|ブーム|boom|boom
+||n1|noun|ブザー|ブザー|buzzer|summer
+||n1|adjective||ブルー|blue|blå
 |hidden|n1|other||ベース|base, bass
 |hidden|n1|other||ベスト|best, vest
 |hidden|n1|other||ベストセラー|best-seller

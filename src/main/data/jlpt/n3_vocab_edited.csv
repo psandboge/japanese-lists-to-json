@@ -394,12 +394,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|急激|きゅうげき|sudden,precipitous,radical
 |hidden|n3|other|吸収|きゅうしゅう|absorption,suction,attraction
 |hidden|n3|other|救助|きゅうじょ|relief,aid,rescue
-|hidden|n3|other|急速|きゅうそく|rapid (e.g. progress)
-|hidden|n3|other|急に|きゅうに|suddenly
-|hidden|n3|other|給料|きゅうりょう|salary,wages
-|hidden|n3|other|器用|きよう|skillful,handy
-|hidden|n3|other|教科書|きょうかしょ|text book
-|hidden|n3|other|競技|きょうぎ|game,match,contest
+||n3|adverb|急速|きゅうそく|rapid (e.g. progress)|snabb
+||n3|adverb|急に|きゅうに|suddenly|plötsligt
+17||n3|noun|給料|きゅうりょう|salary,wages|lön
+||n3|adjective|器用|きよう|skillful,handy|skicklig,händig
+||n3|noun|教科書|きょうかしょ|text book|textbok
+||n3|noun|競技|きょうぎ|game,match,contest|match,tävling
 |hidden|n3|other|行儀|ぎょうぎ|manners
 |hidden|n3|other|供給|きょうきゅう|supply,provision
 |hidden|n3|other|教師|きょうし|teacher (classroom)
@@ -483,13 +483,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|刑事|けいじ|a police detective
 |hidden|n3|other|芸術|げいじゅつ|(fine) art,the arts
 |hidden|n3|other|契約|けいやく|contract,compact,agreement
-|hidden|n3|other|経由|けいゆ|go by the way,via
-|hidden|n3|other|怪我|けが|injury (to animate object),hurt
-|hidden|n3|other|怪我する|けがする|to injure
-|hidden|n3|other|劇|げき|drama,play
-|hidden|n3|other|劇場|げきじょう|theatre,playhouse
-|hidden|n3|other|化粧|けしょう|make-up (cosmetic)
-|hidden|n3|other||けち|stinginess,miser,miserliness
+||n3|preposition|経由|けいゆ|go by the way,via|via
+||n3|noun|怪我|けが|injury (to animate object),hurt|skada
+||n3|verb|怪我する|けがする|to injure|skada
+||n3|noun|劇|げき|drama,play|drama,pjäs
+||n3|noun|劇場|げきじょう|theatre,playhouse|teater
+17||n3|noun|化粧|けしょう|make-up (cosmetic)|smink
+17||n3|verb|化粧する|けしょうする|put on make-up (cosmetic)|sminka sig
+||n3|noun|けち|けち|stinginess,miser,miserliness|snålhet
 |hidden|n3|other|結果|けっか|result,consequence
 |hidden|n3|other|欠陥|けっかん|defect,fault,deficiency
 |hidden|n3|other|結局|けっきょく|after all,eventually
@@ -603,15 +604,15 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|最高|さいこう|highest,supreme,the most
 |hidden|n3|other|財産|ざいさん|property,fortune,assets
 |hidden|n3|other|最終|さいしゅう|last,final,closing
-|hidden|n3|other|最中|さいちゅう|in the middle of
-|hidden|n3|other|最低|さいてい|least,lowest,worst
-|hidden|n3|other|才能|さいのう|talent,ability
-|hidden|n3|other|裁判|さいばん|trial,judgement
-|hidden|n3|other|材料|ざいりょう|ingredients,material
-|hidden|n3|other|幸い|さいわい|happiness,blessedness
-|hidden|n3|other|境|さかい|border,boundary,mental state
-|hidden|n3|other|逆らう|さからう|to go against,to oppose,to disobey,to defy
-|hidden|n3|other|盛り|さかり|the highest, the peak, prime
+||n3|preposition|最中|さいちゅう|in the middle of|mitten av
+17||n3|noun|最低|さいてい|least,lowest,worst|lägsta,sämsta
+||n3|noun|才能|さいのう|talent,ability|talang,förmåga
+||n3|noun|裁判|さいばん|trial,judgement|rättegång,dom
+||n3|noun|材料|ざいりょう|ingredients,material|ingredienser,material
+||n3|noun|幸い|さいわい|happiness,blessedness|lycka
+||n3|noun|境|さかい|border,boundary,mental state|gräns,mentalt tillstånd
+||n3|verb|逆らう|さからう|to go against,to oppose,to disobey,to defy|opponera sig,vägra lyda
+||n3|noun|盛り|さかり|the highest, the peak, prime|högsta,toppen
 |hidden|n3|other|作業|さぎょう|work,operation,manufacturing,fatigue duty
 |hidden|n3|other|作品|さくひん|work,opus,performance,production
 |hidden|n3|other|作物|さくもつ|produce (e.g. agricultural),crops
@@ -722,11 +723,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|周囲|しゅうい|surroundings,circumference,environs
 |hidden|n3|other|収穫|しゅうかく|harvest,crop,ingathering
 |hidden|n3|other|週間|しゅうかん|week,weekly
-|hidden|n3|other|宗教|しゅうきょう|religion
-|hidden|n3|other|重視|じゅうし|importance,stress,serious consideration
-|hidden|n3|other|就職|しゅうしょく|finding employment,inauguration
-|hidden|n3|other|修正|しゅうせい|amendment,correction,revision,modification
-|hidden|n3|other|渋滞|じゅうたい|congestion (e.g. traffic),delay,stagnation
+||n3|noun|宗教|しゅうきょう|religion,religion
+||n3|noun|重視|じゅうし|importance,stress,serious consideration|betydelse,viktighet
+17||n3|verb|就職|しゅうしょく|finding employment,inauguration|söka jobb
+17||n3|verb|就職する|しゅうしょくする|get a job|ta anställning
+||n3|noun|修正|しゅうせい|amendment,correction,revision,modification|tillägg,rättelse,revision
+||n3|noun|渋滞|じゅうたい|congestion (e.g. traffic),delay,stagnation|stockning,försening
 |hidden|n3|other|重大|じゅうだい|serious,important,grave,weighty
 |hidden|n3|other|住宅|じゅうたく|resident,housing
 |hidden|n3|other|集団|しゅうだん|group,mass
@@ -738,7 +740,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|主義|しゅぎ|doctrine,rule,principle
 |hidden|n3|other|宿泊|しゅくはく|lodging
 |hidden|n3|other|手術|しゅじゅつ|surgical operation
-|hidden|n3|other|首相|しゅしょう|Prime Minister
+||n3|noun|首相|しゅしょう|Prime Minister|premiärminister,statsminister
 |hidden|n3|other|手段|しゅだん|means,way,measure
 |hidden|n3|other|主張|しゅちょう|claim,request,insistence,assertion
 |hidden|n3|other|出身|しゅっしん|graduate from,come from
@@ -843,13 +845,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|州|す|sandbank
 |hidden|n3|other|巣|す|nest,rookery,breeding place,beehive,cobweb
 |hidden|n3|other|図|ず|figure (e.g. Fig 1),drawing,picture,illustration
-|hidden|n3|other|水準|すいじゅん|(1) level, standard, (2) water level
-|hidden|n3|other|推薦|すいせん|recommendation
-|hidden|n3|other|随分|ずいぶん|extremely
-|hidden|n3|other|睡眠|すいみん|sleep
-|hidden|n3|other|数|すう|number,figure
-|hidden|n3|other|数字|すうじ|numeral,figure
-|hidden|n3|other|末|すえ|the end of,powder
+||n3|noun|水準|すいじゅん|(1) level, standard, (2) water level|nivå,vattennivå
+||n3|noun|推薦|すいせん|recommendation|rekommendation
+17||n3|adverb|随分|ずいぶん|extremely|extremt
+||n3|noun|睡眠|すいみん|sleep|sömn
+||n3|noun|数|すう|number,figure|nummer,tal
+||n3|noun|数字|すうじ|numeral,figure|siffra
+||n3|noun|末|すえ|the end of,powder|slutet,pulver
 |hidden|n3|other|姿|すがた|figure,shape,appearance
 |hidden|n3|other|空く|すく|(1) to open,to become empty,(2) to be less crowded
 |hidden|n3|other|救う|すくう|to rescue from,to help out of
@@ -1051,12 +1053,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|地|ち|earth
 |hidden|n3|other|地位|ちい|(social) position,status
 |hidden|n3|other|地域|ちいき|area,region
-|hidden|n3|other|知恵|ちえ|wisdom, intelligence, advice
-|hidden|n3|other|地下|ちか|basement,underground
-|hidden|n3|other|違い|ちがい|difference,discrepancy
-|hidden|n3|other|違いない|ちがいない|(phrase) sure,no mistaking it,for certain
-|hidden|n3|other|近頃|ちかごろ|lately,recently,nowadays
-|hidden|n3|other|地球|ちきゅう|the earth
+||n3|noun|知恵|ちえ|wisdom, intelligence, advice|vishet,intellekt,råd
+||n3|noun|地下|ちか|basement,underground|källare,under jorden
+17||n3|noun|違い|ちがい|difference,discrepancy|skillnad,avvikelse
+||n3|expression|違いない|ちがいない|(phrase) sure,no mistaking it,for certain|med säkerhet,garanterat
+||n3|adverb|近頃|ちかごろ|lately,recently,nowadays|nuförtiden,nyligen
+||n3|noun|地球|ちきゅう|the earth|jorden
 |hidden|n3|other|地区|ちく|district,section,sector
 |hidden|n3|other|遅刻|ちこく|lateness,late coming
 |hidden|n3|other|知事|ちじ|prefectural governor
@@ -1380,10 +1382,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|独り|ひとり|alone,
 |hidden|n3|other|一人一人|ひとりひとり|one by one,each,one at a time
 |hidden|n3|other|批判|ひはん|criticism,judgement,comment
-|hidden|n3|other|批評|ひひょう|criticism,review,commentary
-|hidden|n3|other|秘密|ひみつ|secret,secrecy
-|hidden|n3|other|微妙|びみょう|delicate,subtle
-|hidden|n3|other|紐|ひも|(1) string,cord,(2) pimp
+||n3|noun|批評|ひひょう|criticism,review,commentary|kritik,recension
+17||n3|noun|秘密|ひみつ|secret,secrecy|hemlighet
+||n3|adjective|微妙|びみょう|delicate,subtle|ömtålig,subtil
+||n3|noun|紐|ひも|(1) string,cord,(2) pimp|snöre;hallick
 |hidden|n3|other|表|ひょう|table (e.g. Tab 1),chart,list
 |hidden|n3|other|費用|ひよう|cost,expense
 |hidden|n3|other|秒|びょう|second (60th min)
@@ -1662,10 +1664,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|楽|らく|comfort,ease
 |hidden|n3|other|利益|りえき|profits,gains,(political, economic) interest
 |hidden|n3|other|理解|りかい|understanding,comprehension
-|hidden|n3|other|陸|りく|(the) land
-|hidden|n3|other|利口|りこう|clever,shrewd,bright,sharp,wise,intelligent
-|hidden|n3|other|離婚|りこん|divorce
-|hidden|n3|other|理想|りそう|ideal
+||n3|noun|陸|りく|(the) land|landet
+||n3|noun|利口|りこう|clever,shrewd,bright,sharp,wise,intelligent|intelligent,smart
+17||n3|noun|離婚|りこん|divorce|skilsmässa
+17||n3|verb|離婚する|りこんする|get a divorce|skilja sig
+||n3|adverb|理想|りそう|ideal|idealisk
 |hidden|n3|other|率|りつ|rate,ratio,proportion,percentage
 |hidden|n3|other|立派|りっぱ|splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate
 |hidden|n3|other|留学|りゅうがく|studying abroad

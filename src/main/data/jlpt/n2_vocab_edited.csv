@@ -124,16 +124,16 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|裏口|うらぐち|backdoor,rear entrance
 |hidden|n2|other|占う|うらなう|to forecast,to predict
 |hidden|n2|other|恨み|うらみ|resentment
-|hidden|n2|other|恨む|うらむ|to curse,to feel bitter
-|hidden|n2|other|羨ましい|うらやましい|envious,enviable
-|hidden|n2|other|羨む|うらやむ|to envy
-|hidden|n2|other|売上|うりあげ|amount sold,proceeds
-|hidden|n2|other|売り切れ|うりきれ|sold-out
-|hidden|n2|other|売り切れる|うりきれる|to be sold out
-|hidden|n2|other|売行き|うれゆき|sales
-|hidden|n2|other||うろうろ|loiteringly,aimless wandering
-|hidden|n2|other|運河|うんが|canal,waterway
-|hidden|n2|other||うんと|a great deal,very much
+||n2|verb|恨む|うらむ|to curse,to feel bitter|svära,vara bitter
+17||n2|adjective|羨ましい|うらやましい|envious,enviable|avundsjuk,avundsvärd
+||n2|verb|羨む|うらやむ|to envy|avundas
+||n2|noun|売上|うりあげ|amount sold,proceeds|antal sålda,avkastning
+||n2|noun|売り切れ|うりきれ|sold-out|utsåld
+||n2|verb|売り切れる|うりきれる|to be sold out|vara slutsåld
+||n2|noun|売行き|うれゆき|sales|rea
+||n2|noun|うろうろ|うろうろ|loiteringly,aimless wandering|strosande
+||n2|noun|運河|うんが|canal,waterway|kanal
+||n2|adverb|うんと|うんと|a great deal,very much|väldigt
 ||n2|noun|英文|えいぶん|sentence in English,mening på engelska
 ||n2|adjective|英和|えいわ|English-Japanese (e.g. dictionary),engelsk-japansk
 16||n2|interjection||ええと|let me see,well,er....|hu
@@ -639,12 +639,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|妨げる|さまたげる|to disturb,to prevent
 |hidden|n2|other|冷める|さめる|to become cool,to wear off,to abate,to subside
 |hidden|n2|other||さようなら|good-bye
-|hidden|n2|other|再来月|さらいげつ|month after next
-|hidden|n2|other|再来週|さらいしゅう|week after next
-|hidden|n2|other|再来年|さらいねん|year after next
-|hidden|n2|other||サラリーマン|salary man,company employee
-|hidden|n2|other|騒がしい|さわがしい|noisy
-|hidden|n2|other||さわやか|fresh,refreshing,invigorating
+||n2|noun|再来月|さらいげつ|month after next|nästnästa månad
+||n2|noun|再来週|さらいしゅう|week after next|nästnästa vecka
+||n2|noun|再来年|さらいねん|year after next|nästnästa år
+17||n2|noun|サラリーマン|サラリーマン|salary man,company employee|företagsanställd
+||n2|adjective|騒がしい|さわがしい|noisy|brusig
+||n2|adjective|さわやか|さわやか|fresh,refreshing,invigorating|uppfriskande
 |hidden|n2|other|三角|さんかく|triangle,triangular
 |hidden|n2|other|算数|さんすう|arithmetic
 |hidden|n2|other|酸性|さんせい|acidity
@@ -1793,12 +1793,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other||リズム|rhythm
 |hidden|n2|other||リットル|litre
 |hidden|n2|other||リボン|ribbon
-|hidden|n2|other|略す|りゃくす|to abbreviate
-|hidden|n2|other|流域|りゅういき|(river) basin
-|hidden|n2|other|寮|りょう|hostel,dormitory
-|hidden|n2|other|両側|りょうがわ|both sides
-|hidden|n2|other|漁師|りょうし|fisherman
-|hidden|n2|other|領事|りょうじ|consul
+||n2|verb|略す|りゃくす|to abbreviate|förkorta
+||n2|noun|流域|りゅういき|(river) basin|älvdal
+17||n2|noun|寮|りょう|hostel,dormitory|studenthem,sovsal
+||n2|noun|両側|りょうがわ|both sides|båda sidor
+||n2|noun|漁師|りょうし|fisherman|fiskare
+||n2|noun|領事|りょうじ|consul|konsul
 |hidden|n2|other|領収|りょうしゅう|receipt,voucher
 |hidden|n2|other|臨時|りんじ|temporary,special,extraordinary
 |hidden|n2|other|留守番|るすばん|care-taking,caretaker,house-watching
