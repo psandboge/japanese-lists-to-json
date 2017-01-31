@@ -39,11 +39,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n1|adjective|浅ましい|あさましい|wretched, miserable, shameful, mean, despicable, abject|usel,skamlig,elak,föraktlig
 ||n1|noun|字|あざ|section of village|bystadsdel
 ||n1|verb|欺く|あざむく|to deceive|förleda
-|hidden|n1|other|鮮やか|あざやか|vivid, clear, brilliant
-|hidden|n1|other|あざ笑う|あざわらう|to sneer at, to ridicule
-|hidden|n1|other|味わい|あじわい|flavour, meaning, significance
-|hidden|n1|other|東|あずま|east, Eastern Japan
-|hidden|n1|other|焦る|あせる|to be in a hurry, to be impatient
+||n1|adjective|鮮やか|あざやか|vivid, clear, brilliant|klar,briljant
+||n1|verb|あざ笑う|あざわらう|to sneer at, to ridicule|förlöjliga
+||n1|noun|味わい|あじわい|flavour, meaning, significance|smak,mening
+||n1|noun|東|あずま|east, Eastern Japan|öst,Östjapan
+||n1|verb|焦る|あせる|to be in a hurry, to be impatient|ha bråttom,vara otålig
 |hidden|n1|other|彼処|あそこ|1. (uk) there, over there, that place, 2. (X) (col) genitals
 |hidden|n1|other|値|あたい|value, price, cost, worth, merit
 |hidden|n1|other|値する|あたいする|to be worth, to deserve, to merit
@@ -57,7 +57,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|悪化|あっか|deterioration, growing worse, aggravation, degeneration, corruption
 |hidden|n1|other|呆気ない|あっけない|not enough, too quick (short long etc.)
 |hidden|n1|other|悪口|あっこう|abuse, insult, slander, evil speaking
-|hidden|n1|other||あっさり|easily, readily, quickly
+|hidden|n1|other|あっさり|あっさり|easily, readily, quickly
 |hidden|n1|other|圧迫|あっぱく|pressure, coercion, oppression
 |hidden|n1|other|扱い|あつかい|treatment, service
 |hidden|n1|other|集まる|あつまる|to gather, to collect, to assemble
@@ -76,7 +76,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|溢れる|あふれる|to flood, to overflow, to brim over
 |hidden|n1|other|油絵|あぶらえ|oil painting
 |hidden|n1|other|炙る|あぶる|to scorch
-|hidden|n1|other||あべこべ|contrary, opposite, inverse
+|hidden|n1|other|あべこべ|あべこべ|contrary, opposite, inverse
 |hidden|n1|other|甘える|あまえる|to behave like a spoiled child, to fawn on
 |hidden|n1|other|甘口|あまくち|sweet flavour, mildness, flattery, stupidity
 |hidden|n1|other|雨具|あまぐ|rain gear
@@ -84,13 +84,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|網|あみ|net, network
 |hidden|n1|other|天地|あめつち|heaven and earth, the universe, nature, top and bottom, realm, sphere, world
 |hidden|n1|other|操る|あやつる|to manipulate, to operate, to pull strings
-|hidden|n1|other||あやふや|uncertain, vague, ambiguous
+|hidden|n1|other|あやふや|あやふや|uncertain, vague, ambiguous
 |hidden|n1|other|危ぶむ|あやぶむ|to fear, to have misgivings, to be doubtful, to mistrust
 |hidden|n1|other|過ち|あやまち|fault, error, indiscretion
 |hidden|n1|other|誤る|あやまる|to make a mistake
 |hidden|n1|other|歩み|あゆみ|walking
 |hidden|n1|other|歩む|あゆむ|to walk, to go on foot
-|hidden|n1|other||あら|oh, ah, saw-edged perch (Niphon spinosus)
+|hidden|n1|other|あら|あら|oh, ah, saw-edged perch (Niphon spinosus)
 |hidden|n1|other|予め|あらかじめ|beforehand, in advance, previously
 |hidden|n1|other|荒らす|あらす|to lay waste, to devastate, to damage, to invade, to break into
 |hidden|n1|other|粗筋|あらすじ|outline, summary
@@ -98,7 +98,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|改まる|あらたまる|to be renewed
 |hidden|n1|other|荒っぽい|あらっぽい|rough, rude
 |hidden|n1|other|凡ゆる|あらゆる|all, every
-|hidden|n1|other||あられ|kind of cookie, cartoon character
+|hidden|n1|other|あられ|あられ|kind of cookie, cartoon character
 |hidden|n1|other|現われ|あらわれ|embodiment, materialization
 |hidden|n1|other|現われる|あらわれる|to appear, to come in sight, to become visible, to come out, to embody, to materialize, to express oneself
 |hidden|n1|other|有難う|ありがとう|Thank you
@@ -141,7 +141,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|行き違い|いきちがい|misunderstanding, estrangement, disagreement, crossing without meeting, going astray
 |hidden|n1|other|行き成り|いきなり|suddenly
 |hidden|n1|other|異議|いぎ|objection, dissent, protest
-|hidden|n1|other||いく|to come, to orgasm
+|hidden|n1|other|いく|いく|to come, to orgasm
 |hidden|n1|other|軍|いくさ|war, battle, campaign, fight
 |hidden|n1|other|戦|いくさ|war, battle, campaign, fight
 |hidden|n1|other|育成|いくせい|rearing, training, nurture, cultivation, promotion
@@ -150,7 +150,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|異見|いけん|different opinion, objection
 |hidden|n1|other|意向|いこう|intention, idea, inclination
 |hidden|n1|other|移行|いこう|switching over to
-|hidden|n1|other||いざ|now, come (now), well, crucial moment
+|hidden|n1|other|いざ|いざ|now, come (now), well, crucial moment
 |hidden|n1|other|碑|いしぶみ|stone monument bearing an inscription
 |hidden|n1|other|衣装|いしょう|clothing, costume, outfit, garment, dress
 |hidden|n1|other|意地|いじ|disposition, spirit, willpower, obstinacy, backbone, appetite
@@ -195,7 +195,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|一挙に|いっきょに|at a stroke, with a single swoop
 |hidden|n1|other|一切|いっさい|all, everything, without exception, the whole, entirely, absolutely
 |hidden|n1|other|一心|いっしん|one mind, wholeheartedness, the whole heart
-|hidden|n1|other||いっそ|rather, sooner, might as well
+|hidden|n1|other|いっそ|いっそ|rather, sooner, might as well
 |hidden|n1|other|一帯|いったい|a region, a zone, the whole place
 |hidden|n1|other|一敗|いっぱい|one defeat
 |hidden|n1|other|一変|いっぺん|complete change, about-face
@@ -219,7 +219,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|移民|いみん|emigration, immigration, emigrant, immigrant
 |hidden|n1|other|厭々|いやいや|unwillingly, grudgingly, shaking head in refusal (to children)
 |hidden|n1|other|卑しい|いやしい|greedy, vulgar, shabby, humble, base, mean, vile
-|hidden|n1|other||いやに|awfully, terribly
+|hidden|n1|other|いやに|いやに|awfully, terribly
 |hidden|n1|other|厭やらしい|いやらしい|detestable, disagreeable
 |hidden|n1|other|愈々|いよいよ|more and more, all the more, increasingly, at last, beyond doubt
 |hidden|n1|other|意欲|いよく|will, desire, ambition
@@ -290,7 +290,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|上回る|うわまわる|to exceed
 |hidden|n1|other|植わる|うわる|to be planted
 |hidden|n1|other|運営|うんえい|management, administration, operation
-|hidden|n1|other||うんざり|tedious, boring, being fed up with
+|hidden|n1|other|うんざり|うんざり|tedious, boring, being fed up with
 |hidden|n1|other|運送|うんそう|shipping, marine transportation
 |hidden|n1|other|運賃|うんちん|freight rates, shipping expenses, fare
 |hidden|n1|other|云々|うんぬん|and so on, and so forth, comment
@@ -300,7 +300,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|運用|うんよう|making use of, application, investment, practical use
 |hidden|n1|other|会|え|understanding
 |hidden|n1|other|重|え|-fold, -ply
-|hidden|n1|other||えい|ray (fish)
+|hidden|n1|other|えい|えい|ray (fish)
 |hidden|n1|other|映写|えいしゃ|projection
 |hidden|n1|other|英字|えいじ|English letter (character)
 |hidden|n1|other|衛生|えいせい|health, hygiene, sanitation, medical
@@ -341,7 +341,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|黄金|おうごん|gold
 |hidden|n1|other|黄色|おうしょく|yellow
 |hidden|n1|other|応募|おうぼ|subscription, application
-|hidden|n1|other||おおい|hey!
+|hidden|n1|other|おおい|おおい|hey!
 |hidden|n1|other|大方|おおかた|perhaps, almost all, majority
 |hidden|n1|other|大柄|おおがら|large build, large pattern
 |hidden|n1|other|大げさ|おおげさ|grandiose, exaggerated
@@ -393,7 +393,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n1|noun|落ち着き|おちつき|calm, composure|lugn,fattning
 ||n1|noun|落ち葉|おちば|fallen leaves, leaf litter, defoliation, shedding leaves|fallna löv,lövfällning
 ||n1|verb|落ちる|おちる|to fail (e.g. exam), to fall down, to drop|misslyckas,trilla ner
-|hidden|n1|other||おっかない|frightening, huge
+|hidden|n1|other|おっかない|おっかない|frightening, huge
 |hidden|n1|other|仰っしゃる|おっしゃる|to say, to speak, to tell, to talk
 |hidden|n1|other|乙|おつ|1. strange, quaint, stylish, chic, spicy, queer, witty, tasty, romantic, 2. 2nd in rank, second sign of the
 |hidden|n1|other|お使い|おつかい|errand
@@ -406,7 +406,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|少女|おとめ|daughter, young lady, virgin, maiden, little girl
 |hidden|n1|other|お供|おとも|attendant, companion
 |hidden|n1|other|衰える|おとろえる|to become weak, to decline, to wear, to abate, to decay, to wither, to waste away
-|hidden|n1|other||おどおど|coweringly, hesitantly
+|hidden|n1|other|おどおど|おどおど|coweringly, hesitantly
 |hidden|n1|other|脅かす|おどかす|to threaten, to coerce
 |hidden|n1|other|脅す|おどす|to threaten, to menace
 |hidden|n1|other|驚き|おどろき|surprise, astonishment, wonder
@@ -670,7 +670,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|学歴|がくれき|academic background
 |hidden|n1|other|崖|がけ|cliff
 |hidden|n1|other|雅致|がち|artistry, good taste, elegance, grace
-|hidden|n1|other||がっくり|heartbroken
+|hidden|n1|other|がっくり|がっくり|heartbroken
 |hidden|n1|other|合唱|がっしょう|chorus, singing in a chorus
 |hidden|n1|other||がっしり|firmly, solidly, tough
 |hidden|n1|other|合致|がっち|agreement, concurrence, conforming to

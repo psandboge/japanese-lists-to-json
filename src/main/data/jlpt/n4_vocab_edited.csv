@@ -468,14 +468,14 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,verb,ほめる,ほめる,to praise
 ,hidden,n4,other,翻訳,ほんやく,translation
 ,hidden,n4,verb,参る,まいる,(humble) to go;to come
-,hidden,n4,verb,負ける,まける,to lose
-,hidden,n4,other,または,または,or;otherwise
-,hidden,n4,verb,間違える,まちがえる,to make a mistake
-,hidden,n4,verb,間に合う,まにあう,to be in time for
-,hidden,n4,other,周り,まわり,surroundings
-,hidden,n4,verb,回る,まわる,to go around
-,hidden,n4,other,漫画,まんが,comic
-,hidden,n4,other,真中,まんなか,middle
+,,n4,verb,負ける,まける,to lose,förlora
+,,n4,conjunction,または,または,or;otherwise,eller
+,,n4,verb,間違える,まちがえる,to make a mistake,göra misstag
+,,n4,verb,間に合う,まにあう,to be in time for,vara i tid
+,,n4,noun,周り,まわり,surroundings,omgivningar
+,,n4,verb,回る,まわる,to go around,gå runt
+14,,n4,noun,漫画,まんが,comic,serietidning
+,,n4,noun,真中,まんなか,middle,mitten
 15,,n4,verb,見える,みえる,to be in sight,synas
 ,,n4,noun,湖,みずうみ,lake,sjö
 ,,n4,noun,味噌,みそ,miso; soybean paste,miso
@@ -490,8 +490,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,息子,むすこ,(humble) son,son (ödmjuk)
 ,,n4,noun,娘,むすめ,(humble) daughter,dotter (ödmjuk)
 ,,n4,adjective,無理,むり,impossible,omöjlig
-,hidden,n4,verb,召し上がる,めしあがる,(polite) to eat
-,hidden,n4,other,珍しい,めずらしい,rare
+,,n4,verb,召し上がる,めしあがる,(polite) to eat,äta (artigt)
+,,n4,adjective,珍しい,めずらしい,rare,sällsynt
 ,hidden,n4,verb,申し上げる,もうしあげる,(humble) to say;to tell
 ,hidden,n4,verb,申す,もうす,(humble) to be called;to say
 ,hidden,n4,other,もうすぐ,もうすぐ,soon
@@ -509,16 +509,16 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,verb,止む,やむ,to stop
 ,hidden,n4,verb,止める,やめる,to stop
 ,hidden,n4,other,柔らかい,やわらかい,soft
-,hidden,n4,other,湯,ゆ,hot water
-,hidden,n4,other,指,ゆび,finger
-,hidden,n4,other,指輪,ゆびわ,a ring
-,hidden,n4,other,夢,ゆめ,dream
-,hidden,n4,verb,揺れる,ゆれる,to shake;to sway
-,hidden,n4,other,用,よう,use
-,hidden,n4,other,用意,ようい,preparation
-,hidden,n4,verb,用事,ようじ,things to do
-,hidden,n4,verb,汚れる,よごれる,to get dirty
-,hidden,n4,other,予習,よしゅう,preparation for a lesson
+,,n4,noun,湯,ゆ,hot water,varmvatten
+,,n4,noun,指,ゆび,finger,finger
+14,,n4,noun,指輪,ゆびわ,a ring,ring
+,,n4,noun,夢,ゆめ,dream,dröm
+,,n4,verb,揺れる,ゆれる,to shake;to sway,skaka;svaja
+,,n4,noun,用,よう,use,användning
+,,n4,noun,用意,ようい,preparation,förberedelse
+,,n4,noun,用事,ようじ,things to do,saker att göra
+,,n4,verb,汚れる,よごれる,to get dirty,bli smutsig
+,,n4,other,予習,よしゅう,preparation for a lesson,lektionsförberedelse
 15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
 ,,n4,noun,予約,よやく,reservation,reservation
 ,,n4,verb,寄る,よる,to visit,besöka

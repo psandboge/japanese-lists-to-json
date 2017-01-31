@@ -482,7 +482,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|掲示|けいじ|notice,bulletin
 |hidden|n3|other|刑事|けいじ|a police detective
 |hidden|n3|other|芸術|げいじゅつ|(fine) art,the arts
-|hidden|n3|other|契約|けいやく|contract,compact,agreement
+||n3|noun|契約|けいやく|contract,compact,agreement|kontrakt,överenskommelse
 ||n3|preposition|経由|けいゆ|go by the way,via|via
 ||n3|noun|怪我|けが|injury (to animate object),hurt|skada
 ||n3|verb|怪我する|けがする|to injure|skada
@@ -490,8 +490,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n3|noun|劇場|げきじょう|theatre,playhouse|teater
 17||n3|noun|化粧|けしょう|make-up (cosmetic)|smink
 17||n3|verb|化粧する|けしょうする|put on make-up (cosmetic)|sminka sig
-||n3|noun|けち|けち|stinginess,miser,miserliness|snålhet
-|hidden|n3|other|結果|けっか|result,consequence
+14||n3|noun|けち|けち|stinginess,miser,miserliness|snålhet
+14||n3|noun|けち|けち|stingy|snål
+||n3|noun|結果|けっか|result,consequence|resultat,konsekvens
 |hidden|n3|other|欠陥|けっかん|defect,fault,deficiency
 |hidden|n3|other|結局|けっきょく|after all,eventually
 |hidden|n3|other|決心|けっしん|determination,resolution
@@ -1403,11 +1404,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|無|ぶ|nothing,naught,nil,zero
 |hidden|n3|other|分|ぶ|dividing,part
 |hidden|n3|other|不安|ふあん|anxiety,uneasiness,insecurity,suspense
-|hidden|n3|other|風景|ふうけい|scenery
-|hidden|n3|other|夫婦|ふうふ|married couple,husband and wife
-|hidden|n3|other|笛|ふえ|flute,pipe
-|hidden|n3|other|不可|ふか|wrong,bad,improper,unjustifiable,inadvisable
-|hidden|n3|other|武器|ぶき|weapon,arms,ordinance
+||n3|noun|風景|ふうけい|scenery|landskap
+14||n3|noun|夫婦|ふうふ|married couple,husband and wife|gift par
+||n3|noun|笛|ふえ|flute,pipe|flöjt
+||n3|adjective|不可|ふか|wrong,bad,improper,unjustifiable,inadvisable|fel,dålig,olämplig,oförsvarlig
+||n3|noun|武器|ぶき|weapon,arms,ordinance|vapen,krigsmaterial
 |hidden|n3|other|服装|ふくそう|dress, clothes
 |hidden|n3|other|含む|ふくむ|to hold in the mouth,to bear in mind
 |hidden|n3|other|袋|ふくろ|bag,sack
@@ -1715,16 +1716,16 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|オーバー|オーバー|(1) overcoat,(2) over
 |hidden|n3|other|オフィス|オフィス|office
 |hidden|n3|other|カー|カー|car
-|hidden|n3|other|カード|カード|card,curd
-|hidden|n3|other|キャプテン|キャプテン|captain
-|hidden|n3|other|キャンプ|キャンプ|camp
-|hidden|n3|other|クラシック|クラシック|classic(s)
-|hidden|n3|other|グラス|グラス|(1) glass,(2) grass
-|hidden|n3|other|グランド|グランド|gland,grand,(electrical) ground
-|hidden|n3|other|クリーム|クリーム|cream
-|hidden|n3|other|クリスマス|クリスマス|Christmas
-|hidden|n3|other|グループ|グループ|group
-|hidden|n3|other|ケース|ケース|case
+||n3|noun|カード|カード|card,curd|kort,ostmassa
+||n3|noun|キャプテン|キャプテン|captain|kapten
+||n3|noun|キャンプ|キャンプ|camp|läger
+||n3|noun|クラシック|クラシック|classic(s)|klassiker
+14||n3|noun|グラス|グラス|(1) glass,(2) grass|glas,gräs
+||n3|noun|グランド|グランド|gland,grand,(electrical) ground|storartad,körtel,jord
+||n3|noun|クリーム|クリーム|cream|grädde
+14||n3|noun|クリスマス|クリスマス|Christmas|Jul
+||n3|noun|グループ|グループ|group|grupp
+||n3|noun|ケース|ケース|case|fodral
 |hidden|n3|other|ゲーム|ゲーム|game
 |hidden|n3|other|コーチ|コーチ|coach
 |hidden|n3|other|コード|コード|code,cord,chord

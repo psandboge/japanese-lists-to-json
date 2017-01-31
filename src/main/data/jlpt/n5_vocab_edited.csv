@@ -31,7 +31,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,pronoun,あっち,あっち,over there,där borta
 ,,n5,temporal,後,あと,afterwards,efteråt
 ,,n5,pronoun,あなた,あなた,you,du
-,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
+14,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
 ,,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
 ,,n5,pronoun,あの,あの,that over there,där borta
 1,,n5,interjection,あの,あの,um...,hm...
@@ -117,20 +117,20 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,お金,おかね,money,pengar
 ,,n5,verb,起きる,おきる,to get up,stiga upp
 ,,n5,verb,置く,おく,to put,lägga
-,,n5,noun,奥さん,おくさん,(honorable) wife,fru (artig)
+14,,n5,noun,奥さん,おくさん,(honorable) wife,fru (artig)
 ,,n5,noun,お酒,おさけ,rice wine,risvin
 ,hidden,n5,noun,お酒,おさけ,alcohol,alkohol
-,,n5,noun,お皿,おさら,dish;plate,tallrik
+14,,n5,noun,お皿,おさら,dish;plate,tallrik
 ,hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
 ,hidden,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
 ,hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
 ,,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
 ,,n5,verb,教える,おしえる,tell,berätta
 ,,n5,verb,教える,おしえる,teach,lära ut
-,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
-,hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
-,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
-,,n5,noun,伯父,おじさん,uncle,farbror;morbror
+14,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+14,hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
+14,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+14,,n5,noun,伯父,おじさん,uncle,farbror;morbror
 ,hidden,n5,verb,押す,おす,stamp,stämpla
 ,,n5,verb,押す,おす,push,putta
 ,hidden,n5,adjective,遅い,おそい,slow,långsam
@@ -150,8 +150,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 1,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
 ,hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
 ,,n5,noun,おばあさん,おばあさん,grandmother,farmor;mormor
-,hidden,n5,noun,伯母さん,おばさん,aunt,moster;faster
-,,n5,noun,叔母さん,おばさん,aunt,moster;faster
+14,hidden,n5,noun,伯母さん,おばさん,aunt,moster;faster
+14,,n5,noun,叔母さん,おばさん,aunt,moster;faster
 ,,n5,noun,お風呂,おふろ,bath,bad
 ,,n5,noun,お弁当,おべんとう,boxed lunch,bento
 ,,n5,verb,覚える,おぼえる,remember,komma ihåg
@@ -322,7 +322,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,numeric,四,し,four,fyra
 ,,n5,noun,塩,しお,salt,salt
 ,,n5,conjunction,しかし,しかし,however,dock
-,,n5,noun,時間,じかん,time,tid
+14,,n5,noun,時間,じかん,time,tid
 1,,n5,noun,仕事,しごと,job,jobb
 ,,n5,noun,辞書,じしょ,dictionary,lexikon
 ,,n5,adjective,静か,しずか,quiet,tyst
@@ -443,9 +443,9 @@ genki,state,jlpt,type,writing,reading,english,swedish
 15,,n5,noun,地図,ちず,map,karta
 ,,n5,adjective,茶色,ちゃいろ,brown,brun
 ,,n5,noun,ちゃわん,ちゃわん,rice bowl,risskål
-,,n5,other,ちょうど,ちょうど,exactly,exakt
-,,n5,other,ちょっと,ちょっと,somewhat,något
-,,n5,other,一日,ついたち,first of month,1:a (i månad)
+,,n5,adverb,ちょうど,ちょうど,exactly,exakt
+,,n5,adverb,ちょっと,ちょっと,somewhat,något
+,,n5,noun,一日,ついたち,first of month,1:a (i månad)
 ,,n5,verb,使う,つかう,to use,använda
 ,,n5,verb,疲れる,つかれる,to get tired,tröttna
 ,,n5,adjective,次,つぎ,next,nästa
@@ -485,19 +485,19 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,adverb,どうして,どうして,for what reason,av vilken anledning
 ,,n5,interjection,どうぞ,どうぞ,please,tack
 ,,n5,noun,動物,どうぶつ,animal,djur
-,,n5,other,どうも,どうも,thanks,tack
-,,n5,other,遠い,とおい,far,långt
-,,n5,other,十日,とおか,the tenth day,tionde dagen
-,,n5,other,十日,とおか,ten days,tio dagar
-,,n5,other,時々,ときどき,sometimes,ibland
+,,n5,interjection,どうも,どうも,thanks,tack
+,,n5,adjective,遠い,とおい,far,långt
+,,n5,noun,十日,とおか,the tenth day,tionde dagen
+,,n5,noun,十日,とおか,ten days,tio dagar
+,,n5,adverb,時々,ときどき,sometimes,ibland
 2,,n5,noun,時計,とけい,clock,klocka
 ,hidden,n5,noun,時計,とけい,watch,armbandsur
-,,n5,other,どこ,どこ,where,var
+,,n5,adverb,どこ,どこ,where,var
 ,,n5,noun,所,ところ,place,plats
 ,,n5,noun,年,とし,year,år
 ,,n5,noun,図書館,としょかん,library,bibliotek
-,,n5,other,どちら,どちら,which of two,vilken (av två)
-,,n5,other,どっち,どっち,which,vilken
+,,n5,preposition,どちら,どちら,which of two,vilken (av två)
+,,n5,preposition,どっち,どっち,which,vilken
 ,,n5,adverb,とても,とても,very,mycket
 ,,n5,pronoun,どなた,どなた,who,vem
 ,,n5,adverb,隣,となり,next door to,granne till
@@ -506,18 +506,18 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,verb,飛ぶ,とぶ,to fly,flyga
 ,,n5,verb,止まる,とまる,to come to a halt,stoppa
 1,,n5,noun,友達,ともだち,friend,vän
-,,n5,other,土曜日,どようび,Saturday,lördag
+,,n5,noun,土曜日,どようび,Saturday,lördag
 ,,n5,noun,鳥,とり,bird,fågel
 ,,n5,noun,とり肉,とりにく,chicken meat,kycklingkött
 ,,n5,verb,取る,とる,to take something,ta (något)
 ,,n5,verb,撮る,とる,to take a photo;record a film,fotografera;filma
-,,n5,other,どれ,どれ,which (of three or more),vilken (av 3+)
+,,n5,preposition,どれ,どれ,which (of three or more),vilken (av 3+)
 ,,n5,noun,ナイフ,ナイフ,knife,kniv
-,,n5,other,中,なか,middle,mitten
-,,n5,other,長い,ながい,long,lång
+,,n5,noun,中,なか,middle,mitten
+,,n5,adjective,長い,ながい,long,lång
 ,,n5,verb,鳴く,なく,animal noise. to chirp roar or croak etc.,kvittra;ryta;kvacka
 ,,n5,verb,無くす,なくす,to lose something,förlora något
-,,n5,other,なぜ,なぜ,why,varför
+,,n5,adverb,なぜ,なぜ,why,varför
 ,,n5,noun,夏,なつ,summer,sommar
 ,,n5,noun,夏休み,なつやすみ,summer holiday,sommarlov
 ,,n5,other,など,など,et cetera,med mera
@@ -544,7 +544,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 15,,n5,noun,庭,にわ,garden,trädgård
 17,,n5,verb,脱ぐ,ぬぐ,to take off clothes,ta av sig
 ,,n5,adjective,温い,ぬるい,luke warm,ljummet
-,,n5,noun,ネクタイ,ネクタイ,necktie;tie,slips
+14,,n5,noun,ネクタイ,ネクタイ,necktie;tie,slips
 ,,n5,noun,猫,ねこ,cat,katt
 ,,n5,verb,寝る,ねる,to sleep,sova
 ,,n5,verb,寝る,ねる,to go to bed,lägga sig
@@ -649,7 +649,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,ほか,ほか,the rest,resten
 ,hidden,n5,noun,ほか,ほか,other,annan
 ,,n5,noun,ポケット,ポケット,pocket,ficka
-,,n5,adjective,欲しい,ほしい,wanted,önskad
+14,,n5,adjective,欲しい,ほしい,wanted,önskad
 ,,n5,noun,ポスト,ポスト,post,post
 ,,n5,adjective,細い,ほそい,thin,tunn
 ,,n5,noun,ボタン,ボタン,button,knapp
@@ -698,7 +698,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,三日,みっか,three days,tre dagar
 ,,n5,numeric,三つ,みっつ,three,tre
 ,,n5,adjective,緑,みどり,green,grön
-,,n5,noun,皆さん,みなさん,everyone,alla
+14,,n5,noun,皆さん,みなさん,everyone,alla
 ,,n5,noun,南,みなみ,south,syd
 ,,n5,noun,耳,みみ,ear,öra
 ,hidden,n5,verb,見る 観る,みる,to watch,titta
@@ -759,12 +759,12 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,temporal,来月,らいげつ,next month,nästa månad
 ,,n5,temporal,来週,らいしゅう,next week,nästs vecka
 ,,n5,temporal,来年,らいねん,next year,nästa år
-,,n5,noun,ラジオ,ラジオ,radio,radio
+14,,n5,noun,ラジオ,ラジオ,radio,radio
 ,,n5,noun,ラジカセ,ラジカセ,radio cassette player,bandspelare
 ,hidden,n5,noun,ラジオカセット,ラジオカセット,radio cassette player,bandspelare
 ,,n5,adjective,立派,りっぱ,splendid,utmärkt
 1,,n5,noun,留学生,りゅうがくせい,overseas student,utlandsstudent
-,,n5,noun,両親,りょうしん,both parents,båda föräldrar
+14,,n5,noun,両親,りょうしん,both parents,båda föräldrar
 ,,n5,noun,料理,りょうり,cuisine,kök
 ,,n5,noun,旅行,りょこう,travel,resande
 ,,n5,numeric,零,れい,zero,noll
