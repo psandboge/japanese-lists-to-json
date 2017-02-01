@@ -672,12 +672,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|雅致|がち|artistry, good taste, elegance, grace
 |hidden|n1|other|がっくり|がっくり|heartbroken
 |hidden|n1|other|合唱|がっしょう|chorus, singing in a chorus
-|hidden|n1|other||がっしり|firmly, solidly, tough
+|hidden|n1|other|がっしり|がっしり|firmly, solidly, tough
 |hidden|n1|other|合致|がっち|agreement, concurrence, conforming to
-|hidden|n1|other||がっちり|solidly built, tightly, shrewd, calculating
+|hidden|n1|other|がっちり|がっちり|solidly built, tightly, shrewd, calculating
 |hidden|n1|other|月日|がっぴ|(the) date
 |hidden|n1|other|合併|がっぺい|combination, union, amalgamation, consolidation, merger, coalition, fusion, annexation, affiliation, incorpor
-|hidden|n1|other||がる|feel
+|hidden|n1|other|がる|がる|feel
 |hidden|n1|other|側|がわ|side, row, surroundings, part, (watch) case
 |hidden|n1|other|癌|がん|cancer
 |hidden|n1|other|眼科|がんか|ophthalmology
@@ -728,14 +728,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|鍛える|きたえる|to forge, to drill, to temper, to train, to discipline
 |hidden|n1|other|来る|きたる|to come, to arrive, to be due to, to be next, to be forthcoming
 |hidden|n1|other|気立て|きだて|disposition, nature
-|hidden|n1|other||きちっと|exactly, perfectly
+|hidden|n1|other|きちっと|きちっと|exactly, perfectly
 |hidden|n1|other|几帳面|きちょうめん|methodical, punctual, steady
 |hidden|n1|other|切っ掛け|きっかけ|chance, start, cue, excuse, motive, impetus, occasion
-|hidden|n1|other||きっかり|exactly, precisely
+|hidden|n1|other|きっかり|きっかり|exactly, precisely
 |hidden|n1|other|喫茶|きっさ|tea drinking, tea house
-|hidden|n1|other||きっちり|precisely, tightly
+|hidden|n1|other|きっちり|きっちり|precisely, tightly
 |hidden|n1|other|屹度|きっと|1. (uk) surely, undoubtedly, certainly, without fail, 2. sternly, severely
-|hidden|n1|other||きっぱり|clearly, plainly, distinctly
+|hidden|n1|other|きっぱり|きっぱり|clearly, plainly, distinctly
 |hidden|n1|other|規定|きてい|regulation, provisions
 |hidden|n1|other|起点|きてん|starting point
 |hidden|n1|other|軌道|きどう|orbit, railroad track
@@ -873,7 +873,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|口ずさむ|くちずさむ|to hum something, to sing to oneself
 |hidden|n1|other|嘴|くちばし|beak, bill
 |hidden|n1|other|朽ちる|くちる|to rot
-|hidden|n1|other||くっきり|distinctly, clearly, boldly
+|hidden|n1|other|くっきり|くっきり|distinctly, clearly, boldly
 |hidden|n1|other|屈折|くっせつ|bending, indentation, refraction
 |hidden|n1|other|くっ付く|くっつく|to adhere to, to keep close to
 |hidden|n1|other|くっ付ける|くっつける|to attach
@@ -888,14 +888,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|蔵|くら|warehouse, cellar, magazine, granary, godown, depository, treasury, elevator
 |hidden|n1|other|苦しめる|くるしめる|to torment, to harass, to inflict pain
 |hidden|n1|other|包む|くるむ|to be engulfed in, to be enveloped by, to wrap up, to tuck in, to pack, to do up, to cover with, to dress i
-|hidden|n1|other|呉れ呉れも|くれぐれも|repeatedly, sincerely, earnestly
-|hidden|n1|other|呉れる|くれる|to give, to let one have, to do for one, to be given
-|hidden|n1|other|玄人|くろうと|expert, professional, geisha, prostitute
+||n1|adverb|呉れ呉れも|くれぐれも|repeatedly, sincerely, earnestly|upprepat,ärligt
+14|hidden|n1|other|呉れる|くれる|to give, to let one have, to do for one, to be given|bli given
+||n1|noun|玄人|くろうと|expert, professional, geisha, prostitute|expert,proffs,geisha,prostituerad
 |hidden|n1|other|黒字|くろじ|balance (figure) in the black
 |hidden|n1|other|君主|くんしゅ|ruler, monarch
 |hidden|n1|other|愚痴|ぐち|idle complaint, grumble
-|hidden|n1|other||ぐっと|firmly, fast, much, more
-|hidden|n1|other||ぐらい|approximately
+|hidden|n1|other|ぐっと|ぐっと|firmly, fast, much, more
+|hidden|n1|other|ぐらい|ぐらい|approximately
 |hidden|n1|other|群|ぐん|group (math)
 |hidden|n1|other|軍艦|ぐんかん|warship, battleship
 |hidden|n1|other|群集|ぐんしゅう|(social) group, crowd, throng, mob, multitude
@@ -951,7 +951,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|煙たい|けむたい|smoky, feeling awkward
 |hidden|n1|other|煙る|けむる|to smoke (e.g. fire)
 |hidden|n1|other|家来|けらい|retainer, retinue, servant
-|hidden|n1|other||けれど|but, however
+|hidden|n1|other|けれど|けれど|but, however
 |hidden|n1|other|圏|けん|sphere, circle, range
 |hidden|n1|other|権|けん|authority, the right (to do something)
 |hidden|n1|other|権威|けんい|authority, power, influence
@@ -969,7 +969,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|劇団|げきだん|troupe, theatrical company
 |hidden|n1|other|激励|げきれい|encouragement
 |hidden|n1|other|月謝|げっしゃ|monthly tuition fee
-|hidden|n1|other||げっそり|being disheartened, losing weight
+|hidden|n1|other|げっそり|げっそり|being disheartened, losing weight
 |hidden|n1|other|月賦|げっぷ|monthly installment
 |hidden|n1|other|下痢|げり|diarrhoea
 |hidden|n1|other|原|げん|original, primitive, primary, fundamental, raw
@@ -1097,7 +1097,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|堪える|こたえる|to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
 |hidden|n1|other|火燵|こたつ|table with heater, (orig) charcoal brazier in a floor well
 |hidden|n1|other|古代|こだい|ancient times
-|hidden|n1|other||こだわる|to fuss over, to be particular about, to be concerned about
+|hidden|n1|other|こだわる|こだわる|to fuss over, to be particular about, to be concerned about
 |hidden|n1|other|誇張|こちょう|exaggeration
 |hidden|n1|other|滑稽|こっけい|funny, humorous, comical, laughable, ridiculous, joking
 |hidden|n1|other|国交|こっこう|diplomatic relations
@@ -1223,7 +1223,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|錯覚|さっかく|optical illusion, hallucination
 |hidden|n1|other|早急|さっきゅう|urgent
 |hidden|n1|other|察する|さっする|to guess, to sense, to presume, to judge, to sympathize with
-|hidden|n1|other||さっと|quickly, suddenly
+|hidden|n1|other|さっと|さっと|quickly, suddenly
 |hidden|n1|other|冊|さつ|counter for books
 |hidden|n1|other|殺人|さつじん|murder
 |hidden|n1|other|偖|さて|well, now, then
@@ -1272,7 +1272,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|残酷|ざんこく|cruelty, harshness
 |hidden|n1|other|残高|ざんだか|(bank) balance, remainder
 |hidden|n1|other|死|し|death, decease
-|hidden|n1|other||し|10^24 (kanji is JIS X 0212 kuten 4906), septillion (American), quadrillion (British)
+|hidden|n1|other|し|し|10^24 (kanji is JIS X 0212 kuten 4906), septillion (American), quadrillion (British)
 |hidden|n1|other|次|し|order, sequence, times, next, below
 |hidden|n1|other|仕上がり|しあがり|finish, end, completion
 |hidden|n1|other|仕上げ|しあげ|end, finishing touches, being finished
@@ -1282,7 +1282,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|強いて|しいて|by force
 |hidden|n1|other|強いる|しいる|to force, to compel, to coerce
 |hidden|n1|other|仕入れる|しいれる|to lay in stock, to replenish stock, to procure
-|hidden|n1|other||しいんと|silent (as the grave), (deathly) quiet
+|hidden|n1|other|しいんと|しいんと|silent (as the grave), (deathly) quiet
 |hidden|n1|other|歯科|しか|dentistry
 |hidden|n1|other|資格|しかく|qualifications, requirements, capabilities
 |hidden|n1|other|視覚|しかく|sense of sight, vision
@@ -1300,7 +1300,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|仕切る|しきる|to partition, to divide, to mark off, to settle accounts, to toe the mark
 |hidden|n1|other|資金|しきん|funds, capital
 |hidden|n1|other|施行|しぎょう|1. execution, enforcing, carrying out
-|hidden|n1|other||しくじる|to fail, to fall through, to blunder
+|hidden|n1|other|しくじる|しくじる|to fail, to fall through, to blunder
 |hidden|n1|other|仕組み|しくみ|devising, plan, plot, contrivance, construction, arrangement
 |hidden|n1|other|死刑|しけい|death penalty, capital punishment
 |hidden|n1|other|湿気る|しける|to be damp, to be moist
@@ -1349,14 +1349,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|痺れる|しびれる|to become numb, to go to sleep (i.e. a limb)
 |hidden|n1|other|渋い|しぶい|1. tasteful (clothing), cool, an aura of refined masculinity, 2. astringent, sullen, bitter (taste), 3
 |hidden|n1|other|私物|しぶつ|private property, personal effects
-|hidden|n1|other||しぶとい|tenacious, stubborn
+|hidden|n1|other|しぶとい|しぶとい|tenacious, stubborn
 |hidden|n1|other|司法|しほう|administration of justice
 |hidden|n1|other|脂肪|しぼう|fat, grease, blubber
 |hidden|n1|other|志望|しぼう|wish, desire, ambition
 |hidden|n1|other|萎む|しぼむ|to wither, to fade (away), to shrivel, to wilt
 |hidden|n1|other|仕舞|しまい|end, termination, informal (Noh play)
 |hidden|n1|other|仕舞う|しまう|to finish, to close, to do something completely, to put away, to put an end to
-|hidden|n1|other||しまった|Damn it!
+|hidden|n1|other|しまった|しまった|Damn it!
 |hidden|n1|other|始末|しまつ|management, dealing, settlement, cleaning up afterwards
 |hidden|n1|other|泌み泌み|しみじみ|keenly, deeply, heartily
 |hidden|n1|other|染みる|しみる|to pierce, to permeate
@@ -1455,7 +1455,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|所持|しょじ|possession, owning
 |hidden|n1|other|所属|しょぞく|attached to, belong to
 |hidden|n1|other|処置|しょち|treatment
-|hidden|n1|other||しょっちゅう|always, constantly
+|hidden|n1|other|しょっちゅう|しょっちゅう|always, constantly
 |hidden|n1|other|所定|しょてい|fixed, prescribed
 |hidden|n1|other|所得|しょとく|income, earnings
 |hidden|n1|other|初版|しょはん|first edition
@@ -1629,7 +1629,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|酸っぱい|すっぱい|sour, acid
 |hidden|n1|other|素敵|すてき|lovely, dreamy, beautiful, great, fantastic, superb, cool, capital
 |hidden|n1|other|即ち|すなわち|that is, namely, i.e.
-|hidden|n1|other||すばしこい|nimble, smart, quick
+|hidden|n1|other|すばしこい|すばしこい|nimble, smart, quick
 |hidden|n1|other|素早い|すばやい|fast, quick, prompt, agile
 |hidden|n1|other|済ます|すます|to finish, to get it over with, to settle, to conclude, to pay back
 |hidden|n1|other|澄ます|すます|to clear, to make clear, to be unruffled, to look unconcerned, to look demure, look prim, put on airs
@@ -1641,14 +1641,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|擦れ違い|すれちがい|chance encounter
 |hidden|n1|other|すれ違う|すれちがう|to pass by one another, to disagree, to miss each other
 |hidden|n1|other|擦れる|すれる|to rub, to chafe, to wear, to become sophisticated
-|hidden|n1|other||すんなり|pass with no objection, slim, slender
+|hidden|n1|other|すんなり|すんなり|pass with no objection, slim, slender
 |hidden|n1|other|図々しい|ずうずうしい|impudent, shameless
-|hidden|n1|other||ずばり|decisively, decidedly, once and for all, unreservedly, frankly
+|hidden|n1|other|ずばり|ずばり|decisively, decidedly, once and for all, unreservedly, frankly
 |hidden|n1|other|ずぶ濡れ|ずぶぬれ|soaked, dripping wet
-|hidden|n1|other||ずらっと|in a line, in a row
-|hidden|n1|other||ずるずる|sound or act of dragging, loose, inconclusive but unwanted situation, trailingly
-|hidden|n1|other||ずれ|gap, slippage
-|hidden|n1|other||ずれる|to slide, to slip off
+|hidden|n1|other|ずらっと|ずらっと|in a line, in a row
+|hidden|n1|other|ずるずる|ずるずる|sound or act of dragging, loose, inconclusive but unwanted situation, trailingly
+|hidden|n1|other|ずれ|ずれ|gap, slippage
+|hidden|n1|other|ずれる|ずれる|to slide, to slip off
 |hidden|n1|other|制|せい|system, organization, imperial command, laws, regulation, control, government, suppression, restraint, holdin
 |hidden|n1|other|製|せい|-made, make
 |hidden|n1|other|生育|せいいく|growth, development, breeding
@@ -1825,7 +1825,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|増強|ぞうきょう|augment, reinforce, increase
 |hidden|n1|other|蔵相|ぞうしょう|Minister of Finance
 |hidden|n1|other|増進|ぞうしん|promoting, increase, advance
-|hidden|n1|other||ぞんざい|rude, careless, slovenly
+|hidden|n1|other|ぞんざい|ぞんざい|rude, careless, slovenly
 |hidden|n1|other|他意|たい|ill will, malice, another intention, secret purpose, ulterior motive, fickleness, double-mindedness
 |hidden|n1|other|対応|たいおう|interaction, correspondence, coping with, dealing with
 |hidden|n1|other|退化|たいか|degeneration, retrogression
@@ -1877,7 +1877,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|立ち寄る|たちよる|to stop by, to drop in for a short visit
 |hidden|n1|other|達者|たっしゃ|skillful, in good health
 |hidden|n1|other|達成|たっせい|achievement
-|hidden|n1|other||たった|only, merely, but, no more than
+|hidden|n1|other|たった|たった|only, merely, but, no more than
 |hidden|n1|other|尊い|たっとい|precious, valuable, priceless, noble, exalted, sacred
 |hidden|n1|other|貴い|たっとい|precious, valuable, priceless, noble, exalted, sacred
 |hidden|n1|other|尊ぶ|たっとぶ|to value, to prize, to esteem
@@ -1943,9 +1943,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|脱出|だっしゅつ|escape
 |hidden|n1|other|脱する|だっする|to escape from, to get out
 |hidden|n1|other|脱退|だったい|secession
-|hidden|n1|other||だぶだぶ|loose, baggy
+|hidden|n1|other|だぶだぶ|だぶだぶ|loose, baggy
 |hidden|n1|other|騙す|だます|to trick, to cheat, to deceive
-|hidden|n1|other||だらけ|implying (negatively) that something is full of e.g. mistakes
+|hidden|n1|other|だらけ|だらけ|implying (negatively) that something is full of e.g. mistakes
 |hidden|n1|other|怠い|だるい|sluggish, feel heavy, languid, dull
 |hidden|n1|other|壇|だん|1. platform, podium, rostrum, 2. (arch) mandala
 |hidden|n1|other|団結|だんけつ|unity, union, combination
@@ -1980,7 +1980,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|着工|ちゃっこう|start of (construction) work
 |hidden|n1|other|茶の間|ちゃのま|living room (Japanese style)
 |hidden|n1|other|茶の湯|ちゃのゆ|tea ceremony
-|hidden|n1|other||ちやほや|pamper, make a fuss of, spoil
+|hidden|n1|other|ちやほや|ちやほや|pamper, make a fuss of, spoil
 |hidden|n1|other|昼間|ちゅうかん|daytime, during the day
 |hidden|n1|other|宙返り|ちゅうがえり|somersault, looping-the-loop
 |hidden|n1|other|中継|ちゅうけい|relay, hook-up
@@ -2015,14 +2015,14 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|丁目|ちょうめ|district of a town, city block (of irregular size)
 |hidden|n1|other|調理|ちょうり|cooking
 |hidden|n1|other|調和|ちょうわ|harmony
-|hidden|n1|other||ちょくちょく|often, frequently, now and then, occasionally
+|hidden|n1|other|ちょくちょく|ちょくちょく|often, frequently, now and then, occasionally
 |hidden|n1|other|直面|ちょくめん|confrontation
 |hidden|n1|other|著書|ちょしょ|literary work, book
 |hidden|n1|other|貯蓄|ちょちく|savings
 |hidden|n1|other|直感|ちょっかん|intuition
 |hidden|n1|other|一寸|ちょっと|(ateji) (adv int) (uk) just a minute, a short time, a while, just a little, somewhat, easily, readily, rath
 |hidden|n1|other|著名|ちょめい|well-known, noted, celebrated
-|hidden|n1|other||ちらっと|at a glance, by accident
+|hidden|n1|other|ちらっと|ちらっと|at a glance, by accident
 |hidden|n1|other|塵取り|ちりとり|dustpan
 |hidden|n1|other|治療|ちりょう|medical treatment
 |hidden|n1|other|賃金|ちんぎん|wages
@@ -2122,7 +2122,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|手順|てじゅん|process, procedure, protocol
 |hidden|n1|other|手錠|てじょう|handcuffs, manacles
 |hidden|n1|other|手近|てぢか|near, handy, familiar
-|hidden|n1|other||てっきり|surely, certainly, beyond doubt
+|hidden|n1|other|てっきり|てっきり|surely, certainly, beyond doubt
 |hidden|n1|other|鉄鋼|てっこう|iron and steel
 |hidden|n1|other|徹する|てっする|to sink in, to penetrate, to devote oneself, to believe in, to go through, to do intently and exclusively
 |hidden|n1|other|鉄片|てっぺん|iron scraps
@@ -2151,13 +2151,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|点線|てんせん|dotted line, perforated line
 |hidden|n1|other|天体|てんたい|heavenly body
 |hidden|n1|other|転転|てんてん|rolling about, moving from place to place, being passed around repeatedly
-|hidden|n1|other||てんで|(not) at all, altogether, entirely
+|hidden|n1|other|てんで|てんで|(not) at all, altogether, entirely
 |hidden|n1|other|転任|てんにん|change of post
 |hidden|n1|other|展望|てんぼう|view, outlook, prospect
 |hidden|n1|other|転落|てんらく|fall, degradation, slump
 |hidden|n1|other|出合う|であう|to meet by chance, to come across, to happen to encounter, to hold a rendezvous, to have a date
 |hidden|n1|other|出入り口|でいりぐち|exit and entrance
-|hidden|n1|other||でかい|huge
+|hidden|n1|other|でかい|でかい|huge
 |hidden|n1|other|出来物|できもの|able man, tumour, growth, boil, ulcer, abcess, rash, pimple
 |hidden|n1|other|出切る|できる|to be out of, to have no more at hand
 |hidden|n1|other|出くわす|でくわす|to happen to meet, to come across
@@ -2169,7 +2169,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|電線|でんせん|electric line
 |hidden|n1|other|伝達|でんたつ|transmission (e.g. news), communication, delivery
 |hidden|n1|other|伝来|でんらい|ancestral, hereditary, imported, transmitted, handed down
-|hidden|n1|other||と|1. if (conjunction), 2. promoted pawn (shogi) (abbr)
+|hidden|n1|other|と|と|1. if (conjunction), 2. promoted pawn (shogi) (abbr)
 |hidden|n1|other|問い合わせる|といあわせる|to enquire, to seek information
 |hidden|n1|other|問屋|といや|wholesale store
 |hidden|n1|other|問う|とう|to ask, to question, to charge (i.e. with a crime), to accuse, without regard to (neg)
@@ -2272,7 +2272,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|取り分|とりわけ|especially, above all
 |hidden|n1|other|副|とりわけ|especially, above all
 |hidden|n1|other|蕩ける|とろける|to be enchanted with
-|hidden|n1|other||とんだ|terrible, awful, serious, preposterous, absolutely not
+|hidden|n1|other|とんだ|とんだ|terrible, awful, serious, preposterous, absolutely not
 |hidden|n1|other|胴|どう|trunk, body, frame
 |hidden|n1|other|働|どう|work, labor
 |hidden|n1|other|同|どう|the same, the said, ibid.
@@ -2295,11 +2295,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|動的|どうてき|dynamic, kinetic
 |hidden|n1|other|同等|どうとう|equality, equal, same rights, same rank
 |hidden|n1|other|堂々|どうどう|magnificent, grand, impressive
-|hidden|n1|other||どうにか|in some way or other, one way or another
+|hidden|n1|other|どうにか|どうにか|in some way or other, one way or another
 |hidden|n1|other|導入|どうにゅう|introduction, bringing in, leading in
 |hidden|n1|other|同封|どうふう|enclosure (e.g. in a letter)
 |hidden|n1|other|同盟|どうめい|alliance, union, league
-|hidden|n1|other||どうやら|it seems like, somehow or other
+|hidden|n1|other|どうやら|どうやら|it seems like, somehow or other
 |hidden|n1|other|動揺|どうよう|disturbance, unrest, shaking, trembling, pitching, rolling, oscillation, agitation, excitement, commotion
 |hidden|n1|other|動力|どうりょく|power, motive power, dynamic force
 |hidden|n1|other|独裁|どくさい|dictatorship, despotism
@@ -2378,9 +2378,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|馴れ馴れしい|なれなれしい|over-familiar
 |hidden|n1|other|難|なん|difficulty, hardships, defect
 |hidden|n1|other|南|なん|south
-|hidden|n1|other||なんか|things like ..., or something like that .. (often derogatory)
+|hidden|n1|other|なんか|なんか|things like ..., or something like that .. (often derogatory)
 |hidden|n1|other|何だか|なんだか|a little, somewhat, somehow
-|hidden|n1|other||なんだかんだ|something or other
+|hidden|n1|other|なんだかんだ|なんだかんだ|something or other
 |hidden|n1|other|何て|なんて|how...!, what...!
 |hidden|n1|other|何と|なんと|what, how, whatever
 |hidden|n1|other|何となく|なんとなく|somehow or other, for some reason or another
@@ -2581,7 +2581,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|化ける|ばける|to appear in disguise, to take the form of, to change for the worse
 |hidden|n1|other|罰|ばち|(divine) punishment, curse, retribution
 |hidden|n1|other|伐|ばつ|strike, attack, punish
-|hidden|n1|other||ばてる|to be exhausted, to be worn out
+|hidden|n1|other|ばてる|ばてる|to be exhausted, to be worn out
 |hidden|n1|other|発条|ばね|spring (e.g. coil leaf)
 |hidden|n1|other|散蒔く|ばらまく|to disseminate, to scatter, to give money freely
 |hidden|n1|other|判|ばん|size (of paper or books)
@@ -2646,7 +2646,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|日焼け|ひやけ|sunburn
 |hidden|n1|other|票|ひょう|label, ballot, ticket, sign
 |hidden|n1|other|標語|ひょうご|motto, slogan, catchword
-|hidden|n1|other||ひょっと|possibly, accidentally
+|hidden|n1|other|ひょっと|ひょっと|possibly, accidentally
 |hidden|n1|other|平たい|ひらたい|flat, even, level, simple, plain
 |hidden|n1|other|比率|ひりつ|ratio, proportion, percentage
 |hidden|n1|other|肥料|ひりょう|manure, fertilizer
@@ -2662,9 +2662,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|微笑|びしょう|smile
 |hidden|n1|other|美術|びじゅつ|art, fine arts
 |hidden|n1|other|吃驚|びっくり|be surprised, be amazed, be frightened, astonishment
-|hidden|n1|other||びっしょり|wet through, drenched
+|hidden|n1|other|びっしょり|びっしょり|wet through, drenched
 |hidden|n1|other|描写|びょうしゃ|depiction, description, portrayal
-|hidden|n1|other||びり|last on the list, at the bottom
+|hidden|n1|other|びり|びり|last on the list, at the bottom
 |hidden|n1|other|微量|びりょう|minuscule amount, extremely small quantity
 |hidden|n1|other|敏感|びんかん|sensibility, susceptibility, sensitive (to), well attuned to
 |hidden|n1|other|貧乏|びんぼう|poverty, destitute, poor
@@ -2729,12 +2729,12 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|紛失|ふんしつ|losing something
 |hidden|n1|other|噴出|ふんしゅつ|spewing, gushing, spouting, eruption, effusion
 |hidden|n1|other|紛争|ふんそう|dispute, trouble, strife
-|hidden|n1|other||ふんだん|plentiful, abundant, lavish
+|hidden|n1|other|ふんだん|ふんだん|plentiful, abundant, lavish
 |hidden|n1|other|奮闘|ふんとう|hard struggle, strenuous effort
 |hidden|n1|other|粉末|ふんまつ|fine powder
 |hidden|n1|other|部|ぶ|department, part, category, counter for copies of a newspaper or magazine
 |hidden|n1|other|部下|ぶか|subordinate person
-|hidden|n1|other||ぶかぶか|too big, baggy
+|hidden|n1|other|ぶかぶか|ぶかぶか|too big, baggy
 |hidden|n1|other|侮辱|ぶじょく|insult, contempt, slight
 |hidden|n1|other|武装|ぶそう|arms, armament, armed
 |hidden|n1|other|斑|ぶち|spots, speckles, mottles
@@ -2746,7 +2746,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|無難|ぶなん|safety, security
 |hidden|n1|other|部門|ぶもん|class, group, category, department, field, branch
 |hidden|n1|other|ぶら下げる|ぶらさげる|to hang, to suspend, to dangle, to swing
-|hidden|n1|other||ぶらぶら|dangle heavily, swing, sway to and fro, aimlessly, idly, lazily, loiter, loaf, be idle, stroll idly
+|hidden|n1|other|ぶらぶら|ぶらぶら|dangle heavily, swing, sway to and fro, aimlessly, idly, lazily, loiter, loaf, be idle, stroll idly
 |hidden|n1|other|武力|ぶりょく|armed might, military power, the sword, force
 |hidden|n1|other|無礼|ぶれい|impolite, rude
 |hidden|n1|other|文化財|ぶんかざい|cultural assets, cultural property
@@ -2787,7 +2787,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|弁護|べんご|defense, pleading, advocacy
 |hidden|n1|other|弁償|べんしょう|next word, compensation, reparation, indemnity, reimbursement
 |hidden|n1|other|弁論|べんろん|discussion, debate, argument
-|hidden|n1|other||ぺこぺこ|fawn, be very hungry
+|hidden|n1|other|ぺこぺこ|ぺこぺこ|fawn, be very hungry
 |hidden|n1|other|穂|ほ|ear (of plant), head (of plant)
 |hidden|n1|other|保育|ほいく|nursing, nurturing, rearing, lactation, suckling
 |hidden|n1|other|倣|ほう|imitate, follow, emulate
@@ -2835,7 +2835,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|舗装|ほそう|pavement, road surface
 |hidden|n1|other|補足|ほそく|supplement, complement
 |hidden|n1|other|発作|ほっさ|fit, spasm
-|hidden|n1|other||ほっと|feel relieved
+|hidden|n1|other|ほっと|ほっと|feel relieved
 |hidden|n1|other|頬っぺた|ほっぺた|cheek
 |hidden|n1|other|辺り|ほとり|(in the) neighbourhood, vicinity, nearby
 |hidden|n1|other|殆ど|ほとんど|mostly, almost
@@ -2874,10 +2874,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|母校|ぼこう|alma mater
 |hidden|n1|other|没収|ぼっしゅう|forfeited
 |hidden|n1|other|坊ちゃん|ぼっちゃん|son (of others)
-|hidden|n1|other||ぼつぼつ|gradually, here and there, spots, pimples
+|hidden|n1|other|ぼつぼつ|ぼつぼつ|gradually, here and there, spots, pimples
 |hidden|n1|other|没落|ぼつらく|ruin, fall, collapse
-|hidden|n1|other||ぼやく|to grumble, to complain
-|hidden|n1|other||ぼやける|to become dim, to become blurred
+|hidden|n1|other|ぼやく|ぼやく|to grumble, to complain
+|hidden|n1|other|ぼやける|ぼやける|to become dim, to become blurred
 |hidden|n1|other|藍褸|ぼろ|rag, scrap, tattered clothes, fault (esp. in a pretense), defect, run-down or junky
 |hidden|n1|other|枚|まい|counter for flat objects (e.g. sheets of paper)
 |hidden|n1|other|埋蔵|まいぞう|buried property, treasure trove
@@ -2898,7 +2898,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|真心|まこころ|sincerity, devotion
 |hidden|n1|other|誠|まこと|truth, faith, fidelity, sincerity, trust, confidence, reliance, devotion
 |hidden|n1|other|真に|まことに|truly, actually, really
-|hidden|n1|other||まごつく|to be confused, to be flustered
+|hidden|n1|other|まごつく|まごつく|to be confused, to be flustered
 |hidden|n1|other|正しく|まさしく|surely, no doubt, evidently
 |hidden|n1|other|正に|まさに|correctly, surely
 |hidden|n1|other|勝る|まさる|to excel, to surpass, to outrival
@@ -3083,7 +3083,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|漏る|もる|to leak, to run out
 |hidden|n1|other|漏れる|もれる|to leak out, to escape, to come through, to shine through, to filter out, to be omitted
 |hidden|n1|other|脆い|もろい|brittle, fragile, tender-hearted
-|hidden|n1|other||もろに|completely, all the way
+|hidden|n1|other|もろに|もろに|completely, all the way
 |hidden|n1|other|問|もん|problem, question
 |hidden|n1|other|矢|や|arrow
 |hidden|n1|other|哉|や|question mark
@@ -3115,7 +3115,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|病む|やむ|to fall ill, to be ill
 |hidden|n1|other|止むを得ない|やむをえない|cannot be helped, unavoidable
 |hidden|n1|other|稍|やや|a little, partially, somewhat, a short time, a while
-|hidden|n1|other||ややこしい|puzzling, tangled, complicated, complex
+|hidden|n1|other|ややこしい|ややこしい|puzzling, tangled, complicated, complex
 |hidden|n1|other|遣り通す|やりとおす|to carry through, to achieve, to complete
 |hidden|n1|other|やり遂げる|やりとげる|to accomplish
 |hidden|n1|other|遣る|やる|to do, to have sexual intercourse, to kill, to give (to inferiors animals etc.), to dispatch (a letter
@@ -3142,7 +3142,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|誘惑|ゆうわく|temptation, allurement, lure
 |hidden|n1|other|揺さぶる|ゆさぶる|to shake, to jolt, to rock, to swing
 |hidden|n1|other|茹でる|ゆでる|to boil
-|hidden|n1|other||ゆとり|reserve, affluence, room, time (to spare)
+|hidden|n1|other|ゆとり|ゆとり|reserve, affluence, room, time (to spare)
 |hidden|n1|other|指差す|ゆびさす|to point at
 |hidden|n1|other|弓|ゆみ|bow (and arrow)
 |hidden|n1|other|揺らぐ|ゆらぐ|to swing, to sway, to shake, to tremble
@@ -3271,34 +3271,34 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other|割り算|わりざん|division (math)
 |hidden|n1|other|割引き|わりびき|discount, reduction, rebate, tenths discounted
 |hidden|n1|other|悪者|わるもの|bad fellow, rascal, ruffian, scoundrel
-|hidden|n1|other||アイデア|idea
-|hidden|n1|other||アクセル|accelerator
-|hidden|n1|other||アップ|up
-|hidden|n1|other||アプローチ|approach (in golf)
-|hidden|n1|other||アマチュア|amateur
-|hidden|n1|other||アラブ|Arab
-|hidden|n1|other||アルカリ|alkali
-|hidden|n1|other||アルミ|aluminum (Al), aluminium
-|hidden|n1|other||アワー|hour
-|hidden|n1|other||アンケート|(fr:) (n) questionnaire (fr: enquete), survey
-|hidden|n1|other||アンコール|encore
-|hidden|n1|other||イエス|Jesus, yes
-|hidden|n1|other||インターチェンジ|interchange
-|hidden|n1|other||インターナショナル|international
-|hidden|n1|other||インターフォン|intercom
-|hidden|n1|other||インテリ|egghead, intelligentsia
-|hidden|n1|other||インフォメーション|information
-|hidden|n1|other||インフレ|inflation
-|hidden|n1|other||ウェートレス|waitress
-|hidden|n1|other||エアメール|air mail
-|hidden|n1|other||エレガント|elegant
-|hidden|n1|other||エンジニア|engineer
-|hidden|n1|other||オーケー|OK
-|hidden|n1|other||オートマチック|automatic
-|hidden|n1|other||オープン|open
-|hidden|n1|other||オリエンテーション|orientation
-|hidden|n1|other||オレンジ|an orange
-|hidden|n1|other||オンライン|on-line
+|hidden|n1|other|アイデア|アイデア|idea
+|hidden|n1|other|アクセル|アクセル|accelerator
+|hidden|n1|other|アップ|アップ|up
+|hidden|n1|other|アプローチ|アプローチ|approach (in golf)
+|hidden|n1|other|アマチュア|アマチュア|amateur
+|hidden|n1|other|アラブ|アラブ|Arab
+|hidden|n1|other|アルカリ|アルカリ|alkali
+|hidden|n1|other|アルミ|アルミ|aluminum (Al), aluminium
+|hidden|n1|other|アワー|アワー|hour
+|hidden|n1|other|アンケート|アンケート|(fr:) (n) questionnaire (fr: enquete), survey
+|hidden|n1|other|アンコール|アンコール|encore
+|hidden|n1|other|イエス|イエス|Jesus, yes
+|hidden|n1|other|インターチェンジ|インターチェンジ|interchange
+|hidden|n1|other|インターナショナル|インターナショナル|international
+|hidden|n1|other|インターフォン|インターフォン|intercom
+|hidden|n1|other|インテリ|インテリ|egghead, intelligentsia
+|hidden|n1|other|インフォメーション|インフォメーション|information
+|hidden|n1|other|インフレ|インフレ|inflation
+|hidden|n1|other|ウェートレス|ウェートレス|waitress
+|hidden|n1|other|エアメール|エアメール|air mail
+|hidden|n1|other|エレガント|エレガント|elegant
+|hidden|n1|other|エンジニア|エンジニア|engineer
+|hidden|n1|other|オーケー|オーケー|OK
+|hidden|n1|other|オートマチック|オートマチック|automatic
+|hidden|n1|other|オープン|オープン|open
+|hidden|n1|other|オリエンテーション|オリエンテーション|orientation
+|hidden|n1|other|オレンジ|オレンジ|an orange
+|hidden|n1|other|オンライン|オンライン|on-line
 |hidden|n1|other||カーペット|carpet
 |hidden|n1|other||カクテル|cocktail
 |hidden|n1|other||カット|cut, cutting
@@ -3470,8 +3470,8 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n1|other||レバー|lever, liver
 |hidden|n1|other||レンジ|range, stove
 |hidden|n1|other||レンタカー|hire car (lit: rent-a-car)
-|hidden|n1|other||レントゲン|X-ray (lit: Roentgen)
-|hidden|n1|other||ロープ|rope
+|hidden|n1|other|レントゲン|レントゲン|X-ray (lit: Roentgen)
+|hidden|n1|other|ロープ|ロープ|rope
 |hidden|n1|other|ローマ字|ローマじ|romanization, Roman letters
-|hidden|n1|other||ロマンチック|romantic
-|hidden|n1|other||ワット|watt
+|hidden|n1|other|ロマンチック|ロマンチック|romantic
+|hidden|n1|other|ワット|ワット|watt

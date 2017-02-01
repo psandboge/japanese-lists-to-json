@@ -6,11 +6,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n3|noun|相手|あいて|companion, partner, company|kompanjon,partner,sällskap
 ||n3|adverb|あいにく|あいにく|unfortunately, Sorry, but....,tyvärr
 ||n3|noun|明かり|あかり|lamplight, light (in general),brightness|lampljus,ljus
-|hidden|n3|other|空き|あき|room, time to spare, emptiness
-|hidden|n3|other|明らか|あきらか|obvious, evident, clear
-|hidden|n3|other|諦める|あきらめる|to give up, to abandon
-|hidden|n3|other|飽きる|あきる|to get tired of, to lose interest in, to have enough
-|hidden|n3|other|握手|あくしゅ|handshake
+||n3|noun|空き|あき|room, time to spare, emptiness|utrymme,ha tid,tomhet
+||n3|adjective|明らか|あきらか|obvious, evident, clear|tydlig,uppenbar,klar
+14||n3|verb|諦める|あきらめる|to give up, to abandon|ge upp,överge
+||n3|verb|飽きる|あきる|to get tired of, to lose interest in, to have enough|tröttna på,tappa intresset,få nog
+||n3|noun|握手|あくしゅ|handshake|handskakning
 |hidden|n3|other|悪魔|あくま|devil, demon, evil spirit
 |hidden|n3|other|明ける|あける|to dawn, to become daylight
 |hidden|n3|other|預ける|あずける|to give into custody, to entrust, to deposit
@@ -1250,17 +1250,17 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|縄|なわ|rope,hemp
 |hidden|n3|other|何で|なんで|Why?,What for?
 |hidden|n3|other|何でも|なんでも|by all means,everything
-|hidden|n3|other|何とか|なんとか|somehow,anyhow,one way or another
-|hidden|n3|other|似合う|にあう|to suit,to match,to become,to be like
-|hidden|n3|other|匂い|におい|odour,scent,smell,stench
-|hidden|n3|other|苦手|にがて|poor (at),weak (in),dislike (of)
-|hidden|n3|other|握る|にぎる|to grasp,to hold a (thing) in one's hand, grip
-|hidden|n3|other|日|にち|sun,sunshine,day
-|hidden|n3|other|日常|にちじょう|ordinary,regular,everyday,usual
-|hidden|n3|other|日曜|にちよう|Sunday
-|hidden|n3|other|日光|にっこう|sunlight
-|hidden|n3|other|にっこり|にっこり|smile sweetly,smile,grin
-|hidden|n3|other|日中|にっちゅう|daytime,broad daylight
+||n3|adverb|何とか|なんとか|somehow,anyhow,one way or another|på något sätt
+14||n3|verb|似合う|にあう|to suit,to match,to become,to be like|passa,vara som
+||n3|noun|匂い|におい|odour,scent,smell,stench|odör,lukt,stank
+||n3|adjective|苦手|にがて|poor (at),weak (in),dislike (of)|dålig på,motvilja
+||n3|verb|握る|にぎる|to grasp,to hold a (thing) in one's hand, grip|greppa,hålla,gripa
+||n3|noun|日|にち|sun,sunshine,day|sol,solsken,dag
+||n3|adjective|日常|にちじょう|ordinary,regular,everyday,usual|vardaglig,vanlig
+||n3|noun|日曜|にちよう|Sunday|söndag
+||n3|noun|日光|にっこう|sunlight|solsken
+||n3|noun|にっこり|にっこり|smile sweetly,smile,grin|leende,smil
+||n3|noun|日中|にっちゅう|daytime,broad daylight|dagtid,dagsljus
 1||n3|noun|日本|にっぽん・にほん|Japan|Japan
 ||n3|noun|入学|にゅうがく|entry to school or university,matriculation|universitetsinträde
 ||n3|noun|入場|にゅうじょう|entrance,admission,entering|inträde
