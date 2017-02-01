@@ -45,8 +45,8 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,adjective,美しい,うつくしい,beautiful,vacker
 ,,n4,verb,写す,うつす,copy;photograph,fotografera;kopiera
 ,,n4,verb,移る,うつる,to move house;transfer,flytta;transferera
-,hidden,n4,other,腕,うで,arm
-,hidden,n4,other,裏,うら,reverse side
+,,n4,noun,腕,うで,arm,arm
+,,n4,noun,裏,うら,reverse side,baksidan
 ,,n4,noun,売り場,うりば,place where things are sold,försäljningsställe
 ,,n4,interjection,うん,うん,(informal) yes,ja
 ,,n4,noun,運転手,うんてんしゅ,driver,förare
@@ -112,15 +112,15 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,家内,かない,housewife,hemmafru
 13,,n4,adjective,悲しい,かなしい,sad,ledsen
 ,,n4,adverb,必ず,かならず,certainly;necessarily,förvisso
-,,n4,other,お・金持ち,かねもち/おかねもち,rich man,rikeman
-,hidden,n4,other,彼女,かのじょ,she;girlfriend
-,hidden,n4,other,壁,かべ,wall
-,hidden,n4,other,髪,かみ,hair
-,hidden,n4,verb,噛む,かむ,to bite;to chew
-,hidden,n4,verb,通う,かよう,to commute
-,hidden,n4,other,彼,かれ,he;boyfriend
-,hidden,n4,verb,乾く,かわく,to get dry
-,hidden,n4,other,代わり,かわり,substitute;alternate
+,,n4,noun,お・金持ち,かねもち/おかねもち,rich man,rikeman
+,,n4,noun,彼女,かのじょ,she;girlfriend,hon;flickvän
+,,n4,noun,壁,かべ,wall,vägg
+,,n4,noun,髪,かみ,hair,hår
+,,n4,verb,噛む,かむ,to bite;to chew,bita;tugga
+,,n4,verb,通う,かよう,to commute,pendla
+,,n4,noun,彼,かれ,he;boyfriend,han;pojkvän
+,,n4,verb,乾く,かわく,to get dry,torka
+,,n4,noun,代わり,かわり,substitute;alternate,ersättare
 ,hidden,n4,verb,変わる,かわる,to change
 ,hidden,n4,verb,考える,かんがえる,to consider
 ,hidden,n4,other,関係,かんけい,relationship
@@ -152,15 +152,15 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,other,興味,きょうみ,an interest
 ,hidden,n4,other,近所,きんじょ,neighbourhood
 ,hidden,n4,other,具合,ぐあい,condition;health
-,hidden,n4,other,空気,くうき,air;atmosphere
+,,n4,noun,空気,くうき,air;atmosphere,luft;atmosfär
 ,,n4,noun,空港,くうこう,airport,flygplats
 ,,n4,noun,草,くさ,grass,gräs
 ,,n4,noun,首,くび,neck,nacke
 ,,n4,noun,雲,くも,cloud,moln
 17,,n4,verb,比べる,くらべる,to compare,jämföra
-,hidden,n4,verb,くれる,くれる,to give
-,hidden,n4,verb,暮れる,くれる,to get dark;to come to an end
-,,n4,suffix,君,くん,suffix for familiar young male,unge herr
+,,n4,verb,くれる,くれる,to give,ge
+,,n4,verb,暮れる,くれる,to get dark;to come to an end|mörkna,avslutas
+14,,n4,suffix,君,くん,suffix for familiar young male,unge herr
 ,,n4,noun,毛,け,hair;fur,hår;päls
 1,,n4,noun,経済,けいざい,finance;economy,ekonomi;finans
 ,,n4,noun,警察,けいさつ,police,polis

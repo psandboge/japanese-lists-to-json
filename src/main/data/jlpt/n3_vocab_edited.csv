@@ -593,18 +593,19 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|転ぶ|ころぶ|to fall down,to fall over
 |hidden|n3|other|今回|こんかい|now,this time,lately
 |hidden|n3|other|今後|こんご|from now on,hereafter
-|hidden|n3|other|混雑|こんざつ|congestion,
-|hidden|n3|other|こんなに|こんなに|so,like this,in this way
-|hidden|n3|other|困難|こんなん|difficulty,distress
-|hidden|n3|other|今日|こんにち|today,this day
-|hidden|n3|other|こんにちは|こんにちは|hello,good day (daytime greeting, id)
-|hidden|n3|other|婚約|こんやく|engagement,betrothal
-|hidden|n3|other|混乱|こんらん|disorder,chaos,confusion,mayhem
-|hidden|n3|other|差|さ|difference,variation
-|hidden|n3|other|際|さい|on the occasion of,circumstances
-|hidden|n3|other|最高|さいこう|highest,supreme,the most
-|hidden|n3|other|財産|ざいさん|property,fortune,assets
-|hidden|n3|other|最終|さいしゅう|last,final,closing
+||n3|noun|混雑|こんざつ|congestion|trängsel
+14||n3|adjective|こんなに|こんなに|so,like this,in this way
+||n3|noun|困難|こんなん|difficulty,distress|svårighet
+||n3|noun|今日|こんにち|today,this day|idag,denna dag
+||n3|interjection|こんにちは|こんにちは|hello,good day (daytime greeting, id)
+||n3|noun|婚約|こんやく|engagement,betrothal|förlovning
+||n3|noun|混乱|こんらん|disorder,chaos,confusion,mayhem|oordning,kaos,förvirring
+||n3|noun|差|さ|difference,variation|skillnad,variation
+||n3|preposition|際|さい|on the occasion of|i händelse av
+||n3|noun|際|さい|circumstances|omständigheter
+||n3|adjective|最高|さいこう|highest,supreme,the most|högsta,bästa,mesta
+||n3|noun|財産|ざいさん|property,fortune,assets|ägodelar,förmögenhet,tillgångar
+||n3|adjective|最終|さいしゅう|last,final,closing|sista,avslutande
 ||n3|preposition|最中|さいちゅう|in the middle of|mitten av
 17||n3|noun|最低|さいてい|least,lowest,worst|lägsta,sämsta
 ||n3|noun|才能|さいのう|talent,ability|talang,förmåga
@@ -934,14 +935,16 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n3|adverb|そう|そう|so|så
 13||n3|other|象|ぞう|elephant|elefant
 ||n3|noun|騒音|そうおん|noise|brus,oväsen
-|hidden|n3|other|増加|ぞうか|increase,addition
-|hidden|n3|other|操作|そうさ|operation,management,processing
-|hidden|n3|other|掃除|そうじ/そうじする|cleaning,sweeping, to clean, to sweep
-|hidden|n3|other|想像|そうぞう|imagination,guess
-|hidden|n3|other|相続|そうぞく|succession,inheritance
-|hidden|n3|other|相談|そうだん/そうだんする|consultation,discussion，to consult, to discuss
-|hidden|n3|other|装置|そうち|equipment,installation,apparatus
-|hidden|n3|other|相当|そうとう|suitable,fair,tolerable,proper
+||n3|noun|増加|ぞうか|increase,addition|ökning,tillägg
+||n3|noun|操作|そうさ|operation,management,processing|drift,förvaltning
+||n3|verb|掃除する|そうじする|to clean, to sweep|städa,sopa
+||n3|noun|掃除|そうじ/そうじする|cleaning,sweeping|städning,sopning
+||n3|noun|想像|そうぞう|imagination,guess|fantasi,gissning
+||n3|noun|相続|そうぞく|succession,inheritance|tronföljd,arv
+14||n3|verb|相談する|そうだんする|to consult, to discuss|konsultera,diskutera
+14||n3|verb|相談|そうだん|consultation,discussion|konsultation,diskusion
+||n3|noun|装置|そうち|equipment,installation,apparatus|utrustning,installation,anordning
+||n3|noun|相当|そうとう|suitable,fair,tolerable,proper|passande,skälig,tolerabel
 |hidden|n3|other|速度|そくど|speed,velocity,rate
 |hidden|n3|other|底|そこ|bottom,sole
 |hidden|n3|other|そこで|そこで|so (conj),accordingly,now,then,thereupon

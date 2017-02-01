@@ -145,7 +145,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,temporal,一昨年,おととし,year before last,förrförra året
 13,,n5,noun,大人,おとな,adult,vuxen
 ,,n5,noun,おなか,おなか,stomach,mage
-,,n5,adjective,同じ,おなじ,same,samma
+14,,n5,adjective,同じ,おなじ,same,samma
 1,,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
 1,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
 ,hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
@@ -443,7 +443,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 15,,n5,noun,地図,ちず,map,karta
 ,,n5,adjective,茶色,ちゃいろ,brown,brun
 ,,n5,noun,ちゃわん,ちゃわん,rice bowl,risskål
-,,n5,adverb,ちょうど,ちょうど,exactly,exakt
+14,,n5,adverb,ちょうど,ちょうど,exactly,exakt
 ,,n5,adverb,ちょっと,ちょっと,somewhat,något
 ,,n5,noun,一日,ついたち,first of month,1:a (i månad)
 ,,n5,verb,使う,つかう,to use,använda
@@ -520,10 +520,10 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,adverb,なぜ,なぜ,why,varför
 ,,n5,noun,夏,なつ,summer,sommar
 ,,n5,noun,夏休み,なつやすみ,summer holiday,sommarlov
-,,n5,other,など,など,et cetera,med mera
+,,n5,particle,など,など,et cetera,med mera
 ,,n5,numeric,七つ,ななつ,seven,sju
-,,n5,other,七日,なのか,the seventh day,sjunde dagen
-,,n5,other,七日,なのか,seven days,sju dagar
+,,n5,noun,七日,なのか,the seventh day,sjunde dagen
+,,n5,noun,七日,なのか,seven days,sju dagar
 1,,n5,noun,名前,なまえ,name,namn
 ,,n5,verb,習う,ならう,to learn,lära sif
 ,,n5,verb,並ぶ,ならぶ,to stand in a line,köa
@@ -657,22 +657,22 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,本,ほん,book,bok
 ,,n5,noun,本棚,ほんだな,bookshelves,bokhylla
 ,,n5,noun,ほんとう,ほんとう,truth,sanning
-,,n5,other,毎朝,まいあさ,every morning,varje morgon
-,,n5,other,毎月,まいげつ,every month,varje månad
-,,n5,other,毎月,まいつき,every month,varje månad
-,,n5,other,毎週,まいしゅう,every week,varje vecka
-,,n5,other,毎日,まいにち,every day,varje dag
-,,n5,other,毎年,まいとし,every year,varje år
-,,n5,other,毎年,まいねん,every year,varje år
-,,n5,other,毎晩,まいばん,every night,varje natt
-17,,n5,other,前,まえ,before,innan
+,,n5,noun,毎朝,まいあさ,every morning,varje morgon
+,,n5,noun,毎月,まいげつ,every month,varje månad
+,,n5,noun,毎月,まいつき,every month,varje månad
+,,n5,noun,毎週,まいしゅう,every week,varje vecka
+,,n5,noun,毎日,まいにち,every day,varje dag
+,,n5,noun,毎年,まいとし,every year,varje år
+,,n5,noun,毎年,まいねん,every year,varje år
+,,n5,noun,毎晩,まいばん,every night,varje natt
+17,,n5,adverb,前,まえ,before,innan
 ,,n5,verb,曲る,まがる,to bend,böja
 ,,n5,verb,曲る,まがる,to turn,vrida
-,,n5,other,まずい,まずい,unpleasant,obehaglig
-,,n5,other,また,また,and,och
-,,n5,other,また,また,again,igen
-,,n5,other,まだ,まだ,still,fortfarande
-,,n5,other,まだ,まだ,yet,ännu
+,,n5,adjective,まずい,まずい,unpleasant,obehaglig
+,,n5,conjunction,また,また,and,och
+,,n5,adverb,また,また,again,igen
+,,n5,adverb,まだ,まだ,still,fortfarande
+,,n5,adverb,まだ,まだ,yet,ännu
 ,,n5,noun,町,まち,city,storstad
 ,,n5,noun,町,まち,town,stad
 ,,n5,verb,待つ,まつ,to wait,vänta
@@ -704,20 +704,20 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,verb,見る 観る,みる,to watch,titta
 ,,n5,verb,見る 観る,みる,to see,se
 ,,n5,noun,みんな,みんな,everyone,alla
-,,n5,other,六日,むいか,sixth day of the month,6:e (månad)
-,,n5,other,六日,むいか,six days,sex dagar
-,,n5,other,向こう,むこう,over there,där borta
-,,n5,other,難しい,むずかしい,difficult,svårt
-,,n5,other,六つ,むっつ,six,sex
+,,n5,noun,六日,むいか,sixth day of the month,6:e (månad)
+,,n5,noun,六日,むいか,six days,sex dagar
+,,n5,adverb,向こう,むこう,over there,där borta
+,,n5,adjective,難しい,むずかしい,difficult,svårt
+,,n5,numeric,六つ,むっつ,six,sex
 ,,n5,noun,村,むら,village,by
 ,,n5,noun,目,め,eye,öga
-,,n5,other,メートル,メートル,metre,meter
+,,n5,noun,メートル,メートル,metre,meter
 ,,n5,noun,眼鏡,めがね,glasses,glasögon
-,,n5,other,もう,もう,already,redan
+,,n5,adverb,もう,もう,already,redan
 15,,n5,adverbial,もう一度,もういちど,again,igen
-,,n5,other,木曜日,もくようび,Thursday,torsdag
+,,n5,noun,木曜日,もくようび,Thursday,torsdag
 ,,n5,verb,持つ,もつ,to hold,hålla
-,,n5,other,もっと,もっと,more,mer
+,,n5,adjective,もっと,もっと,more,mer
 ,,n5,noun,物,もの,thing,sak
 ,,n5,noun,門,もん,gate,port;grind
 ,,n5,noun,問題,もんだい,problem,problem
@@ -735,19 +735,19 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,夕方,ゆうがた,evening,kväll
 ,,n5,noun,夕飯,ゆうはん,dinner,middag
 ,,n5,noun,郵便局,ゆうびんきょく,post office,postkontor
-,,n5,other,昨夜,ゆうべ,last night,igår kväll
-,,n5,other,有名,ゆうめい,famous,berömd
+,,n5,noun,昨夜,ゆうべ,last night,igår kväll
+,,n5,adjective,有名,ゆうめい,famous,berömd
 ,,n5,noun,雪,ゆき,snow,snö
 ,,n5,verb,行く,ゆく,to go,gå
-,,n5,other,ゆっくりと,ゆっくりと,slowly,långsamt
-,,n5,other,八日,ようか,eighth day of the month,8:e (månad)
+,,n5,adverb,ゆっくりと,ゆっくりと,slowly,långsamt
+,,n5,noun,八日,ようか,eighth day of the month,8:e (månad)
 ,,n5,numeric,八日,ようか,eight days,8 dagar
 ,,n5,noun,洋服,ようふく,western-style clothes,kläder (från väst)
-,hidden,n5,other,よく,よく,well,bra
-,,n5,other,よく,よく,often,ofta
-,hidden,n5,other,横,よこ,width,bredd
-,hidden,n5,other,横,よこ,side,sida
-,,n5,other,横,よこ,beside,vid sidan av
+14,,n5,adverb,よく,よく,well,bra
+,hidden,n5,adverb,よく,よく,often,ofta
+,hidden,n5,noun,横,よこ,width,bredd
+,hidden,n5,noun,横,よこ,side,sida
+,,n5,preposition,横,よこ,beside,vid sidan av
 ,,n5,numeric,四日,よっか,fourth day of the month,4:e (månad)
 ,,n5,numeric,四日,よっか,four days,fyra dagar
 ,,n5,numeric,四つ,よっつ,four,fyra
