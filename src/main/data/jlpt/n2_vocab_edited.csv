@@ -788,11 +788,11 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|消防署|しょうぼうしょ|fire station
 |hidden|n2|other|正味|しょうみ|net (weight)
 |hidden|n2|other|正面|しょうめん|the front,honesty
-|hidden|n2|other|消耗|しょうもう|exhaustion,consumption
-|hidden|n2|other|醤油|しょうゆ|soy sauce
-|hidden|n2|other|省略|しょうりゃく|omission,abbreviation,abridgment
-|hidden|n2|other|初級|しょきゅう|elementary level
-|hidden|n2|other|助教授|じょきょうじゅ|assistant professor
+||n2|noun|消耗|しょうもう|exhaustion,consumption|konsumtion,förbrukning
+18||n2|noun|醤油|しょうゆ|soy sauce|soyasås
+||n2|noun|省略|しょうりゃく|omission,abbreviation,abridgment|utelämnande,förkortning
+||n2|noun|初級|しょきゅう|elementary level|grundläggande nivå
+||n2|noun|助教授|じょきょうじゅ|assistant professor|forskarassistent
 |hidden|n2|other|食塩|しょくえん|table salt
 |hidden|n2|other|職人|しょくにん|worker,mechanic,artisan,craftsman
 |hidden|n2|other|初旬|しょじゅん|first 10 days of the month
@@ -1813,9 +1813,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|リポート|リポート|report,paper
 |hidden|n2|other|煉瓦|れんが|brick
 |hidden|n2|other|連合|れんごう|union,alliance
-|hidden|n2|other|レンズ|レンズ|lens
-|hidden|n2|other|蝋燭|ろうそく|candle
-|hidden|n2|other|ローマじ|ローマじ|romanization,Roman letters
+||n2|noun|レンズ|レンズ|lens|lins,objektiv
+18||n2|noun|蝋燭|ろうそく|candle|ljus
+||n2|noun|ローマじ|ローマじ|romanization,Roman letters|romaji,latinska bokstäver
 |hidden|n2|other|録音|ろくおん|(audio) recording
 |hidden|n2|other|ロッカー|ロッカー|locker
 |hidden|n2|other|ロビー|ロビー|lobby

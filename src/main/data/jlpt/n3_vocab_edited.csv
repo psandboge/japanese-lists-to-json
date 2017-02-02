@@ -1602,9 +1602,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|役|やく|use,service,role,position
 |hidden|n3|other|約|やく|approximately,about,some
 |hidden|n3|other|訳|やく|translation, a version
-|hidden|n3|other|役割|やくわり|part,assigning (allotment of) parts,role,duties
-|hidden|n3|other|家賃|やちん|rent
-|hidden|n3|other|厄介|やっかい|trouble,burden,care,bother
+||n3|noun|役割|やくわり|part,assigning (allotment of) parts,role,duties|del,roll
+18||n3|noun|家賃|やちん|rent|hyra
+||n3|noun|厄介|やっかい|trouble,burden,care,bother|besvär,börda
 |hidden|n3|other|宿|やど|inn,lodging
 |hidden|n3|other|雇う|やとう|to employ,to hire
 |hidden|n3|other|屋根|やね|roof
@@ -1736,26 +1736,26 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|コピー|コピー|(1) a (photo)copy,(2) blurb on a book jacket
 |hidden|n3|other|コンピューター|コンピューター|computer
 |hidden|n3|other|サービス|サービス|(1) service,support system,(2) goods or services without charge
-|hidden|n3|other|サイン|サイン|(1) autograph,(2) sign,(3) sine
-|hidden|n3|other|ジーンズ|ジーンズ|jeans
-|hidden|n3|other|ジェット機|ジェットき|jet aeroplane
-|hidden|n3|other|ジュース|ジュース|juice,soft drink,deuce
-|hidden|n3|other|スイッチ|スイッチ|switch
-|hidden|n3|other|スープ|スープ|(Western) soup
-|hidden|n3|other|スキー|スキー|skiing
-|hidden|n3|other|スケート|スケート|skate(s),skating
-|hidden|n3|other|スター|スター|star
-|hidden|n3|other|スタイル|スタイル|style
-|hidden|n3|other|スタンド|スタンド|stand
-|hidden|n3|other|スピーチ|スピーチ|speech
-|hidden|n3|other|セット|セット|set
-|hidden|n3|other|センター|センター|a center
-|hidden|n3|other|ソファー|ソファー|sofa,couch
-|hidden|n3|other|タイプライター|タイプライター|typewriter
-|hidden|n3|other|ダイヤ|ダイヤ|(1) diagram,(2) (railway) schedule,(3) diamond
-|hidden|n3|other|タオル|タオル|towel
-|hidden|n3|other|ダンス|ダンス|dance
-|hidden|n3|other|チーズ|チーズ|cheese
+||n3||サイン|サイン|(1) autograph,(2) sign,(3) sine|autograf,tecken,sinus
+||n3|noun|ジーンズ|ジーンズ|jeans|jeans
+||n3|noun|ジェット機|ジェットき|jet aeroplane|jetflygplan
+||n3|noun|ジュース|ジュース|juice,soft drink,deuce|juice,läsk
+18||n3|noun|スイッチ|スイッチ|switch|brytare
+18||n3|noun|スープ|スープ|(Western) soup|soppa
+||n3|noun|スキー|スキー|skiing|skidåkning
+||n3|noun|スケート|スケート|skate(s),skating|skridsko,skridskoåkning
+||n3|noun|スター|スター|star|stjärna
+||n3|noun|スタイル|スタイル|style|stil
+||n3|noun|スタンド|スタンド|stand|ställ,stånd
+||n3|noun|スピーチ|スピーチ|speech|tal
+||n3|noun|セット|セット|set|set
+||n3|noun|センター|センター|a center|centrum
+18||n3|noun|ソファー|ソファー|sofa,couch|soffa
+||n3|noun|タイプライター|タイプライター|typewriter|skrivmaskin
+||n3|noun|ダイヤ|ダイヤ|(1) diagram,(2) (railway) schedule,(3) diamond|diagram,tidtabell,diamant
+18||n3|noun|タオル|タオル|towel|handduk
+||n3|noun|ダンス|ダンス|dance|dans
+||n3|noun|チーズ|チーズ|cheese|ost
 |hidden|n3|other|チーム|チーム|team
 |hidden|n3|other|チャンス|チャンス|chance,opportunity
 |hidden|n3|other|デート|デート|date,go on a date

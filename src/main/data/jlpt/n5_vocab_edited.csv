@@ -29,7 +29,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,adjective,厚い,あつい,deep,djup
 ,,n5,adjective,厚い,あつい,kind,snäll
 ,,n5,pronoun,あっち,あっち,over there,där borta
-,,n5,temporal,後,あと,afterwards,efteråt
+18,,n5,temporal,後,あと,afterwards,efteråt
 ,,n5,pronoun,あなた,あなた,you,du
 14,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
 ,,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
@@ -397,7 +397,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,adverb,そこ,そこ,that place,det stället
 ,,n5,adverb,そちら,そちら,over there,där borta
 ,,n5,adverb,そっち,そっち,over there,där borta
-,,n5,noun,外,そと,outside,utanför
+18,,n5,noun,外,そと,outside,utanför
 ,,n5,pronoun,その,その,that,det här
 ,,n5,adverb,そば,そば,beside,bredvid
 ,,n5,adverb,そば,そば,near,nära
@@ -732,7 +732,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,numeric,八つ,やっつ,eight,åtta
 ,,n5,noun,山,やま,mountain,berg
 ,,n5,verb,やる,やる,to do,göra
-,,n5,noun,夕方,ゆうがた,evening,kväll
+18,,n5,noun,夕方,ゆうがた,evening,kväll
 ,,n5,noun,夕飯,ゆうはん,dinner,middag
 ,,n5,noun,郵便局,ゆうびんきょく,post office,postkontor
 ,,n5,noun,昨夜,ゆうべ,last night,igår kväll
@@ -768,7 +768,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,料理,りょうり,cuisine,kök
 ,,n5,noun,旅行,りょこう,travel,resande
 ,,n5,numeric,零,れい,zero,noll
-,,n5,noun,冷蔵庫,れいぞうこ,refrigerator,kylskåp
+18,,n5,noun,冷蔵庫,れいぞうこ,refrigerator,kylskåp
 ,,n5,noun,レコード,レコード,record,skiva
 ,,n5,noun,レストラン,レストラン,restaurant,resturang
 ,,n5,verb,練習,れんしゅうする,to practice,öva
