@@ -246,17 +246,17 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,社長,しゃちょう,company president,företagschef
 ,,n4,noun,自由,じゆう,freedom,frihet
 15,,n4,noun,習慣,しゅうかん,custom;manners,vana;sed
-,hidden,n4,other,住所,じゅうしょ,an address;a residence
-,hidden,n4,other,柔道,じゅうどう,judo
-,hidden,n4,other,十分,じゅうぶん,enough
-,hidden,n4,other,趣味,しゅみ,hobby
-,hidden,n4,other,紹介,しょうかい,introduction
-,hidden,n4,other,小学校,しょうがっこう,elementary school
-,hidden,n4,other,小説,しょうせつ,novel
-,hidden,n4,other,将来,しょうらい,future;prospects
-,hidden,n4,other,食料品,しょくりょうひん,groceries
-,hidden,n4,other,女性,じょせい,woman
-,hidden,n4,verb,知らせる,しらせる,to notify
+,,n4,noun,住所,じゅうしょ,an address;a residence,adress;bostad
+,,n4,noun,柔道,じゅうどう,judo,judo
+,,n4,adjective,十分,じゅうぶん,enough,tillräcklig
+,,n4,noun,趣味,しゅみ,hobby,hobby
+,,n4,noun,紹介,しょうかい,introduction,introduktion
+,,n4,noun,小学校,しょうがっこう,elementary school,småskola
+,,n4,noun,小説,しょうせつ,novel,roman
+,,n4,noun,将来,しょうらい,future;prospects,framtid;möjligheter
+,,n4,noun,食料品,しょくりょうひん,groceries,matvaror
+,,n4,noun,女性,じょせい,woman,kvinna
+,,n4,verb,知らせる,しらせる,to notify,notifiera
 15,,n4,verb,調べる,しらべる,to investigate,undersöka
 ,,n4,noun,人口,じんこう,population,befolkning
 ,,n4,noun,神社,じんじゃ,Shinto shrine,Shintohelgedom
@@ -327,38 +327,38 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,暖房,だんぼう,heating,uppvärmning
 ,,n4,noun,血,ち,blood,blod
 ,,n4,verb,チェックする,チェックする,to check,kontrollera
-,hidden,n4,other,力,ちから,strength;power
-,hidden,n4,other,ちっとも,ちっとも,not at all (used with a negative verb)
-,hidden,n4,other,ちゃん,ちゃん,suffix for familiar person
-,hidden,n4,other,注意,ちゅうい,caution
-,hidden,n4,other,中学校,ちゅうがっこう,junior high school;middle school
-,hidden,n4,other,注射,ちゅうしゃ,injection
-,hidden,n4,other,駐車場,ちゅうしゃじょう,parking lot
-,hidden,n4,other,地理,ちり,geography
-,hidden,n4,verb,捕まえる,つかまえる,to seize
-,hidden,n4,verb,付く,つく,to be attached
-,hidden,n4,verb,漬ける,つける,to soak;to pickle
-,hidden,n4,other,都合,つごう,circumstances;convenience
-,hidden,n4,verb,伝える,つたえる,to report
-,hidden,n4,verb,続く,つづく,to be continued
-,hidden,n4,verb,続ける,つづける,to continue
-,hidden,n4,verb,包む,つつむ,to wrap
-,hidden,n4,other,妻,つま,my wife
-,hidden,n4,other,つもり,つもり,intention
-,hidden,n4,verb,釣る,つる,to fish
-,hidden,n4,other,丁寧,ていねい,polite
-,hidden,n4,other,適当,てきとう,suitability
-,hidden,n4,verb,手伝う,てつだう,to assist
-,hidden,n4,other,手袋,てぶくろ,glove
-,hidden,n4,other,寺,てら,temple
-,hidden,n4,other,点,てん,point;dot
-,hidden,n4,other,店員,てんいん,shop assistant
-,hidden,n4,other,天気予報,てんきよほう,weather forecast
-,hidden,n4,other,電灯,でんとう,electric light
-,hidden,n4,other,電報,でんぽう,telegram
-,hidden,n4,other,展覧会,てんらんかい,exhibition
-,hidden,n4,other,都,と,metropolitan
-,hidden,n4,other,道具,どうぐ,tool;means
+,,n4,noun,力,ちから,strength;power,styrka;kraft
+,,n4,adverb,ちっとも,ちっとも,not at all (used with a negative verb),inte alls
+,,n4,suffix,ちゃん,ちゃん,suffix for familiar person,chan
+,,n4,noun,注意,ちゅうい,caution,försiktighet
+,,n4,noun,中学校,ちゅうがっこう,junior high school;middle school,högstadie
+,,n4,noun,注射,ちゅうしゃ,injection,injektion
+,,n4,noun,駐車場,ちゅうしゃじょう,parking lot,parkeringsplats
+,,n4,noun,地理,ちり,geography,geografi
+,,n4,verb,捕まえる,つかまえる,to seize,greppa
+,,n4,verb,付く,つく,to be attached,vara fäst
+,,n4,verb,漬ける,つける,to soak;to pickle,blötlägga;lägga in
+,,n4,noun,都合,つごう,circumstances;convenience,omständigheter;bekvämlighet
+,,n4,verb,伝える,つたえる,to report,rapportera
+,,n4,verb,続く,つづく,to be continued,bli fortsatt
+,,n4,verb,続ける,つづける,to continue,fortsätta
+,,n4,verb,包む,つつむ,to wrap,linda in
+,,n4,noun,妻,つま,my wife,fru
+,,n4,noun,つもり,つもり,intention,acsikt
+,,n4,verb,釣る,つる,to fish,fiska
+,,n4,adjective,丁寧,ていねい,polite,artig
+,,n4,noun,適当,てきとう,suitability,lämplighet
+,,n4,verb,手伝う,てつだう,to assist,hjälpa
+,,n4,noun,手袋,てぶくろ,glove,handske
+,,n4,noun,寺,てら,temple,tempel
+,,n4,noun,点,てん,point;dot,punkt
+,,n4,noun,店員,てんいん,shop assistant,expedit
+,,n4,noun,天気予報,てんきよほう,weather forecast,väderprognos
+,,n4,noun,電灯,でんとう,electric light,elljus
+,,n4,noun,電報,でんぽう,telegram,telegramm
+,,n4,noun,展覧会,てんらんかい,exhibition,utställning
+,,n4,noun,都,と,metropolitan,huvudstad
+,,n4,noun,道具,どうぐ,tool;means,verktyg;medel
 ,,n4,adverb,とうとう,とうとう,finally; after all,äntligen;slutligen
 17,,n4,noun,動物園,どうぶつえん,zoo,djurpark
 ,,n4,adverb,遠く,とおく,distant,avlägset
@@ -398,14 +398,14 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,塗る,ぬる,to paint; to colour; to plaster|måla;färga;spackla
 ,,n4,verb,ぬれる,ぬれる,to get wet,bli våt
 ,,n4,noun,ねだん,ねだん,price,pris
-,hidden,n4,other,熱,ねつ,fever
-,hidden,n4,other,寝坊,ねぼう,sleeping in late
-,hidden,n4,other,眠い,ねむい,sleepy
-,hidden,n4,verb,眠る,ねむる,to sleep
-,hidden,n4,verb,残る,のこる,to remain
-,hidden,n4,verb,乗り換える,のりかえる,to change between buses or trains
-,hidden,n4,other,乗り物,のりもの,vehicle
-,hidden,n4,other,葉,は,leaf
+,,n4,noun,熱,ねつ,fever,feber
+,,n4,noun,寝坊,ねぼう,sleeping in late,försova sig
+,,n4,adjective,眠い,ねむい,sleepy,sömnig
+,,n4,verb,眠る,ねむる,to sleep,sömn
+,,n4,verb,残る,のこる,to remain,återstå
+,,n4,verb,乗り換える,のりかえる,to change between buses or trains,byta
+,,n4,noun,乗り物,のりもの,vehicle,fordon
+,,n4,noun,葉,は,leaf,löv
 ,hidden,n4,other,場合,ばあい,situation
 ,hidden,n4,other,倍,ばい,double
 ,hidden,n4,verb,拝見,はいけん・する,(humble) to look at
@@ -413,13 +413,13 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n4,verb,運ぶ,はこぶ,to transport
 ,hidden,n4,verb,始める,はじめる,to begin
 ,hidden,n4,other,場所,ばしょ,location
-,hidden,n4,other,はず,はず,it should be so
-,hidden,n4,other,恥ずかしい,はずかしい,embarrassed
-,hidden,n4,other,発音,はつおん,pronunciation
-,hidden,n4,other,はっきり,はっきり,clearly
-,hidden,n4,other,花見,はなみ,cherry-blossom viewing
-,hidden,n4,other,林,はやし,woods;forester
-,hidden,n4,verb,払う,はらう,to pay
+,,n4,noun,はず,はず,it should be so,det borde va så
+18,,n4,adjective,恥ずかしい,はずかしい,embarrassed,generad
+,,n4,noun,発音,はつおん,pronunciation,uttal
+,,n4,adverb,はっきり,はっきり,clearly,klart
+,,n4,noun,花見,はなみ,cherry-blossom viewing,körsbärsblommeskådning
+,,n4,other,林,はやし,woods;forester,skog,skogsvaktare
+,,n4,verb,払う,はらう,to pay,betala
 15,,n4,noun,番組,ばんぐみ,television　program;radio program,program
 ,,n4,noun,反対,はんたい,opposition,opposition;motstånd
 16,,n4,noun,日,ひ,day; sun,dag;sol
@@ -433,14 +433,14 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,飛行場,ひこうじょう,airport,flygplats
 ,,n4,adverb,久しぶり,ひさしぶり,after a long time,efter lång tid
 ,,n4,noun,美術館,びじゅつかん,art gallery,konstgalleri
-,hidden,n4,other,非常に,ひじょうに,extremely
-,hidden,n4,verb,引っ越す,ひっこす,to move house
-,hidden,n4,other,必要,ひつよう,necessary
-,hidden,n4,other,ひどい,ひどい,awful
-,hidden,n4,verb,開く,ひらく,to open an event
-,hidden,n4,other,昼間,ひるま,daytime;during the day
-,hidden,n4,other,昼休み,ひるやすみ,noon break
-,hidden,n4,other,拾う,ひろう,to pick up;to gather
+,,n4,adverb,非常に,ひじょうに,extremely,extremt
+,,n4,verb,引っ越す,ひっこす,to move house,flytta
+,,n4,adjective,必要,ひつよう,necessary,nödvändig
+,,n4,adjective,ひどい,ひどい,awful,förskräcklig
+,,n4,verb,開く,ひらく,to open an event,öppna
+,,n4,adverb,昼間,ひるま,daytime;during the day,under dagen
+,,n4,noun,昼休み,ひるやすみ,noon break,lunchrast
+,,n4,verb,拾う,ひろう,to pick up;to gather,plocka upp;samla ihop
 ,hidden,n4,other,増える,ふえる,to increase
 ,hidden,n4,other,深い,ふかい,deep
 ,hidden,n4,other,複雑,ふくざつ,complexity;complication
@@ -502,13 +502,13 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,焼く,やく,to bake;to grill,baka;grilla
 13,,n4,noun,約束,やくそく,promise,löfte
 ,,n4,verb,役に立つ,やくにたつ,to be helpful,vara hjälpfull
-,hidden,n4,verb,焼ける,やける,to burn;to be roasted
-,hidden,n4,other,優しい,やさしい,kind
-,hidden,n4,verb,痩せる,やせる,to become thin
-,hidden,n4,other,やっと,やっと,at last
-,hidden,n4,verb,止む,やむ,to stop
-,hidden,n4,verb,止める,やめる,to stop
-,hidden,n4,other,柔らかい,やわらかい,soft
+,,n4,verb,焼ける,やける,to burn;to be roasted,brinna,rostas
+,,n4,adjective,優しい,やさしい,kind,snäll
+,,n4,verb,痩せる,やせる,to become thin,bli smal
+,,n4,adverb,やっと,やっと,at last,till slut
+,,n4,verb,止む,やむ,to stop,stanna
+,,n4,verb,止める,やめる,to stop,stoppa
+,,n4,adjective,柔らかい,やわらかい,soft,mjuk
 ,,n4,noun,湯,ゆ,hot water,varmvatten
 ,,n4,noun,指,ゆび,finger,finger
 14,,n4,noun,指輪,ゆびわ,a ring,ring
@@ -518,7 +518,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,用意,ようい,preparation,förberedelse
 ,,n4,noun,用事,ようじ,things to do,saker att göra
 ,,n4,verb,汚れる,よごれる,to get dirty,bli smutsig
-,,n4,other,予習,よしゅう,preparation for a lesson,lektionsförberedelse
+,,n4,noun,予習,よしゅう,preparation for a lesson,lektionsförberedelse
 15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
 ,,n4,noun,予約,よやく,reservation,reservation
 ,,n4,verb,寄る,よる,to visit,besöka
