@@ -406,19 +406,19 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,乗り換える,のりかえる,to change between buses or trains,byta
 ,,n4,noun,乗り物,のりもの,vehicle,fordon
 ,,n4,noun,葉,は,leaf,löv
-,hidden,n4,other,場合,ばあい,situation
-,hidden,n4,other,倍,ばい,double
-,hidden,n4,verb,拝見,はいけん・する,(humble) to look at
-,hidden,n4,other,歯医者,はいしゃ,dentist
-,hidden,n4,verb,運ぶ,はこぶ,to transport
-,hidden,n4,verb,始める,はじめる,to begin
-,hidden,n4,other,場所,ばしょ,location
+,,n4,noun,場合,ばあい,situation,situation
+,,n4,adverb,倍,ばい,double,dubbelt
+,,n4,verb,拝見する,はいけんする,(humble) to look at,titta på (ödmjuk)
+,,n4,noun,歯医者,はいしゃ,dentist,tandläkare
+,,n4,verb,運ぶ,はこぶ,to transport,transportera
+,,n4,verb,始める,はじめる,to begin,börja
+,,n4,noun,場所,ばしょ,location,plats
 ,,n4,noun,はず,はず,it should be so,det borde va så
 18,,n4,adjective,恥ずかしい,はずかしい,embarrassed,generad
 ,,n4,noun,発音,はつおん,pronunciation,uttal
 ,,n4,adverb,はっきり,はっきり,clearly,klart
 ,,n4,noun,花見,はなみ,cherry-blossom viewing,körsbärsblommeskådning
-,,n4,other,林,はやし,woods;forester,skog,skogsvaktare
+,,n4,noun,林,はやし,woods;forester,skog,skogsvaktare
 ,,n4,verb,払う,はらう,to pay,betala
 15,,n4,noun,番組,ばんぐみ,television　program;radio program,program
 ,,n4,noun,反対,はんたい,opposition,opposition;motstånd
@@ -441,33 +441,34 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,adverb,昼間,ひるま,daytime;during the day,under dagen
 ,,n4,noun,昼休み,ひるやすみ,noon break,lunchrast
 ,,n4,verb,拾う,ひろう,to pick up;to gather,plocka upp;samla ihop
-,hidden,n4,other,増える,ふえる,to increase
-,hidden,n4,other,深い,ふかい,deep
-,hidden,n4,other,複雑,ふくざつ,complexity;complication
-,hidden,n4,other,復習,ふくしゅう,revision
-,hidden,n4,other,部長,ぶちょう,head of a section
-,hidden,n4,other,普通,ふつう,usually; or a train that stops at every station
-,hidden,n4,other,ぶどう,ぶどう,grapes
-,hidden,n4,verb,太る,ふとる,to become fat
-,hidden,n4,other,布団,ふとん,Japanese bedding; futon
-,hidden,n4,other,舟,ふね,ship
-,hidden,n4,other,不便,ふべん,inconvenience
-,hidden,n4,verb,踏む,ふむ,to step on
+,,n4,verb,増える,ふえる,to increase,öka
+,,n4,adjective,深い,ふかい,deep,djup
+,,n4,noun,複雑,ふくざつ,complexity;complication,komplexitet;komplikation
+,,n4,noun,復習,ふくしゅう,revision,översyn
+,,n4,noun,部長,ぶちょう,head of a section,sektionschef
+,,n4,adverb,普通,ふつう,usually,vanligtvis
+,,n4,noun,普通,ふつう,a train that stops at every station,mjölktåg
+,,n4,noun,ぶどう,ぶどう,grapes,vindruva
+,,n4,verb,太る,ふとる,to become fat,bli fet
+,,n4,noun,布団,ふとん,Japanese bedding; futon,futon
+,,n4,noun,舟,ふね,ship,båt;skepp
+,,n4,noun,不便,ふべん,inconvenience,olägenhet
+,,n4,verb,踏む,ふむ,to step on,trampa på
 ,,n4,verb,降り出す,ふりだす,to start to rain,börja regna
 ,,n4,noun,文化,ぶんか,culture,kultur
 1,,n4,noun,文学,ぶんがく,literature,litteratur
 13,,n4,noun,文法,ぶんぽう,grammar,grammatik
 ,,n4,adjective,別,べつ,different,annorlunda
-,hidden,n4,other,変,へん,strange
-,hidden,n4,other,返事,へんじ,reply
-,hidden,n4,other,貿易,ぼうえき,trade
-,hidden,n4,other,法律,ほうりつ,law
-,hidden,n4,other,僕,ぼく,I (used by males)
-,hidden,n4,other,星,ほし,star
-,hidden,n4,other,ほとんど,ほとんど,mostly
-,hidden,n4,verb,ほめる,ほめる,to praise
-,hidden,n4,other,翻訳,ほんやく,translation
-,hidden,n4,verb,参る,まいる,(humble) to go;to come
+,,n4,adjective,変,へん,strange,konstig
+,,n4,noun,返事,へんじ,reply,svar
+,,n4,noun,貿易,ぼうえき,trade,handel
+,,n4,noun,法律,ほうりつ,law,lag
+,,n4,noun,僕,ぼく,I (used by males),jag (maskulin)
+,,n4,noun,星,ほし,star,stjärna
+,,n4,adverb,ほとんど,ほとんど,mostly,mestadels
+,,n4,verb,ほめる,ほめる,to praise,lovorda
+,,n4,noun,翻訳,ほんやく,translation,översättning
+,,n4,verb,参る,まいる,(humble) to go;to come,gå (ödmjuk);komma (ödmjuk)
 ,,n4,verb,負ける,まける,to lose,förlora
 ,,n4,conjunction,または,または,or;otherwise,eller
 ,,n4,verb,間違える,まちがえる,to make a mistake,göra misstag
@@ -567,18 +568,18 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,ステーキ,ステーキ,steak,biff
 ,,n4,noun,ステレオ,ステレオ,stereo,stereo
 ,,n4,adjective,ソフト,ソフト,soft,mjuk
-,hidden,n4,other,タイプ,タイプ,type;style
-,hidden,n4,verb,チェックする,チェックする,to check
-,hidden,n4,other,テキスト,テキスト,text;text book
-,hidden,n4,other,テニス,テニス,tennis
-,hidden,n4,other,パート,パート,part time
-,hidden,n4,other,パソコン,パソコン,personal computer
-,hidden,n4,other,ハンドバッグ,ハンドバッグ,handbag　
-,hidden,n4,other,ピアノ,ピアノ,piano
-,hidden,n4,other,ビル,ビル,building or bill
-,hidden,n4,other,ファックス,ファックス,fax
-,hidden,n4,other,プレゼント,プレゼント,present
-,hidden,n4,other,ベル,ベル,bell
-,hidden,n4,other,レジ,レジ,register
+,,n4,noun,タイプ,タイプ,type;style,typ;stil
+,,n4,verb,チェックする,チェックする,to check,kontrollera
+,,n4,noun,テキスト,テキスト,text;text book,text;lärobok
+,,n4,noun,テニス,テニス,tennis,tennis
+,,n4,noun,パート,パート,part time,deltid
+,,n4,noun,パソコン,パソコン,personal computer,pc
+,,n4,noun,ハンドバッグ,ハンドバッグ,handbag,handväska
+,,n4,noun,ピアノ,ピアノ,piano,piano
+,,n4,noun,ビル,ビル,building;bill,byggnad;räkning
+,,n4,noun,ファックス,ファックス,fax,fax
+,,n4,noun,プレゼント,プレゼント,present,present
+,,n4,noun,ベル,ベル,bell,klocka
+,,n4,noun,レジ,レジ,register,kassa
 13,,n4,noun,レポート,レポート,report,rapport
 ,,n4,noun,ワープロ,ワープロ,word processor,ordbehandlare
