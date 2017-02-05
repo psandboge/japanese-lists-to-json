@@ -104,7 +104,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,飾る,かざる,to decorate,dekorera
 17,,n4,noun,火事,かじ,fire,eld
 ,,n4,noun,ガス,ガス,gas,gas
-,,n4,adjective,堅い;硬い;固い,かたい,hard
+,,n4,adjective,堅い;硬い;固い,かたい,hard,hård
 ,,n4,noun,形,かたち,shape,form
 ,,n4,verb,片付ける,かたづける,to tidy up,städa upp
 ,,n4,noun,課長,かちょう,section manager,sektionschef
@@ -123,10 +123,10 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,代わり,かわり,substitute;alternate,ersättare
 ,,n4,verb,変わる,かわる,to change,ändra
 ,,n4,verb,考える,かんがえる,to consider,överväga
-,,n4,noun,関係,かんけい,förhållande
+,,n4,noun,関係,かんけい,relationship,förhållande
 ,,n4,noun,看護師,かんごし,nurse,sjuksköterska
 ,,n4,adjective,簡単,かんたん,simple,enkel
-,,n4,noun,気,き,spirit;mood,ande,humör
+,,n4,noun,気,き,spirit;mood,ande;humör
 ,,n4,noun,機会,きかい,opportunity,möjlighet
 ,,n4,noun,危険,きけん,danger,fara
 ,,n4,verb,聞こえる,きこえる,to be heard,höras
@@ -144,7 +144,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,気持ち,きもち,feeling;mood,känsla
 13,,n4,noun,着物,きもの,kimono,kimono
 ,,n4,noun,客,きゃく,guest;customer,gäst;kund
-,,n4,adjective,急,きゅう,urgent; steep,pressande,djup
+,,n4,adjective,急,きゅう,urgent; steep,pressande;djup
 ,,n4,noun,急行,きゅうこう,speedy; express,express
 ,,n4,noun,教育,きょういく,education,utbildnig
 ,,n4,noun,教会,きょうかい,church,kyrka
@@ -273,7 +273,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,捨てる,すてる,to throw away,kasta iväg
 ,,n4,noun,砂,すな,sand,sand
 ,,n4,verb,滑る,すべる,to slide;to slip,glida
-,,n4,noun,隅,すみ,corner;nook,hörne,vrå
+,,n4,noun,隅,すみ,corner;nook,hörne;vrå
 ,,n4,verb,済む,すむ,to finish,avsluta
 ,,n4,noun,すり,すり,pickpocket,ficktjuv
 ,,n4,adverb,すると,すると,then,sedan
@@ -370,11 +370,11 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,特急,とっきゅう,limited express train (faster than an express train),snälltåg med färre stopp
 ,,n4,verb,届ける,とどける,to send; to deliver; to report,skicka;leverera;rapportera
 ,,n4,verb,泊まる,とまる,to lodge at,stanna
-,,n4,verb,止める,とめる,to stop something;stoppa
+,,n4,verb,止める,とめる,to stop something,stoppa
 ,,n4,verb,取り替える,とりかえる,to exchange,utbyta
 ,,n4,noun,泥棒,どろぼう,thief,tjuv
 ,,n4,adverb,どんどん,どんどん,more and more,stadigt ökande
-16,hidden,n4,verb,直す,なおす,to fix;to repair
+16,hidden,n4,verb,直す,なおす,to fix;to repair,reparera
 ,,n4,verb,直る,なおる,to be fixed;to be repaired,fixas;repareras
 ,,n4,verb,治る,なおる,to be cured;to heal,bli botad;helas
 13,,n4,verb,泣く,なく,to weep,gråta
@@ -395,7 +395,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,似る,にる,to be similar,vara liknande
 ,,n4,verb,人形,にんぎょう,doll; figure,docka;modell
 ,,n4,verb,盗む,ぬすむ,to steal,stjäla
-,,n4,verb,塗る,ぬる,to paint; to colour; to plaster|måla;färga;spackla
+,,n4,verb,塗る,ぬる,to paint; to colour; to plaster,måla;färga;spackla
 ,,n4,verb,ぬれる,ぬれる,to get wet,bli våt
 ,,n4,noun,ねだん,ねだん,price,pris
 ,,n4,noun,熱,ねつ,fever,feber
@@ -418,7 +418,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,発音,はつおん,pronunciation,uttal
 ,,n4,adverb,はっきり,はっきり,clearly,klart
 ,,n4,noun,花見,はなみ,cherry-blossom viewing,körsbärsblommeskådning
-,,n4,noun,林,はやし,woods;forester,skog,skogsvaktare
+,,n4,noun,林,はやし,woods;forester,skog;skogsvaktare
 ,,n4,verb,払う,はらう,to pay,betala
 15,,n4,noun,番組,ばんぐみ,television　program;radio program,program
 ,,n4,noun,反対,はんたい,opposition,opposition;motstånd
@@ -426,7 +426,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,火,ひ,fire,eld
 ,,n4,verb,冷える,ひえる,to grow cold,kallna
 ,,n4,adjective,光,ひかり,light,ljus
-,,n4,verb,光る,ひかる,to shine;to glitter,skina,glittra
+,,n4,verb,光る,ひかる,to shine;to glitter,skina;glittra
 ,,n4,noun,引き出し,ひきだし,drawer;drawing out,låda
 ,,n4,verb,ひきだす,ひきだす,to withdraw,dra tillbaka
 17,,n4,noun,ひげ,ひげ,beard,skägg
@@ -494,16 +494,16 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,召し上がる,めしあがる,(polite) to eat,äta (artigt)
 ,,n4,adjective,珍しい,めずらしい,rare,sällsynt
 ,,n4,verb,申し上げる,もうしあげる,(humble) to say;to tell,säga;tala om
-,,n4,verb,申す,もうす,(humble) to be called;to say,bli kallad (ödmjuk), säga (ödmjuk)
-,,n4,adverb,もうすぐ,もうすぐ,soon
-,,n4,conjunction,もし,もし,if
+,,n4,verb,申す,もうす,(humble) to be called;to say,bli kallad (ödmjuk);säga (ödmjuk)
+,,n4,adverb,もうすぐ,もうすぐ,soon,snart
+,,n4,conjunction,もし,もし,if,om
 ,,n4,verb,戻る,もどる,to turn back,vända
 ,,n4,noun,木綿,もめん,cotton,bomull
 ,,n4,noun,森,もり,forest,skog
 ,,n4,verb,焼く,やく,to bake;to grill,baka;grilla
 13,,n4,noun,約束,やくそく,promise,löfte
 ,,n4,verb,役に立つ,やくにたつ,to be helpful,vara hjälpfull
-,,n4,verb,焼ける,やける,to burn;to be roasted,brinna,rostas
+,,n4,verb,焼ける,やける,to burn;to be roasted,brinna;rostas
 ,,n4,adjective,優しい,やさしい,kind,snäll
 ,,n4,verb,痩せる,やせる,to become thin,bli smal
 ,,n4,adverb,やっと,やっと,at last,till slut

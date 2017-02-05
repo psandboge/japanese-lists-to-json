@@ -345,7 +345,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,シャツ,シャツ,shirt,skjorta
 ,,n5,noun,シャワー,シャワー,shower,dusch
 ,,n5,numeric,十,じゅう;とお,ten,tio
-,hidden,n5,noun,授業,じゅぎょう,class work
+,hidden,n5,noun,授業,じゅぎょう,class work,skolarbete
 ,,n5,noun,授業,じゅぎょう,lesson,lektion
 ,,n5,noun,宿題,しゅくだい,homework,läxa
 ,,n5,adjective,上手,じょうず,skillful,skicklig
