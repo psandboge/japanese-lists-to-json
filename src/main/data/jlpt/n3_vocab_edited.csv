@@ -584,15 +584,15 @@ genki|state|jlpt|type|writing|reading|english|swedish
 ||n3|noun|好み|このみ|liking,taste,choice|gillande,smak,val
 ||n3|verb|好む|このむ|to like,to prefer|gilla,föredra
 16||n3|noun|塵|ごみ|dust,dirt,rubbish|skräp
-|hidden|n3|other|小麦|こむぎ|wheat
-|hidden|n3|other|ごめんなさい|ごめんなさい|I beg your pardon,excuse me
-|hidden|n3|other|小屋|こや|hut,cabin,shed,(animal) pen
-|hidden|n3|other|これら|これら|these
-|hidden|n3|other|頃|ころ|time,about,toward,approximately (time)
-|hidden|n3|other|殺す|ころす|to kill
-|hidden|n3|other|転ぶ|ころぶ|to fall down,to fall over
-|hidden|n3|other|今回|こんかい|now,this time,lately
-|hidden|n3|other|今後|こんご|from now on,hereafter
+||n3|noun|小麦|こむぎ|wheat|vete
+||n3|interjection|ごめんなさい|ごめんなさい|I beg your pardon,excuse me|förlåt
+||n3|noun|小屋|こや|hut,cabin,shed,(animal) pen|hydda,skjul,fålla
+||n3|pronoun|これら|これら|these|dessa
+||n3|noun|頃|ころ|time,about,toward,approximately (time)|tid,cirkatid
+||n3|verb|殺す|ころす|to kill|döda
+18||n3|verb|転ぶ|ころぶ|to fall down,to fall over|falla,trilla
+||n3|adverb|今回|こんかい|now,this time,lately|nu,nyligen
+||n3|adverb|今後|こんご|from now on,hereafter|från och med nu
 ||n3|noun|混雑|こんざつ|congestion|trängsel
 14||n3|adjective|こんなに|こんなに|so,like this,in this way
 ||n3|noun|困難|こんなん|difficulty,distress|svårighet
@@ -625,7 +625,7 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|支える|ささえる|to support, to hold, maintain
 |hidden|n3|other|指す|さす|to point,to put up umbrella,to play
 |hidden|n3|other|座席|ざせき|seat
-15||n3|verb|誘う|さそう|(1) to invite,to ask,(2) to tempt,to lure,to induce|bjuda in;locka
+15||n3|verb|誘う|さそう|(1) to invite,to ask,(2) to tempt,to lure,to induce|bjuda in,locka
 |hidden|n3|other|札|さつ|(1) token,label,(2) ticket,(3) charm
 |hidden|n3|other|作家|さっか|author,writer,novelist,artist
 |hidden|n3|other|作曲|さっきょく|composition,setting (of music)

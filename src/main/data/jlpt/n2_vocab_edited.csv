@@ -1011,9 +1011,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|炊く|たく|to boil,to cook
 |hidden|n2|other|焚く|たく|to burn,to kindle,to build a fire
 |hidden|n2|other|蓄える|たくわえる|to store,to lay in stock
-|hidden|n2|other|竹|たけ|bamboo,middle (of a three-tier ranking system)
-|hidden|n2|other|助かる|たすかる|to be saved,to be rescued,to survive,to be helpful
-|hidden|n2|other|只|ただ|free of charge,mere,sole,only,usual,common
+||n2|noun|竹|たけ|bamboo,middle (of a three-tier ranking system)|bambu,mellanlagret
+18||n2|verb|助かる|たすかる|to be saved,to be rescued,to survive,to be helpful|bli räddad,överleva,bli hjälpt
+||n2|adjective|只|ただ|free of charge,mere,sole,only,usual,common|gratis,enda,vanlig
 |hidden|n2|other|但し|ただし|but,however,provided that
 |hidden|n2|other|畳む|たたむ|to fold (clothes)
 |hidden|n2|other|立ち止まる|たちどまる|to stop,to halt,to stand still
@@ -1109,10 +1109,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|付合う|つきあう|to associate with,to keep company with,to get on with
 |hidden|n2|other|突き当たり|つきあたり|end (e.g. of street)
 |hidden|n2|other|突き当たる|つきあたる|to run into,to collide with
-|hidden|n2|other|月日|つきひ|time,years,days
-|hidden|n2|other|点く|つく|to catch fire,(electricity) comes on
-|hidden|n2|other|突く|つく|(1) to thrust,to strike,(2) to poke
-|hidden|n2|other|次ぐ|つぐ|to rank next to,to come after
+||n2|noun|月日|つきひ|time,years,days|tid,år,dagar
+18||n2|verb|点く|つく|to catch fire,(electricity) comes on|sättas på,ta eld
+||n2|verb|突く|つく|(1) to thrust,to strike,(2) to poke|stöta,slå,peta
+||n2|verb|次ぐ|つぐ|to rank next to,to come after|rankas precis efter,komma efter
 |hidden|n2|other|作る/造る|つくる|to make,to create
 |hidden|n2|other|着ける|つける|(1) to attach,to join,to add,to append
 |hidden|n2|other|点ける|つける|to turn on,to switch on,to light up
@@ -1768,9 +1768,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n2|other|要領|ようりょう|point,gist,essentials,outline
 |hidden|n2|other|欲張り|よくばり|avarice,covetousness,greed
 |hidden|n2|other|余計|よけい|too much,unnecessary,abundance,surplus,excess,superfluity
-|hidden|n2|other|よこす|よこす|(1) to send,to forward,(2) to hand over (e.g. money)
-|hidden|n2|other|汚す|よごす|(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain
-|hidden|n2|other|寄せる|よせる|to collect,to gather,to add,to put aside
+||n2|verb|よこす|よこす|(1) to send,to forward,(2) to hand over (e.g. money)|skicka fram,överlämna
+18|hidden|n2|verb|汚す|よごす|(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain|smutsa ner,vanhedra
+||n2|verb|寄せる|よせる|to collect,to gather,to add,to put aside|samla ihop,lägga till,lägga åt sidan
 |hidden|n2|other|余所|よそ|another place,somewhere else,strange parts
 |hidden|n2|other|四つ角|よつかど|four corners,crossroads
 |hidden|n2|other|酔っ払い|よっぱらい|drunkard

@@ -14,7 +14,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,遊び,あそび,play,leka
 ,,n4,verb,集る,あつまる,to gather,samla ihop
 16,,n4,verb,集める,あつめる,to collect something,samla
-,,n4,verb,謝る,あやまる,to apologize,be om ursäkt
+18,,n4,verb,謝る,あやまる,to apologize,be om ursäkt
 ,,n4,noun,安心,あんしん,relief,lindring
 ,,n4,noun,安全,あんぜん,safety,säkerhet
 ,,n4,adjective,あんな,あんな,such,sådan
@@ -73,7 +73,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,夫,おっと,husband,man
 ,,n4,noun,おつり,おつり,change from purchase; balance,växel
 ,,n4,noun,音,おと,sound; note,ljud;not
-,,n4,verb,落す,おとす,to drop,falla
+18,,n4,verb,落す,おとす,to drop,tappa
 ,,n4,noun,踊り,おどり,a dance,dans
 ,,n4,verb,踊る,おどる,to dance,dansa
 ,,n4,verb,驚く,おどろく,to be surprised,vara överaskad
@@ -203,7 +203,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,ごらんになる,ごらんになる,(respectful) to see,se (artigt)
 ,,n4,adverb,これから,これから,after this,från och med nu
 ,,n4,adjective,怖い,こわい,frightening,skrämmande
-,,n4,verb,壊す,こわす,to break,gå sönder
+18,,n4,verb,壊す,こわす,to break,göra sönder
 ,,n4,verb,壊れる,こわれる,to be broken,vara trasig
 ,,n4,temporal,今度,こんど,now;next time,nu;nästa gång
 ,,n4,temporal,今夜,こんや,tonight,i natt

@@ -6,7 +6,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 9,,n5,adjective,赤い,あかい,red,röd
 ,,n5,adjective,明い,あかるい,bright,ljus
 ,,n5,noun,秋,あき,autumn,höst
-,,n5,verb,開く,あく,to become open,öppna sig
+18,,n5,verb,開く,あく,to become open,öppna sig
 ,hidden,n5,verb,開く,あく,to open,öppna
 ,,n5,verb,開ける,あける,to open,öppna
 ,,n5,verb,上げる,あげる,to give,ge
@@ -132,7 +132,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 14,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
 14,,n5,noun,伯父,おじさん,uncle,farbror;morbror
 ,hidden,n5,verb,押す,おす,stamp,stämpla
-,,n5,verb,押す,おす,push,putta
+18,,n5,verb,押す,おす,push,trycka
 ,hidden,n5,adjective,遅い,おそい,slow,långsam
 ,,n5,adjective,遅い,おそい,late,sen
 ,,n5,noun,お茶,おちゃ,green tea,grönt te
@@ -307,7 +307,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,魚,さかな,fish,fisk
 ,,n5,adjective,先,さき,previous,föregående
 ,hidden,n5,adjective,先,さき,the future,framtiden
-,,n5,verb,咲く,さく,to bloom,blomma
+18,,n5,verb,咲く,さく,to bloom,blomma
 ,,n5,noun,作文,さくぶん,writing,skrift
 ,,n5,noun,作文,さくぶん,composition,komposition
 ,,n5,verb,差す,さす,to raise an umbrella,fälla upp (paraply)
@@ -336,7 +336,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,hidden,n5,noun,字引,じびき,dictionary,lexikon
 16;17,,n5,noun,自分,じぶん,oneself,sig själv
 ,hidden,n5,verb,閉まる,しまる,to be closed,vara stängd
-,,n5,verb,閉まる,しまる,to close,stängas
+18,,n5,verb,閉まる,しまる,to close,stängas
 ,,n5,verb,閉める,しめる,to close something,stänga
 ,hidden,n5,verb,締める,しめる,to tie,knyta
 ,,n5,interjection,じゃあ,じゃあ,well then…,då så...
@@ -423,7 +423,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n5,noun,たて,たて,length,längd
 ,,n5,noun,建物,たてもの,building,byggnad
 ,,n5,adjective,楽しい,たのしい,enjoyable,trevlig
-,,n5,verb,頼む,たのむ,to ask,fråga
+18,,n5,verb,頼む,たのむ,to ask,fråga om en tjänst
 ,,n5,noun,たばこ,たばこ,cigarettes,cigarett
 ,,n5,noun,たばこ,たばこ,tobacco,tobak
 ,,n5,adverb,たぶん,たぶん,probably,troligen
