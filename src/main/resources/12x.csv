@@ -5,8 +5,96 @@ genki|state|type|writing|reading|english|swedish
 13||noun|空手|からて|karate|karate
 13||noun|ゴルフ|ゴルフ|golf|golf
 13||noun|バイク|バイク|motorcycle|motorcykel
-13||noun|弁護し|べんごし|lawyer|advokat
+13,1||noun|弁護し|べんごし|lawyer|advokat
 13||noun|募集|ぼしゅう|recruitment|rekrytering
 13||noun|やくざ|やくざ|yakuza|yakuza
 15||noun|インターネット|インターネット|Internet|Internet
 15||noun|クラブ|クラブ|night club|nattklubb
+15||noun|結婚式|けっこんしき|wedding|bröllop
+15||noun|締め切り|しめきり|deadline|deadline
+15||noun|ジャケット|ジャケット|jacket|jacka
+15||noun|卒業式|そつぎょうしき|graduation ceremony|studenten
+15||noun|そば|そば|soba|soba
+15||noun|電池|でんち|battery|batteri
+15||noun|保険|ほけん|insurance|försäkring
+15||noun|割引券|わりびきけん|coupon|rabattkupong
+15||verb|下ろす|おろす|withdraw (money)|ta ut (pengar)
+15||verb|付き合う|つきあう|date (someone),keep company|träffa (någon),hålla någon sällskap
+15||verb|保険に入る|ほけんにはいる|buy insurance|teckna försäkring
+15||verb|気をつける|気をつける|be careful|vara försiktig
+15||verb|観光する|かんこうする|go sightseeing|gå på sightseeing
+15||verb|卒業する|そつぎょうする|graduate|ta examen
+15||verb|予約する|よやくする|make reservation|reservera
+15||verb|一日中|いちにちじゅう|all the day|hela dagen
+15||verb|けど|けど|however|dock
+15||suffix|目|め|(n:o)th|(nr)e
+13||verb|頑張る|がんばる|do one's best|göra sitt bästa
+13||verb|約束を守る|やくそくをまもる|keep a promise|hålla ett löfte
+13||verb|感動する|かんどうする|be touched|bli berörd
+13||verb|いらっしゃいます|いらっしゃいます|is present,is home(honorable)|är här (artigt)
+13||verb|と申します|ともうします|my name is|jag heter
+16||noun|駅員|えきいん|station attendant|stationsvakt
+16||noun|大きさ|大きさ|size|storlek
+16||noun|期末試験|きまつしけん|final exam|slutprov
+16||noun|推薦状|すいせんじょう|letter of recommendation|rekommendationsbrev
+16||noun|目覚し時計|めざましとけい|alarm clock|väckarklocka
+16||verb|おごる|おごる|treat|bjuda
+16||verb|連れて行く|つれていく|bring|ta med
+16||verb|道に迷う|みちにまよう|get lost|gå vilse
+16||verb|迎えに行く|むかえにいく|go pick up|åka och hämta
+16||verb|アイロンをかける|アイロンをかける|iron|stryka
+16||verb|乗り遅れる|のりおくれる|miss (bus,...)|missa (bussen, täget,...)
+16||verb|迎えに来る|むかえにくる|come pick up|komma och hämta
+16||temporal|今日中|きょうじゅう|during today|under dagen
+16||adverb|このぐらい|このぐらい|this much|så här mycket
+16||expression|失礼します|しつれいします|Excuse me|Ursäkta mig
+16||expression|授業中に|じゅぎょうちゅうに|during class|under lektionen
+16||adjective|他の|ほかの|other|annan
+17||noun|お客さん|おきゃくさん|guest,visitor|gäst,besökare
+17||noun|お湯|おゆ|hot water|varmvatten
+17||noun|残業|残業|overtime|övertid
+17||noun|ショッピングモール|ショッピングモール|shopping mall|köpcentrum
+17||noun|宝くじ|たからくじ|lottery|lotteri
+17||noun|パンダ|パンダ|panda|panda
+17||noun|ヒーター|ヒーター|heater|värmare
+17||noun|旅行会社|りょこうがいしゃ|travel agency|resebyrå
+17||verb|お湯を沸かす|おゆをわかす|boil hot water|koka vatten
+17||verb|髪をとかす|かみをとかす|comb hair|borsta håret
+17||verb|宝くじに当たる|たからくじにあたる|win the lottery|vinna på lotteri
+17||verb|髭を剃る|ひげをそる|shave the beard|raka skägget
+17||verb|淹れる|いれる|brew (e.g. coffee, tea)|brygga (t ex kaffe, te)
+17||verb|鍵をかける|かぎをかける|lock|låsa
+17||verb|お祈りする|おいのりする|pray|be
+17||interjection|おめでとうございます|おめでとうございます|congratulations|grattis
+17||interjection|かな|かな|I wonder|jag undrar
+17||interjection|そうか|そうか|really|verkligen
+14||noun|大家さん|おおやさん|landlord|hyresvärd
+14||noun|お返し|おかえし|return gift|returgåva
+14||noun|ご主人|ごしゅじん|husband|man
+14||noun|チケット|チケット|ticket|biljett
+14||noun|チョコレート|チョコレート|chocolate|choklad
+14||noun|トレーナー|トレーナー|trainer,sweatshirt|tröja
+14||noun|ぬいぐるみ|ぬいぐるみ|plush doll|mjukisdjur
+14||noun|バレンタインデー|バレンタインデー|Valentine's day|Alla hjärtans dag
+14||noun|ビデオカメラ|ビデオカメラ|video camera|videokamera
+14||noun|ホワイトデー|ホワイトデー|White day|vita dagen (1 mån efter Alla hjärtans dag)
+14||noun|みかん|みかん|mandarin orange|mandarin,småcitrus
+14||noun|履歴書|りれきしょ|curriculum vitae|cv
+14||verb|プロポーズする|プロポーズする|propose|fria
+14||noun|私たち|わたしたち|we|vi
+14||expression|どうしたらいい|どうしたらいい|what should I do|vad ska jag göra
+18||noun|エアコン|エアコン|air conditioning|luftkonditionering
+18||noun|クッション|クッション|cushion|dyna
+18||noun|シャンプー|シャンプー|shampoo|schampo
+18||noun|バナナ|バナナ|banana|banan
+18||noun|ポップコーン|ポップコーン|popcorn|popcorn
+18||noun|留守番電話|るすばんでんわ|answering machine|telefonsvarare
+18||expression|気分が悪い|きぶんがわるい|I feel sick|Jag mår dåligt
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
+|hidden|other||||
