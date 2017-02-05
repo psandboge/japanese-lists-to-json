@@ -63,6 +63,7 @@ public class JsonConverter {
                 InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
                 BufferedReader br = new BufferedReader(isr)
         ) {
+            boolean writeError = true;
             while ((line = br.readLine()) != null) {
                 Map<String, Object> nugget = new HashMap<>();
                 if (firstLine) {
@@ -70,10 +71,10 @@ public class JsonConverter {
                     processFirstLine(line, primarySeparator);
                     continue;
                 }
-                processLine(line, primarySeparator, secondarySeparator, nugget);
-                if (errCount > 10) {
-                    System.out.println("Too many errors, aborting processing of " + fileName);
-                    break;
+                processLine(line, primarySeparator, secondarySeparator, nugget, writeError);
+                if (errCount == 10 && writeError) {
+                    writeError = false;
+                    System.out.println("Too many errors, further errors will fail silently for processing of " + fileName);
                 }
             }
         } catch (IOException e) {
@@ -81,7 +82,8 @@ public class JsonConverter {
         }
         ObjectMapper mapper = new ObjectMapper();
         try {
-            System.out.println(mapper.writeValueAsString(root));
+            String current = mapper.writeValueAsString(root);
+            System.out.println(current.substring(0,Math.min(50,current.length())) + " ... " + current.substring(Math.max(0, current.length() - 150)));
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
@@ -101,11 +103,13 @@ public class JsonConverter {
         }
     }
 
-    private void processLine(String line, String primary, String secondary, Map<String, Object> nugget) {
+    private void processLine(String line, String primary, String secondary, Map<String, Object> nugget, boolean writeError) {
         String[] items = line.split(Pattern.quote(primary));
         if (items.length != propsCount && !(items.length == propsCount - 1 && line.endsWith(primary))) {
             errCount++;
-            System.out.println("Error on line: " + line + " : " + items.length);
+            if (writeError) {
+                System.out.println("Error on line: " + line + " : " + items.length);
+            }
             return;
         }
         for (int i = 0; i < items.length; i++) {
@@ -114,6 +118,10 @@ public class JsonConverter {
                     nugget.put("id", generateId(items[i]));
                     break;
                 case "state":
+                    if (!"hidden".equals(items[i])) {
+                        nugget.put(props[i], items[i]);
+                    }
+                    break;
                 case "jnlp":
                     nugget.put(props[i], items[i]);
                     break;
@@ -129,7 +137,7 @@ public class JsonConverter {
             nugget.put("id", generateId(""));
         }
         root.add(nugget);
-        System.out.println(line + " : " + items.length);
+        //System.out.println(line + " : " + items.length);
     }
 
     private ArrayList<String> handleFact(String value, String separator) {
