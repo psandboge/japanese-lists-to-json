@@ -1082,9 +1082,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|駐車|ちゅうしゃ|parking (e.g. car)
 |hidden|n3|other|昼食|ちゅうしょく|lunch,midday meal
 |hidden|n3|other|中心|ちゅうしん|center,core,heart,pivot,emphasis,balance
-|hidden|n3|other|注目|ちゅうもく|notice,attention,observation
-|hidden|n3|other|注文|ちゅうもん|order,request
-|hidden|n3|other|長期|ちょうき|long time period
+||n3|noun|注目|ちゅうもく|notice,attention,observation|observation
+18||n3|noun|注文|ちゅうもん|order,request|order
+||n3|noun|長期|ちょうき|long time period|en lång tid
 |hidden|n3|other|調査|ちょうさ|investigation,examination,inquiry,survey
 |hidden|n3|other|調子|ちょうし|condition, form, shape, tune,tone,key
 |hidden|n3|other|頂上|ちょうじょう|top,summit,peak

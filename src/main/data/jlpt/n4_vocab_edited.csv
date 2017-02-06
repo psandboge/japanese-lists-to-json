@@ -106,7 +106,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,ガス,ガス,gas,gas
 ,,n4,adjective,堅い;硬い;固い,かたい,hard,hård
 ,,n4,noun,形,かたち,shape,form
-,,n4,verb,片付ける,かたづける,to tidy up,städa upp
+18,,n4,verb,片付ける,かたづける,to tidy up,städa upp
 ,,n4,noun,課長,かちょう,section manager,sektionschef
 ,,n4,verb,勝つ,かつ,to win,vinna
 ,,n4,noun,家内,かない,housewife,hemmafru
@@ -122,7 +122,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,verb,乾く,かわく,to get dry,torka
 ,,n4,noun,代わり,かわり,substitute;alternate,ersättare
 ,,n4,verb,変わる,かわる,to change,ändra
-,,n4,verb,考える,かんがえる,to consider,överväga
+18,,n4,verb,考える,かんがえる,to consider,överväga
 ,,n4,noun,関係,かんけい,relationship,förhållande
 ,,n4,noun,看護師,かんごし,nurse,sjuksköterska
 ,,n4,adjective,簡単,かんたん,simple,enkel
@@ -204,7 +204,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,adverb,これから,これから,after this,från och med nu
 ,,n4,adjective,怖い,こわい,frightening,skrämmande
 18,,n4,verb,壊す,こわす,to break,göra sönder
-,,n4,verb,壊れる,こわれる,to be broken,vara trasig
+18,,n4,verb,壊れる,こわれる,to be broken,vara trasig
 ,,n4,temporal,今度,こんど,now;next time,nu;nästa gång
 ,,n4,temporal,今夜,こんや,tonight,i natt
 15,,n4,verb,最近,さいきん,latest;nowadays,nyligen;nuförtiden
@@ -518,7 +518,7 @@ genki,state,jlpt,type,writing,reading,english,swedish
 ,,n4,noun,用,よう,use,användning
 ,,n4,noun,用意,ようい,preparation,förberedelse
 ,,n4,noun,用事,ようじ,things to do,saker att göra
-,,n4,verb,汚れる,よごれる,to get dirty,bli smutsig
+18,,n4,verb,汚れる,よごれる,to get dirty,bli smutsig
 ,,n4,noun,予習,よしゅう,preparation for a lesson,lektionsförberedelse
 15,,n4,noun,予定,よてい,arrangement;plan,schema;planering
 ,,n4,noun,予約,よやく,reservation,reservation
