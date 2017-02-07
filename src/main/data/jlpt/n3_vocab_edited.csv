@@ -146,13 +146,13 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|馬|うま|(1) horse,(2) promoted bishop (shogi)
 |hidden|n3|other|うまい|うまい|be good at, delicious (spoken)
 |hidden|n3|other|生まれ|うまれ|birth, birth-place
-|hidden|n3|other|梅|うめ|plum, plum-tree, lowest (of a three-tier ranking system)
-|hidden|n3|other|裏切る|うらぎる|to betray, to turn traitor to, to double-cross
-|hidden|n3|other|得る|うる|to get, to gain, to win
+||n3|noun|梅|うめ|plum, plum-tree, lowest (of a three-tier ranking system)|plommon,plommonträd,i lägsta tredjedelen
+||n3|verb|裏切る|うらぎる|to betray, to turn traitor to, to double-cross|förråda,lura
+||n3||得る|うる|to get, to gain, to win|få,vinna
 13||n3|adjective|嬉しい|うれしい|happy, glad, pleasant|glad,lycklig
-|hidden|n3|other|売れる|うれる|to be sold
-|hidden|n3|other|噂|うわさ|rumour, report, gossip, common talk
-|hidden|n3|other|運|うん|fortune, luck
+||n3|verb|売れる|うれる|to be sold|säljas
+||n3|noun|噂|うわさ|rumour, report, gossip, common talk|rykte,skvaller
+||n3|noun|運|うん|fortune, luck|lycka,tur
 |hidden|n3|other|運転|うんてん・する|operation, motion, driving, to drive
 |hidden|n3|other|運動|うんどう・する|motion, exercise, to exercise
 |hidden|n3|other|柄|え|handle, grip
@@ -1489,9 +1489,10 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|ほぼ|ほぼ|almost,roughly,approximately
 |hidden|n3|other|微笑む|ほほえむ|to smile
 |hidden|n3|other|褒める|ほめる|to praise,to admire,to speak well
-|hidden|n3|other|濠|ほり|moat
-|hidden|n3|other|本当|ほんとう・ほんと|truth,reality
-|hidden|n3|other|本人|ほんにん|the person himself
+||n3|noun|濠|ほり|moat|vallgrav
+18||n3|noun|本当|ほんとう,ほんと|truth,reality|sanning,verklighet
+18||n3|interjection|本当に|ほんとうに,ほんとに|really|verkligen
+||n3|noun|本人|ほんにん|the person himself|själva personen
 |hidden|n3|other|本物|ほんもの|genuine article
 |hidden|n3|other|ぼんやり|ぼんやり|absent-minded,block-head,dim,faint,vague
 |hidden|n3|other|間|ま|space,room,time,pause
@@ -1505,9 +1506,9 @@ genki|state|jlpt|type|writing|reading|english|swedish
 |hidden|n3|other|まさか|まさか|nonsense, that's impossible,
 |hidden|n3|other|まさに|まさに|correctly, surely
 |hidden|n3|other|真面目|まじめ|diligent,serious,honest
-|hidden|n3|other|増す|ます|to increase,to grow
-|hidden|n3|other|先ず|まず|first (of all),to start with,about,almost,hardly (with neg. verb)
-|hidden|n3|other|貧しい|まずしい|poor, needy
+||n3|verb|増す|ます|to increase,to grow|öka,växa
+18||n3|adverb|先ず|まず|first (of all),to start with,about,almost,hardly (with neg. verb)|för det första
+||n3|adjective|貧しい|まずしい|poor, needy|fattig,behövande
 |hidden|n3|other|ますます|ますます|increasingly,more and more
 |hidden|n3|other|又|また|again,and
 |hidden|n3|other|未だ|まだ|yet,still,more,besides
@@ -1756,15 +1757,15 @@ genki|state|jlpt|type|writing|reading|english|swedish
 18||n3|noun|タオル|タオル|towel|handduk
 ||n3|noun|ダンス|ダンス|dance|dans
 ||n3|noun|チーズ|チーズ|cheese|ost
-|hidden|n3|other|チーム|チーム|team
-|hidden|n3|other|チャンス|チャンス|chance,opportunity
-|hidden|n3|other|デート|デート|date,go on a date
-|hidden|n3|other|デモ|デモ|(abbr) demo,demonstration
-|hidden|n3|other|テント|テント|tent
-|hidden|n3|other|トップ|トップ|top
-|hidden|n3|other|ドライブ|ドライブ|drive,trip by car,driving
-|hidden|n3|other|トラック|トラック|(1) truck,(2) (running) track
-|hidden|n3|other|ドラマ|ドラマ|drama
+||n3|noun|チーム|チーム|team|lag
+||n3|noun|チャンス|チャンス|chance,opportunity|chans,möjlighet
+||n3|noun|デート|デート|date,go on a date|date,träff
+||n3|noun|デモ|デモ|(abbr) demo,demonstration|demo
+||n3|noun|テント|テント|tent|tält
+||n3|noun|トップ|トップ|top|topp
+||n3|noun|ドライブ|ドライブ|drive,trip by car,driving|biltur,bilkörning
+||n3|noun|トラック|トラック|(1) truck,(2) (running) track|lastbil,bana
+||n3|noun|ドラマ|ドラマ|drama|drama
 |hidden|n3|other|トランプ|トランプ|playing cards (lit: trump)
 |hidden|n3|other|ドレス|ドレス|dress
 |hidden|n3|other|トン|トン|ton
