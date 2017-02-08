@@ -305,7 +305,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,大体,だいたい,generally,generellt
 ,,,n4,adverb,たいてい,たいてい,usually,vanligtvis
 ,,,n4,adverb,大分,だいぶ,greatly,storligen
-,16,,n4,noun,台風,たいふう,typhoon,tyfon
+15,16,,n4,noun,台風,たいふう,typhoon,tyfon
 ,,,n4,verb,倒れる,たおれる,to break down,gå sönder
 ,,,n4,conjunction,だから,だから,so;therefore,därför
 ,,,n4,adjective,確か,たしか,definite,definitiv
@@ -425,8 +425,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,16,,n4,noun,日,ひ,day; sun,dag;sol
 ,,,n4,noun,火,ひ,fire,eld
 ,,,n4,verb,冷える,ひえる,to grow cold,kallna
-,,,n4,adjective,光,ひかり,light,ljus
-,,,n4,verb,光る,ひかる,to shine;to glitter,skina;glittra
+15,,,n4,adjective,光,ひかり,light,ljus
+15,,,n4,verb,光る,ひかる,to shine;to glitter,skina;glittra
 ,,,n4,noun,引き出し,ひきだし,drawer;drawing out,låda
 ,,,n4,verb,ひきだす,ひきだす,to withdraw,dra tillbaka
 ,17,,n4,noun,ひげ,ひげ,beard,skägg
@@ -449,7 +449,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,普通,ふつう,usually,vanligtvis
 ,,,n4,noun,普通,ふつう,a train that stops at every station,mjölktåg
 ,,,n4,noun,ぶどう,ぶどう,grapes,vindruva
-,,,n4,verb,太る,ふとる,to become fat,bli fet
+15,,,n4,verb,太る,ふとる,to become fat,bli fet
 ,,,n4,noun,布団,ふとん,Japanese bedding; futon,futon
 ,,,n4,noun,舟,ふね,ship,båt;skepp
 ,,,n4,noun,不便,ふべん,inconvenience,olägenhet

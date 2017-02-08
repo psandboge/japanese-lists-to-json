@@ -23,7 +23,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,頭,あたま,head,huvud
 ,,,n5,adjective,新しい,あたらしい,new,ny
 ,,,n5,pronoun,あちら,あちら,there,där
-,,,n5,adjective,暑い,あつい,hot,het
+15,,,n5,adjective,暑い,あつい,hot,het
 ,,hidden,n5,adjective,熱い,あつい,hot to the touch,brännhet
 ,,hidden,n5,adjective,厚い,あつい,thick,tjock
 ,,hidden,n5,adjective,厚い,あつい,deep,djup
@@ -156,7 +156,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,お弁当,おべんとう,boxed lunch,bento
 ,,,n5,verb,覚える,おぼえる,remember,komma ihåg
 ,,,n5,noun,おまわりさん,おまわりさん,friendly term for policeman,polisman (familjär)
-,,,n5,adjective,重い,おもい,heavy,tung
+15,,,n5,adjective,重い,おもい,heavy,tung
 ,,,n5,adjective,おもしろい,おもしろい,interesting,intressant
 ,,,n5,verb,泳ぐ,およぐ,to swim,simma
 ,,,n5,verb,降りる,おりる,to descend,nedstiga
@@ -180,7 +180,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,verb,かける,かける,to call by phone,ringa
 ,,,n5,noun,傘,かさ,umbrella,paraply
 ,13,,n5,verb,貸す,かす,lend,låna ut
-,,,n5,noun,風,かぜ,wind,vind
+15,,,n5,noun,風,かぜ,wind,vind
 ,,,n5,noun,風邪,かぜ,a cold,förkylning
 ,,,n5,noun,家族,かぞく,family,familj
 ,,,n5,noun,方,かた,way of doing,sätt att göra
@@ -198,7 +198,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,13,,n5,adjective,辛い,からい,spicy,kryddstark
 ,,,n5,noun,体,からだ,body,kropp
 ,,,n5,verb,借りる,かりる,borrow,låna
-,,,n5,adjective,軽い,かるい,light,lätt
+15,,,n5,adjective,軽い,かるい,light,lätt
 ,13,,n5,noun,カレー,カレー,curry,curry
 ,,,n5,noun,カレンダー,カレンダー,calendar,kalender
 ,,hidden,n5,noun,河,かわ,river,flod
@@ -250,7 +250,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,曇り,くもり,cloudy weather,molnigt
 ,,hidden,n5,verb,曇る,くもる,to become dim,mörkna
 ,,,n5,verb,曇る,くもる,to become cloudy,bli molnigt
-,18,,n5,adjective,暗い,くらい,gloomy,dystert
+15,18,,n5,adjective,暗い,くらい,gloomy,dystert;mörkt
 ,,,n5,noun,クラス,クラス,class,klass
 ,,,n5,noun,グラム,グラム,gram,gramm
 ,,,n5,verb,来る,くる,to come,komma
@@ -314,7 +314,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,verb,差す,さす,to stretch out hands,räcka ut händerna
 ,,,n5,noun,雑誌,ざっし,magazine,tidskrift
 ,16,,n5,noun,砂糖,さとう,sugar,socker
-,,,n5,adjective,寒い,さむい,cold,kall
+15,,,n5,adjective,寒い,さむい,cold,kall
 ,,,n5,temporal,さ来年,さらいねん,year after next,nästnästa år
 ,,,n5,numeric,三,さん,three,tre
 ,,,n5,verb,散歩,さんぽする,to stroll,flanera
@@ -600,8 +600,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,東,ひがし,east,öst
 ,,,n5,verb,引く,ひく,to pull,dra
 ,,,n5,verb,弾く,ひく,to play an instrument with strings including piano,spela (stränginstrument)
-,,,n5,adjective,低い,ひくい,low,låg
-,,,n5,adjective,低い,ひくい,short,kort
+15,,,n5,adjective,低い,ひくい,low,låg
+15,,hidden,n5,adjective,低い,ひくい,short,kort
 ,,,n5,noun,飛行機,ひこうき,aeroplane,flygplan
 ,,,n5,noun,左,ひだり,left hand side,vänster
 ,,,n5,noun,人,ひと,person,person
@@ -627,7 +627,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,二人,ふたり,two people,två personer
 ,,,n5,noun,二日,ふつか,second day of the month,2:a (månad)
 ,,,n5,noun,二日,ふつか,two days,två dagar
-,,,n5,adjective,太い,ふとい,fat,fet
+15,,,n5,adjective,太い,ふとい,fat,fet
 ,,,n5,noun,冬,ふゆ,winter,vinter
 ,,,n5,verb,降る,ふる,to fall e.g. rain or snow,falla (nederbörd)
 ,,,n5,adjective,古い,ふるい,old (not used for people),gammal
@@ -689,7 +689,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,13,hidden,n5,verb,磨く,みがく,to polish,polera
 ,13,,n5,verb,磨く,みがく,to brush teeth,borsta tänderna
 ,,,n5,adjective,右,みぎ,right side,höger
-,,,n5,adjective,短い,みじかい,short,kort
+15,,,n5,adjective,短い,みじかい,short,kort
 ,,,n5,noun,水,みず,water,vatten
 ,13,,n5,noun,店,みせ,shop,affär
 ,16,,n5,verb,見せる,みせる,to show,visa
@@ -755,7 +755,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,verb,呼ぶ,よぶ,to call out,ropa ut
 ,,,n5,verb,読む,よむ,to read,läsa
 ,,,n5,noun,夜,よる,night;evening,natt;kväll
-,,,n5,adjective,弱い,よわい,weak,svag
+15,,,n5,adjective,弱い,よわい,weak,svag
 ,,,n5,temporal,来月,らいげつ,next month,nästa månad
 ,,,n5,temporal,来週,らいしゅう,next week,nästs vecka
 ,,,n5,temporal,来年,らいねん,next year,nästa år
@@ -782,5 +782,5 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,1,,n5,noun,私,わたし,I,jag
 ,,,n5,verb,渡す,わたす,to hand over,lämna över
 ,,,n5,verb,渡る,わたる,to go across,korsa
-,,,n5,adjective,悪い,わるい,bad,dålig
+15,,,n5,adjective,悪い,わるい,bad,dålig
 ,,,n5,particle,より、ほう,より、ほう,Used for comparison.,än (jämförelse)
