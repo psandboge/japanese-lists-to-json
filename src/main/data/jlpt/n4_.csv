@@ -26,7 +26,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,石,いし,stone,sten
 ,,,n4,verb,いじめる,いじめる,to tease,retas
 ,,,n4,adjective,以上,いじょう,more than; this is all,det är allt
-,,,n4,verb,急ぐ,いそぐ,to hurry,skynda sig
+16,,,n4,verb,急ぐ,いそぐ,to hurry,skynda sig
 ,,,n4,verb,致す,いたす,(humble) to do,göra (ödmjuk)
 ,,,n4,adverb,一度,いちど,once,en gång
 ,,,n4,adverb,一生懸命,いっしょうけんめい,with utmost effort,med yttersta ansträngning
@@ -39,7 +39,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,植える,うえる,to plant; to grow,plantera;driva upp
 ,,,n4,noun,受付,うけつけ,receipt,kvitto
 ,,,n4,verb,受ける,うける,to take a lesson;take a test,ta lektioner;göra ett prov
-,,,n4,verb,動く,うごく,to move,flytta
+16,,,n4,verb,動く,うごく,to move,flytta
 ,,,n4,preposition,うち,うち,within,inom
 ,,,n4,verb,打つ,うつ,to hit,träffa
 ,,,n4,adjective,美しい,うつくしい,beautiful,vacker
@@ -49,7 +49,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,裏,うら,reverse side,baksidan
 ,,,n4,noun,売り場,うりば,place where things are sold,försäljningsställe
 ,,,n4,interjection,うん,うん,(informal) yes,ja
-,,,n4,noun,運転手,うんてんしゅ,driver,förare
+16,,,n4,noun,運転手,うんてんしゅ,driver,förare
 ,,,n4,noun,枝,えだ,branch; twig,gren;kvist
 ,17,,n4,verb,選ぶ,えらぶ,to choose,välja
 ,,,n4,verb,遠慮する,えんりょする,to be reserved; to be restrained,vara reserverad
@@ -60,7 +60,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,numeric,億,おく,one hundred million,hundra miljoner
 ,,,n4,noun,屋上,おくじょう,rooftop,hustak
 ,,,n4,noun,贈り物,おくりもの,gift,gåva
-,14,,n4,verb,送る,おくる,to send,skicka
+16,14,,n4,verb,送る,おくる,to send,skicka
 ,,,n4,verb,遅れる,おくれる,to be late,vara sen
 ,16,,n4,verb,起す,おこす,to wake,väcka
 ,,,n4,verb,行う,おこなう,to do,göra
@@ -80,8 +80,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,お祭り,おまつり,festival,festival
 ,,,n4,noun,お見舞い,おみまい,calling on someone who is ill; enquiry,sjukbesök
 ,,,n4,noun,お土産,おみやげ,souvenir,souvenir
-,,,n4,verb,思い出す,おもいだす,to remember,komma ihåg
-,,,n4,verb,思う,おもう,to think; to feel,tänka;tycka;tro
+16,,,n4,verb,思い出す,おもいだす,to remember,komma ihåg
+16,,,n4,verb,思う,おもう,to think; to feel,tänka;tycka;tro
 ,,,n4,noun,おもちゃ,おもちゃ,toy,leksak
 ,,,n4,verb,表,おもて,the front,framsidan
 ,16,,n4,noun,親,おや,parents,förälder
@@ -122,7 +122,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,乾く,かわく,to get dry,torka
 ,,,n4,noun,代わり,かわり,substitute;alternate,ersättare
 ,,,n4,verb,変わる,かわる,to change,ändra
-,18,,n4,verb,考える,かんがえる,to consider,överväga
+16,18,,n4,verb,考える,かんがえる,to consider,överväga
 ,,,n4,noun,関係,かんけい,relationship,förhållande
 ,,,n4,noun,看護師,かんごし,nurse,sjuksköterska
 ,,,n4,adjective,簡単,かんたん,simple,enkel
@@ -145,7 +145,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,13,,n4,noun,着物,きもの,kimono,kimono
 ,,,n4,noun,客,きゃく,guest;customer,gäst;kund
 ,,,n4,adjective,急,きゅう,urgent; steep,pressande;djup
-,,,n4,noun,急行,きゅうこう,speedy; express,express
+16,,,n4,noun,急行,きゅうこう,speedy; express,express
 ,,,n4,noun,教育,きょういく,education,utbildnig
 ,,,n4,noun,教会,きょうかい,church,kyrka
 ,,,n4,noun,競争,きょうそう,competition,tävling
@@ -256,7 +256,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,将来,しょうらい,future;prospects,framtid;möjligheter
 ,,,n4,noun,食料品,しょくりょうひん,groceries,matvaror
 ,,,n4,noun,女性,じょせい,woman,kvinna
-,,,n4,verb,知らせる,しらせる,to notify,notifiera
+16,,,n4,verb,知らせる,しらせる,to notify,notifiera
 ,15,,n4,verb,調べる,しらべる,to investigate,undersöka
 ,,,n4,noun,人口,じんこう,population,befolkning
 ,,,n4,noun,神社,じんじゃ,Shinto shrine,Shintohelgedom
@@ -370,7 +370,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,特急,とっきゅう,limited express train (faster than an express train),snälltåg med färre stopp
 ,,,n4,verb,届ける,とどける,to send; to deliver; to report,skicka;leverera;rapportera
 ,,,n4,verb,泊まる,とまる,to lodge at,stanna
-,,,n4,verb,止める,とめる,to stop something,stoppa
+16,,,n4,verb,止める,とめる,to stop something,stoppa
 ,,,n4,verb,取り替える,とりかえる,to exchange,utbyta
 ,,,n4,noun,泥棒,どろぼう,thief,tjuv
 ,,,n4,adverb,どんどん,どんどん,more and more,stadigt ökande
@@ -410,7 +410,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,倍,ばい,double,dubbelt
 ,,,n4,verb,拝見する,はいけんする,(humble) to look at,titta på (ödmjuk)
 ,,,n4,noun,歯医者,はいしゃ,dentist,tandläkare
-,,,n4,verb,運ぶ,はこぶ,to transport,transportera
+16,,,n4,verb,運ぶ,はこぶ,to transport,transportera
 ,,,n4,verb,始める,はじめる,to begin,börja
 ,,,n4,noun,場所,ばしょ,location,plats
 ,,,n4,noun,はず,はず,it should be so,det borde va så
@@ -427,7 +427,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,冷える,ひえる,to grow cold,kallna
 15,,,n4,adjective,光,ひかり,light,ljus
 15,,,n4,verb,光る,ひかる,to shine;to glitter,skina;glittra
-,,,n4,noun,引き出し,ひきだし,drawer;drawing out,låda
+16,,,n4,noun,引き出し,ひきだし,drawer;drawing out,låda
 ,,,n4,verb,ひきだす,ひきだす,to withdraw,dra tillbaka
 ,17,,n4,noun,ひげ,ひげ,beard,skägg
 ,,,n4,noun,飛行場,ひこうじょう,airport,flygplats
@@ -437,7 +437,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,引っ越す,ひっこす,to move house,flytta
 ,,,n4,adjective,必要,ひつよう,necessary,nödvändig
 ,,,n4,adjective,ひどい,ひどい,awful,förskräcklig
-,,,n4,verb,開く,ひらく,to open an event,öppna
+16,,,n4,verb,開く,ひらく,to open an event,öppna
 ,,,n4,adverb,昼間,ひるま,daytime;during the day,under dagen
 ,,,n4,noun,昼休み,ひるやすみ,noon break,lunchrast
 ,,,n4,verb,拾う,ひろう,to pick up;to gather,plocka upp;samla ihop
