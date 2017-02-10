@@ -59,7 +59,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adverb,いくつ,いくつ,how many?,hur många?
 ,,,n5,adverb,いくら,いくら,how much?,hyr mycket?
 ,,,n5,noun,池,いけ,pond,damm
-,1,,n5,noun,医者,いしゃ,medical doctor,läkare
+17,1,,n5,noun,医者,いしゃ,medical doctor,läkare
 ,,,n5,noun,いす,いす,chair,stol
 ,,hidden,n5,adjective,忙しい,いそがしい,irritated,irriterad
 ,,,n5,adjective,忙しい,いそがしい,busy,upptagen
@@ -239,7 +239,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,noun,キロ,キロ,kilometre,km
 ,,,n5,noun,銀行,ぎんこう,bank,bank
 ,,,n5,temporal,金曜日,きんようび,Friday,fredag
-,,,n5,noun,薬,くすり,medicine,medicin
+17,,,n5,noun,薬,くすり,medicine,medicin
 ,,,n5,adverb,ください,ください,please,(ge mig...) tack
 ,,,n5,noun,果物,くだもの,fruit,frukt
 ,,hidden,n5,noun,口,くち,opening,öppning
@@ -323,7 +323,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,塩,しお,salt,salt
 ,,,n5,conjunction,しかし,しかし,however,dock
 ,14,,n5,noun,時間,じかん,time,tid
-,1,,n5,noun,仕事,しごと,job,jobb
+17,1,,n5,noun,仕事,しごと,job,jobb
 ,,,n5,noun,辞書,じしょ,dictionary,lexikon
 ,,,n5,adjective,静か,しずか,quiet,tyst
 ,,,n5,preposition,下,した,below,under
@@ -567,7 +567,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,箱,はこ,box,låda
 ,,,n5,noun,橋,はし,bridge,bro
 ,,,n5,noun,はし,はし,chopsticks,ätpinnar
-,,,n5,verb,始まる,はじまる,to begin,börja
+17,,,n5,verb,始まる,はじまる,to begin,börja
 ,,,n5,noun,初め,はじめ,beginning,början
 ,,hidden,n5,noun,始め,はじめ,beginning,början
 ,,,n5,adverb,初めて,はじめて,for the first time,första gången
@@ -576,7 +576,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,バター,バター,butter,smör
 ,,,n5,noun,二十歳,はたち,20th year,20:e året
 ,,,n5,adverb,二十歳,はたち,20 years old,20 år gammal
-,,,n5,verb,働く,はたらく,to work,arbeta
+17,,,n5,verb,働く,はたらく,to work,arbeta
 ,,,n5,numeric,八,はち,eight,åtta
 ,,,n5,noun,二十日,はつか,twentieth,20:e (i månad)
 ,,,n5,noun,二十日,はつか,twenty days,20 dagar
@@ -736,7 +736,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,夕飯,ゆうはん,dinner,middag
 ,,,n5,noun,郵便局,ゆうびんきょく,post office,postkontor
 ,,,n5,noun,昨夜,ゆうべ,last night,igår kväll
-,,,n5,adjective,有名,ゆうめい,famous,berömd
+17,,,n5,adjective,有名,ゆうめい,famous,berömd
 ,,,n5,noun,雪,ゆき,snow,snö
 ,,,n5,verb,行く,ゆく,to go,gå
 ,,,n5,adverb,ゆっくりと,ゆっくりと,slowly,långsamt
@@ -763,7 +763,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,ラジカセ,ラジカセ,radio cassette player,bandspelare
 ,,hidden,n5,noun,ラジオカセット,ラジオカセット,radio cassette player,bandspelare
 ,,,n5,adjective,立派,りっぱ,splendid,utmärkt
-,1,,n5,noun,留学生,りゅうがくせい,overseas student,utlandsstudent
+17,1,,n5,noun,留学生,りゅうがくせい,overseas student,utlandsstudent
 ,14,,n5,noun,両親,りょうしん,both parents,båda föräldrar
 ,,,n5,noun,料理,りょうり,cuisine,kök
 ,,,n5,noun,旅行,りょこう,travel,resande

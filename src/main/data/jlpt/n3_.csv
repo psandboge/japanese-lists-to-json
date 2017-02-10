@@ -15,11 +15,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|明ける|あける|to dawn, to become daylight|grynas
 |||n3|verb|預ける|あずける|to give into custody, to entrust, to deposit|lämna,sätta in,anförtro
 |||n3|noun|汗|あせ|sweat, perspiration|svett,svettning
-||hidden|n3|other|与える|あたえる|to give, to present, to award
-||hidden|n3|other|暖かい|あたたか(い)|warm, mild
-||hidden|n3|other|辺り|あたり|vicinity, nearby
-||hidden|n3|other|当たる|あたる|to be hit, to be successful, to be equivalent to
-||hidden|n3|other|あちこち|あちこち|here and there
+|||n3|verb|与える|あたえる|to give, to present, to award|ge,belöna
+|||n3|adjective|暖かい|あたたか(い)|warm, mild|varm,mild
+|||n3|adjective|辺り|あたり|vicinity, nearby|grannskap,i närheten
+|||n3|verb|当たる|あたる|to be hit, to be successful, to be equivalent to|bli träffad,vara framgångsrik,vara likvärdig med
+|||n3|adverb|あちこち|あちこち|here and there|här och där
 ||hidden|n3|other|あっ|あっ|Ah!, Oh!
 ||hidden|n3|other|扱う|あつかう|to handle, to deal with, to treat
 ||hidden|n3|other|集まり|あつまり|gathering, meeting, assembly, collection
@@ -575,7 +575,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|国境|こっきょう|national or state border
 ||hidden|n3|other|骨折|こっせつ|bone fracture
 ||hidden|n3|other|小包|こづつみ|parcel,package
-||hidden|n3|other|事|こと|thing,matter,fact,circumstances
+17||hidden|n3|other|事|こと|thing,matter,fact,circumstances
 ||hidden|n3|other|異なる|ことなる|to differ,to vary,to disagree
 ||hidden|n3|other|諺|ことわざ|proverb,maxim
 ||hidden|n3|other|断る|ことわる|to refuse,to decline,to dismiss
@@ -796,9 +796,10 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|証明|しょうめい|proof,verification
 ||hidden|n3|other|女王|じょおう|queen
 ||hidden|n3|other|職|しょく|employment
-||hidden|n3|other|職業|しょくぎょう|occupation,business
-||hidden|n3|other|食事|しょくじ・する|meal, to have a meal
-||hidden|n3|other|食卓|しょくたく|dining table
+|||n3|noun|職業|しょくぎょう|occupation,business|yrke
+17|||n3|noun|食事|しょくじ|meal|måltid
+17|||n3|verb|食事する|しょくじする|to have a meal|äta ett mål
+|||n3|noun|食卓|しょくたく|dining table|matbord
 ||hidden|n3|other|食品|しょくひん|commodity,foodstuff
 ||hidden|n3|other|植物|しょくぶつ|plant,vegetation
 ||hidden|n3|other|食物|しょくもつ|food,foodstuff
@@ -889,9 +890,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|税金|ぜいきん|tax,duty
 ||hidden|n3|other|清潔|せいけつ|clean
 ||hidden|n3|other|制限|せいげん|restriction,restraint,limitation
-||hidden|n3|other|成功|せいこう|success,hit
-||hidden|n3|other|生産|せいさん|production,manufacture
-||hidden|n3|other|正式|せいしき|due form,official,formality
+|||n3|noun|成功|せいこう|success,hit|succé,hit
+17|||n3|noun|生産|せいさん|production,manufacture|produktion,tillverkning
+|||n3|noun|正式|せいしき|due form,official,formality|officiell,protokoll
 ||hidden|n3|other|精神|せいしん|mind,soul,heart,spirit,intention
 ||hidden|n3|other|成人|せいじん|adult
 ||hidden|n3|other|精々|せいぜい|at the most,at best,to the utmost,as much (far) as possible
@@ -1675,9 +1676,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |17||n3|verb|離婚する|りこんする|get a divorce|skilja sig
 |||n3|adverb|理想|りそう|ideal|idealisk
 |||n3|noun|率|りつ|rate,ratio,proportion,percentage|andel,procentandel
-||hidden|n3|other|立派|りっぱ|splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate
-||hidden|n3|other|留学|りゅうがく|studying abroad
-||hidden|n3|other|流行|りゅうこう|fashionable,fad,in vogue,prevailing
+|||n3|adjective|立派|りっぱ|splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate|vacker,elegant,ståtlig
+17|||n3|verb|留学する|りゅうがくする|study abroad|studera utomlands
+|||n3|noun|流行|りゅうこう|fashionable,fad,in vogue,prevailing|mode,trend
 ||hidden|n3|other|量|りょう|quantity,amount,volume,portion (of food)
 ||hidden|n3|other|両替|りょうがえ|change,money exchange
 ||hidden|n3|other|料金|りょうきん|fee,charge,fare

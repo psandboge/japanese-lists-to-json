@@ -448,9 +448,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n1|other|織る|おる|to weave
 ||hidden|n1|other|俺|おれ|I (ego) (boastful first-person pronoun)
 ||hidden|n1|other|愚か|おろか|foolish, stupid
-||hidden|n1|other|疎か|おろそか|neglect, negligence, carelessness
-||hidden|n1|other|終わる|おわる|to finish, to close
-||hidden|n1|other|音色|おんいろ|tone color, tone quality, timbre, synthesizer patch
+|||n1|noun|疎か|おろそか|neglect, negligence, carelessness|försummelse,slarv
+17|||n1|verb|終わる|おわる|to finish, to close|avsluta,stängas
+|||n1|noun|音色|おんいろ|tone color, tone quality, timbre, synthesizer patch|färgton,klangfärg,syntpatch
 ||hidden|n1|other|温和|おんわ|gentle, mild, moderate
 ||hidden|n1|other|仮|か|tentative, provisional
 ||hidden|n1|other|科|か|department, section

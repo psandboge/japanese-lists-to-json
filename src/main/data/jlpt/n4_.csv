@@ -20,10 +20,10 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adjective,あんな,あんな,such,sådan
 ,,,n4,adverb,以下,いか,less than,mindre än
 ,,,n4,preposition,以外,いがい,with the exception of,förutom
-,,,n4,noun,医学,いがく,medical science,medicin (vetenskap)
+17,,,n4,noun,医学,いがく,medical science,medicin (vetenskap)
 ,,,n4,verb,生きる,いきる,to live,leva
 ,,,n4,noun,意見,いけん,opinion,åsikt
-,,,n4,noun,石,いし,stone,sten
+17,,,n4,noun,石,いし,stone,sten
 ,,,n4,verb,いじめる,いじめる,to tease,retas
 ,,,n4,adjective,以上,いじょう,more than; this is all,det är allt
 16,,,n4,verb,急ぐ,いそぐ,to hurry,skynda sig
@@ -90,7 +90,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,折る,おる,to break;to fold,bryta av;vika
 ,,,n4,noun,お礼,おれい,expression of gratitude,tack
 ,,,n4,verb,折れる,おれる,to break;be folded,brytas;vika sig
-,,,n4,noun,終わり,おわり,the end,slutet
+17,,,n4,noun,終わり,おわり,the end,slutet
 ,,,n4,noun,海岸,かいがん,coast,kust
 ,,,n4,noun,会議,かいぎ,meeting,möte
 ,,,n4,noun,会議室,かいぎしつ,meeting room,mötesrum
@@ -102,7 +102,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,鏡,かがみ,mirror,spegel
 ,,,n4,verb,掛ける,かける,to hang something,häng upp
 ,,,n4,verb,飾る,かざる,to decorate,dekorera
-,17,,n4,noun,火事,かじ,fire,eld
+17,17,,n4,noun,火事,かじ,fire,eld
 ,,,n4,noun,ガス,ガス,gas,gas
 ,,,n4,adjective,堅い;硬い;固い,かたい,hard,hård
 ,,,n4,noun,形,かたち,shape,form
@@ -171,14 +171,14 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,けれど;けれども,けれど;けれども,however,dock
 ,,,n4,noun,原因,げんいん,cause;source,anledning;källa
 ,,,n4,verb,けんかする,けんかする,to quarrel,gräla
-,16,,n4,noun,研究,けんきゅう,research,forskning
-,,,n4,noun,研究室,けんきゅうしつ,study room;laboratory,läsrum;labb
+17,16,,n4,noun,研究,けんきゅう,research,forskning
+17,,,n4,noun,研究室,けんきゅうしつ,study room;laboratory,läsrum;labb
 ,,,n4,noun,見物,けんぶつ,sightseeing,sightseeing
 ,,,n4,noun,子,こ,child,barn
 ,,,n4,adverb,こう,こう,this way,så här
 ,,,n4,noun,郊外,こうがい,outskirts,ytterområden
 ,,,n4,noun,講義,こうぎ,lecture,föreläsning
-,,,n4,noun,工業,こうぎょう,the manufacturing industry,den tillverkande industrin
+17,,,n4,noun,工業,こうぎょう,the manufacturing industry,den tillverkande industrin
 ,1,,n4,noun,高校,こうこう,high school,gymnasium
 ,1,,n4,noun,高校生,こうこうせい,high school student,gymnasieelev
 ,,,n4,noun,工場,こうじょう/こうば,factory;plant;mill;workshop,fabrik
@@ -223,7 +223,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,temporal,さ来週,さらいしゅう,the week after next,nästnästa vecka
 ,,,n4,verb,騒ぐ,さわぐ,to make noise;to be excited,föra oväsen;vara uppspelta
 ,,,n4,verb,触る,さわる,to touch,nudda;beröra
-,,,n4,noun,産業,さんぎょう,industry,industri
+17,,,n4,noun,産業,さんぎょう,industry,industri
 ,,,n4,noun,残念,ざんねん,disappointment,besvikelse
 ,,,n4,noun,市,し,city,storstad
 ,,,n4,noun,字,じ,character,tecken
@@ -278,7 +278,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,すり,すり,pickpocket,ficktjuv
 ,,,n4,adverb,すると,すると,then,sedan
 ,,,n4,verb,生活する,せいかつする,to live,leva
-,,,n4,verb,生産する,せいさんする,to produce,producera
+17,,,n4,verb,生産する,せいさんする,to produce,producera
 ,1,,n4,noun,政治,せいじ,politics;government,politik
 ,,,n4,noun,西洋,せいよう,western countries,västvärlden
 ,,,n4,noun,世界,せかい,the world,världen
@@ -352,7 +352,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,手袋,てぶくろ,glove,handske
 ,,,n4,noun,寺,てら,temple,tempel
 ,,,n4,noun,点,てん,point;dot,punkt
-,,,n4,noun,店員,てんいん,shop assistant,expedit
+17,,,n4,noun,店員,てんいん,shop assistant,expedit
 ,,,n4,noun,天気予報,てんきよほう,weather forecast,väderprognos
 ,,,n4,noun,電灯,でんとう,electric light,elljus
 ,,,n4,noun,電報,でんぽう,telegram,telegramm
@@ -411,7 +411,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,拝見する,はいけんする,(humble) to look at,titta på (ödmjuk)
 ,,,n4,noun,歯医者,はいしゃ,dentist,tandläkare
 16,,,n4,verb,運ぶ,はこぶ,to transport,transportera
-,,,n4,verb,始める,はじめる,to begin,börja
+17,,,n4,verb,始める,はじめる,to begin,börja
 ,,,n4,noun,場所,ばしょ,location,plats
 ,,,n4,noun,はず,はず,it should be so,det borde va så
 ,18,,n4,adjective,恥ずかしい,はずかしい,embarrassed,generad
