@@ -22,13 +22,13 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,preposition,以外,いがい,with the exception of,förutom
 17,,,n4,noun,医学,いがく,medical science,medicin (vetenskap)
 ,,,n4,verb,生きる,いきる,to live,leva
-,,,n4,noun,意見,いけん,opinion,åsikt
+18,,,n4,noun,意見,いけん,opinion,åsikt
 17,,,n4,noun,石,いし,stone,sten
 ,,,n4,verb,いじめる,いじめる,to tease,retas
 ,,,n4,adjective,以上,いじょう,more than; this is all,det är allt
 16,,,n4,verb,急ぐ,いそぐ,to hurry,skynda sig
 ,,,n4,verb,致す,いたす,(humble) to do,göra (ödmjuk)
-,,,n4,adverb,一度,いちど,once,en gång
+18,,,n4,adverb,一度,いちど,once,en gång
 ,,,n4,adverb,一生懸命,いっしょうけんめい,with utmost effort,med yttersta ansträngning
 ,,,n4,adjective,いっぱい,いっぱい,full,full
 ,,,n4,noun,糸,いと,thread,tråd
@@ -205,7 +205,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adjective,怖い,こわい,frightening,skrämmande
 ,18,,n4,verb,壊す,こわす,to break,göra sönder
 ,18,,n4,verb,壊れる,こわれる,to be broken,vara trasig
-,,,n4,temporal,今度,こんど,now;next time,nu;nästa gång
+18,,,n4,temporal,今度,こんど,now;next time,nu;nästa gång
 ,,,n4,temporal,今夜,こんや,tonight,i natt
 ,15,,n4,verb,最近,さいきん,latest;nowadays,nyligen;nuförtiden
 ,,,n4,noun,最後,さいご,last;end,sista;slutet
@@ -232,7 +232,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,試験,しけん,examination,undersökning
 ,,,n4,noun,事故,じこ,accident,olycka
 ,15,,n4,noun,地震,じしん,earthquake,jordbävning
-,,,n4,noun,時代,じだい,era,era
+17,,,n4,noun,時代,じだい,era,era
 ,,,n4,noun,下着,したぎ,underwear,underkläder
 ,,,n4,adverb,しっかり,しっかり,firmly;steadily,stadigt
 ,,,n4,noun,失敗,しっぱい,failure;mistake,fel;misstag
@@ -240,7 +240,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,品物,しなもの,goods,gods
 ,,,n4,adverb,しばらく,しばらく,little while,ett litet tag
 ,,,n4,noun,島,しま,island,ö
-,,,n4,noun,市民,しみん,citizen,medborgare
+18,,,n4,noun,市民,しみん,citizen,medborgare
 ,,,n4,noun,事務所,じむしょ,office,kontor
 ,,,n4,noun,社会,しゃかい,society;public,samhälle;allmänheten
 ,,,n4,noun,社長,しゃちょう,company president,företagschef
@@ -281,7 +281,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 17,,,n4,verb,生産する,せいさんする,to produce,producera
 ,1,,n4,noun,政治,せいじ,politics;government,politik
 ,,,n4,noun,西洋,せいよう,western countries,västvärlden
-,,,n4,noun,世界,せかい,the world,världen
+18,,,n4,noun,世界,せかい,the world,världen
 ,,,n4,noun,席,せき,seat,sittplats
 ,16,,n4,noun,説明,せつめい,explanation,förklaring
 ,,,n4,noun,背中,せなか,back of the body,ryggsidan
@@ -330,11 +330,12 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,力,ちから,strength;power,styrka;kraft
 ,,,n4,adverb,ちっとも,ちっとも,not at all (used with a negative verb),inte alls
 ,,,n4,suffix,ちゃん,ちゃん,suffix for familiar person,chan
-,,,n4,noun,注意,ちゅうい,caution,försiktighet
+18,,,n4,noun,注意,ちゅうい,caution,försiktighet
+18,,,n4,verb,注意する,ちゅういする,warn,varna
 ,,,n4,noun,中学校,ちゅうがっこう,junior high school;middle school,högstadie
 ,,,n4,noun,注射,ちゅうしゃ,injection,injektion
 ,,,n4,noun,駐車場,ちゅうしゃじょう,parking lot,parkeringsplats
-,,,n4,noun,地理,ちり,geography,geografi
+18,,,n4,noun,地理,ちり,geography,geografi
 ,,,n4,verb,捕まえる,つかまえる,to seize,greppa
 ,,,n4,verb,付く,つく,to be attached,vara fäst
 ,,,n4,verb,漬ける,つける,to soak;to pickle,blötlägga;lägga in
@@ -474,7 +475,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,間違える,まちがえる,to make a mistake,göra misstag
 ,,,n4,verb,間に合う,まにあう,to be in time for,vara i tid
 ,,,n4,noun,周り,まわり,surroundings,omgivningar
-,,,n4,verb,回る,まわる,to go around,gå runt
+18,,,n4,verb,回る,まわる,to go around,gå runt
 ,14,,n4,noun,漫画,まんが,comic,serietidning
 ,,,n4,noun,真中,まんなか,middle,mitten
 ,15,,n4,verb,見える,みえる,to be in sight,synas
@@ -486,7 +487,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,港,みなと,harbour,hamn
 ,,,n4,verb,向かう,むかう,to face,vända sig mot
 ,,,n4,verb,迎える,むかえる,to go out to meet,välkomna
-,,,n4,noun,昔,むかし,old times; old days; long ago; formerly,förr i världen
+18,,,n4,noun,昔,むかし,old times; old days; long ago; formerly,förr i världen
 ,18,,n4,noun,虫,むし,insect,insekt
 ,,,n4,noun,息子,むすこ,(humble) son,son (ödmjuk)
 ,,,n4,noun,娘,むすめ,(humble) daughter,dotter (ödmjuk)
@@ -516,8 +517,9 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,夢,ゆめ,dream,dröm
 ,,,n4,verb,揺れる,ゆれる,to shake;to sway,skaka;svaja
 ,,,n4,noun,用,よう,use,användning
-,,,n4,noun,用意,ようい,preparation,förberedelse
-,,,n4,noun,用事,ようじ,things to do,saker att göra
+18,,,n4,noun,用意,ようい,preparation,förberedelse
+18,,,n4,verb,用意する,よういする,prepare,förbereda
+18,,,n4,noun,用事,ようじ,things to do,saker att göra
 ,18,,n4,verb,汚れる,よごれる,to get dirty,bli smutsig
 ,,,n4,noun,予習,よしゅう,preparation for a lesson,lektionsförberedelse
 ,15,,n4,noun,予定,よてい,arrangement;plan,schema;planering

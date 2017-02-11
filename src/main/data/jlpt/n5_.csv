@@ -77,7 +77,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adverb,いつも,いつも,always,alltid
 ,,,n5,noun,犬,いぬ,dog,hund
 ,1,,n5,adverb,今,いま,now,nu
-,,,n5,noun,意味,いみ,meaning,betydelse
+18,,,n5,noun,意味,いみ,meaning,betydelse
 ,1,,n5,noun,妹,いもうと,(humble) younger sister,yngre syster (ödmjuk)
 ,,,n5,adjective,嫌,いや,unpleasant,otrevlig
 ,,,n5,noun,入口,いりぐち,entrance,entré
@@ -101,7 +101,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,上着,うわぎ,jacket,jacka
 ,15,,n5,noun,絵,え,picture,bild
 ,,,n5,noun,映画,えいが,movie,film
-,15,,n5,noun,映画館,えいがかん,cinema,biograf
+18,15,,n5,noun,映画館,えいがかん,cinema,biograf
 ,1,,n5,noun,英語,えいご,English language,engelska
 ,,,n5,interjection,ええ,ええ,yes,ja
 ,,,n5,noun,駅,えき,station,station
@@ -179,7 +179,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,1,,n5,noun,学生,がくせい,student,student
 ,,,n5,verb,かける,かける,to call by phone,ringa
 ,,,n5,noun,傘,かさ,umbrella,paraply
-,13,,n5,verb,貸す,かす,lend,låna ut
+18,13,,n5,verb,貸す,かす,lend,låna ut
 15,,,n5,noun,風,かぜ,wind,vind
 ,,,n5,noun,風邪,かぜ,a cold,förkylning
 ,,,n5,noun,家族,かぞく,family,familj
@@ -197,7 +197,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,temporal,火曜日,かようび,Tuesday,tisdag
 ,13,,n5,adjective,辛い,からい,spicy,kryddstark
 ,,,n5,noun,体,からだ,body,kropp
-,,,n5,verb,借りる,かりる,borrow,låna
+18,,,n5,verb,借りる,かりる,borrow,låna
 15,,,n5,adjective,軽い,かるい,light,lätt
 ,13,,n5,noun,カレー,カレー,curry,curry
 ,,,n5,noun,カレンダー,カレンダー,calendar,kalender
@@ -406,7 +406,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adverb,それから,それから,after that,därefter
 ,,,n5,adverb,それでは,それでは,in that situation,i så fall
 ,1,,n5,noun,大学,だいがく,university,universitet
-,,,n5,noun,大使館,たいしかん,embassy,ambassad
+18,,,n5,noun,大使館,たいしかん,embassy,ambassad
 ,,,n5,adjective,大丈夫,だいじょうぶ,all right,ok
 ,,,n5,verb,大好き,だいすき,to be very likeable,mycket älskad
 ,,,n5,adjective,大切,たいせつ,important,viktig
@@ -440,7 +440,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,verb,違う,ちがう,to differ,skilja sig
 15,,,n5,adverb,近く,ちかく,near,nära
 ,,,n5,noun,地下鉄,ちかてつ,underground train,tunnelbana
-,15,,n5,noun,地図,ちず,map,karta
+18,15,,n5,noun,地図,ちず,map,karta
 ,,,n5,adjective,茶色,ちゃいろ,brown,brun
 ,,,n5,noun,ちゃわん,ちゃわん,rice bowl,risskål
 ,14,,n5,adverb,ちょうど,ちょうど,exactly,exakt
@@ -495,7 +495,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adverb,どこ,どこ,where,var
 ,,,n5,noun,所,ところ,place,plats
 ,,,n5,noun,年,とし,year,år
-,,,n5,noun,図書館,としょかん,library,bibliotek
+18,,,n5,noun,図書館,としょかん,library,bibliotek
 ,,,n5,preposition,どちら,どちら,which of two,vilken (av två)
 ,,,n5,preposition,どっち,どっち,which,vilken
 ,,,n5,adverb,とても,とても,very,mycket

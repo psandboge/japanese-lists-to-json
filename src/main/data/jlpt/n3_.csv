@@ -20,14 +20,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adjective|辺り|あたり|vicinity, nearby|grannskap,i närheten
 |||n3|verb|当たる|あたる|to be hit, to be successful, to be equivalent to|bli träffad,vara framgångsrik,vara likvärdig med
 |||n3|adverb|あちこち|あちこち|here and there|här och där
-||hidden|n3|other|あっ|あっ|Ah!, Oh!
-||hidden|n3|other|扱う|あつかう|to handle, to deal with, to treat
-||hidden|n3|other|集まり|あつまり|gathering, meeting, assembly, collection
-||hidden|n3|other|当てる|あてる|to hit, to apply a patch
-||hidden|n3|other|跡|あと|(1) trace, tracks, mark, sign, (2) remains, ruins, (3) scar
-||hidden|n3|other|穴|あな|hole
-||hidden|n3|other|浴びる|あびる|to bathe, to bask in the sun, to shower
-||hidden|n3|other|油|あぶら|oil
+|||n3|interjection|あっ|あっ|Ah!, Oh!|åh
+|||n3|verb|扱う|あつかう|to handle, to deal with, to treat|hantera,behandla
+|||n3|noun|集まり|あつまり|gathering, meeting, assembly, collection|församling,möta,samling
+|||n3|noun|当てる|あてる|to hit, to apply a patch|träffa,sätta på (plåster e.d.),gissa
+|||n3|noun|跡|あと|(1) trace, tracks, mark, sign, (2) remains, ruins, (3) scar|spår,ruiner,ärr
+|||n3|noun|穴|あな|hole|hål
+|||n3|verb|浴びる|あびる|to bathe, to bask in the sun, to shower|bada,solbada,duscha
+|||n3|noun|油|あぶら|oil|olja
 ||hidden|n3|other|余り|あまり|not very (used as adverb),not much
 ||hidden|n3|other|誤り|あやまり|error
 ||hidden|n3|other|粗い|あらい|Coarse
@@ -920,10 +920,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|絶滅|ぜつめつ|destruction,extinction
 ||hidden|n3|other|節約|せつやく|economising,saving
 ||hidden|n3|other|是非|ぜひ|certainly,without fail
-||hidden|n3|other|責める|せめる|to condemn,to blame,to criticize
-||hidden|n3|other|世話|せわ・する|looking after,help,aid,assistance, to look after
-||hidden|n3|other|善|ぜん|good,goodness,right,virtue
-||hidden|n3|other|全員|ぜんいん|all members (unanimity),all hands,the whole crew
+|||n3|verb|責める|せめる|to condemn,to blame,to criticize|fördöma,skylla på,kritisera
+18|||n3|noun|世話|せわ|looking after,help,aid,assistance|hjälp,assistans
+18|||n3|verb|世話する|せわする|to look after|sköta om
+|||n3|noun|善|ぜん|good,goodness,right,virtue|godhet,dygd
+|||n3|noun|全員|ぜんいん|all members (unanimity),all hands,the whole crew|enhällighet,hela besättningen
 |1||n3|noun|専攻|せんこう|major subject,special study|huvudämne
 |||n3|adjective|全国|ぜんこく|country-wide,nation-wide,whole country,national|nationell,landstäckande
 |||n3|noun|先日|せんじつ|the other day,a few days ago|häromdagen
@@ -1057,14 +1058,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|単に|たんに|simply,merely,only,solely
 ||hidden|n3|other|地|ち|earth
 ||hidden|n3|other|地位|ちい|(social) position,status
-||hidden|n3|other|地域|ちいき|area,region
+|||n3|noun|地域|ちいき|area,region|område,region
 |||n3|noun|知恵|ちえ|wisdom, intelligence, advice|vishet,intellekt,råd
-|||n3|noun|地下|ちか|basement,underground|källare,under jorden
+18|||n3|noun|地下|ちか|basement,underground|källare,under jord
 |17||n3|noun|違い|ちがい|difference,discrepancy|skillnad,avvikelse
 |||n3|expression|違いない|ちがいない|(phrase) sure,no mistaking it,for certain|med säkerhet,garanterat
 |||n3|adverb|近頃|ちかごろ|lately,recently,nowadays|nuförtiden,nyligen
 |||n3|noun|地球|ちきゅう|the earth|jorden
-||hidden|n3|other|地区|ちく|district,section,sector
+|||n3|noun|地区|ちく|district,section,sector|distrikt,sektor
 ||hidden|n3|other|遅刻|ちこく|lateness,late coming
 ||hidden|n3|other|知事|ちじ|prefectural governor
 ||hidden|n3|other|知識|ちしき|knowledge,information
@@ -1077,7 +1078,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|中|ちゅう|inside,middle,among
 ||hidden|n3|other|注|ちゅう|annotation,explanatory note
 ||hidden|n3|other|中央|ちゅうおう|centre,central,center,middle
-||hidden|n3|other|中学|ちゅうがく|middle school,junior high school
+|||n3|noun|中学|ちゅうがく|middle school,junior high school,högstadieskola
 |||n3|adjective|中古|ちゅうこ|(1) used,second-hand,old|begagnad,gammal
 16|||n3|noun|中止|ちゅうし|suspension, stoppage, discontinuance, interruption|stopp,avbrott
 |||n3|noun|駐車|ちゅうしゃ|parking (e.g. car)|parkering
@@ -1085,9 +1086,10 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|中心|ちゅうしん|center,core,heart,pivot,emphasis,balance|center,kärna,mitt,balans
 |||n3|noun|注目|ちゅうもく|notice,attention,observation|observation
 |18||n3|noun|注文|ちゅうもん|order,request|order
+|18||n3|verb|注文する|ちゅうもんする|order|ge order
 |||n3|noun|長期|ちょうき|long time period|en lång tid
 |||n3|noun|調査|ちょうさ|investigation,examination,inquiry,survey|undersökning,kartläggning
-||hidden|n3|other|調子|ちょうし|condition, form, shape, tune,tone,key
+|||n3|noun|調子|ちょうし|condition, form, shape, tune,tone,key|tillstånd,form,ton,tonart
 ||hidden|n3|other|頂上|ちょうじょう|top,summit,peak
 ||hidden|n3|other|ちょうだい|ちょうだい|(1) please do for me (preceded by -te),(2) reception,being given,get (spoken)
 ||hidden|n3|other|貯金|ちょきん|(bank) savings
