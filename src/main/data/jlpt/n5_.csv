@@ -58,7 +58,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,adverb,いくつ,いくつ,how old?,hur gammal?
 ,,,n5,adverb,いくつ,いくつ,how many?,hur många?
 ,,,n5,adverb,いくら,いくら,how much?,hyr mycket?
-,,,n5,noun,池,いけ,pond,damm
+20,,,n5,noun,池,いけ,pond,damm
 17,1,,n5,noun,医者,いしゃ,medical doctor,läkare
 ,,,n5,noun,いす,いす,chair,stol
 ,,hidden,n5,adjective,忙しい,いそがしい,irritated,irriterad
@@ -169,7 +169,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,15,,n5,noun,外国人,がいこくじん,foreigner,utlänning
 ,,,n5,noun,会社,かいしゃ,company,företag
 ,,,n5,noun,階段,かいだん,stairs,trappa
-,,,n5,noun,買い物,かいもの,shopping,shopping
+20,,,n5,noun,買い物,かいもの,shopping,shopping
 ,,,n5,verb,買う,かう,buy,köpa
 ,,,n5,verb,返す,かえす,return something,returnera
 ,,,n5,verb,帰る,かえる,go back,återvända
@@ -352,7 +352,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,adjective,丈夫,じょうぶ,durable,hållbar
 ,,,n5,adjective,丈夫,じょうぶ,strong,stark
 ,,,n5,noun,しょうゆ,しょうゆ,soy sauce,soyasås
-,,,n5,noun,食堂,しょくどう,dining hall,matsal
+20,,,n5,noun,食堂,しょくどう,dining hall,matsal
 16,,,n5,verb,知る,しる,to know,veta
 ,,hidden,n5,adjective,白,しろ,white,vit
 ,,,n5,adjective,白い,しろい,white,vit
@@ -410,7 +410,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adjective,大丈夫,だいじょうぶ,all right,ok
 ,,,n5,verb,大好き,だいすき,to be very likeable,mycket älskad
 ,,,n5,adjective,大切,たいせつ,important,viktig
-,,,n5,noun,台所,だいどころ,kitchen,kök
+20,,,n5,noun,台所,だいどころ,kitchen,kök
 ,,,n5,adverb,たいへん,たいへん,very,mycket
 ,,,n5,adverb,たいへん,たいへん,difficult situation,svårt läge
 ,,,n5,adjective,高い,たかい,expensive,dyr
@@ -421,13 +421,13 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,verb,立つ,たつ,to stand,stå
 ,,hidden,n5,noun,たて,たて,height,höjd
 ,,,n5,noun,たて,たて,length,längd
-,,,n5,noun,建物,たてもの,building,byggnad
+20,,,n5,noun,建物,たてもの,building,byggnad
 ,,,n5,adjective,楽しい,たのしい,enjoyable,trevlig
 ,18,,n5,verb,頼む,たのむ,to ask,fråga om en tjänst
 ,,,n5,noun,たばこ,たばこ,cigarettes,cigarett
 ,,,n5,noun,たばこ,たばこ,tobacco,tobak
 ,,,n5,adverb,たぶん,たぶん,probably,troligen
-,,,n5,noun,食べ物,たべもの,food,mat
+20,,,n5,noun,食べ物,たべもの,food,mat
 ,,,n5,verb,食べる,たべる,to eat,äta
 ,,,n5,noun,卵,たまご,egg,ägg
 ,,,n5,pronoun,誰,だれ,who,vem
@@ -477,7 +477,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,電気,でんき,electricity,elektricitet
 ,,,n5,noun,電車,でんしゃ,electric train,tåg (el)
 ,1,,n5,noun,電話,でんわ,telephone,telefon
-,,,n5,noun,戸,と,Japanese style door,dörr (japansk)
+20,,,n5,noun,戸,と,Japanese style door,dörr (japansk)
 ,,,n5,noun,ドア,ドア,Western style door,dörr
 ,,,n5,noun,トイレ,トイレ,toilet,toalett
 ,,,n5,adverb,どう,どう,in what way,på vilket sätt
@@ -551,7 +551,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,ノート,ノート,exercise book,övningsbok
 ,,,n5,noun,ノート,ノート,notebook,antecknigsbok
 ,,,n5,verb,登る,のぼる,to climb,klättra
-,,,n5,noun,飲み物,のみもの,a drink,drink
+20,,,n5,noun,飲み物,のみもの,a drink,drink
 ,,,n5,verb,飲む,のむ,to drinks,dricka
 ,,,n5,verb,乗る,のる,to ride,åka med
 ,,,n5,verb,乗る,のる,to get on,borda
@@ -718,7 +718,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,木曜日,もくようび,Thursday,torsdag
 ,,,n5,verb,持つ,もつ,to hold,hålla
 ,,,n5,adjective,もっと,もっと,more,mer
-,,,n5,noun,物,もの,thing,sak
+20,,,n5,noun,物,もの,thing,sak
 ,,,n5,noun,門,もん,gate,port;grind
 ,,,n5,noun,問題,もんだい,problem,problem
 ,,,n5,noun,八百屋,やおや,greengrocer,grönsaksaffär
@@ -766,7 +766,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 17,1,,n5,noun,留学生,りゅうがくせい,overseas student,utlandsstudent
 ,14,,n5,noun,両親,りょうしん,both parents,båda föräldrar
 ,,,n5,noun,料理,りょうり,cuisine,kök
-,,,n5,noun,旅行,りょこう,travel,resande
+20,,,n5,noun,旅行,りょこう,travel,resande
 ,,,n5,numeric,零,れい,zero,noll
 ,18,,n5,noun,冷蔵庫,れいぞうこ,refrigerator,kylskåp
 ,,,n5,noun,レコード,レコード,record,skiva

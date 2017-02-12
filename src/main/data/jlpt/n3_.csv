@@ -51,15 +51,15 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|安定|あんてい|stability, equilibrium
 |16||n3|verb|案内する|あんないする|information, guidance, leading, to guide|guida,visa runt
 |||n3|adverb|あんなに|あんなに|to that extent, to that degree|(gör) så
-||hidden|n3|other|あんまり|あんまり|not very, not much, remainder, rest
-||hidden|n3|other|胃|い|stomach
-||hidden|n3|other|委員|いいん|committee member
-||hidden|n3|other|いえ|いえ|same as いいえ in spoken
-||hidden|n3|other|意外|いがい|unexpected, surprising
-||hidden|n3|other|息|いき|breath, tone
-||hidden|n3|other|行き|いき/ゆき|going,
-||hidden|n3|other|勢い|いきおい|force, vigour, energy, spirit
-||hidden|n3|other|生き物|いきもの|living thing, animal
+|||n3|adverb|あんまり|あんまり|not very, not much, remainder, rest|inte särskilt
+|||n3|noun|胃|い|stomach,mage
+|||n3|noun|委員|いいん|committee member|kommitémedlem
+|||n3|interjection|いえ|いえ|same as いいえ in spoken|nej
+|||n3|adjective|意外|いがい|unexpected, surprising|oväntad,förvånande
+|||n3|noun|息|いき|breath, tone|andning,ton
+|||n3|noun|行き|いき,ゆき|going|gående,åkande
+|||n3|noun|勢い|いきおい|force, vigour, energy, spirit|kraft,energi,sisu
+|||n3|noun|生き物|いきもの|living thing, animal|varelse,djur
 ||hidden|n3|other|幾つ|いくつ|how many?, how old?
 ||hidden|n3|other|幾ら|いくら|how much?,
 ||hidden|n3|other|いけない|いけない|must not do, bad, wrong, not good
@@ -296,7 +296,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|格好|かっこう|shape,form,posture,suitability,appearance
 ||hidden|n3|other|活動|かつどう|action,activity
 ||hidden|n3|other|活用|かつよう|conjugation,practical use
-|13|hidden|n3|other|悲しむ|かなしむ|to be sad,to mourn for,to regret
+|13||n3|verb|悲しむ|かなしむ|to be sad,to mourn for,to regret|vara ledsen,sörja
 ||hidden|n3|other|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely
 ||hidden|n3|other|かなり|かなり|considerably,fairly,quite
 ||hidden|n3|other|金|かね|(1) gold,(2) gold general (shogi) (abbr)
@@ -740,17 +740,19 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|住民|じゅうみん|citizens,inhabitants,residents,population
 ||hidden|n3|other|重要|じゅうよう|important, momentous, essential, principal, major
 ||hidden|n3|other|修理|しゅうり|repairing,mending
-||hidden|n3|other|主義|しゅぎ|doctrine,rule,principle
-||hidden|n3|other|宿泊|しゅくはく|lodging
-||hidden|n3|other|手術|しゅじゅつ|surgical operation
+|||n3|noun|主義|しゅぎ|doctrine,rule,principle|doktrin,regel,princip
+|||n3|noun|宿泊|しゅくはく|lodging|boende
+|||n3|noun|手術|しゅじゅつ|surgical operation|operation
 |||n3|noun|首相|しゅしょう|Prime Minister|premiärminister,statsminister
-||hidden|n3|other|手段|しゅだん|means,way,measure
-||hidden|n3|other|主張|しゅちょう|claim,request,insistence,assertion
-||hidden|n3|other|出身|しゅっしん|graduate from,come from
-||hidden|n3|other|出席|しゅっせき・する|attendance,presence, to attend
-||hidden|n3|other|出発|しゅっぱつ・する|departure, to depart
+|||n3|noun|手段|しゅだん|means,way,measure|ändamål,väg
+|||n3|noun|主張|しゅちょう|claim,request,insistence,assertion|krav,påstående
+|||n3|noun|出身|しゅっしん|graduate from,come from|komma från
+|||n3|noun|出席|しゅっせき|attendance,presence|närvaro
+|||n3|verb|出席する|しゅっせきする|to attend|närvara
+20|||n3|noun|出発|しゅっぱつ|departure|avresa
+20|||n3|verb|出発する|しゅっぱつする|to depart|avresa
 |||n3|noun|出版|しゅっぱん|publication|publikation
-|||n3|noun|首都|しゅと|capital city|huvudstad
+20|||n3|noun|首都|しゅと|capital city|huvudstad
 |1||n3|noun|主婦|しゅふ|housewife|hemmafru
 |||n3|noun|主要|しゅよう|chief,main,principal,major|huvudsaklig
 |||n3|noun|需要|じゅよう|demand,request|begäran,förfrågan
@@ -1179,11 +1181,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|同様|どうよう|identical,equal to,same (kind),like
 ||hidden|n3|other|同僚|どうりょう|coworker,colleague,associate
 ||hidden|n3|other|道路|どうろ|road,highway
-||hidden|n3|other|十|とお|10,ten
-||hidden|n3|other|通す|とおす|to let pass,to overlook,to continue
-||hidden|n3|other|通り|とおり|in accordance with ~,following ~,~ Street,~ Avenue
-||hidden|n3|other|通り過ぎる|とおりすぎる|to pass,to pass through
-||hidden|n3|other|都会|とかい|city
+|||n3|noun|十|とお|10,ten|tio
+|||n3|verb|通す|とおす|to let pass,to overlook,to continue|låta passera,överse med
+20|||n3|noun|通り|とおり|street, in accordance with ~,following ~,~ Street,~ Avenue|gata
+|||n3|verb|通り過ぎる|とおりすぎる|to pass,to pass through|passera
+|||n3|noun|都会|とかい|city|storstad
 |||n3|noun|時|とき|(1) time,hour,(2) occasion,moment|tid,timma,tillfälle
 ||1|n3|suffix|時|じ|o'clock|klockan
 |||n3|verb|解く|とく|to unfasten, to solve|lossa,lösa

@@ -47,7 +47,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,移る,うつる,to move house;transfer,flytta;transferera
 ,,,n4,noun,腕,うで,arm,arm
 ,,,n4,noun,裏,うら,reverse side,baksidan
-,,,n4,noun,売り場,うりば,place where things are sold,försäljningsställe
+20,,,n4,noun,売り場,うりば,place where things are sold,försäljningsställe
 ,,,n4,interjection,うん,うん,(informal) yes,ja
 16,,,n4,noun,運転手,うんてんしゅ,driver,förare
 ,,,n4,noun,枝,えだ,branch; twig,gren;kvist
@@ -58,7 +58,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,おかげ,おかげ,owing to; thanks to,tack vare
 ,,,n4,adjective,おかしい,おかしい,strange;funny,konstig;rolig
 ,,,n4,numeric,億,おく,one hundred million,hundra miljoner
-,,,n4,noun,屋上,おくじょう,rooftop,hustak
+20,,,n4,noun,屋上,おくじょう,rooftop,hustak
 ,,,n4,noun,贈り物,おくりもの,gift,gåva
 16,14,,n4,verb,送る,おくる,to send,skicka
 ,,,n4,verb,遅れる,おくれる,to be late,vara sen
@@ -94,7 +94,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,海岸,かいがん,coast,kust
 ,,,n4,noun,会議,かいぎ,meeting,möte
 ,,,n4,noun,会議室,かいぎしつ,meeting room,mötesrum
-,,,n4,noun,会場,かいじょう,assembly hall;meeting place,aula;mötesplats
+20,,,n4,noun,会場,かいじょう,assembly hall;meeting place,aula;mötesplats
 ,,,n4,noun,会話,かいわ,conversation,konversation
 ,,,n4,noun,帰り,かえり,return,återkomst;avkastning
 ,,,n4,verb,変える,かえる,to change,byta
@@ -117,7 +117,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,壁,かべ,wall,vägg
 ,,,n4,noun,髪,かみ,hair,hår
 ,,,n4,verb,噛む,かむ,to bite;to chew,bita;tugga
-,,,n4,verb,通う,かよう,to commute,pendla
+20,,,n4,verb,通う,かよう,to commute,pendla
 ,,,n4,noun,彼,かれ,he;boyfriend,han;pojkvän
 ,,,n4,verb,乾く,かわく,to get dry,torka
 ,,,n4,noun,代わり,かわり,substitute;alternate,ersättare
@@ -142,7 +142,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,pronoun,君,きみ,(informal) You, Du (vardaglig)
 ,,,n4,verb,決める,きめる,to decide,besluta
 ,,,n4,noun,気持ち,きもち,feeling;mood,känsla
-,13,,n4,noun,着物,きもの,kimono,kimono
+20,13,,n4,noun,着物,きもの,kimono,kimono
 ,,,n4,noun,客,きゃく,guest;customer,gäst;kund
 ,,,n4,adjective,急,きゅう,urgent; steep,pressande;djup
 16,,,n4,noun,急行,きゅうこう,speedy; express,express
@@ -150,7 +150,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,教会,きょうかい,church,kyrka
 ,,,n4,noun,競争,きょうそう,competition,tävling
 ,,,n4,noun,興味,きょうみ,an interest,intresse
-,,,n4,noun,近所,きんじょ,neighbourhood,grannskap
+20,,,n4,noun,近所,きんじょ,neighbourhood,grannskap
 ,,,n4,noun,具合,ぐあい,condition;health,tillstånd;hälsa
 ,,,n4,noun,空気,くうき,air;atmosphere,luft;atmosfär
 ,,,n4,noun,空港,くうこう,airport,flygplats
@@ -181,7 +181,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 17,,,n4,noun,工業,こうぎょう,the manufacturing industry,den tillverkande industrin
 ,1,,n4,noun,高校,こうこう,high school,gymnasium
 ,1,,n4,noun,高校生,こうこうせい,high school student,gymnasieelev
-,,,n4,noun,工場,こうじょう/こうば,factory;plant;mill;workshop,fabrik
+20,,,n4,noun,工場,こうじょう/こうば,factory;plant;mill;workshop,fabrik
 ,,,n4,noun,校長,こうちょう,headmaster,rektor
 ,,,n4,noun,交通,こうつう,traffic;transportation,trafik;transport
 ,,,n4,noun,講堂,こうどう,auditorium,hörsal
@@ -237,7 +237,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,しっかり,しっかり,firmly;steadily,stadigt
 ,,,n4,noun,失敗,しっぱい,failure;mistake,fel;misstag
 ,,,n4,noun,辞典,じてん,dictionary,lexikon
-,,,n4,noun,品物,しなもの,goods,gods
+20,,,n4,noun,品物,しなもの,goods,gods
 ,,,n4,adverb,しばらく,しばらく,little while,ett litet tag
 ,,,n4,noun,島,しま,island,ö
 18,,,n4,noun,市民,しみん,citizen,medborgare
@@ -246,7 +246,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,社長,しゃちょう,company president,företagschef
 ,,,n4,noun,自由,じゆう,freedom,frihet
 ,15,,n4,noun,習慣,しゅうかん,custom;manners,vana;sed
-,,,n4,noun,住所,じゅうしょ,an address;a residence,adress;bostad
+20,,,n4,noun,住所,じゅうしょ,an address;a residence,adress;bostad
 ,,,n4,noun,柔道,じゅうどう,judo,judo
 ,,,n4,adjective,十分,じゅうぶん,enough,tillräcklig
 ,,,n4,noun,趣味,しゅみ,hobby,hobby
@@ -267,7 +267,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,数学,すうがく,mathematics;arithmetic,matematik
 ,,,n4,verb,過ぎる,すぎる,to exceed,överträffa
 ,13,,n4,adjective,凄い,すごい,terrific,fantastisk
-,,,n4,verb,進む,すすむ,to make progress,göra framsteg
+20,,,n4,verb,進む,すすむ,to make progress,göra framsteg
 ,,,n4,adverb,すっかり,すっかり,completely,helt
 ,,,n4,adverb,すっと,すっと,straight;all of a sudden,plötsligt
 ,,,n4,verb,捨てる,すてる,to throw away,kasta iväg
@@ -315,7 +315,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 19,,,n4,noun,正しい,ただしい,correct,korrekt
 ,,,n4,noun,畳,たたみ,Japanese straw mat,tatami
 ,,,n4,verb,立てる,たてる,to stand something up,resa upp
-,,,n4,verb,建てる,たてる,to build,bygga
+20,,,n4,verb,建てる,たてる,to build,bygga
 ,17,,n4,adverb,例えば,たとえば,for example,till exempel
 ,,,n4,noun,棚,たな,shelves,hyllor
 ,,,n4,noun,楽しみ,たのしみ,joy,glädje
@@ -339,7 +339,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,捕まえる,つかまえる,to seize,greppa
 ,,,n4,verb,付く,つく,to be attached,vara fäst
 ,,,n4,verb,漬ける,つける,to soak;to pickle,blötlägga;lägga in
-,,,n4,noun,都合,つごう,circumstances;convenience,omständigheter;bekvämlighet
+20,,,n4,noun,都合,つごう,circumstances;convenience,omständigheter;bekvämlighet
 ,,,n4,verb,伝える,つたえる,to report,rapportera
 ,,,n4,verb,続く,つづく,to be continued,bli fortsatt
 ,,,n4,verb,続ける,つづける,to continue,fortsätta
@@ -363,7 +363,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adverb,とうとう,とうとう,finally; after all,äntligen;slutligen
 ,17,,n4,noun,動物園,どうぶつえん,zoo,djurpark
 15,,,n4,adverb,遠く,とおく,distant,avlägset
-,,,n4,verb,通る,とおる,to go through,gå igenom
+20,,,n4,verb,通る,とおる,to go through,gå igenom
 19,,,n4,adverb,特に,とくに,particularly;especially,särskilt
 19,,,n4,adjektiv,特別,とくべつ,special,speciell
 ,,,n4,noun,とこや,とこや,barber,frisör;barberare
@@ -407,16 +407,16 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,乗り換える,のりかえる,to change between buses or trains,byta
 ,,,n4,noun,乗り物,のりもの,vehicle,fordon
 ,,,n4,noun,葉,は,leaf,löv
-,,,n4,noun,場合,ばあい,situation,situation
+20,,,n4,noun,場合,ばあい,situation,situation
 ,,,n4,adverb,倍,ばい,double,dubbelt
 ,,,n4,verb,拝見する,はいけんする,(humble) to look at,titta på (ödmjuk)
 ,,,n4,noun,歯医者,はいしゃ,dentist,tandläkare
 16,,,n4,verb,運ぶ,はこぶ,to transport,transportera
 17,,,n4,verb,始める,はじめる,to begin,börja
-,,,n4,noun,場所,ばしょ,location,plats
+20,,,n4,noun,場所,ばしょ,location,plats
 ,,,n4,noun,はず,はず,it should be so,det borde va så
 ,18,,n4,adjective,恥ずかしい,はずかしい,embarrassed,generad
-,,,n4,noun,発音,はつおん,pronunciation,uttal
+20,,,n4,noun,発音,はつおん,pronunciation,uttal
 ,,,n4,adverb,はっきり,はっきり,clearly,klart
 ,,,n4,noun,花見,はなみ,cherry-blossom viewing,körsbärsblommeskådning
 ,,,n4,noun,林,はやし,woods;forester,skog;skogsvaktare
@@ -529,7 +529,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,理由,りゆう,reason,anledning
 ,,,n4,verb,利用,りよう,utilization,utnyttjande
 ,,,n4,noun,両方,りょうほう,both sides,båda sidor
-,15,,n4,noun,旅館,りょかん,Japanese hotel,japanskt hotell
+20,15,,n4,noun,旅館,りょかん,Japanese hotel,japanskt hotell
 ,,,n4,noun,留守,るす,absence,frånvaro
 ,,,n4,noun,冷房,れいぼう,air conditioning,luftkonditionering
 ,1,,n4,noun,歴史,れきし,history,historia

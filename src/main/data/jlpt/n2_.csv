@@ -1175,9 +1175,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n2|other|伝記|でんき|biography,life story
 ||hidden|n2|other|電球|でんきゅう|light bulb
 ||hidden|n2|other|点数|てんすう|marks,points,score,runs
-||hidden|n2|other|伝染|でんせん|contagion
-||hidden|n2|other|電池|でんち|battery
-||hidden|n2|other|点々|てんてん|here and there,little by little
+|||n2|noun|伝染|でんせん|contagion|smitta
+20|||n2|noun|電池|でんち|battery|batteri
+|||n2|adverb|点々|てんてん|here and there,little by little|här och där,lite i taget
 ||hidden|n2|other|転々|てんてん|
 ||hidden|n2|other|電柱|でんちゅう|telephone pole,telegraph pole,lightpole
 ||hidden|n2|other|天皇|てんのう|Emperor of Japan
