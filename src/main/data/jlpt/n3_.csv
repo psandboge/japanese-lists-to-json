@@ -28,29 +28,29 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|穴|あな|hole|hål
 |||n3|verb|浴びる|あびる|to bathe, to bask in the sun, to shower|bada,solbada,duscha
 |||n3|noun|油|あぶら|oil|olja
-||hidden|n3|other|余り|あまり|not very (used as adverb),not much
-||hidden|n3|other|誤り|あやまり|error
-||hidden|n3|other|粗い|あらい|Coarse
-||hidden|n3|other|嵐|あらし|storm, tempest
-||hidden|n3|other|新た|あらた|new, fresh, novel
-||hidden|n3|other|あらゆる|あらゆる|all, every
-||hidden|n3|other|表す|あらわす|to express, to show, to reveal
-||hidden|n3|other|現す|あらわす|to show, to indicate, to display
-||hidden|n3|other|現れ|あらわれ|embodiment, materialization
-||hidden|n3|other|現れる|あらわれる|(1) to appear, to come in sight, to become visible,(2) to express oneself
-||hidden|n3|other|ありがとう|ありがとう|(conj,exp,int) Thank you
-||hidden|n3|other|有る|ある|to be, to have(used for inanimate objects)
-||hidden|n3|other|或|ある|a certain...,some...
-||hidden|n3|other|あるいは|あるいは|or, possibly
-||hidden|n3|other|泡|あわ|bubble, foam, froth, head on beer
-||hidden|n3|other|合わせる|あわせる|to join together, to be opposite, to face, to unite
-||hidden|n3|other|哀れ|あわれ|helpless, pity, sorrow, grief
+|||n3|adverb|余り|あまり|not very (used as adverb),not much|inte mycket
+|||n3|noun|誤り|あやまり|error|fel
+|||n3|adjective|粗い|あらい|Coarse|grov
+|||n3|noun|嵐|あらし|storm, tempest|storm
+|||n3|adjective|新た|あらた|new, fresh, novel|ny,fräsch
+|||n3|adjective|あらゆる|あらゆる|all, every|allt,varje
+|||n3|verb|表す|あらわす|to express, to show, to reveal|uttrycka,visa,avslöja
+|||n3|verb|現す|あらわす|to show, to indicate, to display|visa,indikera,visa upp
+|||n3|noun|現れ|あらわれ|embodiment, materialization|förkroppsligande,materialisering
+|||n3|verb|現れる|あらわれる|(1) to appear, to come in sight, to become visible,(2) to express oneself|uppenbara sig,bli synlig,uttrycka sig själv
+|||n3|interjection|ありがとう|ありがとう|(conj,exp,int) Thank you|tack
+|||n3|verb|有る|ある|to be, to have(used for inanimate objects)|vara,ha
+|||n3|adjective|或|ある|a certain...,some...|några
+|||n3|adverb|あるいは|あるいは|or, possibly|möjligen
+|||n3|noun|泡|あわ|bubble, foam, froth, head on beer|bubblor,skum
+|||n3|verb|合わせる|あわせる|to join together, to be opposite, to face, to unite|förenas,vara ansikte mot ansikte
+|||n3|noun|哀れ|あわれ|helpless, pity, sorrow, grief|sorg
 |||n3|noun|案|あん|plan|plan
 |||n3|suffix|案|あん|plan, draft|utkast
 |||n3|noun|暗記|あんき|memorization, learning by heart|memorering,utantillinlärning
 |||n3|noun|安定|あんてい|stability, equilibrium
 |16||n3|verb|案内する|あんないする|information, guidance, leading, to guide|guida,visa runt
-||hidden|n3|other|あんなに|あんなに|to that extent, to that degree
+|||n3|adverb|あんなに|あんなに|to that extent, to that degree|(gör) så
 ||hidden|n3|other|あんまり|あんまり|not very, not much, remainder, rest
 ||hidden|n3|other|胃|い|stomach
 ||hidden|n3|other|委員|いいん|committee member
@@ -471,17 +471,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|訓練|くんれん|practice,training
 ||hidden|n3|other|下|げ|under,below,beneath
 ||hidden|n3|other|敬意|けいい|respect,honour
-||hidden|n3|other|経営|けいえい|management,administration
-||hidden|n3|other|計画|けいかく・する|plan,project,schedule,scheme,program,to plan
-||hidden|n3|other|景気|けいき|business climate, condition,state
+|||n3|noun|経営|けいえい|management,administration|management,administration
+19|||n3|noun|計画|けいかく|plan,project,schedule,scheme,program|plan,projekt,schema
+19|||n3|verb|計画する|けいかくする|to plan|planera
+|||n3|noun|景気|けいき|business climate, condition,state|affärsklimat,tillstånd
 |15||n3|noun|経験|けいけん|experience|erfarenhet
-||hidden|n3|verb|経験する|けいけんする|to experience,uppleva
-||hidden|n3|other|傾向|けいこう|tendency,trend,inclination
-||hidden|n3|other|警告|けいこく|warning,advice
-||hidden|n3|other|計算|けいさん|calculation,reckoning
-||hidden|n3|other|掲示|けいじ|notice,bulletin
-||hidden|n3|other|刑事|けいじ|a police detective
-||hidden|n3|other|芸術|げいじゅつ|(fine) art,the arts
+|||n3|verb|経験する|けいけんする|to experience,uppleva
+|||n3|noun|傾向|けいこう|tendency,trend,inclination|trend
+|||n3|noun|警告|けいこく|warning,advice|varning,råd
+|||n3|noun|計算|けいさん|calculation,reckoning|kalkyl,beräkning
+|||n3|noun|掲示|けいじ|notice,bulletin|notis,bulletin
+|||n3|noun|刑事|けいじ|a police detective|polisman
+|||n3|noun|芸術|げいじゅつ|(fine) art,the arts|konst
 |||n3|noun|契約|けいやく|contract,compact,agreement|kontrakt,överenskommelse
 |||n3|preposition|経由|けいゆ|go by the way,via|via
 |||n3|noun|怪我|けが|injury (to animate object),hurt|skada
@@ -767,12 +768,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|上|じょう|(1) first volume,(2) superior quality|första delen,bästa kvalitet
 |||n3|noun|障害|しょうがい|obstacle,impediment (fault),damage|hinder,skada
 |16||n3|noun|奨学金|しょうがくきん|scholarship|stipendium
-||hidden|n3|other|乗客|じょうきゃく|passenger
-||hidden|n3|other|上京|じょうきょう|proceeding to the capital (Tokyo)
-||hidden|n3|other|状況|じょうきょう|state of affairs,situation,circumstances
-||hidden|n3|other|条件|じょうけん|conditions,terms
-||hidden|n3|other|正午|しょうご|noon,mid-day
-||hidden|n3|other|正直|しょうじき|honesty,integrity,frankness
+|||n3|noun|乗客|じょうきゃく|passenger|passagerare
+|||n3|noun|上京|じょうきょう|proceeding to the capital (Tokyo)|resa till Tokyo
+|||n3|noun|状況|じょうきょう|state of affairs,situation,circumstances|tillstånd,omständigheter
+|||n3|noun|条件|じょうけん|conditions,terms|villkor
+19|||n3|noun|正午|しょうご|noon,mid-day|middag (tid)
+|||n3|noun|正直|しょうじき|honesty,integrity,frankness|ärlighet,uppriktighet
 ||hidden|n3|other|常識|じょうしき|common sense
 ||hidden|n3|other|少女|しょうじょ|daughter,young lady,virgin,maiden,little girl
 ||hidden|n3|other|少々|しょうしょう|just a minute,small quantity
@@ -889,11 +890,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|請求|せいきゅう|claim,demand,application,request
 ||hidden|n3|other|税金|ぜいきん|tax,duty
 ||hidden|n3|other|清潔|せいけつ|clean
-||hidden|n3|other|制限|せいげん|restriction,restraint,limitation
+|||n3|noun|制限|せいげん|restriction,restraint,limitation|restriktion,begränsning
 |||n3|noun|成功|せいこう|success,hit|succé,hit
 17|||n3|noun|生産|せいさん|production,manufacture|produktion,tillverkning
-|||n3|noun|正式|せいしき|due form,official,formality|officiell,protokoll
-||hidden|n3|other|精神|せいしん|mind,soul,heart,spirit,intention
+19|||n3|noun|正式|せいしき|due form,official,formality|officiell,protokoll
+|||n3|noun|精神|せいしん|mind,soul,heart,spirit,intention|själ,hjärta,ande,sinne
 ||hidden|n3|other|成人|せいじん|adult
 ||hidden|n3|other|精々|せいぜい|at the most,at best,to the utmost,as much (far) as possible
 ||hidden|n3|other|成績|せいせき|results,record
@@ -1456,9 +1457,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|分野|ぶんや|field,sphere,realm,division,branch
 ||hidden|n3|other|塀|へい|wall,fence
 ||hidden|n3|other|平均|へいきん|equilibrium,balance,average,mean
-||hidden|n3|other|平和|へいわ|peace,harmony
-||hidden|n3|other|別に|べつに|(not) particularly,nothing
-||hidden|n3|other|減らす|へらす|to abate,to decrease,to diminish,to shorten
+|||n3|noun|平和|へいわ|peace,harmony|frid,harmoni
+19||hidden|n3|adverb|別に|べつに|(not) particularly,nothing|inget, inte särskilt
+|||n3|verb|減らす|へらす|to abate,to decrease,to diminish,to shorten|avta,minska,kortas
 ||hidden|n3|other|減る|へる|to decrease (in size or number),to diminish,to abate
 ||hidden|n3|other|変化|へんか|goblin,ghost,apparition,bugbear
 ||hidden|n3|other|勉強/勉強する|べんきょう・する|study, work, to study, to sell (a thing) cheap

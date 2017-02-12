@@ -20,7 +20,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,verb,遊ぶ,あそぶ,to make a visit,hälsa på
 ,,,n5,verb,遊ぶ,あそぶ,to play,leka
 ,,,n5,adjective,暖かい,あたたかい,warm,varm
-,,,n5,noun,頭,あたま,head,huvud
+19,,,n5,noun,頭,あたま,head,huvud
 ,,,n5,adjective,新しい,あたらしい,new,ny
 ,,,n5,pronoun,あちら,あちら,there,där
 15,,,n5,adjective,暑い,あつい,hot,het
@@ -145,7 +145,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,temporal,一昨年,おととし,year before last,förrförra året
 ,13,,n5,noun,大人,おとな,adult,vuxen
 ,,,n5,noun,おなか,おなか,stomach,mage
-,14,,n5,adjective,同じ,おなじ,same,samma
+19,14,,n5,adjective,同じ,おなじ,same,samma
 ,1,,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
 ,1,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
 ,,hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
@@ -274,7 +274,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,交差点,こうさてん,intersection,korsning
 ,13,,n5,noun,紅茶,こうちゃ,black tea,svart te
 ,,,n5,noun,交番,こうばん,police box,poliskiosk
-,,,n5,noun,声,こえ,voice,röst
+19,,,n5,noun,声,こえ,voice,röst
 ,,,n5,noun,コート,コート,tennis court,tennisbana
 ,,,n5,noun,コート,コート,coat,rock
 ,,,n5,noun,コーヒー,コーヒー,coffee,kaffe
@@ -284,7 +284,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,numeric,九日,ここのか,nine days,nio dagar
 ,,,n5,numeric,九つ,ここのつ,nine,nio
 ,1,,n5,temporal,午前,ごぜん,morning,morgon
-,,,n5,verb,答える,こたえる,to answer,svara
+19,,,n5,verb,答える,こたえる,to answer,svara
 ,,,n5,pronoun,こちら,こちら,this person;this way,den här personen;den här vägen
 ,,,n5,pronoun,こっち,こっち,this person;this way,den här personen;den här vägen
 ,,,n5,noun,コップ,コップ,a glass,glas
@@ -490,8 +490,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,十日,とおか,the tenth day,tionde dagen
 ,,,n5,noun,十日,とおか,ten days,tio dagar
 ,,,n5,adverb,時々,ときどき,sometimes,ibland
-,2,,n5,noun,時計,とけい,clock,klocka
-,,hidden,n5,noun,時計,とけい,watch,armbandsur
+19,2,,n5,noun,時計,とけい,clock,klocka
+19,,hidden,n5,noun,時計,とけい,watch,armbandsur
 ,,,n5,adverb,どこ,どこ,where,var
 ,,,n5,noun,所,ところ,place,plats
 ,,,n5,noun,年,とし,year,år

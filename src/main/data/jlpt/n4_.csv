@@ -2,7 +2,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,interjection,あ,あ,Ah,Ah
 ,,,n4,interjection,ああ,ああ,like that,Aha...
 ,,,n4,adverb,間,あいだ,a space,mellan
-,,,n4,verb,合う,あう,to match,matcha
+19,,,n4,verb,合う,あう,to match,matcha
 ,,,n4,noun,赤ちゃん,あかちゃん,baby,baby
 ,,,n4,verb,上る,あがる,to rise,stiga
 ,,hidden,n4,noun,赤ん坊,あかんぼう,baby,baby
@@ -12,20 +12,20 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,味,あじ,flavour,smak
 ,,,n4,temporal,明日,あす・あした,tomorrow,imorgon
 ,,,n4,verb,遊び,あそび,play,leka
-,,,n4,verb,集る,あつまる,to gather,samla ihop
-,16,,n4,verb,集める,あつめる,to collect something,samla
+19,,,n4,verb,集る,あつまる,to gather,samla ihop
+19,16,,n4,verb,集める,あつめる,to collect something,samla
 ,18,,n4,verb,謝る,あやまる,to apologize,be om ursäkt
 ,,,n4,noun,安心,あんしん,relief,lindring
 ,,,n4,noun,安全,あんぜん,safety,säkerhet
 ,,,n4,adjective,あんな,あんな,such,sådan
-,,,n4,adverb,以下,いか,less than,mindre än
-,,,n4,preposition,以外,いがい,with the exception of,förutom
+19,,,n4,adverb,以下,いか,less than,mindre än
+19,,,n4,preposition,以外,いがい,with the exception of,förutom
 17,,,n4,noun,医学,いがく,medical science,medicin (vetenskap)
 ,,,n4,verb,生きる,いきる,to live,leva
 18,,,n4,noun,意見,いけん,opinion,åsikt
 17,,,n4,noun,石,いし,stone,sten
 ,,,n4,verb,いじめる,いじめる,to tease,retas
-,,,n4,adjective,以上,いじょう,more than; this is all,det är allt
+19,,,n4,adjective,以上,いじょう,more than; this is all,det är allt
 16,,,n4,verb,急ぐ,いそぐ,to hurry,skynda sig
 ,,,n4,verb,致す,いたす,(humble) to do,göra (ödmjuk)
 18,,,n4,adverb,一度,いちど,once,en gång
@@ -227,7 +227,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,残念,ざんねん,disappointment,besvikelse
 ,,,n4,noun,市,し,city,storstad
 ,,,n4,noun,字,じ,character,tecken
-,,,n4,noun,試合,しあい,match;game,match
+19,,,n4,noun,試合,しあい,match;game,match
 ,,,n4,noun,仕方,しかた,method,metod
 ,,,n4,noun,試験,しけん,examination,undersökning
 ,,,n4,noun,事故,じこ,accident,olycka
@@ -312,7 +312,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,足す,たす,to add a number,addera
 ,,,n4,verb,訪ねる,たずねる,to visit,besöka
 ,,,n4,verb,尋ねる,たずねる,to ask,fråga
-,,,n4,noun,正しい,ただしい,correct,korrekt
+19,,,n4,noun,正しい,ただしい,correct,korrekt
 ,,,n4,noun,畳,たたみ,Japanese straw mat,tatami
 ,,,n4,verb,立てる,たてる,to stand something up,resa upp
 ,,,n4,verb,建てる,たてる,to build,bygga
@@ -364,8 +364,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,17,,n4,noun,動物園,どうぶつえん,zoo,djurpark
 15,,,n4,adverb,遠く,とおく,distant,avlägset
 ,,,n4,verb,通る,とおる,to go through,gå igenom
-,,,n4,adverb,特に,とくに,particularly;especially,särskilt
-,,,n4,adjektiv,特別,とくべつ,special,speciell
+19,,,n4,adverb,特に,とくに,particularly;especially,särskilt
+19,,,n4,adjektiv,特別,とくべつ,special,speciell
 ,,,n4,noun,とこや,とこや,barber,frisör;barberare
 ,,,n4,adverb,途中,とちゅう,on the way,på vägen
 ,,,n4,noun,特急,とっきゅう,limited express train (faster than an express train),snälltåg med färre stopp
@@ -453,7 +453,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 15,,,n4,verb,太る,ふとる,to become fat,bli fet
 ,,,n4,noun,布団,ふとん,Japanese bedding; futon,futon
 ,,,n4,noun,舟,ふね,ship,båt;skepp
-,,,n4,noun,不便,ふべん,inconvenience,olägenhet
+19,,,n4,noun,不便,ふべん,inconvenience,olägenhet
 ,,,n4,verb,踏む,ふむ,to step on,trampa på
 ,,,n4,verb,降り出す,ふりだす,to start to rain,börja regna
 ,,,n4,noun,文化,ぶんか,culture,kultur
@@ -473,7 +473,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,負ける,まける,to lose,förlora
 ,,,n4,conjunction,または,または,or;otherwise,eller
 ,,,n4,verb,間違える,まちがえる,to make a mistake,göra misstag
-,,,n4,verb,間に合う,まにあう,to be in time for,vara i tid
+19,,,n4,verb,間に合う,まにあう,to be in time for,vara i tid
 ,,,n4,noun,周り,まわり,surroundings,omgivningar
 18,,,n4,verb,回る,まわる,to go around,gå runt
 ,14,,n4,noun,漫画,まんが,comic,serietidning
@@ -535,7 +535,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,1,,n4,noun,歴史,れきし,history,historia
 ,,,n4,noun,連絡,れんらく,contact,kontakt
 ,,,n4,verb,沸かす,わかす,to boil;to heat,koka;värma upp
-,,,n4,verb,別れる,わかれる,to separate,separera
+19,,,n4,verb,別れる,わかれる,to separate,separera
 ,,,n4,verb,沸く,わく,to boil; to grow hot;to get excited,koka;bli varm;bli uppspelt
 ,,,n4,noun,訳,わけ,meaning;reason,mening;anledning
 ,,,n4,noun,忘れ物,わすれもの,lost article,borttappad sak
