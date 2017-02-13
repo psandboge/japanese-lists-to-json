@@ -60,21 +60,21 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|行き|いき,ゆき|going|gående,åkande
 |||n3|noun|勢い|いきおい|force, vigour, energy, spirit|kraft,energi,sisu
 |||n3|noun|生き物|いきもの|living thing, animal|varelse,djur
-||hidden|n3|other|幾つ|いくつ|how many?, how old?
-||hidden|n3|other|幾ら|いくら|how much?,
-||hidden|n3|other|いけない|いけない|must not do, bad, wrong, not good
-||hidden|n3|other|医師|いし|doctor, physician
-||hidden|n3|other|意思|いし|mind, intention
-||hidden|n3|other|意志|いし|will, volition
-||hidden|n3|other|維持|いじ|maintenance, preservation
-||hidden|n3|other|意識|いしき|consciousness, senses
-||hidden|n3|other|異常|いじょう|strangeness, abnormality, disorder
-||hidden|n3|other|椅子|いす|chair
-||hidden|n3|other|泉|いずみ|spring, fountain
-||hidden|n3|other|いずれ|いずれ|which, either, one
-||hidden|n3|other|以前|いぜん|ago since, before, previous
-||hidden|n3|other|板|いた|board, plank
-||hidden|n3|other|偉大|いだい|greatness
+|||n3|expression|幾つ|いくつ|how many?, how old?|hur många,hur gammal
+|||n3|expression|幾ら|いくら|how much?|hur mycket
+|||n3|expression|いけない|いけない|must not do, bad, wrong, not good|får inte,fel,dåligt
+|||n3|noun|医師|いし|doctor, physician|läkare,doktor
+|||n3|noun|意思|いし|mind, intention|avsikt
+|||n3|noun|意志|いし|will, volition|vilja
+|||n3|noun|維持|いじ|maintenance, preservation|underhåll,bevarande
+|||n3|noun|意識|いしき|consciousness, senses|medvetande,sinnen
+|||n3|noun|異常|いじょう|strangeness, abnormality, disorder|underlighet,abnormitet,oordning
+|||n3|noun|椅子|いす|chair|stol
+|||n3|noun|泉|いずみ|spring, fountain|källa,fontän
+|||n3|adverb|いずれ|いずれ|which, either, one|vilken,antingen
+|||n3|adverb|以前|いぜん|ago since, before, previous|sedan,förut
+|||n3|noun|板|いた|board, plank|bräda,planka,skida
+|||n3|noun|偉大|いだい|greatness|storhet
 ||hidden|n3|other|抱く|いだく|(sl) to embrace, to hug, to harbour, to entertain
 ||hidden|n3|other|いたずら|いたずら|tease, prank, trick, practical joke
 ||hidden|n3|other|いただきます|いただきます|expression of gratitude before meals
@@ -139,12 +139,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|内|うち|inside
 ||hidden|n3|other|宇宙|うちゅう|universe, cosmos, space
 ||hidden|n3|other|撃つ|うつ|to attack, to defeat, to destroy
-||hidden|n3|other|移す|うつす|to remove, to transfer, to infect
-||hidden|n3|other|訴える|うったえる|to sue (a person),to resort to, to appeal to
-||hidden|n3|other|うなる|うなる|to groan, to moan
-||hidden|n3|other|奪う|うばう|to snatch away
-||hidden|n3|other|馬|うま|(1) horse,(2) promoted bishop (shogi)
-||hidden|n3|other|うまい|うまい|be good at, delicious (spoken)
+|||n3|verb|移す|うつす|to remove, to transfer, to infect|ta bort,överföra,smitta
+|||n3|verb|訴える|うったえる|to sue (a person),to resort to, to appeal to|stämma,överklaga
+|||n3|verb|うなる|うなる|to groan, to moan|stöna
+|||n3|verb|奪う|うばう|to snatch away|råna,plundra
+|||n3|noun|馬|うま|(1) horse,(2) promoted bishop (shogi)|häst
+|||n3|adjective|うまい|うまい|be good at, delicious (spoken)|bra på,utsökt
 |||n3|noun|生まれ|うまれ|birth, birth-place|födelse,födelseplats
 |||n3|noun|梅|うめ|plum, plum-tree, lowest (of a three-tier ranking system)|plommon,plommonträd,i lägsta tredjedelen
 |||n3|verb|裏切る|うらぎる|to betray, to turn traitor to, to double-cross|förråda,lura
@@ -166,7 +166,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|描く|えがく|to draw, to paint, to sketch, to depict, to describe
 ||hidden|n3|other|餌|えさ|feed, bait
 ||hidden|n3|other|得る|える|to get, to gain, to win
-||hidden|n3|other|円|えん|circle, money
+|||n3|noun|円|えん|circle, money|yen,cirkel
 ||hidden|n3|other|縁|えん|relation, connection, ties, fate
 ||hidden|n3|other|延期|えんき|postponement, adjournment
 ||hidden|n3|other|演技|えんぎ|acting, performance
@@ -201,19 +201,19 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|恐ろしい|おそろしい|terrible, dreadful
 ||hidden|n3|other|お互い|おたがい|mutual, reciprocal, each other
 ||hidden|n3|other|穏やか|おだやか|calm, gentle, quiet
-||hidden|n3|other|男の人|おとこのひと|man
-||hidden|n3|other|劣る|おとる|to fall behind, to be inferior to
-||hidden|n3|other|お腹|おなか|stomach, tummy
-||hidden|n3|other|鬼|おに|ogre, demon, it (i.e., in a game of tag)
-||hidden|n3|other|帯|おび|band (e.g. conduction, valence)
-||hidden|n3|other|お昼|おひる|lunch, noon
-||hidden|n3|other|溺れる|おぼれる|to be drowned, to indulge in
-||hidden|n3|other|おまえ|おまえ|(fam) you (sing)
+|||n3|noun|男の人|おとこのひと|man|man
+|||n3|verb|劣る|おとる|to fall behind, to be inferior to|sacka efter,vara underlägsen
+|||n3|noun|お腹|おなか|stomach, tummy|mage
+|||n3|noun|鬼|おに|ogre, demon, it (i.e., in a game of tag)|troll
+|||n3|noun|帯|おび|band,belt,obi|band,bälte,obi
+|||n3|noun|お昼|おひる|lunch, noon|lunch (tid)
+|||n3|verb|溺れる|おぼれる|to be drowned, to indulge in|dränkas,hänge sig
+|||n3|pronoun|おまえ|おまえ|(fam) you (sing)|du (vardaglig)
 |||n3|interjection|おめでとう|おめでとう|Congratulations!, an auspicious occasion!|gratulerar!
-16||hidden|n3|other|思い出|おもいで|memories, recollections, reminiscence|minnen,hågkomst
+16|||n3|noun|思い出|おもいで|memories, recollections, reminiscence|minnen,hågkomst
 |||n3|adverb|主に|おもに|mainly, primarily|huvudsakligen,primärt
-||hidden|n3|other|思わず|おもわず|unintentional, spontaneous
-||hidden|n3|other|泳ぎ|およぎ|swimming
+|||n3|adverb|思わず|おもわず|unintentional, spontaneous|oavsiktlig,spontan
+|||n3|noun|泳ぎ|およぎ|swimming|simning
 ||hidden|n3|other|およそ|およそ|about, roughly, as a rule, approximately
 ||hidden|n3|other|及ぼす|およぼす|to exert, to cause, to exercise
 ||hidden|n3|other|居る|おる|to be (animate),to be, to exist
@@ -312,16 +312,16 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|科目|かもく|(school) subject,curriculum,course
 ||hidden|n3|other|かもしれない|かもしれない|may,might,perhaps,may be,possibly
 ||hidden|n3|other|火曜|かよう|(abbr) Tuesday
-||hidden|n3|other|空|から|empty
-||hidden|n3|other|柄|がら|pattern
-||hidden|n3|other|刈る|かる|to cut (hair),to mow (grass),to harvest
-||hidden|n3|other|彼等|かれら|they (usually male)
-||hidden|n3|other|川|かわ|river
-||hidden|n3|other|河|かわ|river,stream
-||hidden|n3|other|皮|かわ|skin,hide,leather,fur,pelt,bark,shell
-||hidden|n3|other|革|かわ|leather
-||hidden|n3|other|かわいそう|かわいそう|poor,pitiable,pathetic
-||hidden|n3|other|かわいらしい|かわいらしい|lovely,sweet
+|||n3|adjective|空|から|empty|tom
+|||n3|noun|柄|がら|pattern|mönster
+|||n3|verb|刈る|かる|to cut (hair),to mow (grass),to harvest|klippa (hår),klippa (gräs),skörda
+|||n3|pronoun|彼等|かれら|they (usually male)|de,dem
+|||n3|noun|川|かわ|river|flod,älv
+|||n3|noun|河|かわ|river,stream|ström,å
+|||n3|noun|皮|かわ|skin,hide,leather,fur,pelt,bark,shell|fäll,päls,bark,läder
+|||n3|noun|革|かわ|leather|läder
+|||n3|adjective|かわいそう|かわいそう|poor,pitiable,pathetic|ömkansvärd,patetisk
+|||n3|adjective|かわいらしい|かわいらしい|lovely,sweet|härlig,söt
 |||n3|noun|缶|かん|can,tin|konserv
 |||n3|noun|勘|かん|perception,intuition,the sixth sense|intuition,perceptiom,sjätte sinnet
 16|||n3|noun|考え|かんがえ|thinking,thought,ideas,intention|tänkande,tanke,idé
@@ -575,13 +575,13 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|国会|こっかい|National Diet,parliament,congress
 ||hidden|n3|other|国境|こっきょう|national or state border
 ||hidden|n3|other|骨折|こっせつ|bone fracture
-||hidden|n3|other|小包|こづつみ|parcel,package
+|||n3|noun|小包|こづつみ|parcel,package|paket
 17||hidden|n3|other|事|こと|thing,matter,fact,circumstances
-||hidden|n3|other|異なる|ことなる|to differ,to vary,to disagree
-||hidden|n3|other|諺|ことわざ|proverb,maxim
-||hidden|n3|other|断る|ことわる|to refuse,to decline,to dismiss
-||hidden|n3|other|粉|こな|flour,meal,powder
-||hidden|n3|other|この|この|this
+|||n3|verb|異なる|ことなる|to differ,to vary,to disagree|skilja sig,variera,inte hålla med
+|||n3|noun|諺|ことわざ|proverb,maxim|ordspråk
+|||n3|verb|断る|ことわる|to refuse,to decline,to dismiss|vägra,avböja
+|||n3|noun|粉|こな|flour,meal,powder|mjöl,måltid,pulver
+|||n3|pronoun|この|この|this|denna
 |||n3|noun|好み|このみ|liking,taste,choice|gillande,smak,val
 |||n3|verb|好む|このむ|to like,to prefer|gilla,föredra
 |16||n3|noun|塵|ごみ|dust,dirt,rubbish|skräp
@@ -846,11 +846,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|親友|しんゆう|close friend,buddy
 ||hidden|n3|other|信用|しんよう|confidence,dependence,credit,faith
 ||hidden|n3|other|信頼|しんらい|reliance,trust,confidence
-||hidden|n3|other|心理|しんり|pshcyology, mental state
-||hidden|n3|other|人類|じんるい|mankind,humanity
-||hidden|n3|other|州|す|sandbank
-||hidden|n3|other|巣|す|nest,rookery,breeding place,beehive,cobweb
-||hidden|n3|other|図|ず|figure (e.g. Fig 1),drawing,picture,illustration
+|||n3|noun|心理|しんり|psychology, mental state|psykologi,mentalt tillstånd
+|||n3|noun|人類|じんるい|mankind,humanity|mänskligheten
+|||n3|noun|州|す|sandbank|sandbank
+|||n3|noun|巣|す|nest,rookery,breeding place,beehive,cobweb|bo,näste,bikupa,spindelväv
+|||n3|noun|図|ず|figure (e.g. Fig 1),drawing,picture,illustration|figur,teckning,illustration
 |||n3|noun|水準|すいじゅん|(1) level, standard, (2) water level|nivå,vattennivå
 |||n3|noun|推薦|すいせん|recommendation|rekommendation
 |17||n3|adverb|随分|ずいぶん|extremely|extremt
@@ -1736,7 +1736,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |14||n3|noun|クリスマス|クリスマス|Christmas|Jul
 |||n3|noun|グループ|グループ|group|grupp
 |||n3|noun|ケース|ケース|case|fodral
-||hidden|n3|other|ゲーム|ゲーム|game
+|||n3|noun|ゲーム|ゲーム|game|spel
 ||hidden|n3|other|コーチ|コーチ|coach
 ||hidden|n3|other|コード|コード|code,cord,chord
 ||hidden|n3|other|ゴール|ゴール|goal
@@ -1772,15 +1772,15 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|ドライブ|ドライブ|drive,trip by car,driving|biltur,bilkörning
 |||n3|noun|トラック|トラック|(1) truck,(2) (running) track|lastbil,bana
 |||n3|noun|ドラマ|ドラマ|drama|drama
-||hidden|n3|other|トランプ|トランプ|playing cards (lit: trump)
-||hidden|n3|other|ドレス|ドレス|dress
-||hidden|n3|other|トン|トン|ton
-||hidden|n3|other|トンネル|トンネル|tunnel
-||hidden|n3|other|ノー|ノー|no
-||hidden|n3|other|ノック|ノック|(1) knock,(2) fungo (baseball)
-||hidden|n3|other|パーセント|パーセント|percent
-|13||n3|other|バイオリン|バイオリン|violin|fiol
-||hidden|n3|other|ハイキング|ハイキング|hiking
+|||n3|noun|トランプ|トランプ|playing cards (lit: trump)|spelkort
+|||n3|noun|ドレス|ドレス|dress|klänning
+|||n3|noun|トン|トン|ton|ton
+|||n3|noun|トンネル|トンネル|tunnel|tunnel
+|||n3|noun|ノー|ノー|no|nej
+|||n3|noun|ノック|ノック|(1) knock,(2) fungo (baseball)|knocka,knacka
+|||n3|noun|パーセント|パーセント|percent|procent
+|13||n3|noun|バイオリン|バイオリン|violin|fiol
+|||n3|noun|ハイキング|ハイキング|hiking|liftande
 ||hidden|n3|other|パイプ|パイプ|(1) pipe,tube,(2) channels, official or otherwise
 ||hidden|n3|other|パイロット|パイロット|pilot
 ||hidden|n3|other|パス|パス|path,pass (in games)
@@ -1818,4 +1818,4 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|ラケット|ラケット|racket, paddle,
 ||hidden|n3|other|レポート|レポート|report,paper
 ||hidden|n3|other|ロケット|ロケット|locket,rocket
-||hidden|n3|other|ワイン|ワイン|wine
+|||n3|noun|ワイン|ワイン|wine|vin
