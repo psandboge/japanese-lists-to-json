@@ -75,15 +75,15 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adverb|以前|いぜん|ago since, before, previous|sedan,förut
 |||n3|noun|板|いた|board, plank|bräda,planka,skida
 |||n3|noun|偉大|いだい|greatness|storhet
-||hidden|n3|other|抱く|いだく|(sl) to embrace, to hug, to harbour, to entertain
-||hidden|n3|other|いたずら|いたずら|tease, prank, trick, practical joke
-||hidden|n3|other|いただきます|いただきます|expression of gratitude before meals
-||hidden|n3|other|頂く|いただく|to receive, to take food or drink (hum)
-||hidden|n3|other|痛み|いたみ|pain, ache, sore, grief, distress
-||hidden|n3|other|至る|いたる|to come, to arrive
-||hidden|n3|other|市|いち|market, fair
-||hidden|n3|other|位置|いち|place, situation, position, location
-||hidden|n3|other|一時|いちじ|moment, time
+|||n3|verb|抱く|いだく|(sl) to embrace, to hug, to harbour, to entertain|omfamna,krama
+|||n3|noun|いたずら|いたずら|tease, prank, trick, practical joke|ofog,spratt,upptåg
+|||n3|expression|いただきます|いただきます|expression of gratitude before meals|tack för maten vi ska äta
+|||n3|verb|頂く|いただく|to receive, to take food or drink (hum)|ta emot
+|||n3|noun|痛み|いたみ|pain, ache, sore, grief, distress|smärta,sorg
+|||n3|verb|至る|いたる|to come, to arrive|komma,anlända
+|||n3|noun|市|いち|market, fair|marknad
+|||n3|noun|位置|いち|place, situation, position, location|plats,läge,lokal
+|||n3|noun|一時|いちじ|moment, time|ögonblick,tid
 ||hidden|n3|other|一度に|いちどに|all at once
 ||hidden|n3|other|市場|いちば|(the) market (as a concept)
 ||hidden|n3|other|一番|いちばん|best, first, number one
@@ -136,9 +136,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|後ろ|うしろ|afterwards, since then, in the future, behind
 ||hidden|n3|other|嘘|うそ|lie, falsehood, incorrect fact, inappropriate
 ||hidden|n3|other|疑う|うたがう|to doubt, to distrust, to be suspicious of, to suspect
-||hidden|n3|other|内|うち|inside
-||hidden|n3|other|宇宙|うちゅう|universe, cosmos, space
-||hidden|n3|other|撃つ|うつ|to attack, to defeat, to destroy
+|||n3|noun|内|うち|inside|inuti
+|||n3|noun|宇宙|うちゅう|universe, cosmos, space|universum,kosmos,rymden
+|||n3|verb|撃つ|うつ|to attack, to defeat, to destroy|attackera,besegra,förstöra
 |||n3|verb|移す|うつす|to remove, to transfer, to infect|ta bort,överföra,smitta
 |||n3|verb|訴える|うったえる|to sue (a person),to resort to, to appeal to|stämma,överklaga
 |||n3|verb|うなる|うなる|to groan, to moan|stöna

@@ -31,7 +31,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 18,,,n4,adverb,一度,いちど,once,en gång
 ,,,n4,adverb,一生懸命,いっしょうけんめい,with utmost effort,med yttersta ansträngning
 ,,,n4,adjective,いっぱい,いっぱい,full,full
-,,,n4,noun,糸,いと,thread,tråd
+13,,,n4,noun,糸,いと,thread,tråd
 ,,,n4,preposition,以内,いない,within,inom
 ,,,n4,noun,田舎,いなか,countryside,landsbygd
 ,,,n4,verb,祈る,いのる,to pray,be
@@ -70,7 +70,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,13,,n4,noun,お宅,おたく,(polite) your house,ditt hus (artigt)
 ,,,n4,verb,落る,おちる,to fall or drop,falla
 ,,,n4,verb,おっしゃる,おっしゃる,(respectful) to say,säga (artig)
-,,,n4,noun,夫,おっと,husband,man
+13,,,n4,noun,夫,おっと,husband,man
 ,,,n4,noun,おつり,おつり,change from purchase; balance,växel
 ,,,n4,noun,音,おと,sound; note,ljud;not
 ,18,,n4,verb,落す,おとす,to drop,tappa
@@ -84,7 +84,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 16,,,n4,verb,思う,おもう,to think; to feel,tänka;tycka;tro
 ,,,n4,noun,おもちゃ,おもちゃ,toy,leksak
 ,,,n4,verb,表,おもて,the front,framsidan
-,16,,n4,noun,親,おや,parents,förälder
+13,16,,n4,noun,親,おや,parents,förälder
 ,,,n4,noun,泳ぎ方,およぎかた,way of swimming,simsätt
 ,,,n4,verb,下りる,おりる,to get off; to descend,nedstiga
 ,,,n4,verb,折る,おる,to break;to fold,bryta av;vika
@@ -260,7 +260,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,15,,n4,verb,調べる,しらべる,to investigate,undersöka
 ,,,n4,noun,人口,じんこう,population,befolkning
 ,,,n4,noun,神社,じんじゃ,Shinto shrine,Shintohelgedom
-,,,n4,noun,親切,しんせつ,kindness,vänlighet
+13,,,n4,noun,親切,しんせつ,kindness,vänlighet
 ,,,n4,noun,新聞社,しんぶんしゃ,newspaper company,tidningsföretag
 ,,,n4,noun,水泳,すいえい,swimming,simning
 ,,,n4,noun,水道,すいどう,water supply,vattenförsörjning
@@ -344,7 +344,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,verb,続く,つづく,to be continued,bli fortsatt
 ,,,n4,verb,続ける,つづける,to continue,fortsätta
 ,,,n4,verb,包む,つつむ,to wrap,linda in
-,,,n4,noun,妻,つま,my wife,fru
+13,,,n4,noun,妻,つま,my wife,fru
 ,,,n4,noun,つもり,つもり,intention,acsikt
 ,,,n4,verb,釣る,つる,to fish,fiska
 ,,,n4,adjective,丁寧,ていねい,polite,artig

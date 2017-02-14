@@ -31,8 +31,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,pronoun,あっち,あっち,over there,där borta
 ,18,,n5,temporal,後,あと,afterwards,efteråt
 ,,,n5,pronoun,あなた,あなた,you,du
-,14,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
-,,,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
+13,14,,n5,noun,兄,あに,(humble) older brother,storebror (ödmjuk)
+13,,,n5,noun,姉,あね,(humble) older sister,storasyster (ödmjuk)
 ,,,n5,pronoun,あの,あの,that over there,där borta
 ,1,,n5,interjection,あの,あの,um...,hm...
 ,,,n5,noun,アパート,アパート,apartment,lägenhet
@@ -52,7 +52,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,adjective,よい,よい,good,bra
 ,,,n5,interjection,いいえ,いいえ,no,nej
 ,,,n5,verb,言う,いう,say,säga
-,,,n5,noun,家,いえ,house,hus
+13,,,n5,noun,家,いえ,house,hus
 ,,,n5,adverb,いかが,いかが,how,hur
 ,,,n5,verb,行く,いく,go,gå
 ,,hidden,n5,adverb,いくつ,いくつ,how old?,hur gammal?
@@ -78,7 +78,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,犬,いぬ,dog,hund
 ,1,,n5,adverb,今,いま,now,nu
 18,,,n5,noun,意味,いみ,meaning,betydelse
-,1,,n5,noun,妹,いもうと,(humble) younger sister,yngre syster (ödmjuk)
+13,1,,n5,noun,妹,いもうと,(humble) younger sister,yngre syster (ödmjuk)
 ,,,n5,adjective,嫌,いや,unpleasant,otrevlig
 ,,,n5,noun,入口,いりぐち,entrance,entré
 ,,hidden,n5,verb,居る,いる,have (used for people and animals),ha
@@ -138,7 +138,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,お茶,おちゃ,green tea,grönt te
 16,,,n5,noun,お手洗い,おてあらい,bathroom,badrum
 ,1,,n5,noun,お父さん,おとうさん,(honorable) father,far (artig)
-,1,,n5,noun,弟,おとうと,younger brother,yngre bror
+13,1,,n5,noun,弟,おとうと,younger brother,yngre bror
 ,17,,n5,noun,男,おとこ,man,man
 ,,,n5,noun,男の子,おとこのこ,boy,pojke
 ,,,n5,temporal,一昨日,おととい,day before yesterday,iförrgår
@@ -146,8 +146,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,13,,n5,noun,大人,おとな,adult,vuxen
 ,,,n5,noun,おなか,おなか,stomach,mage
 19,14,,n5,adjective,同じ,おなじ,same,samma
-,1,,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
-,1,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
+13,1,,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
+13,1,,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
 ,,hidden,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
 ,,,n5,noun,おばあさん,おばあさん,grandmother,farmor;mormor
 ,14,hidden,n5,noun,伯母さん,おばさん,aunt,moster;faster
@@ -182,7 +182,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 18,13,,n5,verb,貸す,かす,lend,låna ut
 15,,,n5,noun,風,かぜ,wind,vind
 ,,,n5,noun,風邪,かぜ,a cold,förkylning
-,,,n5,noun,家族,かぞく,family,familj
+13,,,n5,noun,家族,かぞく,family,familj
 ,,,n5,noun,方,かた,way of doing,sätt att göra
 ,,,n5,noun,方,かた,person,person
 ,,,n5,noun,学校,がっこう,school,skola
@@ -192,7 +192,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,かばん,かばん,basket,korg
 ,,,n5,noun,かばん,かばん,bag,väska
 ,,,n5,noun,花瓶,かびん,a vase,vas
-,17,,n5,noun,紙,かみ,paper,papper
+13,17,,n5,noun,紙,かみ,paper,papper
 ,,,n5,noun,カメラ,カメラ,camera,kamera
 ,,,n5,temporal,火曜日,かようび,Tuesday,tisdag
 ,13,,n5,adjective,辛い,からい,spicy,kryddstark
@@ -226,7 +226,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,牛乳,ぎゅうにゅう,milk,mjölk
 ,,,n5,temporal,今日,きょう,today,idag
 ,,,n5,noun,教室,きょうしつ,classroom,klassrum
-,,,n5,noun,兄弟,きょうだい,(humble) siblings,syskon (ödmjuk)
+13,,,n5,noun,兄弟,きょうだい,(humble) siblings,syskon (ödmjuk)
 ,,,n5,temporal,去年,きょねん,last year,förra året
 ,,,n5,adjective,嫌い,きらい,hate,hat
 ,,,n5,verb,切る,きる,cut,skära
@@ -370,7 +370,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,17,,n5,noun,スプーン,スプーン,spoon,sked
 ,,,n5,noun,スポーツ,スポーツ,sport,sport
 ,,,n5,noun,ズボン,ズボン,trousers,byxor
-,,,n5,verb,住む,すむ,to live in,bo
+13,,,n5,verb,住む,すむ,to live in,bo
 ,,,n5,noun,スリッパ,スリッパ,slippers,tofflor
 ,,,n5,verb,する,する,to do;decide (on item),göra;besluta (om föremål)
 ,,,n5,verb,座る,すわる,to sit,sitta
@@ -462,7 +462,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,テーブル,テーブル,table,bord
 ,,,n5,noun,テープレコーダー,テープレコーダー,tape recorder,bandspelare
 ,,,n5,verb,出かける,でかける,to go out,gå ut
-,,,n5,noun,手紙,てがみ,letter,brev
+13,,,n5,noun,手紙,てがみ,letter,brev
 ,14,,n5,verb,できる,できる,to be able to,kunna göra
 ,,,n5,noun,出口,でぐち,exit,utgång
 ,,,n5,noun,テスト,テスト,test,prov
@@ -778,8 +778,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adjective,若い,わかい,young,ung
 ,,,n5,verb,分かる,わかる,to be understood,bli förstådd
 ,,,n5,verb,忘れる,わすれる,to forget,glömma
-,13,,n5,noun,私,わたくし,(humble) I,jag (ödmjuk)
-,1,,n5,noun,私,わたし,I,jag
+13,13,,n5,noun,私,わたくし,(humble) I,jag (ödmjuk)
+13,1,,n5,noun,私,わたし,I,jag
 ,,,n5,verb,渡す,わたす,to hand over,lämna över
 ,,,n5,verb,渡る,わたる,to go across,korsa
 15,,,n5,adjective,悪い,わるい,bad,dålig
