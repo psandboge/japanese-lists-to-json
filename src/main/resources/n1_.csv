@@ -448,9 +448,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n1|other|織る|おる|to weave
 ||hidden|n1|other|俺|おれ|I (ego) (boastful first-person pronoun)
 ||hidden|n1|other|愚か|おろか|foolish, stupid
-||hidden|n1|other|疎か|おろそか|neglect, negligence, carelessness
-||hidden|n1|other|終わる|おわる|to finish, to close
-||hidden|n1|other|音色|おんいろ|tone color, tone quality, timbre, synthesizer patch
+|||n1|noun|疎か|おろそか|neglect, negligence, carelessness|försummelse,slarv
+17|||n1|verb|終わる|おわる|to finish, to close|avsluta,stängas
+|||n1|noun|音色|おんいろ|tone color, tone quality, timbre, synthesizer patch|färgton,klangfärg,syntpatch
 ||hidden|n1|other|温和|おんわ|gentle, mild, moderate
 ||hidden|n1|other|仮|か|tentative, provisional
 ||hidden|n1|other|科|か|department, section
@@ -1092,9 +1092,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n1|other|個性|こせい|individuality, personality, idiosyncrasy
 ||hidden|n1|other|戸籍|こせき|census, family register
 ||hidden|n1|other|小銭|こぜに|coins, small change
-||hidden|n1|other|固体|こたい|solid (body)
-||hidden|n1|other|答え|こたえ|answer, response
-||hidden|n1|other|堪える|こたえる|to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
+|||n1|adjective|固体|こたい|solid (body)|fast
+19|||n1|noun|答え|こたえ|answer, response
+|||n1|verb|堪える|こたえる|to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for|uthärda,stå ut med
 ||hidden|n1|other|火燵|こたつ|table with heater, (orig) charcoal brazier in a floor well
 ||hidden|n1|other|古代|こだい|ancient times
 ||hidden|n1|other|こだわる|こだわる|to fuss over, to be particular about, to be concerned about
@@ -2002,9 +2002,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n1|other|超|ちょう|super-, ultra-, hyper-
 ||hidden|n1|other|庁|ちょう|government office
 ||hidden|n1|other|調印|ちょういん|signature, sign, sealing
-||hidden|n1|other|聴覚|ちょうかく|the sense of hearing
-||hidden|n1|other|長官|ちょうかん|chief, (government) secretary
-||hidden|n1|other|聴講|ちょうこう|lecture attendance, auditing
+|||n1|noun|聴覚|ちょうかく|the sense of hearing|hörselsinnet
+18|||n1|noun|長官|ちょうかん|chief, (government) secretary|generaldirektör,generalsekreterare
+|||n1|noun|聴講|ちょうこう|lecture attendance, auditing|lektionsnärvaro,revision
 ||hidden|n1|other|徴収|ちょうしゅう|collection, levy
 ||hidden|n1|other|聴診器|ちょうしんき|stethoscope
 ||hidden|n1|other|挑戦|ちょうせん|challenge, defiance

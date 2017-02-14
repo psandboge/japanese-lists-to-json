@@ -707,9 +707,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n2|other|絞る|しぼる|to press,to wring,to squeeze
 ||hidden|n2|other|縞|しま|stripe
 ||hidden|n2|other|地味|じみ|plain,simple
-||hidden|n2|other|しみじみ|しみじみ|keenly,deeply,heartily
-||hidden|n2|other|氏名|しめい|full name,identity
-||hidden|n2|other|締切|しめきり|closing,cut-off,end,deadline,Closed,No Entrance
+|||n2|adverb|しみじみ|しみじみ|keenly,deeply,heartily|ivrigt,hjärtligt
+13|||n2|noun|氏名|しめい|full name,identity
+|||n2|noun|締切|しめきり|closing,cut-off,end,deadline,Closed,No Entrance|stängning,slut,deadline
 ||hidden|n2|other|締め切る|しめきる|to shut up
 ||hidden|n2|other|湿る|しめる|to be wet,to become wet,to be damp
 ||hidden|n2|other|ジャーナリスト|ジャーナリスト|journalist
@@ -1010,11 +1010,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n2|other|滝|たき|waterfall
 ||hidden|n2|other|炊く|たく|to boil,to cook
 ||hidden|n2|other|焚く|たく|to burn,to kindle,to build a fire
-||hidden|n2|other|蓄える|たくわえる|to store,to lay in stock
-|||n2|noun|竹|たけ|bamboo,middle (of a three-tier ranking system)|bambu,mellanlagret
+|||n2|verb|蓄える|たくわえる|to store,to lay in stock|lagra
+19|||n2|noun|竹|たけ|bamboo,middle (of a three-tier ranking system)|bambu,mellanlagret
 |18||n2|verb|助かる|たすかる|to be saved,to be rescued,to survive,to be helpful|bli räddad,överleva,bli hjälpt
 |||n2|adjective|只|ただ|free of charge,mere,sole,only,usual,common|gratis,enda,vanlig
-||hidden|n2|other|但し|ただし|but,however,provided that
+|||n2|conjunction|但し|ただし|but,however,provided that|men,dock
 ||hidden|n2|other|畳む|たたむ|to fold (clothes)
 ||hidden|n2|other|立ち止まる|たちどまる|to stop,to halt,to stand still
 ||hidden|n2|other|たちまち|たちまち|at once,in a moment,suddenly,all at once
@@ -1175,9 +1175,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n2|other|伝記|でんき|biography,life story
 ||hidden|n2|other|電球|でんきゅう|light bulb
 ||hidden|n2|other|点数|てんすう|marks,points,score,runs
-||hidden|n2|other|伝染|でんせん|contagion
-||hidden|n2|other|電池|でんち|battery
-||hidden|n2|other|点々|てんてん|here and there,little by little
+|||n2|noun|伝染|でんせん|contagion|smitta
+20|||n2|noun|電池|でんち|battery|batteri
+|||n2|adverb|点々|てんてん|here and there,little by little|här och där,lite i taget
 ||hidden|n2|other|転々|てんてん|
 ||hidden|n2|other|電柱|でんちゅう|telephone pole,telegraph pole,lightpole
 ||hidden|n2|other|天皇|てんのう|Emperor of Japan
@@ -1624,7 +1624,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n2|noun|回り道|まわりみち|detour|omväg
 |||n2|adjective|満員|まんいん|full house,no vacancy,sold out|utsålt
 |14||n2|other|マンション|マンション|large apartment,apartment house|flervåningslägenhet
-|||n2||満点|まんてん|perfect score|full pott
+|||n2|noun|満点|まんてん|perfect score|full pott
 |||n2|verb|見送る|みおくる|(1) to see off,to farewell,(2) to escort,(3) to let pass|vinka av,eskortera,släppa förbi
 ||hidden|n2|other|見下ろす|みおろす|to overlook,to command a view of,to look down on something
 ||hidden|n2|other|見掛け|みかけ|outward appearance
