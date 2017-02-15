@@ -147,7 +147,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,adjective,急,きゅう,urgent; steep,pressande;djup
 16,,,n4,noun,急行,きゅうこう,speedy; express,express
 ,,,n4,noun,教育,きょういく,education,utbildnig
-,,,n4,noun,教会,きょうかい,church,kyrka
+14,,,n4,noun,教会,きょうかい,church,kyrka
 ,,,n4,noun,競争,きょうそう,competition,tävling
 ,,,n4,noun,興味,きょうみ,an interest,intresse
 20,,,n4,noun,近所,きんじょ,neighbourhood,grannskap
@@ -226,10 +226,10 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 17,,,n4,noun,産業,さんぎょう,industry,industri
 ,,,n4,noun,残念,ざんねん,disappointment,besvikelse
 ,,,n4,noun,市,し,city,storstad
-,,,n4,noun,字,じ,character,tecken
+14,,,n4,noun,字,じ,character,tecken
 19,,,n4,noun,試合,しあい,match;game,match
 ,,,n4,noun,仕方,しかた,method,metod
-,,,n4,noun,試験,しけん,examination,undersökning
+14,,,n4,noun,試験,しけん,examination,examen
 ,,,n4,noun,事故,じこ,accident,olycka
 ,15,,n4,noun,地震,じしん,earthquake,jordbävning
 17,,,n4,noun,時代,じだい,era,era
@@ -252,7 +252,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,趣味,しゅみ,hobby,hobby
 ,,,n4,noun,紹介,しょうかい,introduction,introduktion
 ,,,n4,noun,小学校,しょうがっこう,elementary school,småskola
-,,,n4,noun,小説,しょうせつ,novel,roman
+14,,,n4,noun,小説,しょうせつ,novel,roman
 ,,,n4,noun,将来,しょうらい,future;prospects,framtid;möjligheter
 ,,,n4,noun,食料品,しょくりょうひん,groceries,matvaror
 ,,,n4,noun,女性,じょせい,woman,kvinna
@@ -283,7 +283,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n4,noun,西洋,せいよう,western countries,västvärlden
 18,,,n4,noun,世界,せかい,the world,världen
 ,,,n4,noun,席,せき,seat,sittplats
-,16,,n4,noun,説明,せつめい,explanation,förklaring
+14,16,,n4,noun,説明,せつめい,explanation,förklaring
 ,,,n4,noun,背中,せなか,back of the body,ryggsidan
 ,,,n4,noun,線,せん,line,linje
 ,,,n4,noun,戦争,せんそう,war,krig
@@ -456,8 +456,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 19,,,n4,noun,不便,ふべん,inconvenience,olägenhet
 ,,,n4,verb,踏む,ふむ,to step on,trampa på
 ,,,n4,verb,降り出す,ふりだす,to start to rain,börja regna
-,,,n4,noun,文化,ぶんか,culture,kultur
-,1,,n4,noun,文学,ぶんがく,literature,litteratur
+14,,,n4,noun,文化,ぶんか,culture,kultur
+14,1,,n4,noun,文学,ぶんがく,literature,litteratur
 ,13,,n4,noun,文法,ぶんぽう,grammar,grammatik
 ,,,n4,adjective,別,べつ,different,annorlunda
 ,,,n4,adjective,変,へん,strange,konstig

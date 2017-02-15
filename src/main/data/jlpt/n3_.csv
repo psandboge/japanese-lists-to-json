@@ -402,13 +402,13 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|競技|きょうぎ|game,match,contest|match,tävling
 |||n3|noun|行儀|ぎょうぎ|manners|uppförande,hyfs
 |||n3|noun|供給|きょうきゅう|supply,provision|förråd,proviant
-||hidden|n3|other|教師|きょうし|teacher (classroom)
-||hidden|n3|other|教授|きょうじゅ|teaching,instruction,professor
-||hidden|n3|other|強調|きょうちょう|emphasis,stress,stressed point
-||hidden|n3|other|共通|きょうつう|commonness,community
-||hidden|n3|other|共同|きょうどう|cooperation,association,collaboration,joint
-||hidden|n3|other|恐怖|きょうふ|be afraid,dread,dismay,terror
-||hidden|n3|other|協力|きょうりょく|cooperation,collaboration
+|||n3|noun|教師|きょうし|teacher (classroom)|lärare
+|||n3|noun|教授|きょうじゅ|teaching,instruction,professor|utlärning,instruktion,professor
+|||n3|noun|強調|きょうちょう|emphasis,stress,stressed point|stresspunkt,belastning,betoning
+|||n3|noun|共通|きょうつう|commonness,community|gemenskap,samhälle
+|||n3|verb|共同|きょうどう|cooperation,association,collaboration,joint|samarbete
+|||n3|noun|恐怖|きょうふ|be afraid,dread,dismay,terror|rädsla,skräck
+|||n3|noun|協力|きょうりょく|cooperation,collaboration|samarbete
 ||hidden|n3|other|強力|きょうりょく|herculean strength,mountain carrier-guide
 ||hidden|n3|other|さ|きょか|permission,approval
 ||hidden|n3|other|局|きょく|a bureau, department
@@ -732,14 +732,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |17||n3|verb|就職する|しゅうしょくする|get a job|ta anställning
 |||n3|noun|修正|しゅうせい|amendment,correction,revision,modification|tillägg,rättelse,revision
 |||n3|noun|渋滞|じゅうたい|congestion (e.g. traffic),delay,stagnation|stockning,försening
-||hidden|n3|other|重大|じゅうだい|serious,important,grave,weighty
-||hidden|n3|other|住宅|じゅうたく|resident,housing
-||hidden|n3|other|集団|しゅうだん|group,mass
-||hidden|n3|other|集中|しゅうちゅう|concentration,focusing the mind
-||hidden|n3|other|収入|しゅうにゅう|income,receipts,revenue
-||hidden|n3|other|住民|じゅうみん|citizens,inhabitants,residents,population
-||hidden|n3|other|重要|じゅうよう|important, momentous, essential, principal, major
-||hidden|n3|other|修理|しゅうり|repairing,mending
+|||n3|adjective|重大|じゅうだい|serious,important,grave,weighty|viktig,seriös,grav
+|||n3|noun|住宅|じゅうたく|resident,housing|bostad
+|||n3|noun|集団|しゅうだん|group,mass|grupp,massa
+|||n3|noun|集中|しゅうちゅう|concentration,focusing the mind|koncentration,fokus
+|||n3|noun|収入|しゅうにゅう|income,receipts,revenue|inkomst,intäkt
+|||n3|noun|住民|じゅうみん|citizens,inhabitants,residents,population|invånare,befolkning
+|||n3|adjective|重要|じゅうよう|important, momentous, essential, principal, major|viktig,huvudsaklig
+|||n3|noun|修理|しゅうり|repairing,mending|reparation,lagning
 |||n3|noun|主義|しゅぎ|doctrine,rule,principle|doktrin,regel,princip
 |||n3|noun|宿泊|しゅくはく|lodging|boende
 |||n3|noun|手術|しゅじゅつ|surgical operation|operation
@@ -1352,11 +1352,11 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|発明|はつめい|invention|uppfinning,innovation
 |||n3|verb|話し合う|はなしあう|to discuss,to talk together|diskutera
 |||n3|verb|離す|はなす|to part,divide,separate|dela,separera
-||hidden|n3|other|放す|はなす|to separate,to set free
-||hidden|n3|other|離れる|はなれる|to be separated from,to leave,to go away,to be a long way off
-||hidden|n3|other|羽|はね|counter for birds,counter for rabbits
-||hidden|n3|other|幅|はば|width,breadth
-||hidden|n3|other|母親|ははおや|mother
+|||n3|verb|放す|はなす|to separate,to set free|frigöra,befria
+|||n3|verb|離れる|はなれる|to be separated from,to leave,to go away,to be a long way off|skiljas från,lämna,försvinna
+14|||n3|counter|羽|はね|counter for birds,counter for rabbits|fåglar (räknare),kaniner (räknare)
+|||n3|noun|幅|はば|width,breadth|bredd
+|||n3|noun|母親|ははおや|mother|mamma
 ||hidden|n3|other|省く|はぶく|to omit,to eliminate,to curtail,to economize
 ||hidden|n3|other|場面|ばめん|scene,setting (e.g. of novel)
 ||hidden|n3|other|腹|はら|abdomen,belly,stomach
