@@ -84,10 +84,10 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|市|いち|market, fair|marknad
 |||n3|noun|位置|いち|place, situation, position, location|plats,läge,lokal
 |||n3|noun|一時|いちじ|moment, time|ögonblick,tid
-||hidden|n3|other|一度に|いちどに|all at once
-||hidden|n3|other|市場|いちば|(the) market (as a concept)
-||hidden|n3|other|一番|いちばん|best, first, number one
-||hidden|n3|other|一家|いっか|a house, a home, a family, a household
+|||n3|expression|一度に|いちどに|all at once|allt på en gång
+|||n3|noun|市場|いちば|(the) market (as a concept)|marknaden
+|||n3|adjective|一番|いちばん|best, first, number one|bäst,först,nummer ett
+|||n3|noun|一家|いっか|a house, a home, a family, a household|hus,hem,hushåll,familj
 ||hidden|n3|other|いつか|いつか|sometime, someday, one day
 ||hidden|n3|other|一種|いっしゅ|a species, a kind, a variety
 ||hidden|n3|other|一瞬|いっしゅん|a moment, an instant
@@ -156,18 +156,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 16|||n3|verb|運転する|うんてんする|operation, motion, driving, to drive|köra
 16|||n3|verb|運動する|うんどうする|motion, exercise, to exercise|motionera,träna
 |||n3|noun|柄|え|handle, grip|handtag
-||hidden|n3|other|永遠|えいえん|eternity, perpetuity, immortality, permanence
-||hidden|n3|other|永久|えいきゅう|eternity ,perpetuity, immortality
-||hidden|n3|other|影響|えいきょう|influence, effect
-||hidden|n3|other|営業|えいぎょう|business, trade, management
-||hidden|n3|other|衛星|えいせい|satellite
-||hidden|n3|other|栄養|えいよう|nutrition, nourishment
-||hidden|n3|other|笑顔|えがお|smiling face
-||hidden|n3|other|描く|えがく|to draw, to paint, to sketch, to depict, to describe
-||hidden|n3|other|餌|えさ|feed, bait
-||hidden|n3|other|得る|える|to get, to gain, to win
+|||n3|noun|永遠|えいえん|eternity, perpetuity, immortality, permanence|evighet,odödlighet
+|||n3|noun|永久|えいきゅう|eternity ,perpetuity, immortality|evighet,odödlighet
+|||n3|noun|影響|えいきょう|influence, effect|påverkan,effekt
+|||n3|noun|営業|えいぎょう|business, trade, management|affärer,handel,ledarskap
+|||n3|noun|衛星|えいせい|satellite|satellit
+|||n3|noun|栄養|えいよう|nutrition, nourishment|näring
+|||n3|noun|笑顔|えがお|smiling face|glatt ansikte
+|||n3|verb|描く|えがく|to draw, to paint, to sketch, to depict, to describe|rita,måla,avbilda,beskriva
+|||n3|noun|餌|えさ|feed, bait|foder,agn,lockbete
+|||n3|verb|得る|える|to get, to gain, to win|få,vinna
 |||n3|noun|円|えん|circle, money|yen,cirkel
-||hidden|n3|other|縁|えん|relation, connection, ties, fate
+|||n3|noun|縁|えん|relation, connection, ties, fate|relation,koppling,öde
 ||hidden|n3|other|延期|えんき|postponement, adjournment
 ||hidden|n3|other|演技|えんぎ|acting, performance
 ||hidden|n3|other|援助|えんじょ|assistance, aid, support
@@ -1069,18 +1069,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adverb|近頃|ちかごろ|lately,recently,nowadays|nuförtiden,nyligen
 |||n3|noun|地球|ちきゅう|the earth|jorden
 |||n3|noun|地区|ちく|district,section,sector|distrikt,sektor
-||hidden|n3|other|遅刻|ちこく|lateness,late coming
-||hidden|n3|other|知事|ちじ|prefectural governor
-||hidden|n3|other|知識|ちしき|knowledge,information
-||hidden|n3|other|父親|ちちおや|father
-||hidden|n3|other|知能|ちのう|intelligence,brains
-||hidden|n3|other|地平線|ちへいせん|horizon
-||hidden|n3|other|地方|ちほう|area,locality,district,region,the coast
-||hidden|n3|other|茶|ちゃ|tea
-||hidden|n3|other|ちゃんと|ちゃんと|perfectly,properly,exactly
-||hidden|n3|other|中|ちゅう|inside,middle,among
-||hidden|n3|other|注|ちゅう|annotation,explanatory note
-||hidden|n3|other|中央|ちゅうおう|centre,central,center,middle
+|||n3|adverb|遅刻|ちこく|lateness,late coming|senfärdighet
+|||n3|noun|知事|ちじ|prefectural governor|prefekturguvernör
+|||n3|noun|知識|ちしき|knowledge,information|kunskap,information
+|||n3|noun|父親|ちちおや|father|pappa
+|||n3|noun|知能|ちのう|intelligence,brains|intellekt,förstånd
+|||n3|noun|地平線|ちへいせん|horizon|horisont
+|||n3|noun|地方|ちほう|area,locality,district,region,the coast|område,distrikt,region,kusten
+|||n3|noun|茶|ちゃ|tea|tea
+|||n3|adverb|ちゃんと|ちゃんと|perfectly,properly,exactly|perfekt,korrekt,exakt
+|||n3|adjective|中|ちゅう|inside,middle,among|på insidan,i mitten,bland
+|||n3|noun|注|ちゅう|annotation,explanatory note|annotering,förklarande anteckning
+|||n3|noun|中央|ちゅうおう|centre,central,center,middle|mitten,centrum
 |||n3|noun|中学|ちゅうがく|middle school,junior high school,högstadieskola
 |||n3|adjective|中古|ちゅうこ|(1) used,second-hand,old|begagnad,gammal
 16|||n3|noun|中止|ちゅうし|suspension, stoppage, discontinuance, interruption|stopp,avbrott
@@ -1395,30 +1395,30 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|批評|ひひょう|criticism,review,commentary|kritik,recension
 |17||n3|noun|秘密|ひみつ|secret,secrecy|hemlighet
 |||n3|adjective|微妙|びみょう|delicate,subtle|ömtålig,subtil
-|||n3|noun|紐|ひも|(1) string,cord,(2) pimp|snöre;hallick
-||hidden|n3|other|表|ひょう|table (e.g. Tab 1),chart,list
-||hidden|n3|other|費用|ひよう|cost,expense
-||hidden|n3|other|秒|びょう|second (60th min)
-||hidden|n3|other|評価|ひょうか|valuation,estimation,assessment,evaluation
-||hidden|n3|other|表現|ひょうげん|expression,presentation,representation (math)
-||hidden|n3|other|表情|ひょうじょう|facial expression
-||hidden|n3|other|平等|びょうどう|equality (a),impartiality,evenness
-||hidden|n3|other|評判|ひょうばん|fame,reputation,popularity,arrant
-||hidden|n3|other|表面|ひょうめん|surface,outside,face,appearance
-||hidden|n3|other|広がる|ひろがる|to spread (out),to extend,to stretch,to reach to,to get around
-||hidden|n3|other|品|ひん|elegance, grace, dignity,
-||hidden|n3|other|瓶|びん|bottle
-||hidden|n3|other|便|びん|way,means
-||hidden|n3|other|不|ふ|un,non,negative prefix
-||hidden|n3|other|無|ぶ|nothing,naught,nil,zero
-||hidden|n3|other|分|ぶ|dividing,part
-||hidden|n3|other|不安|ふあん|anxiety,uneasiness,insecurity,suspense
+|||n3|noun|紐|ひも|(1) string,cord,(2) pimp|snöre,hallick
+|||n3|noun|表|ひょう|table (e.g. Tab 1),chart,list|tabell,lista
+|||n3|noun|費用|ひよう|cost,expense|kostnad,utgift
+|||n3|noun|秒|びょう|second (60th min)|sekund
+|||n3|noun|評価|ひょうか|valuation,estimation,assessment,evaluation|värdering,utvärdering
+|||n3|noun|表現|ひょうげん|expression,presentation,representation (math)|uttryck,presentation
+|||n3|noun|表情|ひょうじょう|facial expression|ansiktsuttryck
+|||n3|noun|平等|びょうどう|equality (a),impartiality,evenness|jämlikhet,opartiskhet
+|||n3|noun|評判|ひょうばん|fame,reputation,popularity,arrant|berömmelse,rykte,popularitet
+|||n3|noun|表面|ひょうめん|surface,outside,face,appearance|yta,utsida
+|||n3|verb|広がる|ひろがる|to spread (out),to extend,to stretch,to reach to,to get around|sprida ut sig,sträcka ut
+|||n3|noun|品|ひん|goods,article|gods,artikel
+|||n3|noun|瓶|びん|bottle|flaska
+|||n3|noun|便|びん|way,means|sätt,medel
+|||n3|prefix|不|ふ|un,non,negative prefix|anti-,o-,icke-
+|||n3|noun|無|ぶ|nothing,naught,nil,zero|ingenting,noll
+|||n3|noun|分|ぶ|dividing,part|del,delning
+|||n3|noun|不安|ふあん|anxiety,uneasiness,insecurity,suspense|oro,osäkerhet
 |||n3|noun|風景|ふうけい|scenery|landskap
 |14||n3|noun|夫婦|ふうふ|married couple,husband and wife|gift par
 |||n3|noun|笛|ふえ|flute,pipe|flöjt
 |||n3|adjective|不可|ふか|wrong,bad,improper,unjustifiable,inadvisable|fel,dålig,olämplig,oförsvarlig
 |||n3|noun|武器|ぶき|weapon,arms,ordinance|vapen,krigsmaterial
-||hidden|n3|other|服装|ふくそう|dress, clothes
+|||n3|noun|服装|ふくそう|dress, clothes|klädsel, kläder
 ||hidden|n3|other|含む|ふくむ|to hold in the mouth,to bear in mind
 ||hidden|n3|other|袋|ふくろ|bag,sack
 ||hidden|n3|other|不幸|ふこう|unhappiness,sorrow,misfortune,disaster,accident,death
