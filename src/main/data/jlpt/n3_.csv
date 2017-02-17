@@ -88,9 +88,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|市場|いちば|(the) market (as a concept)|marknaden
 |||n3|adjective|一番|いちばん|best, first, number one|bäst,först,nummer ett
 |||n3|noun|一家|いっか|a house, a home, a family, a household|hus,hem,hushåll,familj
-||hidden|n3|other|いつか|いつか|sometime, someday, one day
-||hidden|n3|other|一種|いっしゅ|a species, a kind, a variety
-||hidden|n3|other|一瞬|いっしゅん|a moment, an instant
+|||n3|adverb|いつか|いつか|sometime, someday, one day|Någon gång i framtiden
+|||n3|noun|一種|いっしゅ|a species, a kind, a variety|art,sort,variant
+|||n3|noun|一瞬|いっしゅん|a moment, an instant|ögonblick
 ||hidden|n3|other|一生|いっしょう|whole life, a lifetime, all through life
 ||hidden|n3|other|一層|いっそう|much more, still more, all the more
 ||hidden|n3|other|一体|いったい|(1) one object, one body,(2) what on earth?, really?,(3) generally
@@ -125,17 +125,17 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|印象|いんしょう|impression
 ||hidden|n3|other|引退|いんたい|retire
 ||hidden|n3|other|引用|いんよう|quotation, citation
-||hidden|n3|other|魚|うお|fish
-||hidden|n3|other|うがい|うがい|gargle, rinse mouth
-||hidden|n3|other|伺う|うかがう|(hon) to visit, to ask, to inquire
-||hidden|n3|other|受け取る|うけとる|to receive, to get, to accept, to take
-||hidden|n3|other|動かす|うごかす|to move, to shift
-||hidden|n3|other|兎|うさぎ|rabbit, hare
-||hidden|n3|other|牛|うし|cattle, cow
-||hidden|n3|other|失う|うしなう|to lose, to part with
-||hidden|n3|other|後ろ|うしろ|afterwards, since then, in the future, behind
-||hidden|n3|other|嘘|うそ|lie, falsehood, incorrect fact, inappropriate
-||hidden|n3|other|疑う|うたがう|to doubt, to distrust, to be suspicious of, to suspect
+|||n3|noun|魚|うお|fish|fisk
+|||n3|verb|うがい|うがい|gargle, rinse mouth|gurgla,skölja (munnen)
+|||n3|verb|伺う|うかがう|(hon) to visit, to ask, to inquire|besöka,fråga
+|||n3|verb|受け取る|うけとる|to receive, to get, to accept, to take|ta emot,få,acceptera,ta
+|||n3|verb|動かす|うごかす|to move, to shift|flytta sig
+|||n3|noun|兎|うさぎ|rabbit, hare|kanin,hare
+|||n3|noun|牛|うし|cattle, cow|boskap,ko
+|||n3|verb|失う|うしなう|to lose, to part with|tappa bort,förlora,göra sig av med
+|||n3|adverb|後ろ|うしろ|afterwards, since then, in the future, behind|efteråt,sedan,i framtiden,bakom
+|||n3|noun|嘘|うそ|lie, falsehood, incorrect fact, inappropriate|lögn,felaktig fakta
+|||n3|verb|疑う|うたがう|to doubt, to distrust, to be suspicious of, to suspect|tvivla,misstro,misstänka
 |||n3|noun|内|うち|inside|inuti
 |||n3|noun|宇宙|うちゅう|universe, cosmos, space|universum,kosmos,rymden
 |||n3|verb|撃つ|うつ|to attack, to defeat, to destroy|attackera,besegra,förstöra
@@ -1357,12 +1357,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 14|||n3|counter|羽|はね|counter for birds,counter for rabbits|fåglar (räknare),kaniner (räknare)
 |||n3|noun|幅|はば|width,breadth|bredd
 |||n3|noun|母親|ははおや|mother|mamma
-||hidden|n3|other|省く|はぶく|to omit,to eliminate,to curtail,to economize
-||hidden|n3|other|場面|ばめん|scene,setting (e.g. of novel)
-||hidden|n3|other|腹|はら|abdomen,belly,stomach
-||hidden|n3|other|原|はら|field,plain,prairie,tundra,moor,wilderness
-||hidden|n3|other|針|はり|needle,hand (e.g. clock)
-||hidden|n3|other|張る|はる|to stick,to paste
+|||n3|verb|省く|はぶく|to omit,to eliminate,to curtail,to economize|utelämna,eliminera
+|||n3|noun|場面|ばめん|scene,setting (e.g. of novel)|scen
+|||n3|noun|腹|はら|abdomen,belly,stomach|mage
+|||n3|noun|原|はら|field,plain,prairie,tundra,moor,wilderness|fält,prärie,tundra,vildmark
+|||n3|noun|針|はり|needle,hand (e.g. clock)|nål,visare,fiskkrok
+|||n3|verb|張る|はる|to stick,to paste|sätta, klistra
 |15||n3|noun|番|ばん|counter for a number,nummer (räknare)
 ||hidden|n3|other|範囲|はんい|extent,scope,sphere,range
 ||hidden|n3|other|反抗|はんこう|opposition,resistance
@@ -1515,18 +1515,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|増す|ます|to increase,to grow|öka,växa
 |18||n3|adverb|先ず|まず|first (of all),to start with,about,almost,hardly (with neg. verb)|för det första
 |||n3|adjective|貧しい|まずしい|poor, needy|fattig,behövande
-||hidden|n3|other|ますます|ますます|increasingly,more and more
-||hidden|n3|other|又|また|again,and
-||hidden|n3|other|未だ|まだ|yet,still,more,besides
-||hidden|n3|other|街|まち|(1) town, city
-||hidden|n3|other|間違い|まちがい|mistake
-||hidden|n3|other|松|まつ|(1) pine tree,(2) highest (of a three-tier ranking system)
-||hidden|n3|other|真っ赤|まっか|deep red,flushed (of face)
-||hidden|n3|other|真っ直ぐ|まっすぐ|straight (ahead),direct,upright
-||hidden|n3|other|全く|まったく|really,truly,entirely,completely
-||hidden|n3|other|祭|まつり|festival,feast
-||hidden|n3|other|学ぶ|まなぶ|to study (in depth),to learn,to take lessons in
-||hidden|n3|other|真似|まね|mimicry,imitation,behavior,pretense
+|||n3|adverb|ますます|ますます|increasingly,more and more|alltmer
+|||n3|adverb|又|また|again,and also|igen,också
+|||n3|mada|未だ|まだ|yet,still,more,besides|än,fortfarande,förutom
+|||n3|noun|街|まち|(1) town, city|stad
+|||n3|noun|間違い|まちがい|mistake|misstag
+|||n3|noun|松|まつ|(1) pine tree,(2) highest (of a three-tier ranking system)|tall,högsta av tre lager
+|||n3|adjective|真っ赤|まっか|deep red,flushed (of face)|djupt röd,röd (i ansiktet)
+|||n3|adjective|真っ直ぐ|まっすぐ|straight (ahead),direct,upright|rakt fram
+|||n3|adverb|全く|まったく|really,truly,entirely,completely|helt och hållet,verkligen
+|||n3|noun|祭|まつり|festival,feast|festival,fest
+|||n3|verb|学ぶ|まなぶ|to study (in depth),to learn,to take lessons in|studera,lära sig,ta lektioner
+|||n3|noun|真似|まね|mimicry,imitation,behavior,pretense|härmning,beteende,sken av
 |||n3|verb|招く|まねく|to invite|bjuda in
 15|||n3|noun|豆|まめ|beans,peas|böna,ärta
 |||n3|verb|守る|まもる|to protect,to obey,to guard,to abide (by the rules)|skydda,lyda,vakta,följa reglerna
