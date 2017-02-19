@@ -99,12 +99,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|一致|いっち|(1) coincidence, agreement,(2) conformity|sammanträffande
 |||n3|adverb|いつでも|いつでも|(at) any time, always, at all times, never (neg)|alltid
 |||n3|adjective|一般|いっぱん|general, liberal, universal, ordinary, average|allmän,vanlig,genomsnittlig
-||hidden|n3|other|一方|いっぽう|(1) on the other hand,(2) meanwhile,(3) only, simple, in turn
-||hidden|n3|other|いつまでも|いつまでも|forever, for good, eternally, as long as one likes, indefinitely
-||hidden|n3|other|いつも|いつも|always, usually, every time, never (with neg. verb)
-||hidden|n3|other|移動|いどう|removal, migration, movement
-||hidden|n3|other|従兄弟|いとこ|cousin (male)
-||hidden|n3|other|稲|いね|rice-plant
+|||n3|noun|一方|いっぽう|on the other hand|å andra sidan
+|||n3|adverb|一方|いっぽう|meanwhile|under tiden
+|||n3|adjective|一方|いっぽう|only, simple, in turn|enda,enkla
+|||n3|adverb|いつまでも|いつまでも|forever, for good, eternally, as long as one likes, indefinitely|för evigt
+|||n3|adverb|いつも|いつも|always, usually, every time, never (with neg. verb)|alltid,vanligtvis,varje gång
+|||n3|noun|移動|いどう|removal, migration, movement|borttagning,förflyttning
+|||n3|noun|従兄弟|いとこ|cousin (male)|kusin (manlig)
+|||n3|noun|稲|いね|rice-plant|risplanta
 ||hidden|n3|other|居眠り|いねむり|dozing, nodding off
 ||hidden|n3|other|命|いのち|,life, destiny
 ||hidden|n3|other|違反|いはん|violation (of law),transgression, infringement, breach
@@ -683,7 +685,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|事態|じたい|situation,present state of affairs
 ||hidden|n3|other|従う|したがう|to abide (by the rules),to obey,to follow,to accompany
 ||hidden|n3|other|したがって|したがって|therefore,consequently,in accordance with
-||hidden|n3|other|支度|したく・する|preparation, to prepare
+|||n3|noun|支度|したく|preparation|förberedelse
+|||n3|verb|支度する|したくする|to prepare|förbereda
 ||hidden|n3|other|親しい|したしい|intimate,close (e.g. friend)
 ||hidden|n3|other|七|しち・なな|seven
 ||hidden|n3|other|質|しつ|quality,nature (of person)
@@ -784,10 +787,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|症状|しょうじょう|symptoms,condition
 ||hidden|n3|other|生じる|しょうじる|to produce,to yield,to result from,to arise,to be generated
 ||hidden|n3|other|状態|じょうたい|condition,situation,circumstances,state
-||hidden|n3|other|招待|しょうたい・する|invitation, to invite
+|||n3|noun|招待|しょうたいする|invitation|inbjudan
+|||n3|verb|招待する|しょうたいする|to invite|bjuda in
 ||hidden|n3|other|上達|じょうたつ|improvement,advance,progress
 ||hidden|n3|other|冗談|じょうだん|jest,joke
-||hidden|n3|other|承知|しょうち・する|consent,acceptance,assent,admitting, to consent
+|||n3|noun|承知|しょうち|consent,acceptance,assent,admitting|samtycke
+|||n3|verb|承知する|しょうちする|to consent|samtycka
 ||hidden|n3|other|上等|じょうとう|superiority,first class,very good
 ||hidden|n3|other|衝突|しょうとつ|collision,conflict
 ||hidden|n3|other|商人|しょうにん|trader,shopkeeper,merchant
@@ -841,7 +846,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|身体|しんたい|the body
 ||hidden|n3|other|身長|しんちょう|height (of body),stature
 ||hidden|n3|other|慎重|しんちょう|discretion,prudence
-||hidden|n3|other|心配|しんぱい・する|worry,concern,anxiety,care, to worry
+|||n3|noun|心配|しんぱい|worry,concern,anxiety,care|oro,omtanke
+|||n3|verb|心配する|しんぱいする|to worry|oroa sig
 ||hidden|n3|other|審判|しんぱん|refereeing,trial,judgement,umpire,referee
 ||hidden|n3|other|人物|じんぶつ|character,personality,person,man,personage,talented man
 ||hidden|n3|other|進歩|しんぽ|progress,development
@@ -1466,7 +1472,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|減らす|へらす|to abate,to decrease,to diminish,to shorten|avta,minska,kortas
 ||hidden|n3|other|減る|へる|to decrease (in size or number),to diminish,to abate
 ||hidden|n3|other|変化|へんか|goblin,ghost,apparition,bugbear
-||hidden|n3|other|勉強/勉強する|べんきょう・する|study, work, to study, to sell (a thing) cheap
+|||n3|noun|勉強/勉強|べんきょう|study, work|studier,arbete
+|||n3|verb|勉強/勉強する|べんきょうする|to study, to sell (a thing) cheap|studera,sälja billigt
 ||hidden|n3|other|変更|へんこう|change,modification,alteration
 ||hidden|n3|other|弁当|べんとう|box lunch
 ||hidden|n3|other|方|ほう|side
@@ -1476,7 +1483,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|方向|ほうこう|direction,course,way
 ||hidden|n3|other|報告|ほうこく|report,information
 ||hidden|n3|other|宝石|ほうせき|gem,jewel
-||hidden|n3|other|放送/放送する|ほうそう・する|broadcast,　broadcasting, to broadcast
+|||n3|noun|放送,放送|ほうそう|broadcast,　broadcasting|sändning
+|||n3|verb|放送する,放送する|ほうそうする|to broadcast|sända
 ||hidden|n3|other|豊富|ほうふ|abundance,wealth,plenty,bounty
 ||hidden|n3|other|方法|ほうほう|method,manner,way,means,technique
 ||hidden|n3|other|方々|ほうぼう|persons,this and that,here and there,everywhere
@@ -1635,11 +1643,13 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|有利|ゆうり|advantageous,better,profitable,lucrative
 ||hidden|n3|other|床|ゆか|floor
 ||hidden|n3|other|愉快|ゆかい|pleasant,happy
-||hidden|n3|other|輸出|ゆしゅつ・する|export, to export
+|||n3|noun|輸出|ゆしゅつ|export|export
+|||n3|verb|輸出する|ゆしゅつする|to export|exportera
 ||hidden|n3|other|譲る|ゆずる|to turn over,to assign,to hand over
 ||hidden|n3|other|豊か|ゆたか|abundant,wealthy,plentiful,rich
 ||hidden|n3|other|ゆっくり|ゆっくり/と|slowly,at ease
-||hidden|n3|other|輸入|ゆにゅう・する|importation,import,introduction, to import
+|||n3|noun|輸入|ゆにゅう|importation,import,introduction|import,introduktion
+|||n3|verb|輸入する|ゆにゅうする|to import|importera
 ||hidden|n3|other|許す|ゆるす|to permit, to allow, to approve, to forgive
 ||hidden|n3|other|夜|よ|evening,night
 ||hidden|n3|other|夜明け|よあけ|dawn,daybreak
@@ -1695,7 +1705,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|冷静|れいせい|calm,composure,coolness,serenity
 ||hidden|n3|other|列|れつ|queue,line,row
 ||hidden|n3|other|列車|れっしゃ|train (ordinary)
-||hidden|n3|other|練習|れんしゅう・する|practice, to practice
+|||n3|noun|練習|れんしゅう|practice|övning
+|||n3|verb|練習する|れんしゅうする|to practice|öva
 ||hidden|n3|other|連想|れんそう|association (of ideas),suggestion
 ||hidden|n3|other|連続|れんぞく|serial,consecutive,continuity,continuing
 ||hidden|n3|other|老人|ろうじん|the aged,old person
