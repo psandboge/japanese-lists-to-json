@@ -107,16 +107,16 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|移動|いどう|removal, migration, movement|borttagning,förflyttning
 |||n3|noun|従兄弟|いとこ|cousin (male)|kusin (manlig)
 |||n3|noun|稲|いね|rice-plant|risplanta
-||hidden|n3|other|居眠り|いねむり|dozing, nodding off
-||hidden|n3|other|命|いのち|,life, destiny
-||hidden|n3|other|違反|いはん|violation (of law),transgression, infringement, breach
-||hidden|n3|other|衣服|いふく|clothes
-||hidden|n3|other|居間|いま|living room (western style)
-||hidden|n3|other|今に|いまに|before long, even now
-||hidden|n3|other|今にも|いまにも|at any time, soon
-||hidden|n3|other|否|いや|no, the nose
-||hidden|n3|other|以来|いらい|since, henceforth
-||hidden|n3|other|依頼|いらい|(1) request, commission, dispatch,(2) dependence, trust
+|||n3|verb|居眠り|いねむり|dozing, nodding off|slumra till
+|||n3|noun|命|いのち|life, destiny|liv,öde
+|||n3|noun|違反|いはん|violation (of law),transgression, infringement, breach|lagbrott,överträdelse
+|||n3|noun|衣服|いふく|clothes|kläder
+|||n3|noun|居間|いま|living room (western style)|vardagsrum
+|||n3|adverb|今に|いまに|before long, even now|inom kort,nu
+|||n3|adverb|今にも|いまにも|at any time, soon
+|||n3|interjection|否|いや|no|nej
+|||n3|preposition|以来|いらい|since, henceforth|sedan
+|||n3|noun|依頼|いらい|(1) request, commission, dispatch,(2) dependence, trust|förfrågan,beroende,förtroende
 |||n3|noun|いらいら|いらいら|getting nervous, irritation|irratibilitet
 |||n3|interjection|いらっしゃい|いらっしゃい|welcome|välkommen
 |||n3|noun|医療|いりょう|medical care, medical treatment|sjukvård,behandling
@@ -231,14 +231,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|counter|課|か|counter for chapters (of a book) section|kapitel (räknare)
 |||n3|noun|会|かい|meeting, assembly, party, association, club|möte,förening,klubb
 |13||n3|counter|回|かい|counter for occurrences|gånger (räknare)
-||hidden|n3|other|害|がい|injury, harm, evil influence, damage
-||hidden|n3|other|会員|かいいん|member, the membership
-||hidden|n3|other|絵画|かいが|picture, paintings
-||hidden|n3|other|海外|かいがい|foreign, abroad, overseas
-||hidden|n3|other|会計|かいけい|account, finance, accountant
-||hidden|n3|other|解決|かいけつ|settlement, solution, resolution
-||hidden|n3|other|会合|かいごう|meeting, assembly
-||hidden|n3|other|外交|がいこう|diplomacy
+|||n3|noun|害|がい|injury, harm, evil influence, damage|skada,harm
+|||n3|noun|会員|かいいん|member, the membership|medlem,medlemskap
+|||n3|noun|絵画|かいが|picture, paintings|bild,målning
+|||n3|adverb|海外|かいがい|foreign, abroad, overseas|utländsk
+|||n3|noun|会計|かいけい|account, finance, accountant|konto,finans,revisor
+|||n3|noun|解決|かいけつ|settlement, solution, resolution|uppgörelse,lösning
+|||n3|noun|会合|かいごう|meeting, assembly|möte,sammankomst
+|||n3|noun|外交|がいこう|diplomacy|diplomati
 ||hidden|n3|other|開始|かいし|start, commencement, beginning
 ||hidden|n3|other|解釈|かいしゃく|explanation, interpretation
 ||hidden|n3|other|外出|がいしゅつ|outing, going out
@@ -1703,8 +1703,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|礼|れい|expression of gratitude
 ||hidden|n3|other|礼儀|れいぎ|manners,courtesy,etiquette
 ||hidden|n3|other|冷静|れいせい|calm,composure,coolness,serenity
-||hidden|n3|other|列|れつ|queue,line,row
-||hidden|n3|other|列車|れっしゃ|train (ordinary)
+|||n3|noun|列|れつ|queue,line,row|kö,linje,rad
+|||n3|noun|列車|れっしゃ|train (ordinary)|tåg
 |||n3|noun|練習|れんしゅう|practice|övning
 |||n3|verb|練習する|れんしゅうする|to practice|öva
 ||hidden|n3|other|連想|れんそう|association (of ideas),suggestion
