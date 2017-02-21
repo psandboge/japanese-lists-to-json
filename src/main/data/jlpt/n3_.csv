@@ -172,8 +172,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|得る|える|to get, to gain, to win|få,vinna
 |||n3|noun|円|えん|circle, money|yen,cirkel
 |||n3|noun|縁|えん|relation, connection, ties, fate|relation,koppling,öde
-||hidden|n3|other|延期|えんき|postponement, adjournment
-||hidden|n3|other|演技|えんぎ|acting, performance
+|||n3|noun|延期|えんき|postponement, adjournment|framskjutning,bordläggning
+|||n3|noun|演技|えんぎ|acting, performance|spel,uppträdande
 ||hidden|n3|other|援助|えんじょ|assistance, aid, support
 ||hidden|n3|other|演説|えんぜつ|speech, address
 ||hidden|n3|other|演奏|えんそう|musical performance
@@ -789,23 +789,23 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|状態|じょうたい|condition,situation,circumstances,state
 |||n3|noun|招待|しょうたいする|invitation|inbjudan
 |||n3|verb|招待する|しょうたいする|to invite|bjuda in
-||hidden|n3|other|上達|じょうたつ|improvement,advance,progress
-||hidden|n3|other|冗談|じょうだん|jest,joke
+|||n3|noun|上達|じょうたつ|improvement,advance,progress|förbättring,framsteg
+|||n3|noun|冗談|じょうだん|jest,joke|skämt,gyckel
 |||n3|noun|承知|しょうち|consent,acceptance,assent,admitting|samtycke
 |||n3|verb|承知する|しょうちする|to consent|samtycka
-||hidden|n3|other|上等|じょうとう|superiority,first class,very good
-||hidden|n3|other|衝突|しょうとつ|collision,conflict
-||hidden|n3|other|商人|しょうにん|trader,shopkeeper,merchant
-||hidden|n3|other|承認|しょうにん|recognition,acknowledgement,approval,consent,agreement
-||hidden|n3|other|少年|しょうねん|boys,juveniles
-||hidden|n3|other|商売|しょうばい|trade,business,commerce,transaction,occupation
-||hidden|n3|other|消費|しょうひ|consumption,expenditure
-||hidden|n3|other|商品|しょうひん|commodity,article of commerce,goods,stock,merchandise
-||hidden|n3|other|消防|しょうぼう|fire fighting,fire department
-||hidden|n3|other|情報|じょうほう|information,(military) intelligence
-||hidden|n3|other|証明|しょうめい|proof,verification
-||hidden|n3|other|女王|じょおう|queen
-||hidden|n3|other|職|しょく|employment
+|||n3|noun|上等|じょうとう|superiority,first class,very good|första klassens,överlägsen
+|||n3|noun|衝突|しょうとつ|collision,conflict|kollision,konflikt
+|||n3|noun|商人|しょうにん|trader,shopkeeper,merchant|handelsman,handlare
+|||n3|noun|承認|しょうにん|recognition,acknowledgement,approval,consent,agreement|medhåll,godkännande
+|||n3|noun|少年|しょうねん|boys,juveniles|pojke
+|||n3|noun|商売|しょうばい|trade,business,commerce,transaction,occupation|yrke,kommers,affärer,handel
+|||n3|noun|消費|しょうひ|consumption,expenditure|konsumtion,kostnad
+|||n3|noun|商品|しょうひん|commodity,article of commerce,goods,stock,merchandise|bruksartikel,gods,lager,vara
+|||n3|noun|消防|しょうぼう|fire fighting,fire department|brandbekämpning,brandkår
+|||n3|noun|情報|じょうほう|information,(military) intelligence|information,underrättelse
+|||n3|noun|証明|しょうめい|proof,verification|bevis,bekräftelse
+|||n3|noun|女王|じょおう|queen|drottning
+|||n3|noun|職|しょく|employment|anställning
 |||n3|noun|職業|しょくぎょう|occupation,business|yrke
 17|||n3|noun|食事|しょくじ|meal|måltid
 17|||n3|verb|食事する|しょくじする|to have a meal|äta ett mål
@@ -841,19 +841,19 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|信じる|しんじる|to believe,to place trust in|tro,lita på
 |||n3|noun|人生|じんせい|(human) life (i.e. conception to death)|livstid
 |16||n3|noun|親戚|しんせき|relative|släkting
-||hidden|n3|other|新鮮|しんせん|fresh
-||hidden|n3|other|心臓|しんぞう|heart (organ)
-||hidden|n3|other|身体|しんたい|the body
-||hidden|n3|other|身長|しんちょう|height (of body),stature
-||hidden|n3|other|慎重|しんちょう|discretion,prudence
+|||n3|adjective|新鮮|しんせん|fresh|färsk
+|||n3|noun|心臓|しんぞう|heart (organ)|hjärta
+|||n3|noun|身体|しんたい|the body|kroppen
+|||n3|noun|身長|しんちょう|height (of body),stature|längd,hållning
+|||n3|noun|慎重|しんちょう|discretion,prudence|diskretion
 |||n3|noun|心配|しんぱい|worry,concern,anxiety,care|oro,omtanke
 |||n3|verb|心配する|しんぱいする|to worry|oroa sig
-||hidden|n3|other|審判|しんぱん|refereeing,trial,judgement,umpire,referee
-||hidden|n3|other|人物|じんぶつ|character,personality,person,man,personage,talented man
-||hidden|n3|other|進歩|しんぽ|progress,development
-||hidden|n3|other|親友|しんゆう|close friend,buddy
-||hidden|n3|other|信用|しんよう|confidence,dependence,credit,faith
-||hidden|n3|other|信頼|しんらい|reliance,trust,confidence
+|||n3|noun|審判|しんぱん|refereeing,trial,judgement,umpire,referee|rättegång,dom,domare
+|||n3|noun|人物|じんぶつ|character,personality,person,man,personage,talented man|person,begåvad man,personlighet,karaktär
+|||n3|noun|進歩|しんぽ|progress,development|framsteg,utveckling
+|||n3|noun|親友|しんゆう|close friend,buddy|kompis
+|||n3|noun|信用|しんよう|confidence,dependence,credit,faith|förtroende,beroende
+|||n3|noun|信頼|しんらい|reliance,trust,confidence|beroende,förtroende,förlitan
 |||n3|noun|心理|しんり|psychology, mental state|psykologi,mentalt tillstånd
 |||n3|noun|人類|じんるい|mankind,humanity|mänskligheten
 |||n3|noun|州|す|sandbank|sandbank
@@ -1696,13 +1696,13 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adjective|立派|りっぱ|splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate|vacker,elegant,ståtlig
 17|||n3|verb|留学する|りゅうがくする|study abroad|studera utomlands
 |||n3|noun|流行|りゅうこう|fashionable,fad,in vogue,prevailing|mode,trend
-||hidden|n3|other|量|りょう|quantity,amount,volume,portion (of food)
-||hidden|n3|other|両替|りょうがえ|change,money exchange
-||hidden|n3|other|料金|りょうきん|fee,charge,fare
-||hidden|n3|other|例|れい|instance,example,case
-||hidden|n3|other|礼|れい|expression of gratitude
-||hidden|n3|other|礼儀|れいぎ|manners,courtesy,etiquette
-||hidden|n3|other|冷静|れいせい|calm,composure,coolness,serenity
+|||n3|noun|量|りょう|quantity,amount,volume,portion (of food)|kvantitet,antal,volym,andel
+|||n3|noun|両替|りょうがえ|change,money exchange|växel,valutaväxling
+|||n3|noun|料金|りょうきん|fee,charge,fare|avgift
+|||n3|noun|例|れい|instance,example,case|exempel,fall
+|||n3|noun|礼|れい|expression of gratitude|tack
+|||n3|noun|礼儀|れいぎ|manners,courtesy,etiquette|uppförande,artighet,etikett
+|||n3|noun|冷静|れいせい|calm,composure,coolness,serenity|lugn,fattning,kyla
 |||n3|noun|列|れつ|queue,line,row|kö,linje,rad
 |||n3|noun|列車|れっしゃ|train (ordinary)|tåg
 |||n3|noun|練習|れんしゅう|practice|övning
