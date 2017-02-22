@@ -174,9 +174,9 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|縁|えん|relation, connection, ties, fate|relation,koppling,öde
 |||n3|noun|延期|えんき|postponement, adjournment|framskjutning,bordläggning
 |||n3|noun|演技|えんぎ|acting, performance|spel,uppträdande
-||hidden|n3|other|援助|えんじょ|assistance, aid, support
-||hidden|n3|other|演説|えんぜつ|speech, address
-||hidden|n3|other|演奏|えんそう|musical performance
+|||n3|noun|援助|えんじょ|assistance, aid, support|hjälp,assistans
+|||n3|noun|演説|えんぜつ|speech, address|tal
+|||n3|noun|演奏|えんそう|musical performance|musikuppträdande
 ||hidden|n3|other|遠慮|えんりょ|diffidence, restraint, reserve
 ||hidden|n3|other|御|お|honourable
 ||hidden|n3|other|老い|おい|old age, old person, the old, the aged
@@ -239,17 +239,17 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|解決|かいけつ|settlement, solution, resolution|uppgörelse,lösning
 |||n3|noun|会合|かいごう|meeting, assembly|möte,sammankomst
 |||n3|noun|外交|がいこう|diplomacy|diplomati
-||hidden|n3|other|開始|かいし|start, commencement, beginning
-||hidden|n3|other|解釈|かいしゃく|explanation, interpretation
-||hidden|n3|other|外出|がいしゅつ|outing, going out
-||hidden|n3|other|改善|かいぜん|betterment, improvement
-||hidden|n3|other|快適|かいてき|pleasant, agreeable, comfortable
-||hidden|n3|other|回復|かいふく|recovery (from illness),improvement, rehabilitation, restoration
-||hidden|n3|other|飼う|かう|to keep, to raise, to feed
-||hidden|n3|other|替える/換える|かえる|to exchange, to interchange, to substitute, to replace
-||hidden|n3|other|香り|かおり|aroma, fragrance, scent, smell
-||hidden|n3|other|画家|がか|painter, artist
-||hidden|n3|other|抱える|かかえる|to hold or carry under or in the arms
+|||n3|noun|開始|かいし|start, commencement, beginning|start,början
+|||n3|noun|解釈|かいしゃく|explanation, interpretation|förklaring,tolkning
+|||n3|noun|外出|がいしゅつ|outing, going out|utflykt
+|||n3|noun|改善|かいぜん|betterment, improvement|förbättring
+|||n3|adjective|快適|かいてき|pleasant, agreeable, comfortable|behaglig,bekväm
+|||n3|noun|回復|かいふく|recovery (from illness),improvement, rehabilitation, restoration|återhämning,rehabilitring
+|||n3|verb|飼う|かう|to keep, to raise, to feed|hålla,föda upp,mata
+|||n3|verb|替える/換える|かえる|to exchange, to interchange, to substitute, to replace
+|||n3|noun|香り|かおり|aroma, fragrance, scent, smell|arom,lukt,doft
+|||n3|noun|画家|がか|painter, artist|kostnär
+|||n3|verb|抱える|かかえる|to hold or carry under or in the arms|hålla under armarna
 |||n3|noun|価格|かかく|price, value, cost|pris,värde,kostnad
 |1||n3|noun|化学|かがく|chemistry|kemi
 |||n3|verb|輝く|かがやく|to shine, to glitter, to sparkle|skina,glittra
@@ -265,7 +265,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|確実|かくじつ|certainty, reliability, soundness|visshet,pålitlighet
 15|||n3|noun|学者|がくしゃ|scholar|lärd person
 |||n3|noun|学習|がくしゅう|study,learning|studier,lärande
-||hidden|n3|other|隠す|かくす|to hide,to conceal
+|||n3|verb|隠す|かくす|to hide,to conceal|gömma,dölja
 ||hidden|n3|other|拡大|かくだい|magnification, enlargement
 ||hidden|n3|other|確認|かくにん|affirmation, confirmation
 ||hidden|n3|other|学問|がくもん|scholarship, study, learning
@@ -301,21 +301,23 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|活動|かつどう|action,activity
 ||hidden|n3|other|活用|かつよう|conjugation,practical use
 |13||n3|verb|悲しむ|かなしむ|to be sad,to mourn for,to regret|vara ledsen,sörja
-||hidden|n3|other|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely
-||hidden|n3|other|かなり|かなり|considerably,fairly,quite
-||hidden|n3|other|金|かね|(1) gold,(2) gold general (shogi) (abbr)
-||hidden|n3|other|可能|かのう|possible,practicable,feasible
-||hidden|n3|other|株|かぶ|share,stock,stump (of tree)
-||hidden|n3|other|被る|かぶる|to put on , wear, cover (one's) head,
-||hidden|n3|other|構う|かまう|to mind,to care about,to be concerned about
-||hidden|n3|other|我慢|がまん|patience,endurance,perseverance
-||hidden|n3|other|上|かみ|(1) first volume,(2) superior quality,(3) governmental
-||hidden|n3|other|神|かみ|god
-||hidden|n3|other|雷|かみなり|thunder
-||hidden|n3|other|髪の毛|かみのけ|hair (head)
-||hidden|n3|other|科目|かもく|(school) subject,curriculum,course
-||hidden|n3|other|かもしれない|かもしれない|may,might,perhaps,may be,possibly
-||hidden|n3|other|火曜|かよう|(abbr) Tuesday
+|||n3|adverb|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely|alltid,nödvändigtvis,helt
+|||n3|adverb|かなり|かなり|considerably,fairly,quite|avsevärt,ganska
+|||n3|noun|金|かね|(1) gold,(2) gold general (shogi) (abbr)|guld,pengar
+|||n3|adjective|可能|かのう|possible,practicable,feasible|möjlig,genomförbar
+|||n3|noun|株|かぶ|share,stock,stump (of tree)|aktie,stubbe
+|||n3|verb|被る|かぶる|to put on , wear, cover (one's) head|ta på sig (huvud)
+|||n3|verb|構う|かまう|to mind,to care about,to be concerned about|bry sig,ora sig för
+|||n3|noun|我慢|がまん|patience,endurance,perseverance|tålamod,uthållighet
+|||n3|noun|上|かみ|first volume|första delen
+|||n3|adjective|上|かみ|superior quality|högsta kvalitet
+|||n3|adjective|上|かみ|governmental|statlig
+|||n3|noun|神|かみ|god|gud
+|||n3|noun|雷|かみなり|thunder|åska
+|||n3|noun|髪の毛|かみのけ|hair (head)|hår (huvud)
+|||n3|noun|科目|かもく|(school) subject,curriculum,course|ämne,kurs
+|||n3|adverb|かもしれない|かもしれない|may,might,perhaps,may be,possibly|kanske,möjligen
+|||n3|noun|火曜|かよう|(abbr) Tuesday|tisdag
 |||n3|adjective|空|から|empty|tom
 |||n3|noun|柄|がら|pattern|mönster
 |||n3|verb|刈る|かる|to cut (hair),to mow (grass),to harvest|klippa (hår),klippa (gräs),skörda
@@ -413,15 +415,16 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|共同|きょうどう|cooperation,association,collaboration,joint|samarbete
 |||n3|noun|恐怖|きょうふ|be afraid,dread,dismay,terror|rädsla,skräck
 |||n3|noun|協力|きょうりょく|cooperation,collaboration|samarbete
-||hidden|n3|other|強力|きょうりょく|herculean strength,mountain carrier-guide
-||hidden|n3|other|さ|きょか|permission,approval
-||hidden|n3|other|局|きょく|a bureau, department
-||hidden|n3|other|極|きょく|a pole
-||hidden|n3|other|巨大|きょだい|huge,gigantic,enormous
-||hidden|n3|other|嫌う|きらう|to hate,to dislike,to loathe
-||hidden|n3|other|霧|きり|fog,mist
-||hidden|n3|other|切れ|きれ|cloth,piece,cut,chop
-||hidden|n3|other|切れる|きれる|(1) to cut well,to be sharp,(2) to break (off)
+|||n3|noun|強力|きょうりょく|herculean strength,mountain carrier-guide|styrka
+|||n3|noun|さ|きょか|permission,approval|tillstånd,godkännande
+|||n3|noun|局|きょく|a bureau, department|byrå,avdelning
+|||n3|noun|極|きょく|a pole|stake,påle
+|||n3|adjective|巨大|きょだい|huge,gigantic,enormous|enorm,gigantisk
+|||n3|verb|嫌う|きらう|to hate,to dislike,to loathe|hata,förakta
+|||n3|noun|霧|きり|fog,mist|dimma
+|||n3|noun|切れ|きれ|cloth,piece,cut,chop|trasa,bit
+|||n3|verb|切れる|きれる|to cut well,to be sharp|skarpslipad
+|||n3|verb|切れる|きれる|to break (off)|gå av
 |13||n3|noun||キロ|kilo-,kilogram,kilometre,10^3|kilo,km,kg,10^3
 ||hidden|n3|other|記録|きろく|record,minutes,document
 ||hidden|n3|other|議論|ぎろん|argument,discussion,dispute
@@ -1735,10 +1738,10 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|インク|インク|ink
 ||hidden|n3|other|ウイスキー|ウイスキー|whisky
 ||hidden|n3|other|エネルギー|エネルギー|(n) energy (de: Energie)
-||hidden|n3|other|エンジン|エンジン|engine
-||hidden|n3|other|オーバー|オーバー|(1) overcoat,(2) over
-||hidden|n3|other|オフィス|オフィス|office
-||hidden|n3|other|カー|カー|car
+|||n3|noun|エンジン|エンジン|engine|motor
+|||n3|noun|オーバー|オーバー|(1) overcoat,(2) over|överrock,över
+|||n3|noun|オフィス|オフィス|office|kontor
+|||n3|noun|カー|カー|car|bil
 |||n3|noun|カード|カード|card,curd|kort,ostmassa
 |||n3|noun|キャプテン|キャプテン|captain|kapten
 |||n3|noun|キャンプ|キャンプ|camp|läger
