@@ -177,14 +177,14 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|援助|えんじょ|assistance, aid, support|hjälp,assistans
 |||n3|noun|演説|えんぜつ|speech, address|tal
 |||n3|noun|演奏|えんそう|musical performance|musikuppträdande
-||hidden|n3|other|遠慮|えんりょ|diffidence, restraint, reserve
-||hidden|n3|other|御|お|honourable
-||hidden|n3|other|老い|おい|old age, old person, the old, the aged
-||hidden|n3|other|追い付く|おいつく|to overtake, to catch up (with)
-||hidden|n3|other|王|おう|king, ruler, sovereign, monarch
-||hidden|n3|other|追う|おう|to chase, to run after
-||hidden|n3|other|王様|おうさま|king
-||hidden|n3|other|王子|おうじ|prince
+|||n3|noun|遠慮|えんりょ|diffidence, restraint, reserve|blyghet,återhållsamhet
+|||n3|adjective|御|お|honourable|hedervärd
+|||n3|noun|老い|おい|old age, old person, the old, the aged|hög ålder,gamling,åldringarna
+|||n3|verb|追い付く|おいつく|to overtake, to catch up (with)|komma ifatt,komma förbi
+|||n3|noun|王|おう|king, ruler, sovereign, monarch|kung,härskare
+|||n3|verb|追う|おう|to chase, to run after|jag,springa efter
+|||n3|noun|王様|おうさま|king|kung
+|||n3|noun|王子|おうじ|prince|prins
 ||hidden|n3|other|応じる|おうじる|to respond, to satisfy, to accept, to comply with, to apply for
 ||hidden|n3|other|横断|おうだん|crossing
 ||hidden|n3|other|終える|おえる|to finish
@@ -578,12 +578,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|故障|こしょう|break-down,failure,accident,out of order
 ||hidden|n3|other|個人|こじん|individual,private person,personal,private
 ||hidden|n3|other|越す|こす|to go over (e.g. with audience)
-||hidden|n3|other|国家|こっか|state,country,nation
-||hidden|n3|other|国会|こっかい|National Diet,parliament,congress
-||hidden|n3|other|国境|こっきょう|national or state border
-||hidden|n3|other|骨折|こっせつ|bone fracture
+|||n3|noun|国家|こっか|state,country,nation|stat,land,nation
+|||n3|noun|国会|こっかい|National Diet,parliament,congress|parlament
+|||n3|noun|国境|こっきょう|national or state border|nationell gräns,statsgräns
+|||n3|noun|骨折|こっせつ|bone fracture|benfraktur
 |||n3|noun|小包|こづつみ|parcel,package|paket
-17||hidden|n3|other|事|こと|thing,matter,fact,circumstances
+17|||n3|noun|事|こと|thing,matter,fact,circumstances
 |||n3|verb|異なる|ことなる|to differ,to vary,to disagree|skilja sig,variera,inte hålla med
 |||n3|noun|諺|ことわざ|proverb,maxim|ordspråk
 |||n3|verb|断る|ことわる|to refuse,to decline,to dismiss|vägra,avböja
@@ -784,13 +784,13 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|条件|じょうけん|conditions,terms|villkor
 19|||n3|noun|正午|しょうご|noon,mid-day|middag (tid)
 |||n3|noun|正直|しょうじき|honesty,integrity,frankness|ärlighet,uppriktighet
-||hidden|n3|other|常識|じょうしき|common sense
-||hidden|n3|other|少女|しょうじょ|daughter,young lady,virgin,maiden,little girl
-||hidden|n3|other|少々|しょうしょう|just a minute,small quantity
-||hidden|n3|other|症状|しょうじょう|symptoms,condition
-||hidden|n3|other|生じる|しょうじる|to produce,to yield,to result from,to arise,to be generated
-||hidden|n3|other|状態|じょうたい|condition,situation,circumstances,state
-|||n3|noun|招待|しょうたいする|invitation|inbjudan
+|||n3|noun|常識|じょうしき|common sense|sunt förnuft
+|||n3|noun|少女|しょうじょ|daughter,young lady,virgin,maiden,little girl|fröken,ungmö,småflicka,dotter
+|||n3|noun|少々|しょうしょう|just a minute,small quantity|ett ögonblick,liten kvantitet
+|||n3|noun|症状|しょうじょう|symptoms,condition|symptom,tillstånd
+|||n3|verb|生じる|しょうじる|to produce,to yield,to result from,to arise,to be generated|producera,resultera i,genereras
+|||n3|noun|状態|じょうたい|condition,situation,circumstances,state|tillstånd,förhållanden,omständigheter
+|||n3|noun|招待|しょうたい|invitation|inbjudan
 |||n3|verb|招待する|しょうたいする|to invite|bjuda in
 |||n3|noun|上達|じょうたつ|improvement,advance,progress|förbättring,framsteg
 |||n3|noun|冗談|じょうだん|jest,joke|skämt,gyckel
@@ -1639,18 +1639,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|優秀|ゆうしゅう|superiority,excellence
 ||hidden|n3|other|優勝|ゆうしょう|overall victory,championship
 ||hidden|n3|other|友情|ゆうじょう|friendship,fellowship
-||hidden|n3|other|友人|ゆうじん|friend
-||hidden|n3|other|有能|ゆうのう|able,capable,efficient,skill
-||hidden|n3|other|郵便|ゆうびん|mail,postal service
-||hidden|n3|other|夕べ|ゆうべ|evening
-||hidden|n3|other|有利|ゆうり|advantageous,better,profitable,lucrative
-||hidden|n3|other|床|ゆか|floor
-||hidden|n3|other|愉快|ゆかい|pleasant,happy
+|||n3|noun|友人|ゆうじん|friend|vän
+|||n3|adjective|有能|ゆうのう|able,capable,efficient,skill|kapabel,effektiv
+|||n3|noun|郵便|ゆうびん|mail,postal service|post,posttjänster
+|||n3|noun|夕べ|ゆうべ|evening|kväll
+|||n3|adjective|有利|ゆうり|advantageous,better,profitable,lucrative|fördelaktig,lukrativ
+|||n3|noun|床|ゆか|floor|golv
+|||n3|adjective|愉快|ゆかい|pleasant,happy|behaglig,glas
 |||n3|noun|輸出|ゆしゅつ|export|export
 |||n3|verb|輸出する|ゆしゅつする|to export|exportera
-||hidden|n3|other|譲る|ゆずる|to turn over,to assign,to hand over
-||hidden|n3|other|豊か|ゆたか|abundant,wealthy,plentiful,rich
-||hidden|n3|other|ゆっくり|ゆっくり/と|slowly,at ease
+|||n3|verb|譲る|ゆずる|to turn over,to assign,to hand over|lämna över,tilldela
+|||n3|adjective|豊か|ゆたか|abundant,wealthy,plentiful,rich|rik,ymnig,överflödande
+|||n3|adverb|ゆっくり|ゆっくり/と|slowly,at ease|långsamt,lugnt och stilla
 |||n3|noun|輸入|ゆにゅう|importation,import,introduction|import,introduktion
 |||n3|verb|輸入する|ゆにゅうする|to import|importera
 ||hidden|n3|other|許す|ゆるす|to permit, to allow, to approve, to forgive
