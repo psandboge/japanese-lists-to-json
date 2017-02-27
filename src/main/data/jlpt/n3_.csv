@@ -185,15 +185,15 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|追う|おう|to chase, to run after|jag,springa efter
 |||n3|noun|王様|おうさま|king|kung
 |||n3|noun|王子|おうじ|prince|prins
-||hidden|n3|other|応じる|おうじる|to respond, to satisfy, to accept, to comply with, to apply for
-||hidden|n3|other|横断|おうだん|crossing
-||hidden|n3|other|終える|おえる|to finish
-||hidden|n3|other|大いに|おおいに|very, much, greatly
-||hidden|n3|other|覆う|おおう|to cover, to hide, to conceal, to wrap, to disguise
-||hidden|n3|other|大家|おおや|rich family, distinguished family
-||hidden|n3|other|丘|おか|hill, height, knoll, rising ground
-||hidden|n3|other|沖|おき|open sea
-||hidden|n3|other|奥|おく|interior, inner part
+|||n3|verb|応じる|おうじる|to respond, to satisfy, to accept, to comply with, to apply for|svara,acceptera,uppfylla,ansöka
+|||n3|noun|横断|おうだん|crossing|övergång,överfart
+|||n3|verb|終える|おえる|to finish|avsluta
+|||n3|adverb|大いに|おおいに|very, much, greatly|storligen,väldigt
+|||n3|verb|覆う|おおう|to cover, to hide, to conceal, to wrap, to disguise|täcka,gömma,dölja
+|||n3|noun|大家|おおや|rich family, distinguished family|rikemansfamilj,framstående familj
+|||n3|noun|丘|おか|hill, height, knoll, rising ground|kulle
+|||n3|noun|沖|おき|open sea|öppet hav
+|||n3|noun|奥|おく|interior, inner part|interiör,insidan
 ||hidden|n3|other|贈る|おくる|to send, to give to, to award to, to confer on
 ||hidden|n3|other|起こる|おこる|to occur, to happen
 ||hidden|n3|other|幼い|おさない|very young, childish
@@ -1625,20 +1625,20 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|役割|やくわり|part,assigning (allotment of) parts,role,duties|del,roll
 |18||n3|noun|家賃|やちん|rent|hyra
 |||n3|noun|厄介|やっかい|trouble,burden,care,bother|besvär,börda
-||hidden|n3|other|宿|やど|inn,lodging
-||hidden|n3|other|雇う|やとう|to employ,to hire
-||hidden|n3|other|屋根|やね|roof
-||hidden|n3|other|やはり|やはり|also,as I thought,still,in spite of,absolutely,of course
-||hidden|n3|other|破る|やぶる|to tear,to violate,to defeat,to smash,to destroy
-||hidden|n3|other|辞める|やめる|to retire
-||hidden|n3|other|やや|やや|a little,partially,somewhat,a short time,a while
-||hidden|n3|other|唯一|ゆいいつ|only,sole,unique
-||hidden|n3|other|言う|ゆう|to say
-||hidden|n3|other|勇気|ゆうき|courage,bravery,valour,nerve,boldness
-||hidden|n3|other|有効|ゆうこう|validity,availability,effectiveness
-||hidden|n3|other|優秀|ゆうしゅう|superiority,excellence
-||hidden|n3|other|優勝|ゆうしょう|overall victory,championship
-||hidden|n3|other|友情|ゆうじょう|friendship,fellowship
+|||n3|noun|宿|やど|inn,lodging|gäsgiveri,logi
+|||n3|verb|雇う|やとう|to employ,to hire|anställa,hyra
+|||n3|noun|屋根|やね|roof|tak
+|||n3|adverb|やはり|やはり|also,as I thought,still,in spite of,absolutely,of course|också,fortfarande,självklart,som jag trodde
+|||n3|verb|破る|やぶる|to tear,to violate,to defeat,to smash,to destroy|riva sönder,besegra,krossa,förstöra
+|||n3|verb|辞める|やめる|to retire|sluta,dra sig tillbaka
+|||n3|adverb|やや|やや|a little,partially,somewhat,a short time,a while|något,en liten stund,delvis
+|||n3|adverb|唯一|ゆいいつ|only,sole,unique|endaste,enda
+|||n3|verb|言う|ゆう|to say|säga
+|||n3|noun|勇気|ゆうき|courage,bravery,valour,nerve,boldness|mod,tapperhet,dristighet
+|||n3|noun|有効|ゆうこう|validity,availability,effectiveness|tillgänglighet,giltighet,effektivitet
+|||n3|noun|優秀|ゆうしゅう|superiority,excellence|överlägsenhet,förträfflighet
+|||n3|noun|優勝|ゆうしょう|overall victory,championship|totalseger,mästerskap
+|||n3|noun|友情|ゆうじょう|friendship,fellowship|vänskap,brödraskap
 |||n3|noun|友人|ゆうじん|friend|vän
 |||n3|adjective|有能|ゆうのう|able,capable,efficient,skill|kapabel,effektiv
 |||n3|noun|郵便|ゆうびん|mail,postal service|post,posttjänster
