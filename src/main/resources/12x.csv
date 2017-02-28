@@ -25,8 +25,8 @@ kll|genki|state|type|writing|reading|english|swedish
 |15||verb|観光する|かんこうする|go sightseeing|gå på sightseeing
 |15||verb|卒業する|そつぎょうする|graduate|ta examen
 |15||verb|予約する|よやくする|make reservation|reservera
-|15||adverb|一日中|いちにちじゅう|all the day|hela dagen
-|15||adverb|けど|けど|however|dock
+|15||verb|一日中|いちにちじゅう|all the day|hela dagen
+|15||verb|けど|けど|however|dock
 |15||suffix|目|め|(n:o)th|(nr)e
 |13||verb|頑張る|がんばる|do one's best|göra sitt bästa
 |13||verb|約束を守る|やくそくをまもる|keep a promise|hålla ett löfte
@@ -37,13 +37,13 @@ kll|genki|state|type|writing|reading|english|swedish
 |16||noun|大きさ|大きさ|size|storlek
 |16||noun|期末試験|きまつしけん|final exam|slutprov
 |16||noun|推薦状|すいせんじょう|letter of recommendation|rekommendationsbrev
-|16||noun|目覚し時計|めざましとけい|alarm clock|väckarklocka
+|16||noun|目覚し時計|めざましどけい|alarm clock|väckarklocka
 |16||verb|おごる|おごる|treat|bjuda
 |16||verb|連れて行く|つれていく|bring|ta med
 |16||verb|道に迷う|みちにまよう|get lost|gå vilse
 |16||verb|迎えに行く|むかえにいく|go pick up|åka och hämta
 |16||verb|アイロンをかける|アイロンをかける|iron|stryka
-|16||verb|乗り遅れる|のりおくれる|miss (bus,...)|missa (bussen, täget,...)
+|16||verb|乗り遅れる|のりおくれる|miss (bus,...)|missa (bussen; tåget;...)
 |16||verb|迎えに来る|むかえにくる|come pick up|komma och hämta
 |16||temporal|今日中|きょうじゅう|during today|under dagen
 |16||adverb|このぐらい|このぐらい|this much|så här mycket
@@ -116,6 +116,10 @@ kll|genki|state|type|writing|reading|english|swedish
 20|||noun|長野県|ながのけん|Nagano Prefecture|Nagano prefektur
 20|||noun|北区|きたく|Kita-ku|Kita-ku
 13|||noun|主人|しゅじん|husband|man (ödmjuk)
+14|||noun|入学式|にゅうがくしき|school entrance ceremony|skolstartsceremoni
+||hidden|other||||
+||hidden|other||||
+||hidden|other||||
 ||hidden|other||||
 ||hidden|other||||
 ||hidden|other||||

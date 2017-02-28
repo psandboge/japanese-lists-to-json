@@ -102,7 +102,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,15,,n5,noun,絵,え,picture,bild
 ,,,n5,noun,映画,えいが,movie,film
 18,15,,n5,noun,映画館,えいがかん,cinema,biograf
-,1,,n5,noun,英語,えいご,English language,engelska
+14,1,,n5,noun,英語,えいご,English language,engelska
 ,,,n5,interjection,ええ,ええ,yes,ja
 ,,,n5,noun,駅,えき,station,station
 ,,,n5,noun,エレベーター,エレベーター,elevator,hiss
@@ -125,8 +125,8 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
 ,,hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
 ,,,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
-,,,n5,verb,教える,おしえる,tell,berätta
-,,,n5,verb,教える,おしえる,teach,lära ut
+14,,hidden,n5,verb,教える,おしえる,tell,berätta
+14,,,n5,verb,教える,おしえる,teach,lära ut
 ,14,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
 ,14,hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
 ,14,hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
@@ -204,7 +204,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,hidden,n5,noun,河,かわ,river,flod
 ,,,n5,noun,川,かわ,river,flod
 ,,,n5,adjective,かわいい,かわいい,cute,söt
-,,,n5,noun,漢字,かんじ,Chinese character,kinesiskt tecken
+14,,,n5,noun,漢字,かんじ,Chinese character,kinesiskt tecken
 ,,hidden,n5,noun,木,き,wood,trä
 ,,,n5,noun,木,き,tree,träd
 ,,hidden,n5,adjective,黄色,きいろ,yellow,gul
@@ -225,7 +225,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,牛肉,ぎゅうにく,beef,nötkött
 ,,,n5,noun,牛乳,ぎゅうにゅう,milk,mjölk
 ,,,n5,temporal,今日,きょう,today,idag
-,,,n5,noun,教室,きょうしつ,classroom,klassrum
+14,,,n5,noun,教室,きょうしつ,classroom,klassrum
 13,,,n5,noun,兄弟,きょうだい,(humble) siblings,syskon (ödmjuk)
 ,,,n5,temporal,去年,きょねん,last year,förra året
 ,,,n5,adjective,嫌い,きらい,hate,hat
@@ -308,7 +308,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adjective,先,さき,previous,föregående
 ,,hidden,n5,adjective,先,さき,the future,framtiden
 ,18,,n5,verb,咲く,さく,to bloom,blomma
-,,,n5,noun,作文,さくぶん,writing,skrift
+14,,,n5,noun,作文,さくぶん,writing,komposition,skrivning
 ,,,n5,noun,作文,さくぶん,composition,komposition
 ,,,n5,verb,差す,さす,to raise an umbrella,fälla upp (paraply)
 ,,,n5,verb,差す,さす,to stretch out hands,räcka ut händerna
@@ -329,7 +329,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,preposition,下,した,below,under
 ,,hidden,n5,numeric,七,しち,seven,sju
 ,,,n5,numeric,七,なな,seven,sju
-,,,n5,noun,質問,しつもん,question,fråga
+14,,,n5,noun,質問,しつもん,question,fråga
 ,,,n5,noun,自転車,じてんしゃ,bicycle,cykel
 16,,,n5,noun,自動車,じどうしゃ,automobile,bil
 16,,,n5,verb,死ぬ,しぬ,to die,dö
@@ -347,7 +347,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,numeric,十,じゅう;とお,ten,tio
 ,,hidden,n5,noun,授業,じゅぎょう,class work,skolarbete
 ,,,n5,noun,授業,じゅぎょう,lesson,lektion
-,,,n5,noun,宿題,しゅくだい,homework,läxa
+14,,,n5,noun,宿題,しゅくだい,homework,läxa
 ,,,n5,adjective,上手,じょうず,skillful,skicklig
 ,,hidden,n5,adjective,丈夫,じょうぶ,durable,hållbar
 ,,,n5,adjective,丈夫,じょうぶ,strong,stark
@@ -525,7 +525,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,noun,七日,なのか,the seventh day,sjunde dagen
 ,,,n5,noun,七日,なのか,seven days,sju dagar
 ,1,,n5,noun,名前,なまえ,name,namn
-,,,n5,verb,習う,ならう,to learn,lära sif
+14,,,n5,verb,習う,ならう,to learn,lära sig
 ,,,n5,verb,並ぶ,ならぶ,to stand in a line,köa
 ,,hidden,n5,verb,並ぶ,ならぶ,to line up,ställa sig på led
 ,,,n5,verb,並べる,ならべる,to set up,sätta upp
@@ -720,7 +720,7 @@ kll,genki,state,jlpt,type,writing,reading,english,swedish
 ,,,n5,adjective,もっと,もっと,more,mer
 20,,,n5,noun,物,もの,thing,sak
 ,,,n5,noun,門,もん,gate,port;grind
-,,,n5,noun,問題,もんだい,problem,problem
+14,,,n5,noun,問題,もんだい,problem,problem
 ,,,n5,noun,八百屋,やおや,greengrocer,grönsaksaffär
 ,,,n5,noun,野菜,やさい,vegetable,grönsak
 ,,hidden,n5,adjective,易しい,やさしい,simple,enkel

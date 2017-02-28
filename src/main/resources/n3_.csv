@@ -84,58 +84,62 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|市|いち|market, fair|marknad
 |||n3|noun|位置|いち|place, situation, position, location|plats,läge,lokal
 |||n3|noun|一時|いちじ|moment, time|ögonblick,tid
-||hidden|n3|other|一度に|いちどに|all at once
-||hidden|n3|other|市場|いちば|(the) market (as a concept)
-||hidden|n3|other|一番|いちばん|best, first, number one
-||hidden|n3|other|一家|いっか|a house, a home, a family, a household
-||hidden|n3|other|いつか|いつか|sometime, someday, one day
-||hidden|n3|other|一種|いっしゅ|a species, a kind, a variety
-||hidden|n3|other|一瞬|いっしゅん|a moment, an instant
-||hidden|n3|other|一生|いっしょう|whole life, a lifetime, all through life
-||hidden|n3|other|一層|いっそう|much more, still more, all the more
-||hidden|n3|other|一体|いったい|(1) one object, one body,(2) what on earth?, really?,(3) generally
-||hidden|n3|other|一致|いっち|(1) coincidence, agreement,(2) conformity
-||hidden|n3|other|いつでも|いつでも|(at) any time, always, at all times, never (neg)
-||hidden|n3|other|一般|いっぱん|general, liberal, universal, ordinary, average
-||hidden|n3|other|一方|いっぽう|(1) on the other hand,(2) meanwhile,(3) only, simple, in turn
-||hidden|n3|other|いつまでも|いつまでも|forever, for good, eternally, as long as one likes, indefinitely
-||hidden|n3|other|いつも|いつも|always, usually, every time, never (with neg. verb)
-||hidden|n3|other|移動|いどう|removal, migration, movement
-||hidden|n3|other|従兄弟|いとこ|cousin (male)
-||hidden|n3|other|稲|いね|rice-plant
-||hidden|n3|other|居眠り|いねむり|dozing, nodding off
-||hidden|n3|other|命|いのち|,life, destiny
-||hidden|n3|other|違反|いはん|violation (of law),transgression, infringement, breach
-||hidden|n3|other|衣服|いふく|clothes
-||hidden|n3|other|居間|いま|living room (western style)
-||hidden|n3|other|今に|いまに|before long, even now
-||hidden|n3|other|今にも|いまにも|at any time, soon
-||hidden|n3|other|否|いや|no, the nose
-||hidden|n3|other|以来|いらい|since, henceforth
-||hidden|n3|other|依頼|いらい|(1) request, commission, dispatch,(2) dependence, trust
-||hidden|n3|other|いらいら|いらいら|getting nervous, irritation
-||hidden|n3|other|いらっしゃい|いらっしゃい|welcome
-||hidden|n3|other|医療|いりょう|medical care, medical treatment
-||hidden|n3|other|岩|いわ|rock, crag
-||hidden|n3|other|祝い|いわい|celebration, festival
-||hidden|n3|other|祝う|いわう|to congratulate, to celebrate
-||hidden|n3|other|言わば|いわば|so to speak
-||hidden|n3|other|いわゆる|いわゆる|the so-called, so to speak
-||hidden|n3|other|印刷|いんさつ|printing
-||hidden|n3|other|印象|いんしょう|impression
-||hidden|n3|other|引退|いんたい|retire
-||hidden|n3|other|引用|いんよう|quotation, citation
-||hidden|n3|other|魚|うお|fish
-||hidden|n3|other|うがい|うがい|gargle, rinse mouth
-||hidden|n3|other|伺う|うかがう|(hon) to visit, to ask, to inquire
-||hidden|n3|other|受け取る|うけとる|to receive, to get, to accept, to take
-||hidden|n3|other|動かす|うごかす|to move, to shift
-||hidden|n3|other|兎|うさぎ|rabbit, hare
-||hidden|n3|other|牛|うし|cattle, cow
-||hidden|n3|other|失う|うしなう|to lose, to part with
-||hidden|n3|other|後ろ|うしろ|afterwards, since then, in the future, behind
-||hidden|n3|other|嘘|うそ|lie, falsehood, incorrect fact, inappropriate
-||hidden|n3|other|疑う|うたがう|to doubt, to distrust, to be suspicious of, to suspect
+|||n3|expression|一度に|いちどに|all at once|allt på en gång
+|||n3|noun|市場|いちば|(the) market (as a concept)|marknaden
+|||n3|adjective|一番|いちばん|best, first, number one|bäst,först,nummer ett
+|||n3|noun|一家|いっか|a house, a home, a family, a household|hus,hem,hushåll,familj
+|||n3|adverb|いつか|いつか|sometime, someday, one day|Någon gång i framtiden
+|||n3|noun|一種|いっしゅ|a species, a kind, a variety|art,sort,variant
+|||n3|noun|一瞬|いっしゅん|a moment, an instant|ögonblick
+|||n3|noun|一生|いっしょう|whole life, a lifetime, all through life|hela livet,en livstid
+|||n3|adverb|一層|いっそう|much more, still more, all the more|mycket mer
+|||n3|noun|一体|いったい|one object, one body|ett föremål,en kropp
+|||n3|interjection|一体|いったい|what on earth?, really?|vad i ...?
+|||n3|adverb|一体|いったい|generally|generellt
+|||n3|noun|一致|いっち|(1) coincidence, agreement,(2) conformity|sammanträffande
+|||n3|adverb|いつでも|いつでも|(at) any time, always, at all times, never (neg)|alltid
+|||n3|adjective|一般|いっぱん|general, liberal, universal, ordinary, average|allmän,vanlig,genomsnittlig
+|||n3|noun|一方|いっぽう|on the other hand|å andra sidan
+|||n3|adverb|一方|いっぽう|meanwhile|under tiden
+|||n3|adjective|一方|いっぽう|only, simple, in turn|enda,enkla
+|||n3|adverb|いつまでも|いつまでも|forever, for good, eternally, as long as one likes, indefinitely|för evigt
+|||n3|adverb|いつも|いつも|always, usually, every time, never (with neg. verb)|alltid,vanligtvis,varje gång
+|||n3|noun|移動|いどう|removal, migration, movement|borttagning,förflyttning
+|||n3|noun|従兄弟|いとこ|cousin (male)|kusin (manlig)
+|||n3|noun|稲|いね|rice-plant|risplanta
+|||n3|verb|居眠り|いねむり|dozing, nodding off|slumra till
+|||n3|noun|命|いのち|life, destiny|liv,öde
+|||n3|noun|違反|いはん|violation (of law),transgression, infringement, breach|lagbrott,överträdelse
+|||n3|noun|衣服|いふく|clothes|kläder
+|||n3|noun|居間|いま|living room (western style)|vardagsrum
+|||n3|adverb|今に|いまに|before long, even now|inom kort,nu
+|||n3|adverb|今にも|いまにも|at any time, soon
+|||n3|interjection|否|いや|no|nej
+|||n3|preposition|以来|いらい|since, henceforth|sedan
+|||n3|noun|依頼|いらい|(1) request, commission, dispatch,(2) dependence, trust|förfrågan,beroende,förtroende
+|||n3|noun|いらいら|いらいら|getting nervous, irritation|irratibilitet
+|||n3|interjection|いらっしゃい|いらっしゃい|welcome|välkommen
+|||n3|noun|医療|いりょう|medical care, medical treatment|sjukvård,behandling
+|||n3|noun|岩|いわ|rock, crag|stenbumling,klippa
+|||n3|noun|祝い|いわい|celebration, festival|firande,festival
+|||n3|verb|祝う|いわう|to congratulate, to celebrate|gratulera,fira
+|||n3|expression|言わば|いわば|so to speak|så att säga
+|||n3|expression|いわゆる|いわゆる|the so-called, so to speak|den så kallade
+|||n3|noun|印刷|いんさつ|printing|tryck
+|||n3|noun|印象|いんしょう|impression|intryck
+|||n3|noun|引退|いんたい|retirement|pensionering
+|||n3|noun|引用|いんよう|quotation, citation|citat
+|||n3|noun|魚|うお|fish|fisk
+|||n3|verb|うがい|うがい|gargle, rinse mouth|gurgla,skölja (munnen)
+|||n3|verb|伺う|うかがう|(hon) to visit, to ask, to inquire|besöka,fråga
+|||n3|verb|受け取る|うけとる|to receive, to get, to accept, to take|ta emot,få,acceptera,ta
+|||n3|verb|動かす|うごかす|to move, to shift|flytta sig
+|||n3|noun|兎|うさぎ|rabbit, hare|kanin,hare
+|||n3|noun|牛|うし|cattle, cow|boskap,ko
+|||n3|verb|失う|うしなう|to lose, to part with|tappa bort,förlora,göra sig av med
+|||n3|adverb|後ろ|うしろ|afterwards, since then, in the future, behind|efteråt,sedan,i framtiden,bakom
+|||n3|noun|嘘|うそ|lie, falsehood, incorrect fact, inappropriate|lögn,felaktig fakta
+|||n3|verb|疑う|うたがう|to doubt, to distrust, to be suspicious of, to suspect|tvivla,misstro,misstänka
 |||n3|noun|内|うち|inside|inuti
 |||n3|noun|宇宙|うちゅう|universe, cosmos, space|universum,kosmos,rymden
 |||n3|verb|撃つ|うつ|to attack, to defeat, to destroy|attackera,besegra,förstöra
@@ -156,40 +160,40 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 16|||n3|verb|運転する|うんてんする|operation, motion, driving, to drive|köra
 16|||n3|verb|運動する|うんどうする|motion, exercise, to exercise|motionera,träna
 |||n3|noun|柄|え|handle, grip|handtag
-||hidden|n3|other|永遠|えいえん|eternity, perpetuity, immortality, permanence
-||hidden|n3|other|永久|えいきゅう|eternity ,perpetuity, immortality
-||hidden|n3|other|影響|えいきょう|influence, effect
-||hidden|n3|other|営業|えいぎょう|business, trade, management
-||hidden|n3|other|衛星|えいせい|satellite
-||hidden|n3|other|栄養|えいよう|nutrition, nourishment
-||hidden|n3|other|笑顔|えがお|smiling face
-||hidden|n3|other|描く|えがく|to draw, to paint, to sketch, to depict, to describe
-||hidden|n3|other|餌|えさ|feed, bait
-||hidden|n3|other|得る|える|to get, to gain, to win
+|||n3|noun|永遠|えいえん|eternity, perpetuity, immortality, permanence|evighet,odödlighet
+|||n3|noun|永久|えいきゅう|eternity ,perpetuity, immortality|evighet,odödlighet
+|||n3|noun|影響|えいきょう|influence, effect|påverkan,effekt
+|||n3|noun|営業|えいぎょう|business, trade, management|affärer,handel,ledarskap
+|||n3|noun|衛星|えいせい|satellite|satellit
+|||n3|noun|栄養|えいよう|nutrition, nourishment|näring
+|||n3|noun|笑顔|えがお|smiling face|glatt ansikte
+|||n3|verb|描く|えがく|to draw, to paint, to sketch, to depict, to describe|rita,måla,avbilda,beskriva
+|||n3|noun|餌|えさ|feed, bait|foder,agn,lockbete
+|||n3|verb|得る|える|to get, to gain, to win|få,vinna
 |||n3|noun|円|えん|circle, money|yen,cirkel
-||hidden|n3|other|縁|えん|relation, connection, ties, fate
-||hidden|n3|other|延期|えんき|postponement, adjournment
-||hidden|n3|other|演技|えんぎ|acting, performance
-||hidden|n3|other|援助|えんじょ|assistance, aid, support
-||hidden|n3|other|演説|えんぜつ|speech, address
-||hidden|n3|other|演奏|えんそう|musical performance
-||hidden|n3|other|遠慮|えんりょ|diffidence, restraint, reserve
-||hidden|n3|other|御|お|honourable
-||hidden|n3|other|老い|おい|old age, old person, the old, the aged
-||hidden|n3|other|追い付く|おいつく|to overtake, to catch up (with)
-||hidden|n3|other|王|おう|king, ruler, sovereign, monarch
-||hidden|n3|other|追う|おう|to chase, to run after
-||hidden|n3|other|王様|おうさま|king
-||hidden|n3|other|王子|おうじ|prince
-||hidden|n3|other|応じる|おうじる|to respond, to satisfy, to accept, to comply with, to apply for
-||hidden|n3|other|横断|おうだん|crossing
-||hidden|n3|other|終える|おえる|to finish
-||hidden|n3|other|大いに|おおいに|very, much, greatly
-||hidden|n3|other|覆う|おおう|to cover, to hide, to conceal, to wrap, to disguise
-||hidden|n3|other|大家|おおや|rich family, distinguished family
-||hidden|n3|other|丘|おか|hill, height, knoll, rising ground
-||hidden|n3|other|沖|おき|open sea
-||hidden|n3|other|奥|おく|interior, inner part
+|||n3|noun|縁|えん|relation, connection, ties, fate|relation,koppling,öde
+|||n3|noun|延期|えんき|postponement, adjournment|framskjutning,bordläggning
+|||n3|noun|演技|えんぎ|acting, performance|spel,uppträdande
+|||n3|noun|援助|えんじょ|assistance, aid, support|hjälp,assistans
+|||n3|noun|演説|えんぜつ|speech, address|tal
+|||n3|noun|演奏|えんそう|musical performance|musikuppträdande
+|||n3|noun|遠慮|えんりょ|diffidence, restraint, reserve|blyghet,återhållsamhet
+|||n3|adjective|御|お|honourable|hedervärd
+|||n3|noun|老い|おい|old age, old person, the old, the aged|hög ålder,gamling,åldringarna
+|||n3|verb|追い付く|おいつく|to overtake, to catch up (with)|komma ifatt,komma förbi
+|||n3|noun|王|おう|king, ruler, sovereign, monarch|kung,härskare
+|||n3|verb|追う|おう|to chase, to run after|jag,springa efter
+|||n3|noun|王様|おうさま|king|kung
+|||n3|noun|王子|おうじ|prince|prins
+|||n3|verb|応じる|おうじる|to respond, to satisfy, to accept, to comply with, to apply for|svara,acceptera,uppfylla,ansöka
+|||n3|noun|横断|おうだん|crossing|övergång,överfart
+|||n3|verb|終える|おえる|to finish|avsluta
+|||n3|adverb|大いに|おおいに|very, much, greatly|storligen,väldigt
+|||n3|verb|覆う|おおう|to cover, to hide, to conceal, to wrap, to disguise|täcka,gömma,dölja
+|||n3|noun|大家|おおや|rich family, distinguished family|rikemansfamilj,framstående familj
+|||n3|noun|丘|おか|hill, height, knoll, rising ground|kulle
+|||n3|noun|沖|おき|open sea|öppet hav
+|||n3|noun|奥|おく|interior, inner part|interiör,insidan
 ||hidden|n3|other|贈る|おくる|to send, to give to, to award to, to confer on
 ||hidden|n3|other|起こる|おこる|to occur, to happen
 ||hidden|n3|other|幼い|おさない|very young, childish
@@ -214,38 +218,38 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adverb|主に|おもに|mainly, primarily|huvudsakligen,primärt
 |||n3|adverb|思わず|おもわず|unintentional, spontaneous|oavsiktlig,spontan
 |||n3|noun|泳ぎ|およぎ|swimming|simning
-||hidden|n3|other|およそ|およそ|about, roughly, as a rule, approximately
-||hidden|n3|other|及ぼす|およぼす|to exert, to cause, to exercise
-||hidden|n3|other|居る|おる|to be (animate),to be, to exist
-||hidden|n3|other|下す|おろす|to lower, to let go down
-||hidden|n3|other|降ろす|おろす|to take down, to launch, to drop
-||hidden|n3|other|音|おん|sound, note
-||hidden|n3|other|恩|おん|favour, obligation, debt of gratitude
-||hidden|n3|other|温暖|おんだん|warmth
-||hidden|n3|other|温度|おんど|temperature
-||hidden|n3|other|可|か|passable
-||hidden|n3|other|課|か|counter for chapters (of a book) section
-||hidden|n3|other|会|かい|meeting, assembly, party, association, club
+|||n3|adverb|およそ|およそ|about, roughly, as a rule, approximately|ungefär,i regel
+|||n3|verb|及ぼす|およぼす|to exert, to cause, to exercise|anstränga,orsaka,träna
+|||n3|verb|居る|おる|to be (animate),to be, to exist|vara,existera
+|||n3|verb|下す|おろす|to lower, to let go down|sänka,låta komma ner
+|||n3|verb|降ろす|おろす|to take down, to launch, to drop|ta ner,släppa,lansera
+|||n3|noun|音|おん|sound, note|ljud,not
+|||n3|noun|恩|おん|favour, obligation, debt of gratitude|tjänst,skyldighet,tacksamhetsskuld
+|||n3|noun|温暖|おんだん|warmth|värme
+|||n3|noun|温度|おんど|temperature|temperatur
+|||n3|adjective|可|か|passable|skaplig
+|||n3|counter|課|か|counter for chapters (of a book) section|kapitel (räknare)
+|||n3|noun|会|かい|meeting, assembly, party, association, club|möte,förening,klubb
 |13||n3|counter|回|かい|counter for occurrences|gånger (räknare)
-||hidden|n3|other|害|がい|injury, harm, evil influence, damage
-||hidden|n3|other|会員|かいいん|member, the membership
-||hidden|n3|other|絵画|かいが|picture, paintings
-||hidden|n3|other|海外|かいがい|foreign, abroad, overseas
-||hidden|n3|other|会計|かいけい|account, finance, accountant
-||hidden|n3|other|解決|かいけつ|settlement, solution, resolution
-||hidden|n3|other|会合|かいごう|meeting, assembly
-||hidden|n3|other|外交|がいこう|diplomacy
-||hidden|n3|other|開始|かいし|start, commencement, beginning
-||hidden|n3|other|解釈|かいしゃく|explanation, interpretation
-||hidden|n3|other|外出|がいしゅつ|outing, going out
-||hidden|n3|other|改善|かいぜん|betterment, improvement
-||hidden|n3|other|快適|かいてき|pleasant, agreeable, comfortable
-||hidden|n3|other|回復|かいふく|recovery (from illness),improvement, rehabilitation, restoration
-||hidden|n3|other|飼う|かう|to keep, to raise, to feed
-||hidden|n3|other|替える/換える|かえる|to exchange, to interchange, to substitute, to replace
-||hidden|n3|other|香り|かおり|aroma, fragrance, scent, smell
-||hidden|n3|other|画家|がか|painter, artist
-||hidden|n3|other|抱える|かかえる|to hold or carry under or in the arms
+|||n3|noun|害|がい|injury, harm, evil influence, damage|skada,harm
+|||n3|noun|会員|かいいん|member, the membership|medlem,medlemskap
+|||n3|noun|絵画|かいが|picture, paintings|bild,målning
+|||n3|adverb|海外|かいがい|foreign, abroad, overseas|utländsk
+|||n3|noun|会計|かいけい|account, finance, accountant|konto,finans,revisor
+|||n3|noun|解決|かいけつ|settlement, solution, resolution|uppgörelse,lösning
+|||n3|noun|会合|かいごう|meeting, assembly|möte,sammankomst
+|||n3|noun|外交|がいこう|diplomacy|diplomati
+|||n3|noun|開始|かいし|start, commencement, beginning|start,början
+|||n3|noun|解釈|かいしゃく|explanation, interpretation|förklaring,tolkning
+|||n3|noun|外出|がいしゅつ|outing, going out|utflykt
+|||n3|noun|改善|かいぜん|betterment, improvement|förbättring
+|||n3|adjective|快適|かいてき|pleasant, agreeable, comfortable|behaglig,bekväm
+|||n3|noun|回復|かいふく|recovery (from illness),improvement, rehabilitation, restoration|återhämning,rehabilitring
+|||n3|verb|飼う|かう|to keep, to raise, to feed|hålla,föda upp,mata
+|||n3|verb|替える/換える|かえる|to exchange, to interchange, to substitute, to replace
+|||n3|noun|香り|かおり|aroma, fragrance, scent, smell|arom,lukt,doft
+|||n3|noun|画家|がか|painter, artist|kostnär
+|||n3|verb|抱える|かかえる|to hold or carry under or in the arms|hålla under armarna
 |||n3|noun|価格|かかく|price, value, cost|pris,värde,kostnad
 |1||n3|noun|化学|かがく|chemistry|kemi
 |||n3|verb|輝く|かがやく|to shine, to glitter, to sparkle|skina,glittra
@@ -261,7 +265,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|確実|かくじつ|certainty, reliability, soundness|visshet,pålitlighet
 15|||n3|noun|学者|がくしゃ|scholar|lärd person
 |||n3|noun|学習|がくしゅう|study,learning|studier,lärande
-||hidden|n3|other|隠す|かくす|to hide,to conceal
+|||n3|verb|隠す|かくす|to hide,to conceal|gömma,dölja
 ||hidden|n3|other|拡大|かくだい|magnification, enlargement
 ||hidden|n3|other|確認|かくにん|affirmation, confirmation
 ||hidden|n3|other|学問|がくもん|scholarship, study, learning
@@ -297,21 +301,23 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|活動|かつどう|action,activity
 ||hidden|n3|other|活用|かつよう|conjugation,practical use
 |13||n3|verb|悲しむ|かなしむ|to be sad,to mourn for,to regret|vara ledsen,sörja
-||hidden|n3|other|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely
-||hidden|n3|other|かなり|かなり|considerably,fairly,quite
-||hidden|n3|other|金|かね|(1) gold,(2) gold general (shogi) (abbr)
-||hidden|n3|other|可能|かのう|possible,practicable,feasible
-||hidden|n3|other|株|かぶ|share,stock,stump (of tree)
-||hidden|n3|other|被る|かぶる|to put on , wear, cover (one's) head,
-||hidden|n3|other|構う|かまう|to mind,to care about,to be concerned about
-||hidden|n3|other|我慢|がまん|patience,endurance,perseverance
-||hidden|n3|other|上|かみ|(1) first volume,(2) superior quality,(3) governmental
-||hidden|n3|other|神|かみ|god
-||hidden|n3|other|雷|かみなり|thunder
-||hidden|n3|other|髪の毛|かみのけ|hair (head)
-||hidden|n3|other|科目|かもく|(school) subject,curriculum,course
-||hidden|n3|other|かもしれない|かもしれない|may,might,perhaps,may be,possibly
-||hidden|n3|other|火曜|かよう|(abbr) Tuesday
+|||n3|adverb|必ずしも|かならずしも|(not) always,(not) necessarily,(not) all,(not) entirely|alltid,nödvändigtvis,helt
+|||n3|adverb|かなり|かなり|considerably,fairly,quite|avsevärt,ganska
+|||n3|noun|金|かね|(1) gold,(2) gold general (shogi) (abbr)|guld,pengar
+|||n3|adjective|可能|かのう|possible,practicable,feasible|möjlig,genomförbar
+|||n3|noun|株|かぶ|share,stock,stump (of tree)|aktie,stubbe
+|||n3|verb|被る|かぶる|to put on , wear, cover (one's) head|ta på sig (huvud)
+|||n3|verb|構う|かまう|to mind,to care about,to be concerned about|bry sig,ora sig för
+|||n3|noun|我慢|がまん|patience,endurance,perseverance|tålamod,uthållighet
+|||n3|noun|上|かみ|first volume|första delen
+|||n3|adjective|上|かみ|superior quality|högsta kvalitet
+|||n3|adjective|上|かみ|governmental|statlig
+|||n3|noun|神|かみ|god|gud
+|||n3|noun|雷|かみなり|thunder|åska
+|||n3|noun|髪の毛|かみのけ|hair (head)|hår (huvud)
+|||n3|noun|科目|かもく|(school) subject,curriculum,course|ämne,kurs
+|||n3|adverb|かもしれない|かもしれない|may,might,perhaps,may be,possibly|kanske,möjligen
+|||n3|noun|火曜|かよう|(abbr) Tuesday|tisdag
 |||n3|adjective|空|から|empty|tom
 |||n3|noun|柄|がら|pattern|mönster
 |||n3|verb|刈る|かる|to cut (hair),to mow (grass),to harvest|klippa (hår),klippa (gräs),skörda
@@ -402,22 +408,23 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|競技|きょうぎ|game,match,contest|match,tävling
 |||n3|noun|行儀|ぎょうぎ|manners|uppförande,hyfs
 |||n3|noun|供給|きょうきゅう|supply,provision|förråd,proviant
-||hidden|n3|other|教師|きょうし|teacher (classroom)
-||hidden|n3|other|教授|きょうじゅ|teaching,instruction,professor
-||hidden|n3|other|強調|きょうちょう|emphasis,stress,stressed point
-||hidden|n3|other|共通|きょうつう|commonness,community
-||hidden|n3|other|共同|きょうどう|cooperation,association,collaboration,joint
-||hidden|n3|other|恐怖|きょうふ|be afraid,dread,dismay,terror
-||hidden|n3|other|協力|きょうりょく|cooperation,collaboration
-||hidden|n3|other|強力|きょうりょく|herculean strength,mountain carrier-guide
-||hidden|n3|other|さ|きょか|permission,approval
-||hidden|n3|other|局|きょく|a bureau, department
-||hidden|n3|other|極|きょく|a pole
-||hidden|n3|other|巨大|きょだい|huge,gigantic,enormous
-||hidden|n3|other|嫌う|きらう|to hate,to dislike,to loathe
-||hidden|n3|other|霧|きり|fog,mist
-||hidden|n3|other|切れ|きれ|cloth,piece,cut,chop
-||hidden|n3|other|切れる|きれる|(1) to cut well,to be sharp,(2) to break (off)
+|||n3|noun|教師|きょうし|teacher (classroom)|lärare
+|||n3|noun|教授|きょうじゅ|teaching,instruction,professor|utlärning,instruktion,professor
+|||n3|noun|強調|きょうちょう|emphasis,stress,stressed point|stresspunkt,belastning,betoning
+|||n3|noun|共通|きょうつう|commonness,community|gemenskap,samhälle
+|||n3|verb|共同|きょうどう|cooperation,association,collaboration,joint|samarbete
+|||n3|noun|恐怖|きょうふ|be afraid,dread,dismay,terror|rädsla,skräck
+|||n3|noun|協力|きょうりょく|cooperation,collaboration|samarbete
+|||n3|noun|強力|きょうりょく|herculean strength,mountain carrier-guide|styrka
+|||n3|noun|さ|きょか|permission,approval|tillstånd,godkännande
+|||n3|noun|局|きょく|a bureau, department|byrå,avdelning
+|||n3|noun|極|きょく|a pole|stake,påle
+|||n3|adjective|巨大|きょだい|huge,gigantic,enormous|enorm,gigantisk
+|||n3|verb|嫌う|きらう|to hate,to dislike,to loathe|hata,förakta
+|||n3|noun|霧|きり|fog,mist|dimma
+|||n3|noun|切れ|きれ|cloth,piece,cut,chop|trasa,bit
+|||n3|verb|切れる|きれる|to cut well,to be sharp|skarpslipad
+|||n3|verb|切れる|きれる|to break (off)|gå av
 |13||n3|noun||キロ|kilo-,kilogram,kilometre,10^3|kilo,km,kg,10^3
 ||hidden|n3|other|記録|きろく|record,minutes,document
 ||hidden|n3|other|議論|ぎろん|argument,discussion,dispute
@@ -571,12 +578,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|故障|こしょう|break-down,failure,accident,out of order
 ||hidden|n3|other|個人|こじん|individual,private person,personal,private
 ||hidden|n3|other|越す|こす|to go over (e.g. with audience)
-||hidden|n3|other|国家|こっか|state,country,nation
-||hidden|n3|other|国会|こっかい|National Diet,parliament,congress
-||hidden|n3|other|国境|こっきょう|national or state border
-||hidden|n3|other|骨折|こっせつ|bone fracture
+|||n3|noun|国家|こっか|state,country,nation|stat,land,nation
+|||n3|noun|国会|こっかい|National Diet,parliament,congress|parlament
+|||n3|noun|国境|こっきょう|national or state border|nationell gräns,statsgräns
+|||n3|noun|骨折|こっせつ|bone fracture|benfraktur
 |||n3|noun|小包|こづつみ|parcel,package|paket
-17||hidden|n3|other|事|こと|thing,matter,fact,circumstances
+17|||n3|noun|事|こと|thing,matter,fact,circumstances
 |||n3|verb|異なる|ことなる|to differ,to vary,to disagree|skilja sig,variera,inte hålla med
 |||n3|noun|諺|ことわざ|proverb,maxim|ordspråk
 |||n3|verb|断る|ことわる|to refuse,to decline,to dismiss|vägra,avböja
@@ -681,7 +688,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|事態|じたい|situation,present state of affairs
 ||hidden|n3|other|従う|したがう|to abide (by the rules),to obey,to follow,to accompany
 ||hidden|n3|other|したがって|したがって|therefore,consequently,in accordance with
-||hidden|n3|other|支度|したく・する|preparation, to prepare
+|||n3|noun|支度|したく|preparation|förberedelse
+|||n3|verb|支度する|したくする|to prepare|förbereda
 ||hidden|n3|other|親しい|したしい|intimate,close (e.g. friend)
 ||hidden|n3|other|七|しち・なな|seven
 ||hidden|n3|other|質|しつ|quality,nature (of person)
@@ -728,18 +736,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|週間|しゅうかん|week,weekly
 |||n3|noun|宗教|しゅうきょう|religion,religion
 |||n3|noun|重視|じゅうし|importance,stress,serious consideration|betydelse,viktighet
-|17||n3|noun|就職|しゅうしょく|finding employment,inauguration|söka jobb
+|17||n3|verb|就職|しゅうしょく|finding employment,inauguration|söka jobb
 |17||n3|verb|就職する|しゅうしょくする|get a job|ta anställning
 |||n3|noun|修正|しゅうせい|amendment,correction,revision,modification|tillägg,rättelse,revision
 |||n3|noun|渋滞|じゅうたい|congestion (e.g. traffic),delay,stagnation|stockning,försening
-||hidden|n3|other|重大|じゅうだい|serious,important,grave,weighty
-||hidden|n3|other|住宅|じゅうたく|resident,housing
-||hidden|n3|other|集団|しゅうだん|group,mass
-||hidden|n3|other|集中|しゅうちゅう|concentration,focusing the mind
-||hidden|n3|other|収入|しゅうにゅう|income,receipts,revenue
-||hidden|n3|other|住民|じゅうみん|citizens,inhabitants,residents,population
-||hidden|n3|other|重要|じゅうよう|important, momentous, essential, principal, major
-||hidden|n3|other|修理|しゅうり|repairing,mending
+|||n3|adjective|重大|じゅうだい|serious,important,grave,weighty|viktig,seriös,grav
+|||n3|noun|住宅|じゅうたく|resident,housing|bostad
+|||n3|noun|集団|しゅうだん|group,mass|grupp,massa
+|||n3|noun|集中|しゅうちゅう|concentration,focusing the mind|koncentration,fokus
+|||n3|noun|収入|しゅうにゅう|income,receipts,revenue|inkomst,intäkt
+|||n3|noun|住民|じゅうみん|citizens,inhabitants,residents,population|invånare,befolkning
+|||n3|adjective|重要|じゅうよう|important, momentous, essential, principal, major|viktig,huvudsaklig
+|||n3|noun|修理|しゅうり|repairing,mending|reparation,lagning
 |||n3|noun|主義|しゅぎ|doctrine,rule,principle|doktrin,regel,princip
 |||n3|noun|宿泊|しゅくはく|lodging|boende
 |||n3|noun|手術|しゅじゅつ|surgical operation|operation
@@ -776,29 +784,31 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|条件|じょうけん|conditions,terms|villkor
 19|||n3|noun|正午|しょうご|noon,mid-day|middag (tid)
 |||n3|noun|正直|しょうじき|honesty,integrity,frankness|ärlighet,uppriktighet
-||hidden|n3|other|常識|じょうしき|common sense
-||hidden|n3|other|少女|しょうじょ|daughter,young lady,virgin,maiden,little girl
-||hidden|n3|other|少々|しょうしょう|just a minute,small quantity
-||hidden|n3|other|症状|しょうじょう|symptoms,condition
-||hidden|n3|other|生じる|しょうじる|to produce,to yield,to result from,to arise,to be generated
-||hidden|n3|other|状態|じょうたい|condition,situation,circumstances,state
-||hidden|n3|other|招待|しょうたい・する|invitation, to invite
-||hidden|n3|other|上達|じょうたつ|improvement,advance,progress
-||hidden|n3|other|冗談|じょうだん|jest,joke
-||hidden|n3|other|承知|しょうち・する|consent,acceptance,assent,admitting, to consent
-||hidden|n3|other|上等|じょうとう|superiority,first class,very good
-||hidden|n3|other|衝突|しょうとつ|collision,conflict
-||hidden|n3|other|商人|しょうにん|trader,shopkeeper,merchant
-||hidden|n3|other|承認|しょうにん|recognition,acknowledgement,approval,consent,agreement
-||hidden|n3|other|少年|しょうねん|boys,juveniles
-||hidden|n3|other|商売|しょうばい|trade,business,commerce,transaction,occupation
-||hidden|n3|other|消費|しょうひ|consumption,expenditure
-||hidden|n3|other|商品|しょうひん|commodity,article of commerce,goods,stock,merchandise
-||hidden|n3|other|消防|しょうぼう|fire fighting,fire department
-||hidden|n3|other|情報|じょうほう|information,(military) intelligence
-||hidden|n3|other|証明|しょうめい|proof,verification
-||hidden|n3|other|女王|じょおう|queen
-||hidden|n3|other|職|しょく|employment
+|||n3|noun|常識|じょうしき|common sense|sunt förnuft
+|||n3|noun|少女|しょうじょ|daughter,young lady,virgin,maiden,little girl|fröken,ungmö,småflicka,dotter
+|||n3|noun|少々|しょうしょう|just a minute,small quantity|ett ögonblick,liten kvantitet
+|||n3|noun|症状|しょうじょう|symptoms,condition|symptom,tillstånd
+|||n3|verb|生じる|しょうじる|to produce,to yield,to result from,to arise,to be generated|producera,resultera i,genereras
+|||n3|noun|状態|じょうたい|condition,situation,circumstances,state|tillstånd,förhållanden,omständigheter
+|||n3|noun|招待|しょうたい|invitation|inbjudan
+|||n3|verb|招待する|しょうたいする|to invite|bjuda in
+|||n3|noun|上達|じょうたつ|improvement,advance,progress|förbättring,framsteg
+|||n3|noun|冗談|じょうだん|jest,joke|skämt,gyckel
+|||n3|noun|承知|しょうち|consent,acceptance,assent,admitting|samtycke
+|||n3|verb|承知する|しょうちする|to consent|samtycka
+|||n3|noun|上等|じょうとう|superiority,first class,very good|första klassens,överlägsen
+|||n3|noun|衝突|しょうとつ|collision,conflict|kollision,konflikt
+|||n3|noun|商人|しょうにん|trader,shopkeeper,merchant|handelsman,handlare
+|||n3|noun|承認|しょうにん|recognition,acknowledgement,approval,consent,agreement|medhåll,godkännande
+|||n3|noun|少年|しょうねん|boys,juveniles|pojke
+|||n3|noun|商売|しょうばい|trade,business,commerce,transaction,occupation|yrke,kommers,affärer,handel
+|||n3|noun|消費|しょうひ|consumption,expenditure|konsumtion,kostnad
+|||n3|noun|商品|しょうひん|commodity,article of commerce,goods,stock,merchandise|bruksartikel,gods,lager,vara
+|||n3|noun|消防|しょうぼう|fire fighting,fire department|brandbekämpning,brandkår
+|||n3|noun|情報|じょうほう|information,(military) intelligence|information,underrättelse
+|||n3|noun|証明|しょうめい|proof,verification|bevis,bekräftelse
+|||n3|noun|女王|じょおう|queen|drottning
+|||n3|noun|職|しょく|employment|anställning
 |||n3|noun|職業|しょくぎょう|occupation,business|yrke
 17|||n3|noun|食事|しょくじ|meal|måltid
 17|||n3|verb|食事する|しょくじする|to have a meal|äta ett mål
@@ -834,18 +844,19 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|信じる|しんじる|to believe,to place trust in|tro,lita på
 |||n3|noun|人生|じんせい|(human) life (i.e. conception to death)|livstid
 |16||n3|noun|親戚|しんせき|relative|släkting
-||hidden|n3|other|新鮮|しんせん|fresh
-||hidden|n3|other|心臓|しんぞう|heart (organ)
-||hidden|n3|other|身体|しんたい|the body
-||hidden|n3|other|身長|しんちょう|height (of body),stature
-||hidden|n3|other|慎重|しんちょう|discretion,prudence
-||hidden|n3|other|心配|しんぱい・する|worry,concern,anxiety,care, to worry
-||hidden|n3|other|審判|しんぱん|refereeing,trial,judgement,umpire,referee
-||hidden|n3|other|人物|じんぶつ|character,personality,person,man,personage,talented man
-||hidden|n3|other|進歩|しんぽ|progress,development
-||hidden|n3|other|親友|しんゆう|close friend,buddy
-||hidden|n3|other|信用|しんよう|confidence,dependence,credit,faith
-||hidden|n3|other|信頼|しんらい|reliance,trust,confidence
+|||n3|adjective|新鮮|しんせん|fresh|färsk
+|||n3|noun|心臓|しんぞう|heart (organ)|hjärta
+|||n3|noun|身体|しんたい|the body|kroppen
+|||n3|noun|身長|しんちょう|height (of body),stature|längd,hållning
+|||n3|noun|慎重|しんちょう|discretion,prudence|diskretion
+|||n3|noun|心配|しんぱい|worry,concern,anxiety,care|oro,omtanke
+|||n3|verb|心配する|しんぱいする|to worry|oroa sig
+|||n3|noun|審判|しんぱん|refereeing,trial,judgement,umpire,referee|rättegång,dom,domare
+|||n3|noun|人物|じんぶつ|character,personality,person,man,personage,talented man|person,begåvad man,personlighet,karaktär
+|||n3|noun|進歩|しんぽ|progress,development|framsteg,utveckling
+|||n3|noun|親友|しんゆう|close friend,buddy|kompis
+|||n3|noun|信用|しんよう|confidence,dependence,credit,faith|förtroende,beroende
+|||n3|noun|信頼|しんらい|reliance,trust,confidence|beroende,förtroende,förlitan
 |||n3|noun|心理|しんり|psychology, mental state|psykologi,mentalt tillstånd
 |||n3|noun|人類|じんるい|mankind,humanity|mänskligheten
 |||n3|noun|州|す|sandbank|sandbank
@@ -938,7 +949,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|全体|ぜんたい|whole,entirety,whatever (is the matter)|allt
 |||n3|noun|選択|せんたく|selection,choice|urval
 |||n3|adverb|そう|そう|so|så
-|13||n3|other|象|ぞう|elephant|elefant
+|13||n3|noun|象|ぞう|elephant|elefant
 |||n3|noun|騒音|そうおん|noise|brus,oväsen
 |||n3|noun|増加|ぞうか|increase,addition|ökning,tillägg
 |||n3|noun|操作|そうさ|operation,management,processing|drift,förvaltning
@@ -947,7 +958,7 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|想像|そうぞう|imagination,guess|fantasi,gissning
 |||n3|noun|相続|そうぞく|succession,inheritance|tronföljd,arv
 |14||n3|verb|相談する|そうだんする|to consult, to discuss|konsultera,diskutera
-|14||n3|noun|相談|そうだん|consultation,discussion|konsultation,diskusion
+|14||n3|verb|相談|そうだん|consultation,discussion|konsultation,diskusion
 |||n3|noun|装置|そうち|equipment,installation,apparatus|utrustning,installation,anordning
 |||n3|noun|相当|そうとう|suitable,fair,tolerable,proper|passande,skälig,tolerabel
 ||hidden|n3|other|速度|そくど|speed,velocity,rate
@@ -1069,18 +1080,18 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adverb|近頃|ちかごろ|lately,recently,nowadays|nuförtiden,nyligen
 |||n3|noun|地球|ちきゅう|the earth|jorden
 |||n3|noun|地区|ちく|district,section,sector|distrikt,sektor
-||hidden|n3|other|遅刻|ちこく|lateness,late coming
-||hidden|n3|other|知事|ちじ|prefectural governor
-||hidden|n3|other|知識|ちしき|knowledge,information
-||hidden|n3|other|父親|ちちおや|father
-||hidden|n3|other|知能|ちのう|intelligence,brains
-||hidden|n3|other|地平線|ちへいせん|horizon
-||hidden|n3|other|地方|ちほう|area,locality,district,region,the coast
-||hidden|n3|other|茶|ちゃ|tea
-||hidden|n3|other|ちゃんと|ちゃんと|perfectly,properly,exactly
-||hidden|n3|other|中|ちゅう|inside,middle,among
-||hidden|n3|other|注|ちゅう|annotation,explanatory note
-||hidden|n3|other|中央|ちゅうおう|centre,central,center,middle
+|||n3|adverb|遅刻|ちこく|lateness,late coming|senfärdighet
+|||n3|noun|知事|ちじ|prefectural governor|prefekturguvernör
+|||n3|noun|知識|ちしき|knowledge,information|kunskap,information
+|||n3|noun|父親|ちちおや|father|pappa
+|||n3|noun|知能|ちのう|intelligence,brains|intellekt,förstånd
+|||n3|noun|地平線|ちへいせん|horizon|horisont
+|||n3|noun|地方|ちほう|area,locality,district,region,the coast|område,distrikt,region,kusten
+|||n3|noun|茶|ちゃ|tea|tea
+|||n3|adverb|ちゃんと|ちゃんと|perfectly,properly,exactly|perfekt,korrekt,exakt
+|||n3|adjective|中|ちゅう|inside,middle,among|på insidan,i mitten,bland
+|||n3|noun|注|ちゅう|annotation,explanatory note|annotering,förklarande anteckning
+|||n3|noun|中央|ちゅうおう|centre,central,center,middle|mitten,centrum
 |||n3|noun|中学|ちゅうがく|middle school,junior high school,högstadieskola
 |||n3|adjective|中古|ちゅうこ|(1) used,second-hand,old|begagnad,gammal
 16|||n3|noun|中止|ちゅうし|suspension, stoppage, discontinuance, interruption|stopp,avbrott
@@ -1352,17 +1363,17 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|発明|はつめい|invention|uppfinning,innovation
 |||n3|verb|話し合う|はなしあう|to discuss,to talk together|diskutera
 |||n3|verb|離す|はなす|to part,divide,separate|dela,separera
-||hidden|n3|other|放す|はなす|to separate,to set free
-||hidden|n3|other|離れる|はなれる|to be separated from,to leave,to go away,to be a long way off
-||hidden|n3|other|羽|はね|counter for birds,counter for rabbits
-||hidden|n3|other|幅|はば|width,breadth
-||hidden|n3|other|母親|ははおや|mother
-||hidden|n3|other|省く|はぶく|to omit,to eliminate,to curtail,to economize
-||hidden|n3|other|場面|ばめん|scene,setting (e.g. of novel)
-||hidden|n3|other|腹|はら|abdomen,belly,stomach
-||hidden|n3|other|原|はら|field,plain,prairie,tundra,moor,wilderness
-||hidden|n3|other|針|はり|needle,hand (e.g. clock)
-||hidden|n3|other|張る|はる|to stick,to paste
+|||n3|verb|放す|はなす|to separate,to set free|frigöra,befria
+|||n3|verb|離れる|はなれる|to be separated from,to leave,to go away,to be a long way off|skiljas från,lämna,försvinna
+14|||n3|counter|羽|はね|counter for birds,counter for rabbits|fåglar (räknare),kaniner (räknare)
+|||n3|noun|幅|はば|width,breadth|bredd
+|||n3|noun|母親|ははおや|mother|mamma
+|||n3|verb|省く|はぶく|to omit,to eliminate,to curtail,to economize|utelämna,eliminera
+|||n3|noun|場面|ばめん|scene,setting (e.g. of novel)|scen
+|||n3|noun|腹|はら|abdomen,belly,stomach|mage
+|||n3|noun|原|はら|field,plain,prairie,tundra,moor,wilderness|fält,prärie,tundra,vildmark
+|||n3|noun|針|はり|needle,hand (e.g. clock)|nål,visare,fiskkrok
+|||n3|verb|張る|はる|to stick,to paste|sätta, klistra
 |15||n3|noun|番|ばん|counter for a number,nummer (räknare)
 ||hidden|n3|other|範囲|はんい|extent,scope,sphere,range
 ||hidden|n3|other|反抗|はんこう|opposition,resistance
@@ -1395,30 +1406,30 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|批評|ひひょう|criticism,review,commentary|kritik,recension
 |17||n3|noun|秘密|ひみつ|secret,secrecy|hemlighet
 |||n3|adjective|微妙|びみょう|delicate,subtle|ömtålig,subtil
-|||n3|noun|紐|ひも|(1) string,cord,(2) pimp|snöre;hallick
-||hidden|n3|other|表|ひょう|table (e.g. Tab 1),chart,list
-||hidden|n3|other|費用|ひよう|cost,expense
-||hidden|n3|other|秒|びょう|second (60th min)
-||hidden|n3|other|評価|ひょうか|valuation,estimation,assessment,evaluation
-||hidden|n3|other|表現|ひょうげん|expression,presentation,representation (math)
-||hidden|n3|other|表情|ひょうじょう|facial expression
-||hidden|n3|other|平等|びょうどう|equality (a),impartiality,evenness
-||hidden|n3|other|評判|ひょうばん|fame,reputation,popularity,arrant
-||hidden|n3|other|表面|ひょうめん|surface,outside,face,appearance
-||hidden|n3|other|広がる|ひろがる|to spread (out),to extend,to stretch,to reach to,to get around
-||hidden|n3|other|品|ひん|elegance, grace, dignity,
-||hidden|n3|other|瓶|びん|bottle
-||hidden|n3|other|便|びん|way,means
-||hidden|n3|other|不|ふ|un,non,negative prefix
-||hidden|n3|other|無|ぶ|nothing,naught,nil,zero
-||hidden|n3|other|分|ぶ|dividing,part
-||hidden|n3|other|不安|ふあん|anxiety,uneasiness,insecurity,suspense
+|||n3|noun|紐|ひも|(1) string,cord,(2) pimp|snöre,hallick
+|||n3|noun|表|ひょう|table (e.g. Tab 1),chart,list|tabell,lista
+|||n3|noun|費用|ひよう|cost,expense|kostnad,utgift
+|||n3|noun|秒|びょう|second (60th min)|sekund
+|||n3|noun|評価|ひょうか|valuation,estimation,assessment,evaluation|värdering,utvärdering
+|||n3|noun|表現|ひょうげん|expression,presentation,representation (math)|uttryck,presentation
+|||n3|noun|表情|ひょうじょう|facial expression|ansiktsuttryck
+|||n3|noun|平等|びょうどう|equality (a),impartiality,evenness|jämlikhet,opartiskhet
+|||n3|noun|評判|ひょうばん|fame,reputation,popularity,arrant|berömmelse,rykte,popularitet
+|||n3|noun|表面|ひょうめん|surface,outside,face,appearance|yta,utsida
+|||n3|verb|広がる|ひろがる|to spread (out),to extend,to stretch,to reach to,to get around|sprida ut sig,sträcka ut
+|||n3|noun|品|ひん|goods,article|gods,artikel
+|||n3|noun|瓶|びん|bottle|flaska
+|||n3|noun|便|びん|way,means|sätt,medel
+|||n3|prefix|不|ふ|un,non,negative prefix|anti-,o-,icke-
+|||n3|noun|無|ぶ|nothing,naught,nil,zero|ingenting,noll
+|||n3|noun|分|ぶ|dividing,part|del,delning
+|||n3|noun|不安|ふあん|anxiety,uneasiness,insecurity,suspense|oro,osäkerhet
 |||n3|noun|風景|ふうけい|scenery|landskap
 |14||n3|noun|夫婦|ふうふ|married couple,husband and wife|gift par
 |||n3|noun|笛|ふえ|flute,pipe|flöjt
 |||n3|adjective|不可|ふか|wrong,bad,improper,unjustifiable,inadvisable|fel,dålig,olämplig,oförsvarlig
 |||n3|noun|武器|ぶき|weapon,arms,ordinance|vapen,krigsmaterial
-||hidden|n3|other|服装|ふくそう|dress, clothes
+|||n3|noun|服装|ふくそう|dress, clothes|klädsel, kläder
 ||hidden|n3|other|含む|ふくむ|to hold in the mouth,to bear in mind
 ||hidden|n3|other|袋|ふくろ|bag,sack
 ||hidden|n3|other|不幸|ふこう|unhappiness,sorrow,misfortune,disaster,accident,death
@@ -1464,7 +1475,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|verb|減らす|へらす|to abate,to decrease,to diminish,to shorten|avta,minska,kortas
 ||hidden|n3|other|減る|へる|to decrease (in size or number),to diminish,to abate
 ||hidden|n3|other|変化|へんか|goblin,ghost,apparition,bugbear
-||hidden|n3|other|勉強/勉強する|べんきょう・する|study, work, to study, to sell (a thing) cheap
+|||n3|noun|勉強/勉強|べんきょう|study, work|studier,arbete
+|||n3|verb|勉強/勉強する|べんきょうする|to study, to sell (a thing) cheap|studera,sälja billigt
 ||hidden|n3|other|変更|へんこう|change,modification,alteration
 ||hidden|n3|other|弁当|べんとう|box lunch
 ||hidden|n3|other|方|ほう|side
@@ -1474,7 +1486,8 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|方向|ほうこう|direction,course,way
 ||hidden|n3|other|報告|ほうこく|report,information
 ||hidden|n3|other|宝石|ほうせき|gem,jewel
-||hidden|n3|other|放送/放送する|ほうそう・する|broadcast,　broadcasting, to broadcast
+|||n3|noun|放送,放送|ほうそう|broadcast,　broadcasting|sändning
+|||n3|verb|放送する,放送する|ほうそうする|to broadcast|sända
 ||hidden|n3|other|豊富|ほうふ|abundance,wealth,plenty,bounty
 ||hidden|n3|other|方法|ほうほう|method,manner,way,means,technique
 ||hidden|n3|other|方々|ほうぼう|persons,this and that,here and there,everywhere
@@ -1499,34 +1512,34 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |18||n3|noun|本当|ほんとう,ほんと|truth,reality|sanning,verklighet
 |18||n3|interjection|本当に|ほんとうに,ほんとに|really|verkligen
 |||n3|noun|本人|ほんにん|the person himself|själva personen
-||hidden|n3|other|本物|ほんもの|genuine article
-||hidden|n3|other|ぼんやり|ぼんやり|absent-minded,block-head,dim,faint,vague
-||hidden|n3|other|間|ま|space,room,time,pause
-||hidden|n3|other|まあ|まあ|(female) you might say
-||hidden|n3|other|マイク|マイク|mike
-||hidden|n3|other|迷子|まいご|lost (stray) child
-||hidden|n3|other|任せる|まかせる|to entrust to another,to leave to
-||hidden|n3|other|幕|まく|curtain,bunting,act (in play)
-||hidden|n3|other|負け|まけ|defeat,loss,losing (a game)
-||hidden|n3|other|孫|まご|grandchild
-||hidden|n3|other|まさか|まさか|nonsense, that's impossible,
-||hidden|n3|other|まさに|まさに|correctly, surely
-||hidden|n3|other|真面目|まじめ|diligent,serious,honest
+|||n3|noun|本物|ほんもの|genuine article|äkta vara
+|||n3|adjective|ぼんやり|ぼんやり|absent-minded,block-head,dim,faint,vague|tankspridd,svag,vag
+|||n3|noun|間|ま|space,room,time,pause|mellanrum,utrymme,paus
+||hidden|n3|expression|まあ|まあ|(female) you might say|skulle man kunna säga
+|||n3|noun|マイク|マイク|mike|mikrofon
+|||n3|noun|迷子|まいご|lost (stray) child|borttappat barn
+|||n3|verb|任せる|まかせる|to entrust to another,to leave to|anförtro
+|||n3|noun|幕|まく|curtain,bunting,act (in play)|ridå,akt,flaggduk
+|||n3|noun|負け|まけ|defeat,loss,losing (a game)
+|||n3|noun|孫|まご|grandchild|barnbarn
+|||n3|adverb|まさか|まさか|nonsense, that's impossible|nonsens,aldrig
+|||n3|adverb|まさに|まさに|correctly, surely|korrekt,säkert
+|||n3|adjective|真面目|まじめ|diligent,serious,honest|flitig,seriös,ärlig
 |||n3|verb|増す|ます|to increase,to grow|öka,växa
 |18||n3|adverb|先ず|まず|first (of all),to start with,about,almost,hardly (with neg. verb)|för det första
 |||n3|adjective|貧しい|まずしい|poor, needy|fattig,behövande
-||hidden|n3|other|ますます|ますます|increasingly,more and more
-||hidden|n3|other|又|また|again,and
-||hidden|n3|other|未だ|まだ|yet,still,more,besides
-||hidden|n3|other|街|まち|(1) town, city
-||hidden|n3|other|間違い|まちがい|mistake
-||hidden|n3|other|松|まつ|(1) pine tree,(2) highest (of a three-tier ranking system)
-||hidden|n3|other|真っ赤|まっか|deep red,flushed (of face)
-||hidden|n3|other|真っ直ぐ|まっすぐ|straight (ahead),direct,upright
-||hidden|n3|other|全く|まったく|really,truly,entirely,completely
-||hidden|n3|other|祭|まつり|festival,feast
-||hidden|n3|other|学ぶ|まなぶ|to study (in depth),to learn,to take lessons in
-||hidden|n3|other|真似|まね|mimicry,imitation,behavior,pretense
+|||n3|adverb|ますます|ますます|increasingly,more and more|alltmer
+|||n3|adverb|又|また|again,and also|igen,också
+|||n3|mada|未だ|まだ|yet,still,more,besides|än,fortfarande,förutom
+|||n3|noun|街|まち|(1) town, city|stad
+|||n3|noun|間違い|まちがい|mistake|misstag
+|||n3|noun|松|まつ|(1) pine tree,(2) highest (of a three-tier ranking system)|tall,högsta av tre lager
+|||n3|adjective|真っ赤|まっか|deep red,flushed (of face)|djupt röd,röd (i ansiktet)
+|||n3|adjective|真っ直ぐ|まっすぐ|straight (ahead),direct,upright|rakt fram
+|||n3|adverb|全く|まったく|really,truly,entirely,completely|helt och hållet,verkligen
+|||n3|noun|祭|まつり|festival,feast|festival,fest
+|||n3|verb|学ぶ|まなぶ|to study (in depth),to learn,to take lessons in|studera,lära sig,ta lektioner
+|||n3|noun|真似|まね|mimicry,imitation,behavior,pretense|härmning,beteende,sken av
 |||n3|verb|招く|まねく|to invite|bjuda in
 15|||n3|noun|豆|まめ|beans,peas|böna,ärta
 |||n3|verb|守る|まもる|to protect,to obey,to guard,to abide (by the rules)|skydda,lyda,vakta,följa reglerna
@@ -1612,32 +1625,34 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|役割|やくわり|part,assigning (allotment of) parts,role,duties|del,roll
 |18||n3|noun|家賃|やちん|rent|hyra
 |||n3|noun|厄介|やっかい|trouble,burden,care,bother|besvär,börda
-||hidden|n3|other|宿|やど|inn,lodging
-||hidden|n3|other|雇う|やとう|to employ,to hire
-||hidden|n3|other|屋根|やね|roof
-||hidden|n3|other|やはり|やはり|also,as I thought,still,in spite of,absolutely,of course
-||hidden|n3|other|破る|やぶる|to tear,to violate,to defeat,to smash,to destroy
-||hidden|n3|other|辞める|やめる|to retire
-||hidden|n3|other|やや|やや|a little,partially,somewhat,a short time,a while
-||hidden|n3|other|唯一|ゆいいつ|only,sole,unique
-||hidden|n3|other|言う|ゆう|to say
-||hidden|n3|other|勇気|ゆうき|courage,bravery,valour,nerve,boldness
-||hidden|n3|other|有効|ゆうこう|validity,availability,effectiveness
-||hidden|n3|other|優秀|ゆうしゅう|superiority,excellence
-||hidden|n3|other|優勝|ゆうしょう|overall victory,championship
-||hidden|n3|other|友情|ゆうじょう|friendship,fellowship
-||hidden|n3|other|友人|ゆうじん|friend
-||hidden|n3|other|有能|ゆうのう|able,capable,efficient,skill
-||hidden|n3|other|郵便|ゆうびん|mail,postal service
-||hidden|n3|other|夕べ|ゆうべ|evening
-||hidden|n3|other|有利|ゆうり|advantageous,better,profitable,lucrative
-||hidden|n3|other|床|ゆか|floor
-||hidden|n3|other|愉快|ゆかい|pleasant,happy
-||hidden|n3|other|輸出|ゆしゅつ・する|export, to export
-||hidden|n3|other|譲る|ゆずる|to turn over,to assign,to hand over
-||hidden|n3|other|豊か|ゆたか|abundant,wealthy,plentiful,rich
-||hidden|n3|other|ゆっくり|ゆっくり/と|slowly,at ease
-||hidden|n3|other|輸入|ゆにゅう・する|importation,import,introduction, to import
+|||n3|noun|宿|やど|inn,lodging|gäsgiveri,logi
+|||n3|verb|雇う|やとう|to employ,to hire|anställa,hyra
+|||n3|noun|屋根|やね|roof|tak
+|||n3|adverb|やはり|やはり|also,as I thought,still,in spite of,absolutely,of course|också,fortfarande,självklart,som jag trodde
+|||n3|verb|破る|やぶる|to tear,to violate,to defeat,to smash,to destroy|riva sönder,besegra,krossa,förstöra
+|||n3|verb|辞める|やめる|to retire|sluta,dra sig tillbaka
+|||n3|adverb|やや|やや|a little,partially,somewhat,a short time,a while|något,en liten stund,delvis
+|||n3|adverb|唯一|ゆいいつ|only,sole,unique|endaste,enda
+|||n3|verb|言う|ゆう|to say|säga
+|||n3|noun|勇気|ゆうき|courage,bravery,valour,nerve,boldness|mod,tapperhet,dristighet
+|||n3|noun|有効|ゆうこう|validity,availability,effectiveness|tillgänglighet,giltighet,effektivitet
+|||n3|noun|優秀|ゆうしゅう|superiority,excellence|överlägsenhet,förträfflighet
+|||n3|noun|優勝|ゆうしょう|overall victory,championship|totalseger,mästerskap
+|||n3|noun|友情|ゆうじょう|friendship,fellowship|vänskap,brödraskap
+|||n3|noun|友人|ゆうじん|friend|vän
+|||n3|adjective|有能|ゆうのう|able,capable,efficient,skill|kapabel,effektiv
+|||n3|noun|郵便|ゆうびん|mail,postal service|post,posttjänster
+|||n3|noun|夕べ|ゆうべ|evening|kväll
+|||n3|adjective|有利|ゆうり|advantageous,better,profitable,lucrative|fördelaktig,lukrativ
+|||n3|noun|床|ゆか|floor|golv
+|||n3|adjective|愉快|ゆかい|pleasant,happy|behaglig,glas
+|||n3|noun|輸出|ゆしゅつ|export|export
+|||n3|verb|輸出する|ゆしゅつする|to export|exportera
+|||n3|verb|譲る|ゆずる|to turn over,to assign,to hand over|lämna över,tilldela
+|||n3|adjective|豊か|ゆたか|abundant,wealthy,plentiful,rich|rik,ymnig,överflödande
+|||n3|adverb|ゆっくり|ゆっくり/と|slowly,at ease|långsamt,lugnt och stilla
+|||n3|noun|輸入|ゆにゅう|importation,import,introduction|import,introduktion
+|||n3|verb|輸入する|ゆにゅうする|to import|importera
 ||hidden|n3|other|許す|ゆるす|to permit, to allow, to approve, to forgive
 ||hidden|n3|other|夜|よ|evening,night
 ||hidden|n3|other|夜明け|よあけ|dawn,daybreak
@@ -1684,16 +1699,17 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|adjective|立派|りっぱ|splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate|vacker,elegant,ståtlig
 17|||n3|verb|留学する|りゅうがくする|study abroad|studera utomlands
 |||n3|noun|流行|りゅうこう|fashionable,fad,in vogue,prevailing|mode,trend
-||hidden|n3|other|量|りょう|quantity,amount,volume,portion (of food)
-||hidden|n3|other|両替|りょうがえ|change,money exchange
-||hidden|n3|other|料金|りょうきん|fee,charge,fare
-||hidden|n3|other|例|れい|instance,example,case
-||hidden|n3|other|礼|れい|expression of gratitude
-||hidden|n3|other|礼儀|れいぎ|manners,courtesy,etiquette
-||hidden|n3|other|冷静|れいせい|calm,composure,coolness,serenity
-||hidden|n3|other|列|れつ|queue,line,row
-||hidden|n3|other|列車|れっしゃ|train (ordinary)
-||hidden|n3|other|練習|れんしゅう・する|practice, to practice
+|||n3|noun|量|りょう|quantity,amount,volume,portion (of food)|kvantitet,antal,volym,andel
+|||n3|noun|両替|りょうがえ|change,money exchange|växel,valutaväxling
+|||n3|noun|料金|りょうきん|fee,charge,fare|avgift
+|||n3|noun|例|れい|instance,example,case|exempel,fall
+|||n3|noun|礼|れい|expression of gratitude|tack
+|||n3|noun|礼儀|れいぎ|manners,courtesy,etiquette|uppförande,artighet,etikett
+|||n3|noun|冷静|れいせい|calm,composure,coolness,serenity|lugn,fattning,kyla
+|||n3|noun|列|れつ|queue,line,row|kö,linje,rad
+|||n3|noun|列車|れっしゃ|train (ordinary)|tåg
+|||n3|noun|練習|れんしゅう|practice|övning
+|||n3|verb|練習する|れんしゅうする|to practice|öva
 ||hidden|n3|other|連想|れんそう|association (of ideas),suggestion
 ||hidden|n3|other|連続|れんぞく|serial,consecutive,continuity,continuing
 ||hidden|n3|other|老人|ろうじん|the aged,old person
@@ -1722,10 +1738,10 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 ||hidden|n3|other|インク|インク|ink
 ||hidden|n3|other|ウイスキー|ウイスキー|whisky
 ||hidden|n3|other|エネルギー|エネルギー|(n) energy (de: Energie)
-||hidden|n3|other|エンジン|エンジン|engine
-||hidden|n3|other|オーバー|オーバー|(1) overcoat,(2) over
-||hidden|n3|other|オフィス|オフィス|office
-||hidden|n3|other|カー|カー|car
+|||n3|noun|エンジン|エンジン|engine|motor
+|||n3|noun|オーバー|オーバー|(1) overcoat,(2) over|överrock,över
+|||n3|noun|オフィス|オフィス|office|kontor
+|||n3|noun|カー|カー|car|bil
 |||n3|noun|カード|カード|card,curd|kort,ostmassa
 |||n3|noun|キャプテン|キャプテン|captain|kapten
 |||n3|noun|キャンプ|キャンプ|camp|läger
@@ -1737,12 +1753,12 @@ kll|genki|state|jlpt|type|writing|reading|english|swedish
 |||n3|noun|グループ|グループ|group|grupp
 |||n3|noun|ケース|ケース|case|fodral
 |||n3|noun|ゲーム|ゲーム|game|spel
-||hidden|n3|other|コーチ|コーチ|coach
-||hidden|n3|other|コード|コード|code,cord,chord
-||hidden|n3|other|ゴール|ゴール|goal
-||hidden|n3|other|コピー|コピー|(1) a (photo)copy,(2) blurb on a book jacket
-||hidden|n3|other|コンピューター|コンピューター|computer
-||hidden|n3|other|サービス|サービス|(1) service,support system,(2) goods or services without charge
+|||n3|noun|コーチ|コーチ|coach|coach
+|||n3|noun|コード|コード|code,cord,chord|kod,sladd,ackord
+|||n3|noun|ゴール|ゴール|goal|mål
+|||n3|noun|コピー|コピー|(1) a (photo)copy,(2) blurb on a book jacket|fotokopia,bokomslagstext
+|||n3|noun|コンピューター|コンピューター|computer|dator
+|||n3|noun|サービス|サービス|(1) service,support system,(2) goods or services without charge|service,gratis vara/tjänst
 |||n3|noun|サイン|サイン|(1) autograph,(2) sign,(3) sine|autograf,tecken,sinus
 |||n3|noun|ジーンズ|ジーンズ|jeans|jeans
 |||n3|noun|ジェット機|ジェットき|jet aeroplane|jetflygplan
