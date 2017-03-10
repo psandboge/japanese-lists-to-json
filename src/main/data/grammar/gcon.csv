@@ -28,5 +28,7 @@ gcon_26|14|jp1200||gcon|~もらう|Få|||もらう används i betydelsen att få
 gcon_27|14|jp1200||gcon|~たらどうですか|Min rekommendation|||Verb på kortform dåtid + らどうですか, är ett råd eller rekommendation. Det kan uppfattas som uppläxande, så använd med viss försiktighet. "Du borde motionera lite oftare." Observera att man inte kan använda uttrycket för att bjuda hem någon.
 gcon_28|14|jp1200||gcon|~をX台も|Så många som...|||Man lägger på も efter räknaren för att tala om att talet är ett stort antal i sammanhanget. Dvs substantiv + をX台も + uttryck, där X台 är ett tal inklusive räknare. Det kan förstås vara en annan räknare än 台.
 gcon_29|14|jp1200||gcon|~をX台しか|Inte mer än...|||Man lägger på しか efter räknaren för att tala om att talet är ett litet antal i sammanhanget. Dvs substantiv + をX台しか + nekande uttryck, där X台 är ett tal inklusive räknare. Det kan förstås vara en annan räknare än 台.
-gcon_30|15|jp1200||gcon|~おう/~よう|Volitional|||
-gcon_31|15|jp1200||gcon|~おうと思いっています||||
+gcon_30|15|jp1200||gcon|~おう/~よう|Volitional|||Volitional är en verbform som används för att föreslå något, liknande men mindre formellt än ましょう. Bildas så här: Ru-verb, ta bort ru och lägg på よう. U-verb, ta bort u och lägg på おう. 来る blir こよう och する, しよう. Lägger man på ka, så vill man ha motpartens åsikt.
+gcon_31|15|jp1200||gcon|~おうと思いっています||||Volitionalformen tillsammans med と思いっています indikerar intention. Man har bestämt sig för att göra något. Med と思います indikerarat det också intention, men något man bestämt här och nu.
+gcon_32|15|jp1200||gcon|~ておく|
+gcon_33|15|jp1200||gcon|-|
