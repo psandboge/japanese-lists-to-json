@@ -29,6 +29,16 @@ gcon_27|14|jp1200||gcon|~たらどうですか|Min rekommendation|||Verb på kor
 gcon_28|14|jp1200||gcon|~をX台も|Så många som...|||Man lägger på も efter räknaren för att tala om att talet är ett stort antal i sammanhanget. Dvs substantiv + をX台も + uttryck, där X台 är ett tal inklusive räknare. Det kan förstås vara en annan räknare än 台.
 gcon_29|14|jp1200||gcon|~をX台しか|Inte mer än...|||Man lägger på しか efter räknaren för att tala om att talet är ett litet antal i sammanhanget. Dvs substantiv + をX台しか + nekande uttryck, där X台 är ett tal inklusive räknare. Det kan förstås vara en annan räknare än 台.
 gcon_30|15|jp1200||gcon|~おう/~よう|Volitional|||Volitional är en verbform som används för att föreslå något, liknande men mindre formellt än ましょう. Bildas så här: Ru-verb, ta bort ru och lägg på よう. U-verb, ta bort u och lägg på おう. 来る blir こよう och する, しよう. Lägger man på ka, så vill man ha motpartens åsikt.
-gcon_31|15|jp1200||gcon|~おうと思いっています||||Volitionalformen tillsammans med と思いっています indikerar intention. Man har bestämt sig för att göra något. Med と思います indikerarat det också intention, men något man bestämt här och nu.
-gcon_32|15|jp1200||gcon|~ておく|
-gcon_33|15|jp1200||gcon|-|
+gcon_31|15|jp1200||gcon|~おうと思いっています|Intention|||Volitionalformen tillsammans med と思いっています indikerar intention. Man har bestämt sig för att göra något. Med と思います indikerarat det också intention, men något man bestämt här och nu.
+gcon_32|15|jp1200||gcon|~ておく|Förberedande syfte|||Verb på te-form + hjälpverbet おく beskriver något som görs i förberedande syfte. I talspråk dras ておく ofta ihop till とく.
+gcon_33|15|jp1200||gcon|-|Att kvalificera substantiv med bisatser|||Man kan kvalificera ett substantiv med en bisats, uttryck X + substantiv Y, som motsvarar Y som X. "Blommorna som jag fick av henne." Resultatet, bisats + substantiv, används som ett vanligt substantiv.
+gcon_34|16|jp1200||gcon|~てあげる|Ge tjänst (pil ut)|||Motsvarigheten till あげる för att göra någon en tjänst är: Verb på て-form + あげる. てあげる ändrar inte grundbetydelsen, det talar bara om att handlingen gjordes som en tjänst (på begäran eller eget initiativ). Jfr med ~あげる.
+gcon_35|16|jp1200||gcon|~てくれる|Ge yjänst (pil in)|||Motsvarigheten till くれる för att göra någon en tjänst är: Verb på て-form + くれる. てくれる ändrar inte grundbetydelsen, det talar bara om att handlingen gjordes som en tjänst (på begäran eller eget initiativ). Jfr med ~くれる.
+gcon_36|16|jp1200||gcon|~てもらう|Få tjänst|||Motsvarigheten till もらう för att få en tjänst är: Verb på て-form + もらう. てもらう ändrar inte grundbetydelsen, det talar bara om att handlingen gjordes som en tjänst (på begäran eller eget initiativ). Jfr med ~もらう.
+gcon_37|16|jp1200||gcon|~ていただけませんか|Be om hjälp (artigt)|||Verb på て-form + いただけませんか används för en artig förfrågan, vilket vara lämpligt gentemot en främling eller överordnad.
+gcon_38|16|jp1200||gcon|~てくれませんか|Be om hjälp|||Verb på て-form + くれませんか kan användas i normalformella sammanhang för en förfrågan. Ungefär samma nivå som ください.
+gcon_39|16|jp1200||gcon|~てくれない？|Be om hjälp (vardagligt)|||Verb på て-form + くれない？ används för förfrågningar i vardagliga sammanhang, bland vänner och liknande.
+gcon_40|16|jp1200||gcon|~といいですね|Jag hoppas du...|
+gcon_40|16|jp1200||gcon|~といいんですか|Jag hoppas själv...|
+gcon_40|16|jp1200||gcon|~といいんだけど|Jag hoppas nog själv...|
+
