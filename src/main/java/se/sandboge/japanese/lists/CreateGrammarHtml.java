@@ -2,7 +2,6 @@ package se.sandboge.japanese.lists;
 
 import java.io.*;
 import java.nio.charset.Charset;
-import java.util.*;
 import java.util.regex.Pattern;
 
 public class CreateGrammarHtml {
@@ -58,6 +57,7 @@ public class CreateGrammarHtml {
         String seShort = "";
         String seLong = "";
         String genki = "";
+        String samples = "";
         String id = "";
         for (int i = 0; i < items.length; i++) {
             switch (props[i]) {
@@ -76,11 +76,28 @@ public class CreateGrammarHtml {
                 case "genki":
                     genki = items[i];
                     break;
+                case "sample":
+                    samples = buildSamples(items[i]);
+                    break;
             }
         }
         System.out.println("Genki " + genki +" item: " + seShort);
         body += "<a id=\"" + id + "\"></a><h2>" + jpShort + " - " + seShort + "</h2>\n";
-        body += "<p>" + seLong + "</p><p>Textbok kap. " + genki + "</p><hr>\n";
+        body += "<p>" + seLong + "</p>\n";
+        if (!samples.equals("")) {
+            body += "<p>\n" + samples + "</p><hr>\n";
+        }
+        body += "<p>Textbok kap. " + genki + "</p><hr>\n";
         index += "<li><a href=\"g1200a.html#" + id + "\">" + jpShort + " - " + seShort + "</a></li>\n";
+    }
+
+    private String buildSamples(String line) {
+        if (line.equals("")) return "";
+        String result = "";
+        String[] split = line.split(Pattern.quote("§"));
+        for (String item : split) {
+            result += item + "<br>\n";
+        }
+        return result;
     }
 }
