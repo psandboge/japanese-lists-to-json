@@ -96,7 +96,9 @@ public class CreateGrammarHtml {
         String result = "";
         String[] split = line.split(Pattern.quote("§"));
         for (String item : split) {
-            result += item + "<br>\n";
+            String jpPart = item.substring(0, item.indexOf('-'));
+            String sound = "<span onclick=\"say('"+ jpPart + "')\">&#x1f508;</span>";
+            result += sound + item + "<br>\n";
         }
         return result;
     }
