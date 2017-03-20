@@ -85,7 +85,7 @@ public class CreateGrammarHtml {
         body += "<a id=\"" + id + "\"></a><h2>" + jpShort + " - " + seShort + "</h2>\n";
         body += "<p>" + seLong + "</p>\n";
         if (!samples.equals("")) {
-            body += "<p>\n" + samples + "</p><hr>\n";
+            body += "<p>\n" + samples + "</p>\n";
         }
         body += "<p>Textbok kap. " + genki + "</p><hr>\n";
         index += "<li><a href=\"g1200a.html#" + id + "\">" + jpShort + " - " + seShort + "</a></li>\n";
