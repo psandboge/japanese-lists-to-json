@@ -47,4 +47,17 @@ gcon_11|18|jp1200||gcon|~てしまう|Oavsiktligt|gcon_10||Verb på te-form + �
 gcon_47|18|jp1200||gcon|~ちゃう/~じゃう|Göra klart, oavsiktligt (i tal)|gcon_11§gcon_10||I talspråk förkortas ofta てしまう/でしまう till ちゃう/じゃう. I praktiken blir det dåtid och kortform, ちゃった/じゃった. Se "Oavsiktligt", "Göra klart, fullfölja".
 gcon_12|18|jp1200||gcon|~と|Orsak och verkan|||Man kan bilda ett uttryck (X) på kortform, icke-dåtid, + と + uttryck (Y). Y är en följd av X, och X måste inträffa före Y. "Jag blir glad när jag hör J-Pop." Konstruktionen kan beskriva orsak och verkan för specifika händelser, "När jag körde för fort blev jag stoppad av polisen." När Y innehåller en adjektivfras används ofta なる, "楽しくなる", "元気になる".
 gcon_13|18|jp1200||gcon|~ながら|Samtidigt utförande|||Man kan binda ihop två verb med ながら för att säga att två aktiviteter utförs samtidigt, av samma person eller entitet. Verbstam X + ながら + uttryck med verb Y på godtycklig form. Y är huvudhandlingen. "Jag sjunger när jag kör bil."
-gcon_14|18|jp1200||gcon|~ばよかったです|Jag borde ha... Jag önskar att jag hade...||| Verb på kortform, jakande, icke-dåtid, - u + ばよかったです eller Verb på kortform, nekande, icke-dåtid, - i + ばよかったです. Det betyder "Jag borde ha...", eller "Jag önskar att jag hade...".
+gcon_14|18|jp1200||gcon|~ばよかったです|Jag borde ha... Jag önskar att jag hade...|||Verb på kortform, jakande, icke-dåtid, minus u + ばよかったです eller Verb på kortform, nekande, icke-dåtid, minus i + ばよかったです. Det betyder "Jag borde ha...", eller "Jag önskar att jag hade...".
+gcon_50||jp1200|2a|gcon|やる、あげる、さしあげる|Ge, pil ut|||やる - lägre stående mottagare, あげる - neutral, さしあげる - högre,  är olika varienter på ge (pil ut).
+gcon_51||jp1200|2a|gcon|くれる、くださる|Ge, pil in|||くれる - neutral, くださる - högre stående givare, är olika varienter på ge (pil in).
+gcon_52||jp1200|2a|gcon|もらう、いただく|Få, pil in|||もらう - neutral, いただく - högre stående givare, är olika varienter på få (pil in).
+gcon_53||jp1200|3a|gcon||Gerund|||Gerund = te-form
+gcon_54||jp1200|3a|gcon||Gerund och hjälpverb|||Hjälpverb (auxiliary verb). Det finns bl a ageru osv, kureru osv, morau osv, shimau, miru, oku
+gcon_55||jp1200|3b|gcon||Imperativ|||Vokalverb (ru-verb): Stamform + e, Konsonantverb (u-verb): Stamform + ro, suru -> suro, kuru -> koi.
+gcon_56||jp1200|3c|gcon||Relativsatser|||Se Att kvalificera substantiv med bisatser
+gcon_57||jp1200|4a|gcon||Hortativ|||Se volitional, artig/polite form är ~mashou. Man kan också lägga på ett fråge-ka.
+gcon_58||jp1200|6a|gcon||Passiva verb|||Vokalverb (ru-verb), stam + rareru, konsonantverb (u-verb) utom för u-mora, stam minus i + areru, avlutande mora-u, stam minus i + wareru. kuru -> korareru, suru -> sareru. Direktobjekt blir subjekt.
+gcon_59||jp1200|7a|gcon||Kausativ|||Jag gör så att... Bildas genom: ru-verb, ru -> saseru. u-verb, aseru resp. waseru för mora-u. Kuru -> kosaseru, suru -> saseru.
+gcon_60||jp1200|7a|gcon||Kausativ-Passiv|||Först kausativ, sen passiv: ~saserareru, ~waserareru...
+gcon_61||jp1200|8a|gcon||Alternative or representative|||Att göra saker som t ex, x ~tari y ~tari suru. Kortform, dåtid (ta är avslutning på dåtod) + ri. Kopula blir dattari.
+gcon_62||jp1200|8b|gcon||tara och eba|||Se Om och när resp. Jag borde ha... Eba betyder mer generellt om (if).

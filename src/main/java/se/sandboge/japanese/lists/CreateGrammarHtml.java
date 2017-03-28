@@ -57,6 +57,7 @@ public class CreateGrammarHtml {
         String seShort = "";
         String seLong = "";
         String genki = "";
+        String jge = "";
         String samples = "";
         String id = "";
         for (int i = 0; i < items.length; i++) {
@@ -76,6 +77,9 @@ public class CreateGrammarHtml {
                 case "genki":
                     genki = items[i];
                     break;
+                case "jge":
+                    jge = items[i];
+                    break;
                 case "sample":
                     samples = buildSamples(items[i]);
                     break;
@@ -87,7 +91,13 @@ public class CreateGrammarHtml {
         if (!samples.equals("")) {
             body += "<p>\n" + samples + "</p>\n";
         }
-        body += "<p>Textbok kap. " + genki + "</p><hr>\n";
+        if (!genki.equals("")) {
+            body += "<p>Textbok kap. " + genki + "</p>";
+        }
+        if (!jge.equals("")) {
+            body += "<p>Grammatikkurs</p>";
+        }
+        body += "<hr>\n";
         index += "<li><a href=\"g1200a.html#" + id + "\">" + jpShort + " - " + seShort + "</a></li>\n";
     }
 
