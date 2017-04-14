@@ -65,4 +65,11 @@ gcon_63||jp1200|8b|gcon||desiderativ|||Desiderativ (desiderative) = tai-form, dv
 gcon_64||jp1200|4b|gcon||modala uttryck - epistemisk|||darou (conjectural), kamoshirenai (speculative), ni chigainai (deductive), hazu da (assumptive)
 gcon_65||jp1200|4b|gcon||modala uttryck - evidentiell|||you da (inferential), mitai da (external), rashii, sou da (sensory), sou da (reportative)
 gcon_66||jp1200|4b|gcon||modala uttryck - deontisk|||tehaikenai, nakutehaikenai, temoii, bekida, ke. Wikipedia: "The sentence containing the deontic modal generally indicates some action that would change the world so that it becomes closer to the standard or ideal."
-
+gcon_67|6|jp1101||gcon|~て|Te-form, verb||食べる・食べて§会う・会って§待つ・待って§とる・とって§読む・読んで§遊ぶ・遊んで§死ぬ・死んで§書く・書いて§泳ぐ・泳いで§話す・話して§行く・行って§する・して§くる・きて|Ru-verb: ~る -> ~て. U-verb: ~う, ~つ, ~る -> ~って, ~む, ~ぶ, ~ぬ -> ~んで, ~く -> ~いて, ~ぐ -> ~いで, ~す -> ~して. Undantag, verb: 行く -> 行って, する -> して, 来る・くる -> 来て・きて.
+gcon_68|6|jp1101||gcon|~くて|Te-form, i-adjektiv||楽しい・楽しくて§いい・良くて (oregelbundet)|Byt avlutande い mot くて, ~い -> ~くて. Undantag: ii, och sammansatta ord som innehåller ordet ii (Obs! inte ii generellt, bara om ordet ii, bra, ingår): ~いい -> ~良くて・よくて.
+gcon_69|6|jp1101||gcon|~で|Te-form, na-adjektiv och substantiv||元気・元気で§車です・車で|Byt avlutande な respektive です mot で: Adj + な -> adj + で. Subst + です -> subst + で.
+gcon_70|6|jp1101||gcon|~tekudasai|Var snäll och...|||Använd verb på te-form + kudasai, för att be om något, artigt.
+gcon_71|6|jp1101||gcon|~temoiidesu|Du får...|||Använd verb på te-form + moiidesu, för att ge tillåtelse, artigt.
+gcon_72|6|jp1101||gcon|~temoiidesuka|Får jag...|||Använd verb på te-form + moiidesuka, för att be om tillåtelse, artigt.
+gcon_73|6|jp1101||gcon|~tehaikemasen|Det är inte tillåtet att...|||Använd verb på te-form + haikemasen, för bestämt förbjuda något, används t ex ofta i regler och påbud och andra offentliga sammanhang.
+gcon_74|6|jp1101||gcon|~te, ...|Kedja flera verbuttryck|||'Och' för verb. Använd verb på te-form + resten, för att kedja ihop verbuttryck i samma mening, dvs verbuttrycket X på te-form + verbuttrycket Y. Man kan kedja många uttryck. Sista verbuttrycket, som då uppenbarligen inte är på te-form, bestämmer dåtid/ickedåtid.
